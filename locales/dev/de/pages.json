@@ -1,42 +1,42 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Who would you like to make the book for?"
+      "whoToMakeBookFor": "Für wen möchten Sie das Buch erstellen?"
     },
     "labels": {
-      "childName": "Child's First Name For Story",
-      "childAge": "Select Current Age",
-      "birthMonth": "Select Birth Month",
-      "adultName": "First Name",
-      "bodyType": "Select Their Body Type",
-      "adultAge": "Select Age",
-      "giverName": "Giver's Name (Your Name)"
+      "childName": "Vorname des Kindes für die Geschichte",
+      "childAge": "Aktuelles Alter auswählen",
+      "birthMonth": "Geburtsmonat auswählen",
+      "adultName": "Vorname",
+      "bodyType": "Körpertyp auswählen",
+      "adultAge": "Alter auswählen",
+      "giverName": "Name des Schenkenden (Ihr Name)"
     },
     "genderOptions": {
-      "boy": "Boy",
-      "girl": "Girl",
-      "masculine": "Masculine",
-      "feminine": "Feminine"
+      "boy": "Junge",
+      "girl": "Mädchen",
+      "masculine": "Männlich",
+      "feminine": "Weiblich"
     },
     "buttons": {
-      "nextStep": "Next Step ➔ Upload Photos"
+      "nextStep": "Nächster Schritt ➔ Fotos hochladen"
     },
     "validation": {
-      "tooLongForBook": "That's too long for the book."
+      "tooLongForBook": "Das ist zu lang für das Buch."
     },
     "months": {
-      "january": "January",
-      "february": "February",
-      "march": "March",
+      "january": "Januar",
+      "february": "Februar",
+      "march": "März",
       "april": "April",
-      "may": "May",
-      "june": "June",
-      "july": "July",
+      "may": "Mai",
+      "june": "Juni",
+      "july": "Juli",
       "august": "August",
       "september": "September",
-      "october": "October",
+      "october": "Oktober",
       "november": "November",
-      "december": "December"
+      "december": "Dezember"
     }
   }
 }
