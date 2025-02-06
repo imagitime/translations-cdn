@@ -1,0 +1,42 @@
+{
+  "InitialForm": {
+    "headings": {
+      "whoToMakeBookFor": "Who would you like to make the book for?"
+    },
+    "labels": {
+      "childName": "Child's First Name For Story",
+      "childAge": "Select Current Age",
+      "birthMonth": "Select Birth Month",
+      "adultName": "First Name",
+      "bodyType": "Select Their Body Type",
+      "adultAge": "Select Age",
+      "giverName": "Giver's Name (Your Name)"
+    },
+    "genderOptions": {
+      "boy": "Boy",
+      "girl": "Girl",
+      "masculine": "Masculine",
+      "feminine": "Feminine"
+    },
+    "buttons": {
+      "nextStep": "Next Step ➔ Upload Photos"
+    },
+    "validation": {
+      "tooLongForBook": "That's too long for the book."
+    },
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    }
+  }
+}
