@@ -1,0 +1,6 @@
+project_id: "760433" 
+api_token_env: CROWDIN_PERSONAL_TOKEN
+
+files: 
+  - source: /locales/dev/en/pages.json
+    translation: /locales/dev/%two_letters_code%/pages.json
