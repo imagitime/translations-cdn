@@ -87,6 +87,13 @@
       "gallery": "Choose from Gallery",
       "camera": "Take Photo",
       "cancel": "Cancel"
+    },
+    "errors": {
+      "invalidType": "Invalid file type. Allowed types are: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "fileTooLarge": "File size exceeds 20MB limit. Current size: {{size}}MB",
+      "dimensionsTooSmall": "Image dimensions too small. Minimum size is 100x100 pixels.",
+      "dimensionsTooLarge": "Image dimensions too large. Maximum size is 5000x5000 pixels.",
+      "invalidImage": "Invalid image file"
     }
   },
   "UploadPhotosRealtime": {
