@@ -38,5 +38,75 @@
       "november": "November",
       "december": "Dezember"
     }
+  },
+  "UploadCommon": {
+    "headings": {
+      "lastStep": "Letzter Schritt",
+      "uploadMore": "Weitere Fotos von {{name}} hochladen",
+      "uploadAnother": "Ein weiteres Foto von {{name}} hochladen"
+    },
+    "instructions": {
+      "soloPhotos": "Nur Einzelfotos",
+      "facingCamera": {
+        "child": "Das Kind sollte <strong>zur Kamera schauen</strong>",
+        "person": "Die Person sollte <strong>zur Kamera schauen</strong>"
+      },
+      "frontFacingSmiling": "Vorne zugewandt & lächeln",
+      "noSunglassesCap": "Keine Sonnenbrille, keine Mütze",
+      "noPacifierCap": "Kein Schnuller, keine Mütze",
+      "noOneElse": "<strong>Niemand sonst</strong> sollte im Bild sein",
+      "faceEdges": "Gesicht & Haare sollten <strong>die Ränder nicht berühren</strong>",
+      "noObstructions": "Hände oder Gegenstände sollten <strong>das Gesicht nicht verdecken</strong>"
+    },
+    "photoRequirements": {
+      "minimum": {
+        "regular": "Mindestens 2 Fotos für die Vorschau erforderlich",
+        "career": "Mindestens 5 Fotos für die Vorschau erforderlich"
+      },
+      "recommended": {
+        "range": "2 bis 4 Fotos",
+        "careerBook": "Mindestens 5, empfohlen 15"
+      }
+    },
+    "qualityGuidelines": {
+      "highQuality": "Hohe Qualität, nicht verschwommen",
+      "soloOnly": "Nur Einzelfotos"
+    },
+    "privacy": {
+      "standard": "Wir folgen strengen Datenschutzrichtlinien.",
+      "confidential": "Die Fotos bleiben vertraulich und dienen nur zur Erstellung des persönlichen Buches."
+    },
+    "buttons": {
+      "finishedUploading": "Hochladen abgeschlossen",
+      "uploadPhotos": "Fotos hochladen",
+      "choosePhoto": "Foto auswählen",
+      "showPreview": "Vorschau des Buches von {{name}} anzeigen",
+      "lastStepPages": "Letzter Schritt: Seiten auswählen"
+    },
+    "uploadOptions": {
+      "gallery": "Aus der Galerie auswählen",
+      "camera": "Foto machen",
+      "cancel": "Abbrechen"
+    }
+  },
+  "UploadPhotosRealtime": {
+    "headings": {
+      "uploadRecent": "Neueste Fotos von {{name}} hochladen"
+    }
+  },
+  "UploadPhotosUniversal": {
+    "headings": {
+      "uploadPhotos": "Lade {{photoCount}} von {{name}} hoch"
+    }
+  },
+  "UploadMorePhotos": {
+    "headings": {
+      "uploadMore": "Weitere Fotos von {{name}} hochladen"
+    }
+  },
+  "UploadAnotherPhoto": {
+    "headings": {
+      "uploadAnother": "Ein weiteres Foto von {{name}} hochladen"
+    }
   }
 }

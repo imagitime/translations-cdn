@@ -38,5 +38,75 @@
       "november": "November",
       "december": "December"
     }
+  },
+  "UploadCommon": {
+    "headings": {
+      "lastStep": "Last Step",
+      "uploadMore": "Upload more photos of {{name}}",
+      "uploadAnother": "Upload another photo of {{name}}"
+    },
+    "instructions": {
+      "soloPhotos": "Solo Photos Only",
+      "facingCamera": {
+        "child": "Child should be <strong>facing the camera</strong>",
+        "person": "Person should be <strong>facing the camera</strong>"
+      },
+      "frontFacingSmiling": "Front Facing & Smiling",
+      "noSunglassesCap": "No Sunglasses, No Cap",
+      "noPacifierCap": "No Pacifier, No Cap",
+      "noOneElse": "<strong>No one else</strong> should be in the picture",
+      "faceEdges": "Face & hair should <strong>not touch the edges</strong>",
+      "noObstructions": "Hands or objects should <strong>not obstruct the face</strong>"
+    },
+    "photoRequirements": {
+      "minimum": {
+        "regular": "Minimum 2 Photos required for preview",
+        "career": "At least 5 photos required for preview"
+      },
+      "recommended": {
+        "range": "2 to 4 photos",
+        "careerBook": "5 minimum, 15 recommended"
+      }
+    },
+    "qualityGuidelines": {
+      "highQuality": "High quality, not blurry",
+      "soloOnly": "Solo photos only"
+    },
+    "privacy": {
+      "standard": "We follow strict data privacy standards.",
+      "confidential": "The photos are kept confidential and are only for crafting the personalised book."
+    },
+    "buttons": {
+      "finishedUploading": "Finished Uploading",
+      "uploadPhotos": "Upload Photos",
+      "choosePhoto": "Choose Photo",
+      "showPreview": "Show {{name}}'s Book Preview",
+      "lastStepPages": "Last Step: Select Pages"
+    },
+    "uploadOptions": {
+      "gallery": "Choose from Gallery",
+      "camera": "Take Photo",
+      "cancel": "Cancel"
+    }
+  },
+  "UploadPhotosRealtime": {
+    "headings": {
+      "uploadRecent": "Upload recent photos of {{name}}"
+    }
+  },
+  "UploadPhotosUniversal": {
+    "headings": {
+      "uploadPhotos": "Upload {{photoCount}} of {{name}}"
+    }
+  },
+  "UploadMorePhotos": {
+    "headings": {
+      "uploadMore": "Upload more photos of {{name}}"
+    }
+  },
+  "UploadAnotherPhoto": {
+    "headings": {
+      "uploadAnother": "Upload another photo of {{name}}"
+    }
   }
 }
