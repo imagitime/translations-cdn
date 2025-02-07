@@ -38,5 +38,75 @@
       "november": "Novembre",
       "december": "Décembre"
     }
+  },
+  "UploadCommon": {
+    "headings": {
+      "lastStep": "Dernière étape",
+      "uploadMore": "Téléchargez plus de photos de {{name}}",
+      "uploadAnother": "Téléchargez une autre photo de {{name}}"
+    },
+    "instructions": {
+      "soloPhotos": "Photos solo seulement",
+      "facingCamera": {
+        "child": "L'enfant doit <strong>faire face à la caméra</strong>",
+        "person": "La personne doit <strong>faire face à la caméra</strong>"
+      },
+      "frontFacingSmiling": "Face à la caméra & Sourire",
+      "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
+      "noPacifierCap": "Pas de tétine, pas de casquette",
+      "noOneElse": "<strong>Personne d'autre</strong> ne doit être sur la photo",
+      "faceEdges": "Le visage et les cheveux ne doivent <strong>pas toucher les bords</strong>",
+      "noObstructions": "Les mains ou objets ne doivent <strong>pas obstruer le visage</strong>"
+    },
+    "photoRequirements": {
+      "minimum": {
+        "regular": "Minimum de 2 photos requis pour l'aperçu",
+        "career": "Minimum de 5 photos requis pour l'aperçu"
+      },
+      "recommended": {
+        "range": "2 à 4 photos",
+        "careerBook": "5 minimum, 15 recommandé"
+      }
+    },
+    "qualityGuidelines": {
+      "highQuality": "Haute qualité, pas flou",
+      "soloOnly": "Photos solo uniquement"
+    },
+    "privacy": {
+      "standard": "Nous suivons des normes strictes de confidentialité des données.",
+      "confidential": "Les photos sont gardées confidentielles et servent uniquement à créer le livre personnalisé."
+    },
+    "buttons": {
+      "finishedUploading": "Téléchargement terminé",
+      "uploadPhotos": "Télécharger des Photos",
+      "choosePhoto": "Choisir une Photo",
+      "showPreview": "Afficher l'aperçu du livre de {{name}}",
+      "lastStepPages": "Dernière étape : Sélectionner les pages"
+    },
+    "uploadOptions": {
+      "gallery": "Choisir depuis la Galerie",
+      "camera": "Prendre une Photo",
+      "cancel": "Annuler"
+    }
+  },
+  "UploadPhotosRealtime": {
+    "headings": {
+      "uploadRecent": "Téléchargez les photos récentes de {{name}}"
+    }
+  },
+  "UploadPhotosUniversal": {
+    "headings": {
+      "uploadPhotos": "Téléchargez {{photoCount}} de {{name}}"
+    }
+  },
+  "UploadMorePhotos": {
+    "headings": {
+      "uploadMore": "Téléchargez plus de photos de {{name}}"
+    }
+  },
+  "UploadAnotherPhoto": {
+    "headings": {
+      "uploadAnother": "Téléchargez une autre photo de {{name}}"
+    }
   }
 }
