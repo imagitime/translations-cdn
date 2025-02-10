@@ -103,7 +103,7 @@
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Upload {{photoCount}} of {{name}}"
+      "uploadPhotos": "Upload {{minCount}} to {{maxCount}} photos of {{name}}"
     }
   },
   "UploadMorePhotos": {
