@@ -103,7 +103,7 @@
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Téléchargez {{photoCount}} de {{name}}"
+      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos de {{name}}"
     }
   },
   "UploadMorePhotos": {
