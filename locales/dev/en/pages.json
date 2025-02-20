@@ -115,5 +115,39 @@
     "headings": {
       "uploadAnother": "Upload another photo of {{name}}"
     }
+  },
+  "BookPreview": {
+    "headings": {
+      "pageTitle": "{{name}}'s Book Preview"
+    },
+    "morePhotosQuestion": "Want to improve the preview?",
+    "buttons": {
+      "editPageSelection": "Edit Page Selection",
+      "uploadMorePhotos": "To Enhance: Upload More Photos",
+      "emailPreview": "Email Me The Preview Instead",
+      "savePreview": "Save Preview & Show Price"
+    },
+    "noUsablePhotos": {
+      "heading": "No Usable Photos",
+      "text": "We were unable to use any of your uploaded photos in the story preview due to one or more of the following reasons:",
+      "reasons": {
+        "multiplePeople": "Multiple people present in the photo",
+        "faceEdges": "Face or hair intersecting the edges",
+        "blurry": "Blurry photo quality",
+        "obstruction": "Something obstructing the face"
+      },
+      "uploadPrompt": "Please use the \"Upload More Photos\" button to add suitable images."
+    },
+    "instructions": {
+      "instruction1": "Pages get shown one below the other",
+      "instruction2": "Swipe and leave each page at the option you like best"
+    },
+    "timer": {
+      "message": "Creating {{name}}'s Book..."
+    },
+    "notification": {
+      "heading": "Don’t have time to wait?"
+    },
+    "scrollIndicator": "Scroll down to see all pages"
   }
 }

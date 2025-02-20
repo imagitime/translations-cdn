@@ -115,5 +115,39 @@
     "headings": {
       "uploadAnother": "Téléchargez une autre photo de {{name}}"
     }
+  },
+  "BookPreview": {
+    "headings": {
+      "pageTitle": "Afficher l'aperçu du livre de {{name}}"
+    },
+    "morePhotosQuestion": "Voulez-vous améliorer l'aperçu ?",
+    "buttons": {
+      "editPageSelection": "Modifier la sélection des pages",
+      "uploadMorePhotos": "Pour améliorer : Téléchargez plus de photos",
+      "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
+      "savePreview": "Enregistrer l'aperçu et afficher le prix"
+    },
+    "noUsablePhotos": {
+      "heading": "Aucune photo utilisable",
+      "text": "Nous n'avons pas pu utiliser vos photos téléchargées dans l'aperçu de l'histoire pour une ou plusieurs des raisons suivantes :",
+      "reasons": {
+        "multiplePeople": "Plusieurs personnes présentes sur la photo",
+        "faceEdges": "Visage ou cheveux coupant les bords",
+        "blurry": "Qualité de la photo floue",
+        "obstruction": "Quelque chose obstruant le visage"
+      },
+      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées."
+    },
+    "instructions": {
+      "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
+      "instruction2": "Balayez et laissez chaque page à l'option que vous préférez"
+    },
+    "timer": {
+      "message": "Création du livre de {{name}}..."
+    },
+    "notification": {
+      "heading": "Pas le temps d'attendre ?"
+    },
+    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages"
   }
 }
