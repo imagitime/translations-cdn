@@ -115,5 +115,39 @@
     "headings": {
       "uploadAnother": "Ein weiteres Foto von {{name}} hochladen"
     }
+  },
+  "BookPreview": {
+    "headings": {
+      "pageTitle": "{{name}}'s Buchvorschau"
+    },
+    "morePhotosQuestion": "Möchten Sie die Vorschau verbessern?",
+    "buttons": {
+      "editPageSelection": "Seitenauswahl bearbeiten",
+      "uploadMorePhotos": "Zum Verbessern: Weitere Fotos hochladen",
+      "emailPreview": "Schicken Sie mir stattdessen die Vorschau per E-Mail",
+      "savePreview": "Vorschau speichern & Preis anzeigen"
+    },
+    "noUsablePhotos": {
+      "heading": "Keine verwendbaren Fotos",
+      "text": "Wir konnten keines Ihrer hochgeladenen Fotos in der Vorschau verwenden aus einem oder mehreren der folgenden Gründe:",
+      "reasons": {
+        "multiplePeople": "Mehrere Personen auf dem Foto",
+        "faceEdges": "Gesicht oder Haar schneidet an den Rändern ab",
+        "blurry": "Unscharfe Fotoqualität",
+        "obstruction": "Etwas verdeckt das Gesicht"
+      },
+      "uploadPrompt": "Bitte verwenden Sie die Schaltfläche \"Weitere Fotos hochladen\", um geeignete Bilder hinzuzufügen."
+    },
+    "instructions": {
+      "instruction1": "Seiten werden untereinander angezeigt",
+      "instruction2": "Wischen Sie und lassen Sie jede Seite bei der Option, die Ihnen am besten gefällt"
+    },
+    "timer": {
+      "message": "Erstellen von {{name}}'s Buch..."
+    },
+    "notification": {
+      "heading": "Keine Zeit zum Warten?"
+    },
+    "scrollIndicator": "Scrollen Sie nach unten, um alle Seiten zu sehen"
   }
 }
