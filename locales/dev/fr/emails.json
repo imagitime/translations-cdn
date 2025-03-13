@@ -1,0 +1,21 @@
+{
+  "preview_email.subject": "Here's {kid_name}'s Book Preview",
+  "preview_email.title": "{kid_name}'s Storybook Preview",
+  "preview_email.greeting": "Dear {requester_name},",
+  "preview_email.intro": "Congratulations on taking the first step in crafting {kid_name}'s magical book with Imagitime! Unlike any other personalized books, they're not just a name on a page; they're the star, brought to life through personalized illustrations. 🌈📖",
+  "preview_email.preview_heading": "{kid_name}'s Book Preview:",
+  "preview_email.preview_text": "Your magical creation is underway! Feel free to refine it and show it to others by clicking the button below.",
+  "preview_email.button_text": "Refine {kid_name}'s Book",
+  "preview_email.questions_heading": "Questions?",
+  "preview_email.questions_text": "If you have any questions or need further assistance, simply reply to this email. We're here to help you craft a treasured keepsake for {kid_name}.",
+  "preview_email.closing": "Warmest regards,<br>The Imagitime Team",
+  "admin_review_completed_email.subject": "{kid_name}'s book will be given for printing soon (Order #{order_number})",
+  "admin_review_completed_email.title": "{kid_name}'s book will be given for printing soon",
+  "admin_review_completed_email.greeting": "Dear {requester_name},",
+  "admin_review_completed_email.intro": "Thank you for creating {kid_name}'s book on Imagitime. Sharing below the digital version of the book for your reference.",
+  "admin_review_completed_email.button_text": "View {kid_name}'s Book",
+  "admin_review_completed_email.printing_info": "The book will be given for printing soon. In case you choose to make any changes when reviewing, please click on \"Approve for Printing\" at the bottom of the page.",
+  "admin_review_completed_email.delivery_info": "As our book is custom-made for each order, it will take another {min_days} to {max_days} days for printing, shipping and delivery. We will share the shipment tracking details once it is dispatched from the printing facility.",
+  "admin_review_completed_email.questions_text": "Please feel free to reach out to us on this email if you have any questions.",
+  "admin_review_completed_email.closing": "Thanks,<br>Imagitime Team"
+}
