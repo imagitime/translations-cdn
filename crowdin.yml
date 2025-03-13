@@ -1,6 +1,7 @@
-project_id: "760433" 
+project_id: '760433'
 api_token_env: CROWDIN_PERSONAL_TOKEN
-
-files: 
+files:
   - source: /locales/dev/en/pages.json
     translation: /locales/dev/%two_letters_code%/pages.json
+  - source: /locales/dev/en/emails.json
+    translation: /locales/dev/%two_letters_code%/emails.json
