@@ -10,7 +10,8 @@
       "adultName": "Vorname",
       "bodyType": "Körpertyp auswählen",
       "adultAge": "Alter auswählen",
-      "giverName": "Name des Schenkenden (Ihr Name)"
+      "giverName": "Name des Schenkenden (Ihr Name)",
+      "language": "Sprache"
     },
     "genderOptions": {
       "boy": "Junge",
@@ -125,7 +126,14 @@
       "editPageSelection": "Seitenauswahl bearbeiten",
       "uploadMorePhotos": "Zum Verbessern: Weitere Fotos hochladen",
       "emailPreview": "Schicken Sie mir stattdessen die Vorschau per E-Mail",
-      "savePreview": "Vorschau speichern & Preis anzeigen"
+      "savePreview": "Vorschau speichern & Preis anzeigen",
+      "changePicture": "Bild ändern",
+      "change": "Ändern",
+      "createSimilar": "Ähnliches erstellen",
+      "buyDedication": "Individuelle Widmung kaufen",
+      "editDedication": "Widmungsnachricht bearbeiten",
+      "approveForPrinting": "Zum Druck freigeben",
+      "reapproveForPrinting": "Erneut zum Druck freigeben"
     },
     "noUsablePhotos": {
       "heading": "Keine verwendbaren Fotos",
@@ -138,9 +146,29 @@
       },
       "uploadPrompt": "Bitte verwenden Sie die Schaltfläche \"Weitere Fotos hochladen\", um geeignete Bilder hinzuzufügen."
     },
+    "page": {
+      "number": "Seite {{number}}",
+      "loading": "Bild für Seite {{number}} wird geladen",
+      "generating": "Optionen für Seite {{number}} werden generiert",
+      "generatingTime": "Dauert etwa 60 Sekunden",
+      "waiting": "Warte auf das Laden von Seite {{number}}"
+    },
     "instructions": {
       "instruction1": "Seiten werden untereinander angezeigt",
-      "instruction2": "Wischen Sie und lassen Sie jede Seite bei der Option, die Ihnen am besten gefällt"
+      "instruction2": "Wischen Sie und lassen Sie jede Seite bei der Option, die Ihnen am besten gefällt",
+      "postOrderInstructions1": "\"Bild ändern\"-Taste drücken, um alternative Optionen für eine Seite auszuwählen",
+      "postOrderInstructions2": "Sobald Sie alle Seiten überprüft haben, drücken Sie die Taste \"Zum Druck freigeben\"",
+      "postOrderSwipeInstructions1": "Wischen Sie zwischen den Seitenoptionen und wählen Sie die gewünschte Option für jede Seite",
+      "postOrderSwipeInstructions2": "Sobald alle Seiten finalisiert sind, drücken Sie die Taste \"Zum Druck freigeben\"",
+      "fixedInstructions1": "Seiten werden untereinander angezeigt",
+      "fixedInstructions2": "\"Bild ändern\"-Taste drücken, um alternative Optionen für eine Seite auszuwählen"
+    },
+    "status": {
+      "deleted": "Das generierte Buch sowie hochgeladene Fotos wurden gelöscht und sind nicht mehr verfügbar.",
+      "support": "Fragen? Schreiben Sie an support@imagitime.com",
+      "cancelled": "Diese Bestellung wurde storniert.",
+      "printing": "Dieses Buch wurde bereits zum Druck geschickt.",
+      "shipped": "Dieses Buch wurde am {{date}} verschickt<br>Versandunternehmen: {{carrier}}<br>Verfolgungscode: {{tracking}}"
     },
     "timer": {
       "message": "Erstellen von {{name}}'s Buch..."

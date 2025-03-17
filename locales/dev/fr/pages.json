@@ -10,7 +10,8 @@
       "adultName": "Prénom",
       "bodyType": "Sélectionnez leur type de corps",
       "adultAge": "Sélectionnez l'âge",
-      "giverName": "Nom du donateur (Votre nom)"
+      "giverName": "Nom du donateur (Votre nom)",
+      "language": "Langue"
     },
     "genderOptions": {
       "boy": "Garçon",
@@ -125,7 +126,14 @@
       "editPageSelection": "Modifier la sélection des pages",
       "uploadMorePhotos": "Pour améliorer : Téléchargez plus de photos",
       "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
-      "savePreview": "Enregistrer l'aperçu et afficher le prix"
+      "savePreview": "Enregistrer l'aperçu et afficher le prix",
+      "changePicture": "Changer d'image",
+      "change": "Changer",
+      "createSimilar": "Créer similaire",
+      "buyDedication": "Acheter une dédicace personnalisée",
+      "editDedication": "Modifier le message de dédicace",
+      "approveForPrinting": "Approuver pour impression",
+      "reapproveForPrinting": "Ré-approuver pour impression"
     },
     "noUsablePhotos": {
       "heading": "Aucune photo utilisable",
@@ -138,9 +146,29 @@
       },
       "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées."
     },
+    "page": {
+      "number": "Page {{number}}",
+      "loading": "Chargement de l'image pour la page {{number}}",
+      "generating": "Génération d'options pour la page {{number}}",
+      "generatingTime": "Durée estimée : environ 60 secondes",
+      "waiting": "En attente de chargement de la page {{number}}"
+    },
     "instructions": {
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
-      "instruction2": "Balayez et laissez chaque page à l'option que vous préférez"
+      "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
+      "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
+      "postOrderInstructions2": "Une fois satisfait de toutes les pages, appuyez sur le bouton \"Approuver pour impression\"",
+      "postOrderSwipeInstructions1": "Balayez parmi les choix de pages et amenez chaque page à l'option que vous aimez",
+      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour impression\"",
+      "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
+      "fixedInstructions2": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page"
+    },
+    "status": {
+      "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
+      "support": "Questions? Écrivez à support@imagitime.com",
+      "cancelled": "Cette commande a été annulée.",
+      "printing": "Ce livre a déjà été envoyé pour impression.",
+      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
     },
     "timer": {
       "message": "Création du livre de {{name}}..."
