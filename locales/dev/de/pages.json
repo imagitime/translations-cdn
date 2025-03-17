@@ -122,8 +122,11 @@
       "pageTitle": "{{name}}'s Buchvorschau"
     },
     "morePhotosQuestion": "Möchten Sie die Vorschau verbessern?",
+    "differentPhotoQuestion": "Möchten Sie ein anderes Foto ausprobieren?",
+    "editPagesQuestion": "Möchten Sie die Seitenauswahl bearbeiten oder Fotos hinzufügen?",
     "buttons": {
       "editPageSelection": "Seitenauswahl bearbeiten",
+      "generateMoreOptions": "Mehr Optionen generieren",
       "uploadMorePhotos": "Zum Verbessern: Weitere Fotos hochladen",
       "emailPreview": "Schicken Sie mir stattdessen die Vorschau per E-Mail",
       "savePreview": "Vorschau speichern & Preis anzeigen",
@@ -133,7 +136,10 @@
       "buyDedication": "Individuelle Widmung kaufen",
       "editDedication": "Widmungsnachricht bearbeiten",
       "approveForPrinting": "Zum Druck freigeben",
-      "reapproveForPrinting": "Erneut zum Druck freigeben"
+      "reapproveForPrinting": "Erneut zum Druck freigeben",
+      "uploadAnother": "Ein weiteres Foto hochladen",
+      "addMore": "Mehr Fotos hinzufügen",
+      "generateFromOtherPhotos": "Aus anderen Fotos generieren"
     },
     "noUsablePhotos": {
       "heading": "Keine verwendbaren Fotos",
@@ -150,6 +156,7 @@
       "number": "Seite {{number}}",
       "loading": "Bild für Seite {{number}} wird geladen",
       "generating": "Optionen für Seite {{number}} werden generiert",
+      "generatingMoreOptions": "Weitere Optionen werden generiert",
       "generatingTime": "Dauert etwa 60 Sekunden",
       "waiting": "Warte auf das Laden von Seite {{number}}"
     },
