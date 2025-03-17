@@ -11,7 +11,7 @@
       "bodyType": "Sélectionnez leur type de corps",
       "adultAge": "Sélectionnez l'âge",
       "giverName": "Nom du donateur (Votre nom)",
-      "language": "Language"
+      "language": "Langue"
     },
     "genderOptions": {
       "boy": "Garçon",
@@ -127,13 +127,13 @@
       "uploadMorePhotos": "Pour améliorer : Téléchargez plus de photos",
       "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
       "savePreview": "Enregistrer l'aperçu et afficher le prix",
-      "changePicture": "Change Picture",
-      "change": "Change",
-      "createSimilar": "Create Similar",
-      "buyDedication": "Buy Customized Dedication",
-      "editDedication": "Edit Dedication Message",
-      "approveForPrinting": "Approve For Printing",
-      "reapproveForPrinting": "Re-approve For Printing"
+      "changePicture": "Changer d'image",
+      "change": "Changer",
+      "createSimilar": "Créer similaire",
+      "buyDedication": "Acheter une dédicace personnalisée",
+      "editDedication": "Modifier le message de dédicace",
+      "approveForPrinting": "Approuver pour impression",
+      "reapproveForPrinting": "Ré-approuver pour impression"
     },
     "noUsablePhotos": {
       "heading": "Aucune photo utilisable",
@@ -148,27 +148,27 @@
     },
     "page": {
       "number": "Page {{number}}",
-      "loading": "Loading image for page {{number}}",
-      "generating": "Generating options for page {{number}}",
-      "generatingTime": "Takes around 60 seconds",
-      "waiting": "Waiting to load page {{number}}"
+      "loading": "Chargement de l'image pour la page {{number}}",
+      "generating": "Génération d'options pour la page {{number}}",
+      "generatingTime": "Durée estimée : environ 60 secondes",
+      "waiting": "En attente de chargement de la page {{number}}"
     },
     "instructions": {
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
       "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
-      "postOrderInstructions1": "Press 'Change Picture' button to swipe to alternative choices for a page",
-      "postOrderInstructions2": "Once you're satisfied with all pages, press the \"Approve For Printing\" button",
-      "postOrderSwipeInstructions1": "Swipe among the page choices and bring each page to the option you like",
-      "postOrderSwipeInstructions2": "Once all pages are finalized, press the \"Approve For Printing\" button",
-      "fixedInstructions1": "The pages will get shown one below the other",
-      "fixedInstructions2": "Press 'Change Picture' button to swipe to alternative choices for a page"
+      "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
+      "postOrderInstructions2": "Une fois satisfait de toutes les pages, appuyez sur le bouton \"Approuver pour impression\"",
+      "postOrderSwipeInstructions1": "Balayez parmi les choix de pages et amenez chaque page à l'option que vous aimez",
+      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour impression\"",
+      "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
+      "fixedInstructions2": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page"
     },
     "status": {
-      "deleted": "The generated book as well as uploaded photos have been deleted and are no longer available.",
-      "support": "Queries? Write to support@imagitime.com",
-      "cancelled": "This order has been cancelled.",
-      "printing": "This book has already been sent for printing.",
-      "shipped": "This book has been shipped on {{date}}<br>Shipping Carrier: {{carrier}}<br>Tracking Code: {{tracking}}"
+      "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
+      "support": "Questions? Écrivez à support@imagitime.com",
+      "cancelled": "Cette commande a été annulée.",
+      "printing": "Ce livre a déjà été envoyé pour impression.",
+      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
     },
     "timer": {
       "message": "Création du livre de {{name}}..."
