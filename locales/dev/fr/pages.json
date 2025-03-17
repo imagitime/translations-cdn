@@ -122,8 +122,11 @@
       "pageTitle": "Afficher l'aperçu du livre de {{name}}"
     },
     "morePhotosQuestion": "Voulez-vous améliorer l'aperçu ?",
+    "differentPhotoQuestion": "Envie d'essayer une autre photo ?",
+    "editPagesQuestion": "Voulez-vous modifier la sélection de pages ou ajouter des photos ?",
     "buttons": {
       "editPageSelection": "Modifier la sélection des pages",
+      "generateMoreOptions": "Générer plus d'options",
       "uploadMorePhotos": "Pour améliorer : Téléchargez plus de photos",
       "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
       "savePreview": "Enregistrer l'aperçu et afficher le prix",
@@ -133,7 +136,10 @@
       "buyDedication": "Acheter une dédicace personnalisée",
       "editDedication": "Modifier le message de dédicace",
       "approveForPrinting": "Approuver pour impression",
-      "reapproveForPrinting": "Ré-approuver pour impression"
+      "reapproveForPrinting": "Ré-approuver pour impression",
+      "uploadAnother": "Téléchargez une autre photo",
+      "addMore": "Ajouter plus de photos",
+      "generateFromOtherPhotos": "Générer à partir d'autres photos"
     },
     "noUsablePhotos": {
       "heading": "Aucune photo utilisable",
@@ -150,6 +156,7 @@
       "number": "Page {{number}}",
       "loading": "Chargement de l'image pour la page {{number}}",
       "generating": "Génération d'options pour la page {{number}}",
+      "generatingMoreOptions": "En cours de génération de plus d'options",
       "generatingTime": "Durée estimée : environ 60 secondes",
       "waiting": "En attente de chargement de la page {{number}}"
     },
