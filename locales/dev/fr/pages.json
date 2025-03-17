@@ -184,5 +184,47 @@
       "heading": "Pas le temps d'attendre ?"
     },
     "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages"
+  },
+  "ContactDetails": {
+    "headings": {
+      "whereToSend": "Où devons-nous envoyer l'aperçu du livre de {{name}} ?"
+    },
+    "labels": {
+      "email": "Courriel",
+      "yourName": "Votre Nom"
+    },
+    "subscription": {
+      "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
+      "yes": "Oui, j'adorerais",
+      "no": "Non, merci"
+    },
+    "buttons": {
+      "sendPreview": "Envoyez-moi l'aperçu"
+    },
+    "thankYou": {
+      "heading": "Merci !",
+      "message": "Nous avons reçu votre demande. Nous vous enverrons l'aperçu du livre dès qu'il sera prêt.",
+      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explorer d'autres livres</b></a> que nous avons."
+    }
+  },
+  "InterestedContact": {
+    "headings": {
+      "emailPreview": "Envoyer le lien d'aperçu de {{name}} et montrer le prix du livre imprimé"
+    },
+    "labels": {
+      "email": "Courriel",
+      "yourName": "Votre Nom"
+    },
+    "descriptions": {
+      "email": "Nous vous enverrons par courriel le lien d'aperçu."
+    },
+    "subscription": {
+      "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
+      "yes": "Oui, j'adorerais",
+      "no": "Non, je paierai le prix plein"
+    },
+    "buttons": {
+      "savePreview": "Enregistrer l'aperçu et afficher le prix"
+    }
   }
 }

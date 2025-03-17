@@ -184,5 +184,47 @@
       "heading": "Don’t have time to wait?"
     },
     "scrollIndicator": "Scroll down to see all pages"
+  },
+  "ContactDetails": {
+    "headings": {
+      "whereToSend": "Where should we send {{name}}'s book preview?"
+    },
+    "labels": {
+      "email": "Email",
+      "yourName": "Your Name"
+    },
+    "subscription": {
+      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
+      "yes": "Yes, I'd love that",
+      "no": "No, thanks"
+    },
+    "buttons": {
+      "sendPreview": "Send Me The Preview"
+    },
+    "thankYou": {
+      "heading": "Thank You!",
+      "message": "We've received your request. We'll send you the book preview once it is ready.",
+      "explore": "Meanwhile, you can <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explore Other Books</b></a> we have."
+    }
+  },
+  "InterestedContact": {
+    "headings": {
+      "emailPreview": "Email {{name}}'s preview link & show price of printed book"
+    },
+    "labels": {
+      "email": "Email",
+      "yourName": "Your Name"
+    },
+    "descriptions": {
+      "email": "We'll email you the preview link."
+    },
+    "subscription": {
+      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
+      "yes": "Yes, I'd love that",
+      "no": "No, I'll pay full price"
+    },
+    "buttons": {
+      "savePreview": "Save Preview & Show Price"
+    }
   }
 }
