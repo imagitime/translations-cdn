@@ -122,8 +122,11 @@
       "pageTitle": "{{name}}'s Book Preview"
     },
     "morePhotosQuestion": "Want to improve the preview?",
+    "differentPhotoQuestion": "Want to try a different photo?",
+    "editPagesQuestion": "Want to edit page selection or add photos?",
     "buttons": {
       "editPageSelection": "Edit Page Selection",
+      "generateMoreOptions": "Generate More Options",
       "uploadMorePhotos": "To Enhance: Upload More Photos",
       "emailPreview": "Email Me The Preview Instead",
       "savePreview": "Save Preview & Show Price",
@@ -133,7 +136,10 @@
       "buyDedication": "Buy Customized Dedication",
       "editDedication": "Edit Dedication Message",
       "approveForPrinting": "Approve For Printing",
-      "reapproveForPrinting": "Re-approve For Printing"
+      "reapproveForPrinting": "Re-approve For Printing",
+      "uploadAnother": "Upload Another Photo",
+      "addMore": "Add More Photos",
+      "generateFromOtherPhotos": "Generate From Other Photos"
     },
     "noUsablePhotos": {
       "heading": "No Usable Photos",
@@ -150,6 +156,7 @@
       "number": "Page {{number}}",
       "loading": "Loading image for page {{number}}",
       "generating": "Generating options for page {{number}}",
+      "generatingMoreOptions": "Generating More Options",
       "generatingTime": "Takes around 60 seconds",
       "waiting": "Waiting to load page {{number}}"
     },
