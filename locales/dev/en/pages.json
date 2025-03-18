@@ -226,5 +226,42 @@
     "buttons": {
       "savePreview": "Save Preview & Show Price"
     }
+  },
+  "InterestedPage": {
+    "headings": {
+      "pageTitle": "{{name}}'s Personalized Storybook"
+    },
+    "offer": {
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador Discount Unlocked",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Printing & delivery takes {{min}} to {{max}} days, so please order accordingly",
+      "changesAllowed": "Once you order, you can still make changes for 12 hours."
+    },
+    "buttons": {
+      "buyHardcover": "Buy Hardcover",
+      "buyPaperback": "Buy Paperback",
+      "goBackToPreview": "Go Back To Preview",
+      "subscribeGetDiscount": "Subscribe & Get 10% Off"
+    },
+    "shipping": {
+      "info": "+ {{price}} shipping anywhere in {{region}}",
+      "freeInfo": "Free shipping anywhere in {{region}}"
+    },
+    "delivery": {
+      "info": "Delivery in {{min}} to {{max}} days",
+      "timeline": "Printing & delivery takes {{min}} to {{max}} days, so please order accordingly"
+    },
+    "discount": {
+      "subscriber": "{{percentage}}% Subscriber Discount Applied",
+      "limited": "{{percentage}}% Limited Time Discount Applied",
+      "ambassador": "{{percentage}}% Ambassador Discount Unlocked"
+    },
+    "subscription": {
+      "heading": "Want 10% Off?",
+      "description": "Subscribe to our emails to get 10% instant discount and early access to new book releases."
+    },
+    "badges": {
+      "popularChoice": "⭐ Popular Choice ⭐",
+      "soldOut": "Sold out"
+    }
   }
 }
