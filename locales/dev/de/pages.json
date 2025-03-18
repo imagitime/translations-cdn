@@ -226,5 +226,42 @@
     "buttons": {
       "savePreview": "Vorschau speichern & Preis anzeigen"
     }
+  },
+  "InterestedPage": {
+    "headings": {
+      "pageTitle": "Individuelles Geschichtenbuch von {{name}}"
+    },
+    "offer": {
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Botschafter-Rabatt freigeschaltet",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Druck & Lieferung dauert {{min}} bis {{max}} Tage, bestellen Sie bitte entsprechend",
+      "changesAllowed": "Nach der Bestellung können Sie 12 Stunden lang noch Änderungen vornehmen."
+    },
+    "buttons": {
+      "buyHardcover": "Gebundene Ausgabe kaufen",
+      "buyPaperback": "Taschenbuch kaufen",
+      "goBackToPreview": "Zurück zur Vorschau",
+      "subscribeGetDiscount": "Abonnieren & 10% Rabatt erhalten"
+    },
+    "shipping": {
+      "info": "+ {{price}} Versand überall in {{region}}",
+      "freeInfo": "Kostenloser Versand überall in {{region}}"
+    },
+    "delivery": {
+      "info": "Lieferung in {{min}} bis {{max}} Tagen",
+      "timeline": "Druck & Lieferung dauert {{min}} bis {{max}} Tage, bestellen Sie bitte entsprechend"
+    },
+    "discount": {
+      "subscriber": "{{percentage}}% Abonnentenrabatt angewendet",
+      "limited": "{{percentage}}% Rabatt für begrenzte Zeit angewendet",
+      "ambassador": "{{percentage}}% Botschafter-Rabatt freigeschaltet"
+    },
+    "subscription": {
+      "heading": "Möchten Sie 10% Rabatt?",
+      "description": "Abonnieren Sie unsere E-Mails, um 10% Sofortrabatt und Vorabzugang zu neuen Buchveröffentlichungen zu erhalten."
+    },
+    "badges": {
+      "popularChoice": "⭐ Beliebte Wahl ⭐",
+      "soldOut": "Ausverkauft"
+    }
   }
 }
