@@ -226,5 +226,42 @@
     "buttons": {
       "savePreview": "Enregistrer l'aperçu et afficher le prix"
     }
+  },
+  "InterestedPage": {
+    "headings": {
+      "pageTitle": "Livre personnalisé de {{name}}"
+    },
+    "offer": {
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Réduction d'Ambassadeur 20% Déverrouillée",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence",
+      "changesAllowed": "Une fois votre commande passée, vous pouvez toujours faire des modifications pendant 12 heures."
+    },
+    "buttons": {
+      "buyHardcover": "Acheter Relié",
+      "buyPaperback": "Acheter Broché",
+      "goBackToPreview": "Retourner à l'Aperçu",
+      "subscribeGetDiscount": "S'abonner et Obtenir 10% de Réduction"
+    },
+    "shipping": {
+      "info": "+ {{price}} frais de livraison partout en {{region}}",
+      "freeInfo": "Livraison gratuite partout en {{region}}"
+    },
+    "delivery": {
+      "info": "Livraison en {{min}} à {{max}} jours",
+      "timeline": "L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
+    },
+    "discount": {
+      "subscriber": "{{percentage}}% Réduction Abonné Appliquée",
+      "limited": "{{percentage}}% Réduction Temporaire Appliquée",
+      "ambassador": "{{percentage}}% Réduction d'Ambassadeur Déverrouillée"
+    },
+    "subscription": {
+      "heading": "Voulez-vous 10% de Réduction?",
+      "description": "Abonnez-vous à nos emails pour obtenir une réduction instantanée de 10% et un accès anticipé aux nouvelles sorties de livres."
+    },
+    "badges": {
+      "popularChoice": "⭐ Choix Populaire ⭐",
+      "soldOut": "Épuisé"
+    }
   }
 }
