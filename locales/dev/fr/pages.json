@@ -276,5 +276,39 @@
       "heartfeltMessage": "Que ce soit des mots d'encouragement ou une note spéciale, ravissez-les avec un message de dédicace sincère.",
       "customize": "Vous pourrez personnaliser le message après l'achat."
     }
+  },
+  "DedicationMessage": {
+    "headings": {
+      "writeMessage": "Écrivez votre propre message",
+      "writeMessageFor": "Écrivez votre propre message pour {{name}}"
+    },
+    "descriptions": {
+      "charLimit": "Moins de {{chars}} caractères et un maximum de {{lines}} lignes distinctes."
+    },
+    "errors": {
+      "lineLimit": "Limite maximale de 5 lignes atteinte",
+      "exceededChars": "Dépassement de {{count}} caractères",
+      "noEmojis": "Veuillez supprimer les emojis",
+      "linesExceeded": "{{count}} lignes dépassées"
+    },
+    "counter": {
+      "remaining": "{{count}} caractères restants"
+    },
+    "buttons": {
+      "addMessage": "Ajouter un message personnalisé",
+      "useTemplate": "Utiliser le modèle",
+      "goToPreview": "Accéder à l'aperçu du livre"
+    },
+    "labels": {
+      "ideas": "Idées de message de dédicace"
+    },
+    "thankYou": {
+      "heading": "Merci !",
+      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en accédant à l'aperçu du livre et vérifiez si des fautes de frappe ou des erreurs grammaticales sont présentes."
+    },
+    "printFreeze": {
+      "heading": "Ce livre a déjà été envoyé pour impression",
+      "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
+    }
   }
 }
