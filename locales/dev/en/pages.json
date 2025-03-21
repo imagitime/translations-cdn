@@ -276,5 +276,39 @@
       "heartfeltMessage": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message.",
       "customize": "You'll be able to customize the message after purchasing."
     }
+  },
+  "DedicationMessage": {
+    "headings": {
+      "writeMessage": "Write your own message",
+      "writeMessageFor": "Write your own message for {{name}}"
+    },
+    "descriptions": {
+      "charLimit": "Less than {{chars}} characters and maximum {{lines}} separate lines."
+    },
+    "errors": {
+      "lineLimit": "Max limit of 5 lines reached",
+      "exceededChars": "Exceeded {{count}} characters",
+      "noEmojis": "Please remove emojis",
+      "linesExceeded": "{{count}} lines exceeded"
+    },
+    "counter": {
+      "remaining": "{{count}} characters left"
+    },
+    "buttons": {
+      "addMessage": "Add Personalized Message",
+      "useTemplate": "Use Template",
+      "goToPreview": "Go To Book Preview"
+    },
+    "labels": {
+      "ideas": "Dedication Message Ideas"
+    },
+    "thankYou": {
+      "heading": "Thank You!",
+      "message": "We have added your personalised message. Please review the dedication page (page 2) by going to the book preview and double-check for any typos or grammatical errors."
+    },
+    "printFreeze": {
+      "heading": "This book has already been given for printing",
+      "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
+    }
   }
 }
