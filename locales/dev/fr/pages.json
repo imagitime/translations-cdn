@@ -302,6 +302,9 @@
     "labels": {
       "ideas": "Idées de message de dédicace"
     },
+    "placeholder": {
+      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+    },
     "thankYou": {
       "heading": "Merci !",
       "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en accédant à l'aperçu du livre et vérifiez si des fautes de frappe ou des erreurs grammaticales sont présentes."
