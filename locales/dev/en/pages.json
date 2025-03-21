@@ -302,6 +302,9 @@
     "labels": {
       "ideas": "Dedication Message Ideas"
     },
+    "placeholder": {
+      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+    },
     "thankYou": {
       "heading": "Thank You!",
       "message": "We have added your personalised message. Please review the dedication page (page 2) by going to the book preview and double-check for any typos or grammatical errors."
