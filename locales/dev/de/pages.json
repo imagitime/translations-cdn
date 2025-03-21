@@ -276,5 +276,39 @@
       "heartfeltMessage": "Ob ermutigende Worte oder eine spezielle Nachricht, überraschen Sie sie mit einer herzlichen Widmung.",
       "customize": "Nach dem Kauf können Sie die Nachricht anpassen."
     }
+  },
+  "DedicationMessage": {
+    "headings": {
+      "writeMessage": "Schreiben Sie Ihre eigene Nachricht",
+      "writeMessageFor": "Schreiben Sie Ihre eigene Nachricht für {{name}}"
+    },
+    "descriptions": {
+      "charLimit": "Weniger als {{chars}} Zeichen und maximal {{lines}} separate Zeilen."
+    },
+    "errors": {
+      "lineLimit": "Maximale Anzahl von 5 Zeilen erreicht",
+      "exceededChars": "{{count}} Zeichen überschritten",
+      "noEmojis": "Bitte entfernen Sie Emojis",
+      "linesExceeded": "{{count}} Zeilen überschritten"
+    },
+    "counter": {
+      "remaining": "{{count}} Zeichen übrig"
+    },
+    "buttons": {
+      "addMessage": "Personalisierte Nachricht hinzufügen",
+      "useTemplate": "Vorlage verwenden",
+      "goToPreview": "Zur Buchvorschau gehen"
+    },
+    "labels": {
+      "ideas": "Ideen für Widmungen"
+    },
+    "thankYou": {
+      "heading": "Danke!",
+      "message": "Wir haben Ihre personalisierte Nachricht hinzugefügt. Bitte überprüfen Sie die Widmungsseite (Seite 2) in der Buchvorschau und achten Sie auf Tippfehler oder grammatische Fehler."
+    },
+    "printFreeze": {
+      "heading": "Dieses Buch wurde bereits zum Druck geschickt",
+      "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
+    }
   }
 }
