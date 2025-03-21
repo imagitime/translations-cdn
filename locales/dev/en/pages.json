@@ -313,5 +313,47 @@
       "heading": "This book has already been given for printing",
       "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
     }
+  },
+  "TrackOrders": {
+    "headings": {
+      "pageTitle": "Track Your Orders",
+      "enterVerification": "Enter Verification Code",
+      "yourOrders": "Your Orders"
+    },
+    "placeholder": {
+      "email": "Enter your email",
+      "otp": "Enter 6-digit OTP"
+    },
+    "instructions": {
+      "enterOTP": "Please enter the OTP sent to your email"
+    },
+    "buttons": {
+      "getOTP": "Get OTP",
+      "verifyOTP": "Verify OTP",
+      "resendOTP": "Resend OTP",
+      "trackPackage": "Track Package",
+      "trackShipping": "Track Shipping"
+    },
+    "labels": {
+      "orderNumber": "Order #{{number}}",
+      "estimatedDelivery": "Estimated Delivery:",
+      "shippingAddress": "Shipping Address"
+    },
+    "messages": {
+      "otpSent": "OTP sent successfully!",
+      "otpFailed": "Failed to send OTP",
+      "error": "An error occurred",
+      "invalidOTP": "Invalid OTP. Please try again.",
+      "verifyError": "An error occurred while verifying OTP",
+      "noOrders": "No orders found."
+    },
+    "timer": {
+      "resendAvailable": "Resend available in {{seconds}} seconds"
+    },
+    "status": {
+      "printed": "Printed",
+      "printing": "Printing in progress",
+      "pending": "Will be given for printing soon"
+    }
   }
 }
