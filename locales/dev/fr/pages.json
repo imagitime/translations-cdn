@@ -263,5 +263,18 @@
       "popularChoice": "⭐ Choix Populaire ⭐",
       "soldOut": "Épuisé"
     }
+  },
+  "Dedication": {
+    "headings": {
+      "makeSpecial": "Rendez le livre encore plus spécial"
+    },
+    "buttons": {
+      "buyCustomized": "Acheter une dédicace personnalisée"
+    },
+    "descriptions": {
+      "personalTouch": "Ajoutez une touche personnelle à votre cadeau.",
+      "heartfeltMessage": "Que ce soit des mots d'encouragement ou une note spéciale, ravissez-les avec un message de dédicace sincère.",
+      "customize": "Vous pourrez personnaliser le message après l'achat."
+    }
   }
 }

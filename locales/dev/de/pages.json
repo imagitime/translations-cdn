@@ -263,5 +263,18 @@
       "popularChoice": "⭐ Beliebte Wahl ⭐",
       "soldOut": "Ausverkauft"
     }
+  },
+  "Dedication": {
+    "headings": {
+      "makeSpecial": "Machen Sie das Buch noch spezieller"
+    },
+    "buttons": {
+      "buyCustomized": "Individuelle Widmung kaufen"
+    },
+    "descriptions": {
+      "personalTouch": "Fügen Sie Ihrem Geschenk eine persönliche Note hinzu.",
+      "heartfeltMessage": "Ob ermutigende Worte oder eine spezielle Nachricht, überraschen Sie sie mit einer herzlichen Widmung.",
+      "customize": "Nach dem Kauf können Sie die Nachricht anpassen."
+    }
   }
 }

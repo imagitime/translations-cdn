@@ -263,5 +263,18 @@
       "popularChoice": "⭐ Popular Choice ⭐",
       "soldOut": "Sold out"
     }
+  },
+  "Dedication": {
+    "headings": {
+      "makeSpecial": "Make the book even more special"
+    },
+    "buttons": {
+      "buyCustomized": "Buy Customized Dedication"
+    },
+    "descriptions": {
+      "personalTouch": "Add a personal touch to your gift.",
+      "heartfeltMessage": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message.",
+      "customize": "You'll be able to customize the message after purchasing."
+    }
   }
 }
