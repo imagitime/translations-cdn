@@ -303,7 +303,7 @@
       "ideas": "Idées de message de dédicace"
     },
     "placeholder": {
-      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+      "default": "Cher {{name}},\n\nQue vos rêves soient aussi vastes que le ciel et que votre esprit s'élève toujours plus haut. Je vous souhaite le meilleur toujours.\n\nAvec amour, Maman & Papa"
     },
     "thankYou": {
       "heading": "Merci !",
