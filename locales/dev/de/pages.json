@@ -302,6 +302,9 @@
     "labels": {
       "ideas": "Ideen für Widmungen"
     },
+    "placeholder": {
+      "default": "Liebe/r {{name}},\n\nMöge dein Ehrgeiz grenzenlos wie der Himmel sein und dein Geist immer hochfliegen. Ich wünsche dir immer das Beste.\n\nLiebe Grüße, Mama & Papa"
+    },
     "thankYou": {
       "heading": "Danke!",
       "message": "Wir haben Ihre personalisierte Nachricht hinzugefügt. Bitte überprüfen Sie die Widmungsseite (Seite 2) in der Buchvorschau und achten Sie auf Tippfehler oder grammatische Fehler."
