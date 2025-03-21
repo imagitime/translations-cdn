@@ -313,5 +313,47 @@
       "heading": "Ce livre a déjà été envoyé pour impression",
       "message": "Il n'est plus possible de personnaliser le message de dédicace. Pour toute question, veuillez contacter support@imagitime.com"
     }
+  },
+  "TrackOrders": {
+    "headings": {
+      "pageTitle": "Suivre vos commandes",
+      "enterVerification": "Entrez le code de vérification",
+      "yourOrders": "Vos commandes"
+    },
+    "placeholder": {
+      "email": "Entrez votre e-mail",
+      "otp": "Entrez l'OTP à 6 chiffres"
+    },
+    "instructions": {
+      "enterOTP": "Veuillez entrer l'OTP envoyé sur votre e-mail"
+    },
+    "buttons": {
+      "getOTP": "Obtenir l'OTP",
+      "verifyOTP": "Vérifiez l'OTP",
+      "resendOTP": "Renvoyer l'OTP",
+      "trackPackage": "Suivre le colis",
+      "trackShipping": "Suivre l'expédition"
+    },
+    "labels": {
+      "orderNumber": "Commande n°{{number}}",
+      "estimatedDelivery": "Livraison estimée :",
+      "shippingAddress": "Adresse de livraison"
+    },
+    "messages": {
+      "otpSent": "OTP envoyé avec succès !",
+      "otpFailed": "Échec de l'envoi du code OTP",
+      "error": "Une erreur s'est produite",
+      "invalidOTP": "Code OTP invalide. Veuillez réessayer.",
+      "verifyError": "Une erreur s'est produite lors de la vérification du code OTP",
+      "noOrders": "Aucune commande trouvée."
+    },
+    "timer": {
+      "resendAvailable": "Renvoi disponible dans {{seconds}} secondes"
+    },
+    "status": {
+      "printed": "Imprimé",
+      "printing": "Impression en cours",
+      "pending": "Sera bientôt donné pour impression"
+    }
   }
 }

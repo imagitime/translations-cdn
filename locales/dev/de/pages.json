@@ -313,5 +313,47 @@
       "heading": "Dieses Buch wurde bereits zum Druck geschickt",
       "message": "Es ist nicht mehr möglich, die Widmungsnachricht anzupassen. Bei Fragen wenden Sie sich bitte an support@imagitime.com"
     }
+  },
+  "TrackOrders": {
+    "headings": {
+      "pageTitle": "Verfolgen Sie Ihre Bestellungen",
+      "enterVerification": "Bestätigungscode eingeben",
+      "yourOrders": "Ihre Bestellungen"
+    },
+    "placeholder": {
+      "email": "Geben Sie Ihre E-Mail-Adresse ein",
+      "otp": "6-stelligen OTP eingeben"
+    },
+    "instructions": {
+      "enterOTP": "Geben Sie bitte das an Ihre E-Mail gesendete OTP ein"
+    },
+    "buttons": {
+      "getOTP": "OTP anfordern",
+      "verifyOTP": "OTP überprüfen",
+      "resendOTP": "OTP erneut senden",
+      "trackPackage": "Paket verfolgen",
+      "trackShipping": "Versand verfolgen"
+    },
+    "labels": {
+      "orderNumber": "Bestellung #{{number}}",
+      "estimatedDelivery": "Voraussichtliche Lieferung:",
+      "shippingAddress": "Lieferadresse"
+    },
+    "messages": {
+      "otpSent": "OTP erfolgreich gesendet!",
+      "otpFailed": "Fehler beim Senden des OTP",
+      "error": "Ein Fehler ist aufgetreten",
+      "invalidOTP": "Ungültiges OTP. Bitte versuchen Sie es erneut.",
+      "verifyError": "Ein Fehler ist bei der Überprüfung des OTP aufgetreten",
+      "noOrders": "Keine Bestellungen gefunden."
+    },
+    "timer": {
+      "resendAvailable": "Erneut senden in {{seconds}} Sekunden möglich"
+    },
+    "status": {
+      "printed": "Gedruckt",
+      "printing": "Druck läuft",
+      "pending": "Wird bald zum Drucken freigegeben"
+    }
   }
 }
