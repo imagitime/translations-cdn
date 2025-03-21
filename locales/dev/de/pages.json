@@ -303,7 +303,7 @@
       "ideas": "Ideen für Widmungen"
     },
     "placeholder": {
-      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+      "default": "Liebe/r {{name}},\n\nMöge dein Ehrgeiz grenzenlos wie der Himmel sein und dein Geist immer hochfliegen. Ich wünsche dir immer das Beste.\n\nLiebe Grüße, Mama & Papa"
     },
     "thankYou": {
       "heading": "Danke!",
