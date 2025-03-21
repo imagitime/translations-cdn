@@ -302,6 +302,9 @@
     "labels": {
       "ideas": "Ideen für Widmungen"
     },
+    "placeholder": {
+      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+    },
     "thankYou": {
       "heading": "Danke!",
       "message": "Wir haben Ihre personalisierte Nachricht hinzugefügt. Bitte überprüfen Sie die Widmungsseite (Seite 2) in der Buchvorschau und achten Sie auf Tippfehler oder grammatische Fehler."
