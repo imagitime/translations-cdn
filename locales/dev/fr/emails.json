@@ -49,7 +49,7 @@
   "out_for_delivery_email.greeting": "Cher/Chère {requester_name},",
   "out_for_delivery_email.delivery_info": "Bonne nouvelle ! Le livre personnalisé de {kid_name} d'Imagitime est prêt à être livré aujourd'hui.",
   "out_for_delivery_email.delivery_details": "Détails de la livraison :",
-  "out_for_delivery_email.carrier_label": "Carrier",
+  "out_for_delivery_email.carrier_label": "Transporteur",
   "out_for_delivery_email.order_number_label": "Numéro de commande",
   "out_for_delivery_email.track_package": "Suivez votre colis",
   "out_for_delivery_email.thank_you": "Merci d'avoir choisi Imagitime pour créer des souvenirs magiques pour {kid_name}.",
