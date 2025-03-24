@@ -60,7 +60,8 @@
   "orderTracking": {
     "messages": {
       "emailRequired": "Email is required",
-      "otpRequired": "OTP is required"
+      "otpRequired": "OTP is required",
+      "otpExpiredOrInvalid": "OTP expired or not found"
     },
     "labels": {
       "orderNumber": "Order #{number}"
@@ -68,6 +69,12 @@
     "buttons": {
       "trackPackage": "Track Package",
       "trackShipping": "Track Shipping"
+    }
+  },
+  "generationDetailsFunctions": {
+    "messages": {
+      "processingUploadPhoto": "Processing Uploaded Photo {processed_count} out of {total_count} ...",
+      "preparingForGeneration": "Preparing For Generation ..."
     }
   }
 }
