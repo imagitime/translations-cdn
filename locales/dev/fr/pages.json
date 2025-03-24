@@ -354,5 +354,12 @@
       "printing": "Impression en cours",
       "pending": "Sera bientôt donné pour impression"
     }
+  },
+  "ThanksForApproving": {
+    "thankYou": {
+      "heading": "Merci, vous êtes vraiment formidable!",
+      "message": "Vous venez de créer une histoire unique pour {{name}}",
+      "tracking": "Une fois le livre imprimé et expédié, nous vous enverrons les informations de suivi par email."
+    }
   }
 }

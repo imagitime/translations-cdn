@@ -354,5 +354,12 @@
       "printing": "Druck läuft",
       "pending": "Wird bald zum Drucken freigegeben"
     }
+  },
+  "ThanksForApproving": {
+    "thankYou": {
+      "heading": "Danke, du bist wirklich wunderbar!",
+      "message": "Sie haben gerade eine einzigartige Geschichte für {{name}} erstellt",
+      "tracking": "Sobald das Buch gedruckt und versandt wird, senden wir die Sendungsverfolgungsinformationen an Ihre E-Mail."
+    }
   }
 }
