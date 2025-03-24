@@ -286,7 +286,7 @@
       "charLimit": "Moins de {{chars}} caractères et un maximum de {{lines}} lignes distinctes."
     },
     "errors": {
-      "lineLimit": "Limite maximale de 5 lignes atteinte",
+      "lineLimit": "Max limit of 5 lines reached",
       "exceededChars": "Dépassement de {{count}} caractères",
       "noEmojis": "Veuillez supprimer les emojis",
       "linesExceeded": "{{count}} lignes dépassées"
