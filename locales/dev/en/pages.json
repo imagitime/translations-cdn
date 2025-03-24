@@ -354,5 +354,12 @@
       "printing": "Printing in progress",
       "pending": "Will be given for printing soon"
     }
+  },
+  "ThanksForApproving": {
+    "thankYou": {
+      "heading": "Thank You, You're Truly Wonderful!",
+      "message": "You've just crafted a unique tale for {{name}}",
+      "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
+    }
   }
 }
