@@ -5,3 +5,5 @@ files:
     translation: /locales/dev/%two_letters_code%/pages.json
   - source: /locales/dev/en/emails.json
     translation: /locales/dev/%two_letters_code%/emails.json
+  - source: /locales/dev/en/views.json
+    translation: /locales/dev/%two_letters_code%/views.json
