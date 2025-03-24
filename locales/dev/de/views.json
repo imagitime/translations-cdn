@@ -1,0 +1,73 @@
+{
+  "dedication": {
+    "suggestions": {
+      "child": [
+        "Alles Gute zum Geburtstag, ${childName}!\n\nMögest du immer Freude an kleinen Dingen finden und weiterhin hell leuchten.\n\nLiebe immer, Mama",
+        "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit dich das ganze Jahr begleiten.\n\nMit all unserer Liebe, Mama & Papa",
+        "Gewidmet an ${childName},\n\nEin erstaunliches Kind, das es wagt zu träumen. Mögest du immer Gründe zum Lächeln finden.\n\nMit viel Liebe, Oma & Opa",
+        "Liebe/r ${childName},\n\nMöge dein Ehrgeiz grenzenlos wie der Himmel sein und dein Geist immer hochfliegen. Ich wünsche dir immer das Beste.\n\nLiebe Grüße, Mama & Papa",
+        "Liebste/r ${childName},\n\nIm weiten Himmel des Lebens sei immer der hellste Stern. Wir sind so stolz, dich unser Eigen zu nennen.\n\nLiebe, Onkel & Tante",
+        "${childName}, mit jedem Jahr leuchtest du noch heller.\n\nMögen deine Tage voller Lachen, Liebe und endloser Wunder sein.\n\n- Mit all unserer Liebe, Mama & Papa",
+        "Jeder Moment mit dir, ${childName}, ist ein Geschenk.\n\nMöge dein Leben so erfreulich und magisch sein, wie du für uns bist.\n\nFür immer, Mama & Papa",
+        "In dieser weiten Welt, ${childName}, vergiss nie:\n\nDu bist einzigartig, du wirst geliebt, und du bringst Freude in unsere Herzen jeden einzelnen Tag.\n\nLiebe immer, Mama & Papa"
+      ],
+      "adult": [
+        "Für meinen geliebten ${childName},\n\nAn diesem Valentinstag wollte ich all die Gründe festhalten, warum mein Herz für dich schlägt. Dieses Buch ist ein Zeugnis der Liebe, die uns einzigartig macht.\n\nImmer dein/e, ${giver_name}",
+        "Alles Gute zum Jahrestag ${childName}, ein weiteres Jahr voller Liebe für alles an dir. Dein Herz, dein Verstand, deine Seele.\n\nGanz deiner/e, ${giver_name}",
+        "Mein liebster ${childName},\n\nAn deinem Geburtstag wollte ich etwas erschaffen, das widerspiegelt, wie außergewöhnlich du bist. Diese Seiten sind gefüllt mit unzähligen Gründen, warum du der erstaunlichste Mensch in meiner Welt bist.\n\nMit endloser Liebe, ${giver_name}",
+        "An meinen ${childName},\n\nManchmal braucht Liebe keinen Anlass. Dieses Buch ist eine spontane Feier von dir - deinen Macken, deinen Stärken und all den kleinen Dingen, die dich absolut unersetzlich machen.\n\nLiebe immer, ${giver_name}"
+      ]
+    }
+  },
+  "orderStatus": {
+    "pending": {
+      "will_be_given_for_printing_order_status_string": "Wird bald zum Drucken freigegeben",
+      "will_be_given_for_printing_info_note": "Da unser Buch für jede Bestellung maßgeschneidert ist, dauert das Drucken und Binden einige Zeit.",
+      "delayed_order_status_string": "Verzögert",
+      "delayed_info_note": "Bei der Bearbeitung Ihrer Bestellung ist ein Problem aufgetreten. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "paused_order_status_string": "Auf Kundenwunsch pausiert",
+      "paused_info_note": "Der Druck dieses Buches wurde auf Kundenwunsch pausiert. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com."
+    },
+    "printing": {
+      "currently_in_printing_and_binding_stage_order_status_string": "Aktuell in der Druck- und Bindungsphase",
+      "currently_in_printing_and_binding_stage_info_note": "Da unser Buch für jede Bestellung maßgeschneidert ist, dauert das Drucken und Binden einige Zeit.",
+      "delayed_order_status_string": "Verzögert",
+      "delayed_info_note": "Bei der Bearbeitung Ihrer Bestellung ist eine Verzögerung aufgetreten. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "book_was_given_for_printing_info_note": "Dieses Buch wurde am {date} zum Nachdruck freigegeben."
+    },
+    "printed": {
+      "shipped_order_status_string": "Versendet",
+      "stuck_in_transit_delivery_status_string": "Im Transit steckengeblieben",
+      "stuck_delayed_info_note": "Aufgrund eines Problems scheint Ihr Paket im Transit stecken geblieben zu sein. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "delayed_delivery_status_string": "Verzögert",
+      "delayed_info_note": "Ihre Bestellung ist unterwegs, scheint jedoch verzögert zu sein. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "not_available_delivery_status_string": "Lieferstatus nicht verfügbar",
+      "not_available_delivery_status_info_note": "Die Lieferung erfolgt durch {carrier}. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
+      "out_for_delivery_today_status_string": "Heute zur Lieferung unterwegs",
+      "delivered_status_string": "Geliefert am {date}",
+      "delivery_failed_order_status_string": "Zustellung fehlgeschlagen!",
+      "delivery_failed_info_note": "Aufgrund eines Problems konnte Ihre Bestellung nicht zugestellt werden. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "delivery_attempted_order_status_string": "Zustellung versucht",
+      "delivery_attempted_info_note": "Der Versanddienstleister hat versucht, das Buch zuzustellen, konnte jedoch nicht. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "tracking_info_not_present_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
+      "shipped_order_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Das tatsächliche Lieferdatum kann aufgrund externer Faktoren variieren."
+    },
+    "cancelled": {
+      "cancelled_order_status_string": "Ihre Bestellung wurde storniert.",
+      "cancelled_info_note": "Der Druck dieses Buches wurde storniert. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com."
+    }
+  },
+  "orderTracking": {
+    "messages": {
+      "emailRequired": "E-Mail ist erforderlich",
+      "otpRequired": "OTP ist erforderlich"
+    },
+    "labels": {
+      "orderNumber": "Bestellung #{number}"
+    },
+    "buttons": {
+      "trackPackage": "Paket verfolgen",
+      "trackShipping": "Versand verfolgen"
+    }
+  }
+}
