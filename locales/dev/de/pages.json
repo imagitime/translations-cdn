@@ -322,15 +322,15 @@
     },
     "placeholder": {
       "email": "Geben Sie Ihre E-Mail-Adresse ein",
-      "otp": "6-stelligen OTP eingeben"
+      "otp": "6-stelligen Code eingeben"
     },
     "instructions": {
-      "enterOTP": "Geben Sie bitte das an Ihre E-Mail gesendete OTP ein"
+      "enterOTP": "Bitte geben Sie den an Ihre E-Mail gesendeten Code ein"
     },
     "buttons": {
-      "getOTP": "OTP anfordern",
-      "verifyOTP": "OTP überprüfen",
-      "resendOTP": "OTP erneut senden",
+      "getOTP": "Code erhalten",
+      "verifyOTP": "Code überprüfen",
+      "resendOTP": "Code erneut senden",
       "trackPackage": "Paket verfolgen",
       "trackShipping": "Versand verfolgen"
     },
@@ -340,11 +340,11 @@
       "shippingAddress": "Lieferadresse"
     },
     "messages": {
-      "otpSent": "OTP erfolgreich gesendet!",
-      "otpFailed": "Fehler beim Senden des OTP",
+      "otpSent": "Code erfolgreich gesendet!",
+      "otpFailed": "Fehler beim Senden des Codes",
       "error": "Ein Fehler ist aufgetreten",
-      "invalidOTP": "Ungültiges OTP. Bitte versuchen Sie es erneut.",
-      "verifyError": "Ein Fehler ist bei der Überprüfung des OTP aufgetreten",
+      "invalidOTP": "Ungültiger Code. Bitte versuchen Sie es erneut.",
+      "verifyError": "Ein Fehler ist bei der Überprüfung des Codes aufgetreten",
       "noOrders": "Keine Bestellungen gefunden."
     },
     "timer": {
