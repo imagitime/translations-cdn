@@ -183,7 +183,16 @@
     "notification": {
       "heading": "Don’t have time to wait?"
     },
-    "scrollIndicator": "Scroll down to see all pages"
+    "scrollIndicator": "Scroll down to see all pages",
+    "timeRemaining": {
+      "lessThan": "Less than <strong>{{time}}</strong> remaining to load {{name}}'s book"
+    },
+    "timeUnits": {
+      "minute": "{{count}} min",
+      "minutes": "{{count}} min",
+      "second": "{{count}} sec",
+      "seconds": "{{count}} sec"
+    }
   },
   "ContactDetails": {
     "headings": {
