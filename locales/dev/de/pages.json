@@ -183,7 +183,16 @@
     "notification": {
       "heading": "Keine Zeit zum Warten?"
     },
-    "scrollIndicator": "Scrollen Sie nach unten, um alle Seiten zu sehen"
+    "scrollIndicator": "Scrollen Sie nach unten, um alle Seiten zu sehen",
+    "timeRemaining": {
+      "lessThan": "Weniger als <strong>{{time}}</strong> verbleiben zum Laden von {{name}}'s Buch"
+    },
+    "timeUnits": {
+      "minute": "{{count}} Min.",
+      "minutes": "{{count}} Minuten",
+      "second": "{{count}} Sek",
+      "seconds": "{{count}} Sek"
+    }
   },
   "ContactDetails": {
     "headings": {
