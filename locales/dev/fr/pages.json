@@ -183,7 +183,16 @@
     "notification": {
       "heading": "Pas le temps d'attendre ?"
     },
-    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages"
+    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
+    "timeRemaining": {
+      "lessThan": "Moins de <strong>{{time}}</strong> restant pour charger le livre de {{name}}"
+    },
+    "timeUnits": {
+      "minute": "{{count}} min",
+      "minutes": "{{count}} mins",
+      "second": "{{count}} sec",
+      "seconds": "{{count}} secs"
+    }
   },
   "ContactDetails": {
     "headings": {
