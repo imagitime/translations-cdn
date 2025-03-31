@@ -81,7 +81,7 @@
       "finishedUploading": "Hochladen abgeschlossen",
       "uploadPhotos": "Fotos hochladen",
       "choosePhoto": "Foto auswählen",
-      "showPreview": "Vorschau des Buches von {{name}}'s anzeigen",
+      "showPreview": "Vorschau des Buches von {{name}} anzeigen",
       "lastStepPages": "Letzter Schritt: Seiten auswählen"
     },
     "uploadOptions": {
