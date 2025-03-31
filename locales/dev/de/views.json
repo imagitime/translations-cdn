@@ -76,5 +76,12 @@
       "processingUploadPhoto": "Verarbeite hochgeladenes Foto {processed_count} von {total_count} ...",
       "preparingForGeneration": "Vorbereitung für die Generierung ..."
     }
+  },
+  "adminOrderStatus": {
+    "salutation": "Hallo {name},",
+    "genericSalutation": "Hallo,",
+    "pendingPrinting": "Ihr Buch wird in Kürze zum Druck gegeben. Da unser Buch für jeden individuell angefertigt wird, dauert die Überprüfung, der Druck, die Bindung und der Versand in der Regel insgesamt etwa {min_days} bis {max_days} Tage. Wir werden die Sendungsverfolgungsdetails mitteilen, sobald es die Druckerei verlassen hat. Vielen Dank für Ihre Geduld und Ihr Verständnis.",
+    "shipped": "Ihr Buch wurde gedruckt und per {carrier} versandt. Hier ist der Tracking-Link.",
+    "inPrinting": "Ihr Buch befindet sich derzeit in der Druck- und Bindungsphase. Da unser Buch für jeden individuell angefertigt wird, dauert es von der Bestellung bis zur Lieferung in der Regel insgesamt etwa {min_days} bis {max_days} Tage. Wir werden die Details zur Sendungsverfolgung mitteilen, sobald es die Druckerei verlassen hat. Vielen Dank für Ihre Geduld und Ihr Verständnis."
   }
 }

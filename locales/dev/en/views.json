@@ -76,5 +76,12 @@
       "processingUploadPhoto": "Processing Uploaded Photo {processed_count} out of {total_count} ...",
       "preparingForGeneration": "Preparing For Generation ..."
     }
+  },
+  "adminOrderStatus": {
+    "salutation": "Hi {name},",
+    "genericSalutation": "Hi,",
+    "pendingPrinting": "Your book will be given for printing shortly. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days for review, printing, binding, and shipping. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding.",
+    "shipped": "Your book has been printed and shipped via {carrier}. Here's the tracking link.",
+    "inPrinting": "Your book is currently in the printing and binding stage. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days from order to delivery. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding."
   }
 }
