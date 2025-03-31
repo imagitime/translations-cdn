@@ -47,7 +47,7 @@
       "delivered_status_string": "Geliefert am {date}",
       "delivery_failed_order_status_string": "Zustellung fehlgeschlagen!",
       "delivery_failed_info_note": "Aufgrund eines Problems konnte Ihre Bestellung nicht zugestellt werden. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
-      "delivery_attempted_order_status_string": "Zustellung versucht",
+      "delivery_attempted_order_status_string": "Versand versucht",
       "delivery_attempted_info_note": "Der Versanddienstleister hat versucht, das Buch zuzustellen, konnte jedoch nicht. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
       "tracking_info_not_present_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
       "shipped_order_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Das tatsächliche Lieferdatum kann aufgrund externer Faktoren variieren."

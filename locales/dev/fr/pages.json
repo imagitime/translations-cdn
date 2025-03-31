@@ -1,16 +1,16 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Pour qui souhaitez-vous faire le livre ?"
+      "whoToMakeBookFor": "Pour qui souhaitez-vous créer ce livre ?"
     },
     "labels": {
-      "childName": "Prénom de l'enfant pour l'histoire",
+      "childName": "Prénom de l'enfant",
       "childAge": "Sélectionnez l'âge actuel",
       "birthMonth": "Sélectionnez le mois de naissance",
       "adultName": "Prénom",
-      "bodyType": "Sélectionnez leur type de corps",
+      "bodyType": "Sélectionnez leur corpulence",
       "adultAge": "Sélectionnez l'âge",
-      "giverName": "Nom du donateur (Votre nom)",
+      "giverName": "Votre nom",
       "language": "Langue"
     },
     "genderOptions": {
@@ -23,7 +23,7 @@
       "nextStep": "Étape suivante ➔ Télécharger des photos"
     },
     "validation": {
-      "tooLongForBook": "C'est trop long pour le livre."
+      "tooLongForBook": "Ça, c'est un peu trop long."
     },
     "months": {
       "january": "Janvier",
@@ -47,12 +47,12 @@
       "uploadAnother": "Téléchargez une autre photo de {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Photos solo seulement",
+      "soloPhotos": "Uniquement les photos tout(e) seul(e)",
       "facingCamera": {
         "child": "L'enfant doit <strong>faire face à la caméra</strong>",
         "person": "La personne doit <strong>faire face à la caméra</strong>"
       },
-      "frontFacingSmiling": "Face à la caméra & Sourire",
+      "frontFacingSmiling": "Face à la caméra & avec un gros sourire",
       "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
       "noPacifierCap": "Pas de tétine, pas de casquette",
       "noOneElse": "<strong>Personne d'autre</strong> ne doit être sur la photo",
@@ -66,12 +66,12 @@
       },
       "recommended": {
         "range": "2 à 4 photos",
-        "careerBook": "5 minimum, 15 recommandé"
+        "careerBook": "5 minimum, 15 recommandés"
       }
     },
     "qualityGuidelines": {
       "highQuality": "Haute qualité, pas flou",
-      "soloOnly": "Photos solo uniquement"
+      "soloOnly": "Uniquement les photos tout(e) seul(e)"
     },
     "privacy": {
       "standard": "Nous suivons des normes strictes de confidentialité des données.",
@@ -79,14 +79,14 @@
     },
     "buttons": {
       "finishedUploading": "Téléchargement terminé",
-      "uploadPhotos": "Télécharger des Photos",
-      "choosePhoto": "Choisir une Photo",
+      "uploadPhotos": "Télécharger les photos",
+      "choosePhoto": "Choisir une photo",
       "showPreview": "Afficher l'aperçu du livre de {{name}}",
       "lastStepPages": "Dernière étape : Sélectionner les pages"
     },
     "uploadOptions": {
-      "gallery": "Choisir depuis la Galerie",
-      "camera": "Prendre une Photo",
+      "gallery": "Choisir depuis la galerie",
+      "camera": "Prendre une photo",
       "cancel": "Annuler"
     },
     "errors": {
@@ -165,14 +165,14 @@
       "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois satisfait de toutes les pages, appuyez sur le bouton \"Approuver pour impression\"",
-      "postOrderSwipeInstructions1": "Balayez parmi les choix de pages et amenez chaque page à l'option que vous aimez",
+      "postOrderSwipeInstructions1": "Faites défiler parmi les options de page et amenez chaque page à l'option que vous préférez.",
       "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour impression\"",
       "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
       "fixedInstructions2": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page"
     },
     "status": {
       "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
-      "support": "Questions? Écrivez à support@imagitime.com",
+      "support": "Questions ? Écrivez à support@imagitime.com",
       "cancelled": "Cette commande a été annulée.",
       "printing": "Ce livre a déjà été envoyé pour impression.",
       "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
@@ -188,7 +188,7 @@
       "lessThan": "Moins de <strong>{{time}}</strong> restant pour charger le livre de {{name}}"
     },
     "timeUnits": {
-      "minute": "{{count}} min",
+      "minute": "{{count}} min ",
       "minutes": "{{count}} mins",
       "second": "{{count}} sec",
       "seconds": "{{count}} secs"
@@ -230,7 +230,7 @@
     "subscription": {
       "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
       "yes": "Oui, j'adorerais",
-      "no": "Non, je paierai le prix plein"
+      "no": "Non, je paierai le prix complet"
     },
     "buttons": {
       "savePreview": "Enregistrer l'aperçu et afficher le prix"
@@ -249,7 +249,7 @@
       "buyHardcover": "Acheter Relié",
       "buyPaperback": "Acheter Broché",
       "goBackToPreview": "Retourner à l'Aperçu",
-      "subscribeGetDiscount": "S'abonner et Obtenir 10% de Réduction"
+      "subscribeGetDiscount": "S'abonner et obtenir 10% de réduction"
     },
     "shipping": {
       "info": "+ {{price}} frais de livraison partout en {{region}}",
@@ -265,7 +265,7 @@
       "ambassador": "{{percentage}}% Réduction d'Ambassadeur Déverrouillée"
     },
     "subscription": {
-      "heading": "Voulez-vous 10% de Réduction?",
+      "heading": "Voulez-vous 10% de Réduction ?",
       "description": "Abonnez-vous à nos emails pour obtenir une réduction instantanée de 10% et un accès anticipé aux nouvelles sorties de livres."
     },
     "badges": {
@@ -311,15 +311,15 @@
       "ideas": "Idées de message de dédicace"
     },
     "placeholder": {
-      "default": "Cher {{name}},\n\nQue vos rêves soient aussi vastes que le ciel et que votre esprit s'élève toujours plus haut. Je vous souhaite le meilleur toujours.\n\nAvec amour, Maman & Papa"
+      "default": "Cher/Chère {{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec tout notre amour, Maman & Papa"
     },
     "thankYou": {
       "heading": "Merci !",
-      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en accédant à l'aperçu du livre et vérifiez si des fautes de frappe ou des erreurs grammaticales sont présentes."
+      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en consultant l'aperçu du livre et vérifier s'il y a des fautes de frappe ou des erreurs grammaticales."
     },
     "printFreeze": {
       "heading": "Ce livre a déjà été envoyé pour impression",
-      "message": "Il n'est plus possible de personnaliser le message de dédicace. Pour toute question, veuillez contacter support@imagitime.com"
+      "message": "Il n'est plus possible de personnaliser le message de dédicace. Pour toute question, veuillez contacter support@imagitime.com."
     }
   },
   "TrackOrders": {
@@ -366,7 +366,7 @@
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Merci, vous êtes vraiment formidable!",
+      "heading": "Merci, vous êtes vraiment formidable !",
       "message": "Vous venez de créer une histoire unique pour {{name}}",
       "tracking": "Une fois le livre imprimé et expédié, nous vous enverrons les informations de suivi par email."
     }
