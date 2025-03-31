@@ -76,5 +76,12 @@
       "processingUploadPhoto": "Traitement de la photo téléchargée {processed_count} sûr {total_count} ...",
       "preparingForGeneration": "Préparation pour la génération ..."
     }
+  },
+  "adminOrderStatus": {
+    "salutation": "Coucou {name},",
+    "genericSalutation": "Coucou,",
+    "pendingPrinting": "Votre livre sera bientôt envoyé pour impression. Comme notre livre est fait sur mesure pour chaque individu, cela prend généralement entre {min_days} et {max_days} jours pour la révision, l'impression, la reliure et l'expédition. Nous partagerons les détails de suivi dès qu'il sera expédié de l'imprimerie. Merci de votre patience et compréhension.",
+    "shipped": "Votre livre a été imprimé et expédié par {carrier}. Voici le lien de suivi.",
+    "inPrinting": "Votre livre est actuellement en cours d'impression et de reliure. Comme notre livre est fait sur mesure pour chaque individu, cela prend généralement entre {min_days} et {max_days} jours de la commande à la livraison. Nous partagerons les détails de suivi dès qu'il sera expédié de l'imprimerie. Merci de votre patience et compréhension."
   }
 }
