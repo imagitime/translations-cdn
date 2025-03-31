@@ -1,0 +1,374 @@
+{
+  "InitialForm": {
+    "headings": {
+      "whoToMakeBookFor": "Für wen möchten Sie das Buch erstellen?"
+    },
+    "labels": {
+      "childName": "Vorname des Kindes für die Geschichte",
+      "childAge": "Aktuelles Alter auswählen",
+      "birthMonth": "Geburtsmonat auswählen",
+      "adultName": "Vorname",
+      "bodyType": "Körpertyp auswählen",
+      "adultAge": "Alter auswählen",
+      "giverName": "Name des Schenkenden (Ihr Name)",
+      "language": "Sprache"
+    },
+    "genderOptions": {
+      "boy": "Junge",
+      "girl": "Mädchen",
+      "masculine": "Männlich",
+      "feminine": "Weiblich"
+    },
+    "buttons": {
+      "nextStep": "Nächster Schritt ➔ Fotos hochladen"
+    },
+    "validation": {
+      "tooLongForBook": "Das ist zu lang für das Buch."
+    },
+    "months": {
+      "january": "Januar",
+      "february": "Februar",
+      "march": "März",
+      "april": "April",
+      "may": "Mai",
+      "june": "Juni",
+      "july": "Juli",
+      "august": "August",
+      "september": "September",
+      "october": "Oktober",
+      "november": "November",
+      "december": "Dezember"
+    }
+  },
+  "UploadCommon": {
+    "headings": {
+      "lastStep": "Letzter Schritt",
+      "uploadMore": "Weitere Fotos von {{name}} hochladen",
+      "uploadAnother": "Ein weiteres Foto von {{name}} hochladen"
+    },
+    "instructions": {
+      "soloPhotos": "Nur Einzelfotos",
+      "facingCamera": {
+        "child": "Das Kind sollte <strong>zur Kamera schauen</strong>",
+        "person": "Die Person sollte <strong>zur Kamera schauen</strong>"
+      },
+      "frontFacingSmiling": "Vorne zugewandt & lächeln",
+      "noSunglassesCap": "Keine Sonnenbrille, keine Mütze",
+      "noPacifierCap": "Kein Schnuller, keine Mütze",
+      "noOneElse": "<strong>Niemand sonst</strong> sollte im Bild sein",
+      "faceEdges": "Gesicht & Haare sollten <strong>die Ränder nicht berühren</strong>",
+      "noObstructions": "Hände oder Gegenstände sollten <strong>das Gesicht nicht verdecken</strong>"
+    },
+    "photoRequirements": {
+      "minimum": {
+        "regular": "Mindestens 2 Fotos für die Vorschau erforderlich",
+        "career": "Mindestens 5 Fotos für die Vorschau erforderlich"
+      },
+      "recommended": {
+        "range": "2 bis 4 Fotos",
+        "careerBook": "Mindestens 5, empfohlen 15"
+      }
+    },
+    "qualityGuidelines": {
+      "highQuality": "Hohe Qualität, nicht verschwommen",
+      "soloOnly": "Nur Einzelfotos"
+    },
+    "privacy": {
+      "standard": "Wir folgen strengen Datenschutzrichtlinien.",
+      "confidential": "Die Fotos bleiben vertraulich und dienen nur zur Erstellung des persönlichen Buches."
+    },
+    "buttons": {
+      "finishedUploading": "Hochladen abgeschlossen",
+      "uploadPhotos": "Fotos hochladen",
+      "choosePhoto": "Foto auswählen",
+      "showPreview": "Vorschau des Buches von {{name}}'s anzeigen",
+      "lastStepPages": "Letzter Schritt: Seiten auswählen"
+    },
+    "uploadOptions": {
+      "gallery": "Aus der Galerie auswählen",
+      "camera": "Foto machen",
+      "cancel": "Abbrechen"
+    },
+    "errors": {
+      "invalidType": "Ungültiger Dateityp. Erlaubte Typen sind: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "fileTooLarge": "Dateigröße überschreitet das Limit von 20MB. Aktuelle Größe: {{size}}MB",
+      "dimensionsTooSmall": "Bildabmessungen zu klein. Die Mindestgröße beträgt 100x100 Pixel.",
+      "dimensionsTooLarge": "Bildabmessungen zu groß. Die Höchstgröße beträgt 5000x5000 Pixel.",
+      "invalidImage": "Ungültige Bilddatei"
+    }
+  },
+  "UploadPhotosRealtime": {
+    "headings": {
+      "uploadRecent": "Neueste Fotos von {{name}} hochladen"
+    }
+  },
+  "UploadPhotosUniversal": {
+    "headings": {
+      "uploadPhotos": "Laden Sie {{minCount}} bis {{maxCount}} Fotos von {{name}} hoch"
+    }
+  },
+  "UploadMorePhotos": {
+    "headings": {
+      "uploadMore": "Weitere Fotos von {{name}} hochladen"
+    }
+  },
+  "UploadAnotherPhoto": {
+    "headings": {
+      "uploadAnother": "Ein weiteres Foto von {{name}} hochladen"
+    }
+  },
+  "BookPreview": {
+    "headings": {
+      "pageTitle": "{{name}}'s Buchvorschau"
+    },
+    "morePhotosQuestion": "Möchten Sie die Vorschau verbessern?",
+    "differentPhotoQuestion": "Möchten Sie ein anderes Foto ausprobieren?",
+    "editPagesQuestion": "Möchten Sie die Seitenauswahl bearbeiten oder Fotos hinzufügen?",
+    "buttons": {
+      "editPageSelection": "Seitenauswahl bearbeiten",
+      "generateMoreOptions": "Mehr Optionen generieren",
+      "uploadMorePhotos": "Zum Verbessern: Weitere Fotos hochladen",
+      "emailPreview": "Schicken Sie mir stattdessen die Vorschau per E-Mail",
+      "savePreview": "Vorschau speichern & Preis anzeigen",
+      "changePicture": "Bild ändern",
+      "change": "Ändern",
+      "createSimilar": "Ähnliches erstellen",
+      "buyDedication": "Individuelle Widmung kaufen",
+      "editDedication": "Widmungsnachricht bearbeiten",
+      "approveForPrinting": "Zum Druck freigeben",
+      "reapproveForPrinting": "Erneut zum Druck freigeben",
+      "uploadAnother": "Ein weiteres Foto hochladen",
+      "addMore": "Mehr Fotos hinzufügen",
+      "generateFromOtherPhotos": "Aus anderen Fotos generieren"
+    },
+    "noUsablePhotos": {
+      "heading": "Keine verwendbaren Fotos",
+      "text": "Wir konnten keines Ihrer hochgeladenen Fotos in der Vorschau verwenden aus einem oder mehreren der folgenden Gründe:",
+      "reasons": {
+        "multiplePeople": "Mehrere Personen auf dem Foto",
+        "faceEdges": "Gesicht oder Haar schneidet an den Rändern ab",
+        "blurry": "Unscharfe Fotoqualität",
+        "obstruction": "Etwas verdeckt das Gesicht"
+      },
+      "uploadPrompt": "Bitte verwenden Sie die Schaltfläche \"Weitere Fotos hochladen\", um geeignete Bilder hinzuzufügen."
+    },
+    "page": {
+      "number": "Seite {{number}}",
+      "loading": "Bild für Seite {{number}} wird geladen",
+      "generating": "Optionen für Seite {{number}} werden generiert",
+      "generatingMoreOptions": "Weitere Optionen werden generiert",
+      "generatingTime": "Dauert etwa 60 Sekunden",
+      "waiting": "Warte auf das Laden von Seite {{number}}"
+    },
+    "instructions": {
+      "instruction1": "Seiten werden untereinander angezeigt",
+      "instruction2": "Wischen Sie und lassen Sie jede Seite bei der Option, die Ihnen am besten gefällt",
+      "postOrderInstructions1": "\"Bild ändern\"-Taste drücken, um alternative Optionen für eine Seite auszuwählen",
+      "postOrderInstructions2": "Sobald Sie alle Seiten überprüft haben, drücken Sie die Taste \"Zum Druck freigeben\"",
+      "postOrderSwipeInstructions1": "Wischen Sie zwischen den Seitenoptionen und wählen Sie die gewünschte Option für jede Seite",
+      "postOrderSwipeInstructions2": "Sobald alle Seiten finalisiert sind, drücken Sie die Taste \"Zum Druck freigeben\"",
+      "fixedInstructions1": "Seiten werden untereinander angezeigt",
+      "fixedInstructions2": "\"Bild ändern\"-Taste drücken, um alternative Optionen für eine Seite auszuwählen"
+    },
+    "status": {
+      "deleted": "Das generierte Buch sowie hochgeladene Fotos wurden gelöscht und sind nicht mehr verfügbar.",
+      "support": "Fragen? Schreiben Sie an support@imagitime.com",
+      "cancelled": "Diese Bestellung wurde storniert.",
+      "printing": "Dieses Buch wurde bereits zum Druck geschickt.",
+      "shipped": "Dieses Buch wurde am {{date}} verschickt<br>Versandunternehmen: {{carrier}}<br>Verfolgungscode: {{tracking}}"
+    },
+    "timer": {
+      "message": "Erstellen von {{name}}'s Buch..."
+    },
+    "notification": {
+      "heading": "Keine Zeit zum Warten?"
+    },
+    "scrollIndicator": "Scrollen Sie nach unten, um alle Seiten zu sehen",
+    "timeRemaining": {
+      "lessThan": "Weniger als <strong>{{time}}</strong> verbleiben zum Laden von {{name}}'s Buch"
+    },
+    "timeUnits": {
+      "minute": "{{count}} Min.",
+      "minutes": "{{count}} Minuten",
+      "second": "{{count}} Sek",
+      "seconds": "{{count}} Sek"
+    }
+  },
+  "ContactDetails": {
+    "headings": {
+      "whereToSend": "Wohin sollen wir die Vorschau von {{name}}'s Buch senden?"
+    },
+    "labels": {
+      "email": "E-Mail",
+      "yourName": "Ihr Name"
+    },
+    "subscription": {
+      "question": "Möchten Sie 10% Sofortrabatt und frühen Zugang zu neuen Buchveröffentlichungen, indem Sie unserer Mailingliste beitreten?",
+      "yes": "Ja, das würde mich freuen",
+      "no": "Nein, danke"
+    },
+    "buttons": {
+      "sendPreview": "Senden Sie mir die Vorschau"
+    },
+    "thankYou": {
+      "heading": "Danke!",
+      "message": "Wir haben Ihre Anfrage erhalten. Wir senden Ihnen die Buchvorschau, sobald sie bereit ist.",
+      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Andere Bücher erkunden</b></a>, die wir haben."
+    }
+  },
+  "InterestedContact": {
+    "headings": {
+      "emailPreview": "E-Mail {{name}}'s Vorschau-Link senden & Preis des gedruckten Buches anzeigen"
+    },
+    "labels": {
+      "email": "E-Mail",
+      "yourName": "Ihr Name"
+    },
+    "descriptions": {
+      "email": "Wir schicken Ihnen den Vorschau-Link per E-Mail."
+    },
+    "subscription": {
+      "question": "Möchten Sie 10% Sofortrabatt und frühen Zugang zu neuen Buchveröffentlichungen, indem Sie unserer Mailingliste beitreten?",
+      "yes": "Ja, das würde mich freuen",
+      "no": "Nein, ich zahle den vollen Preis"
+    },
+    "buttons": {
+      "savePreview": "Vorschau speichern & Preis anzeigen"
+    }
+  },
+  "InterestedPage": {
+    "headings": {
+      "pageTitle": "Individuelles Geschichtenbuch von {{name}}"
+    },
+    "offer": {
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Botschafter-Rabatt freigeschaltet",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Druck & Lieferung dauert {{min}} bis {{max}} Tage, bestellen Sie bitte entsprechend",
+      "changesAllowed": "Nach der Bestellung können Sie 12 Stunden lang noch Änderungen vornehmen."
+    },
+    "buttons": {
+      "buyHardcover": "Gebundene Ausgabe kaufen",
+      "buyPaperback": "Taschenbuch kaufen",
+      "goBackToPreview": "Zurück zur Vorschau",
+      "subscribeGetDiscount": "Abonnieren & 10% Rabatt erhalten"
+    },
+    "shipping": {
+      "info": "+ {{price}} Versand überall in {{region}}",
+      "freeInfo": "Kostenloser Versand überall in {{region}}"
+    },
+    "delivery": {
+      "info": "Lieferung in {{min}} bis {{max}} Tagen",
+      "timeline": "Druck & Lieferung dauert {{min}} bis {{max}} Tage, bestellen Sie bitte entsprechend"
+    },
+    "discount": {
+      "subscriber": "{{percentage}}% Abonnentenrabatt angewendet",
+      "limited": "{{percentage}}% Rabatt für begrenzte Zeit angewendet",
+      "ambassador": "{{percentage}}% Botschafter-Rabatt freigeschaltet"
+    },
+    "subscription": {
+      "heading": "Möchten Sie 10% Rabatt?",
+      "description": "Abonnieren Sie unsere E-Mails, um 10% Sofortrabatt und Vorabzugang zu neuen Buchveröffentlichungen zu erhalten."
+    },
+    "badges": {
+      "popularChoice": "⭐ Beliebte Wahl ⭐",
+      "soldOut": "Ausverkauft"
+    }
+  },
+  "Dedication": {
+    "headings": {
+      "makeSpecial": "Machen Sie das Buch noch spezieller"
+    },
+    "buttons": {
+      "buyCustomized": "Individuelle Widmung kaufen"
+    },
+    "descriptions": {
+      "personalTouch": "Fügen Sie Ihrem Geschenk eine persönliche Note hinzu.",
+      "heartfeltMessage": "Ob ermutigende Worte oder eine spezielle Nachricht, überraschen Sie sie mit einer herzlichen Widmung.",
+      "customize": "Nach dem Kauf können Sie die Nachricht anpassen."
+    }
+  },
+  "DedicationMessage": {
+    "headings": {
+      "writeMessage": "Schreiben Sie Ihre eigene Nachricht",
+      "writeMessageFor": "Schreiben Sie Ihre eigene Nachricht für {{name}}"
+    },
+    "descriptions": {
+      "charLimit": "Weniger als {{chars}} Zeichen und maximal {{lines}} separate Zeilen."
+    },
+    "errors": {
+      "exceededChars": "{{count}} Zeichen überschritten",
+      "noEmojis": "Bitte entfernen Sie Emojis",
+      "linesExceeded": "{{count}} Zeilen überschritten"
+    },
+    "counter": {
+      "remaining": "{{count}} Zeichen übrig"
+    },
+    "buttons": {
+      "addMessage": "Personalisierte Nachricht hinzufügen",
+      "useTemplate": "Vorlage verwenden",
+      "goToPreview": "Zur Buchvorschau gehen"
+    },
+    "labels": {
+      "ideas": "Ideen für Widmungen"
+    },
+    "placeholder": {
+      "default": "Liebe/r {{name}},\n\nMöge dein Ehrgeiz grenzenlos wie der Himmel sein und dein Geist immer hochfliegen. Ich wünsche dir immer das Beste.\n\nLiebe Grüße, Mama & Papa"
+    },
+    "thankYou": {
+      "heading": "Danke!",
+      "message": "Wir haben Ihre personalisierte Nachricht hinzugefügt. Bitte überprüfen Sie die Widmungsseite (Seite 2) in der Buchvorschau und achten Sie auf Tippfehler oder grammatische Fehler."
+    },
+    "printFreeze": {
+      "heading": "Dieses Buch wurde bereits zum Druck geschickt",
+      "message": "Es ist nicht mehr möglich, die Widmungsnachricht anzupassen. Bei Fragen wenden Sie sich bitte an support@imagitime.com"
+    }
+  },
+  "TrackOrders": {
+    "headings": {
+      "pageTitle": "Verfolgen Sie Ihre Bestellungen",
+      "enterVerification": "Bestätigungscode eingeben",
+      "yourOrders": "Ihre Bestellungen"
+    },
+    "placeholder": {
+      "email": "Geben Sie Ihre E-Mail-Adresse ein",
+      "otp": "6-stelligen Code eingeben"
+    },
+    "instructions": {
+      "enterOTP": "Bitte geben Sie den an Ihre E-Mail gesendeten Code ein"
+    },
+    "buttons": {
+      "getOTP": "Code erhalten",
+      "verifyOTP": "Code überprüfen",
+      "resendOTP": "Code erneut senden",
+      "trackPackage": "Paket verfolgen",
+      "trackShipping": "Versand verfolgen"
+    },
+    "labels": {
+      "orderNumber": "Bestellung #{{number}}",
+      "estimatedDelivery": "Voraussichtliche Lieferung:",
+      "shippingAddress": "Lieferadresse"
+    },
+    "messages": {
+      "otpSent": "Code erfolgreich gesendet!",
+      "otpFailed": "Fehler beim Senden des Codes",
+      "error": "Ein Fehler ist aufgetreten",
+      "invalidOTP": "Ungültiger Code. Bitte versuchen Sie es erneut.",
+      "verifyError": "Ein Fehler ist bei der Überprüfung des Codes aufgetreten",
+      "noOrders": "Keine Bestellungen gefunden."
+    },
+    "timer": {
+      "resendAvailable": "Erneut senden in {{seconds}} Sekunden möglich"
+    },
+    "status": {
+      "printed": "Gedruckt",
+      "printing": "Druck läuft",
+      "pending": "Wird bald zum Drucken freigegeben"
+    }
+  },
+  "ThanksForApproving": {
+    "thankYou": {
+      "heading": "Danke, du bist wirklich wunderbar!",
+      "message": "Sie haben gerade eine einzigartige Geschichte für {{name}} erstellt",
+      "tracking": "Sobald das Buch gedruckt und versandt wird, senden wir die Sendungsverfolgungsinformationen an Ihre E-Mail."
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "InitialForm": {
+    "headings": {
+      "whoToMakeBookFor": "Who would you like to make the book for?"
+    },
+    "labels": {
+      "childName": "Child's First Name For Story",
+      "childAge": "Select Current Age",
+      "birthMonth": "Select Birth Month",
+      "adultName": "First Name",
+      "bodyType": "Select Their Body Type",
+      "adultAge": "Select Age",
+      "giverName": "Giver's Name (Your Name)",
+      "language": "Language"
+    },
+    "genderOptions": {
+      "boy": "Boy",
+      "girl": "Girl",
+      "masculine": "Masculine",
+      "feminine": "Feminine"
+    },
+    "buttons": {
+      "nextStep": "Next Step ➔ Upload Photos"
+    },
+    "validation": {
+      "tooLongForBook": "That's too long for the book."
+    },
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    }
+  },
+  "UploadCommon": {
+    "headings": {
+      "lastStep": "Last Step",
+      "uploadMore": "Upload more photos of {{name}}",
+      "uploadAnother": "Upload another photo of {{name}}"
+    },
+    "instructions": {
+      "soloPhotos": "Solo Photos Only",
+      "facingCamera": {
+        "child": "Child should be <strong>facing the camera</strong>",
+        "person": "Person should be <strong>facing the camera</strong>"
+      },
+      "frontFacingSmiling": "Front Facing & Smiling",
+      "noSunglassesCap": "No Sunglasses, No Cap",
+      "noPacifierCap": "No Pacifier, No Cap",
+      "noOneElse": "<strong>No one else</strong> should be in the picture",
+      "faceEdges": "Face & hair should <strong>not touch the edges</strong>",
+      "noObstructions": "Hands or objects should <strong>not obstruct the face</strong>"
+    },
+    "photoRequirements": {
+      "minimum": {
+        "regular": "Minimum 2 Photos required for preview",
+        "career": "At least 5 photos required for preview"
+      },
+      "recommended": {
+        "range": "2 to 4 photos",
+        "careerBook": "5 minimum, 15 recommended"
+      }
+    },
+    "qualityGuidelines": {
+      "highQuality": "High quality, not blurry",
+      "soloOnly": "Solo photos only"
+    },
+    "privacy": {
+      "standard": "We follow strict data privacy standards.",
+      "confidential": "The photos are kept confidential and are only for crafting the personalised book."
+    },
+    "buttons": {
+      "finishedUploading": "Finished Uploading",
+      "uploadPhotos": "Upload Photos",
+      "choosePhoto": "Choose Photo",
+      "showPreview": "Show {{name}}'s Book Preview",
+      "lastStepPages": "Last Step: Select Pages"
+    },
+    "uploadOptions": {
+      "gallery": "Choose from Gallery",
+      "camera": "Take Photo",
+      "cancel": "Cancel"
+    },
+    "errors": {
+      "invalidType": "Invalid file type. Allowed types are: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "fileTooLarge": "File size exceeds 20MB limit. Current size: {{size}}MB",
+      "dimensionsTooSmall": "Image dimensions too small. Minimum size is 100x100 pixels.",
+      "dimensionsTooLarge": "Image dimensions too large. Maximum size is 5000x5000 pixels.",
+      "invalidImage": "Invalid image file"
+    }
+  },
+  "UploadPhotosRealtime": {
+    "headings": {
+      "uploadRecent": "Upload recent photos of {{name}}"
+    }
+  },
+  "UploadPhotosUniversal": {
+    "headings": {
+      "uploadPhotos": "Upload {{minCount}} to {{maxCount}} photos of {{name}}"
+    }
+  },
+  "UploadMorePhotos": {
+    "headings": {
+      "uploadMore": "Upload more photos of {{name}}"
+    }
+  },
+  "UploadAnotherPhoto": {
+    "headings": {
+      "uploadAnother": "Upload another photo of {{name}}"
+    }
+  },
+  "BookPreview": {
+    "headings": {
+      "pageTitle": "{{name}}'s Book Preview"
+    },
+    "morePhotosQuestion": "Want to improve the preview?",
+    "differentPhotoQuestion": "Want to try a different photo?",
+    "editPagesQuestion": "Want to edit page selection or add photos?",
+    "buttons": {
+      "editPageSelection": "Edit Page Selection",
+      "generateMoreOptions": "Generate More Options",
+      "uploadMorePhotos": "To Enhance: Upload More Photos",
+      "emailPreview": "Email Me The Preview Instead",
+      "savePreview": "Save Preview & Show Price",
+      "changePicture": "Change Picture",
+      "change": "Change",
+      "createSimilar": "Create Similar",
+      "buyDedication": "Buy Customized Dedication",
+      "editDedication": "Edit Dedication Message",
+      "approveForPrinting": "Approve For Printing",
+      "reapproveForPrinting": "Re-approve For Printing",
+      "uploadAnother": "Upload Another Photo",
+      "addMore": "Add More Photos",
+      "generateFromOtherPhotos": "Generate From Other Photos"
+    },
+    "noUsablePhotos": {
+      "heading": "No Usable Photos",
+      "text": "We were unable to use any of your uploaded photos in the story preview due to one or more of the following reasons:",
+      "reasons": {
+        "multiplePeople": "Multiple people present in the photo",
+        "faceEdges": "Face or hair intersecting the edges",
+        "blurry": "Blurry photo quality",
+        "obstruction": "Something obstructing the face"
+      },
+      "uploadPrompt": "Please use the \"Upload More Photos\" button to add suitable images."
+    },
+    "page": {
+      "number": "Page {{number}}",
+      "loading": "Loading image for page {{number}}",
+      "generating": "Generating options for page {{number}}",
+      "generatingMoreOptions": "Generating More Options",
+      "generatingTime": "Takes around 60 seconds",
+      "waiting": "Waiting to load page {{number}}"
+    },
+    "instructions": {
+      "instruction1": "Pages get shown one below the other",
+      "instruction2": "Swipe and leave each page at the option you like best",
+      "postOrderInstructions1": "Press 'Change Picture' button to swipe to alternative choices for a page",
+      "postOrderInstructions2": "Once you're satisfied with all pages, press the \"Approve For Printing\" button",
+      "postOrderSwipeInstructions1": "Swipe among the page choices and bring each page to the option you like",
+      "postOrderSwipeInstructions2": "Once all pages are finalized, press the \"Approve For Printing\" button",
+      "fixedInstructions1": "The pages will get shown one below the other",
+      "fixedInstructions2": "Press 'Change Picture' button to swipe to alternative choices for a page"
+    },
+    "status": {
+      "deleted": "The generated book as well as uploaded photos have been deleted and are no longer available.",
+      "support": "Queries? Write to support@imagitime.com",
+      "cancelled": "This order has been cancelled.",
+      "printing": "This book has already been sent for printing.",
+      "shipped": "This book has been shipped on {{date}}<br>Shipping Carrier: {{carrier}}<br>Tracking Code: {{tracking}}"
+    },
+    "timer": {
+      "message": "Creating {{name}}'s Book..."
+    },
+    "notification": {
+      "heading": "Don’t have time to wait?"
+    },
+    "scrollIndicator": "Scroll down to see all pages",
+    "timeRemaining": {
+      "lessThan": "Less than <strong>{{time}}</strong> remaining to load {{name}}'s book"
+    },
+    "timeUnits": {
+      "minute": "{{count}} min",
+      "minutes": "{{count}} min",
+      "second": "{{count}} sec",
+      "seconds": "{{count}} sec"
+    }
+  },
+  "ContactDetails": {
+    "headings": {
+      "whereToSend": "Where should we send {{name}}'s book preview?"
+    },
+    "labels": {
+      "email": "Email",
+      "yourName": "Your Name"
+    },
+    "subscription": {
+      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
+      "yes": "Yes, I'd love that",
+      "no": "No, thanks"
+    },
+    "buttons": {
+      "sendPreview": "Send Me The Preview"
+    },
+    "thankYou": {
+      "heading": "Thank You!",
+      "message": "We've received your request. We'll send you the book preview once it is ready.",
+      "explore": "Meanwhile, you can <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explore Other Books</b></a> we have."
+    }
+  },
+  "InterestedContact": {
+    "headings": {
+      "emailPreview": "Email {{name}}'s preview link & show price of printed book"
+    },
+    "labels": {
+      "email": "Email",
+      "yourName": "Your Name"
+    },
+    "descriptions": {
+      "email": "We'll email you the preview link."
+    },
+    "subscription": {
+      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
+      "yes": "Yes, I'd love that",
+      "no": "No, I'll pay full price"
+    },
+    "buttons": {
+      "savePreview": "Save Preview & Show Price"
+    }
+  },
+  "InterestedPage": {
+    "headings": {
+      "pageTitle": "{{name}}'s Personalized Storybook"
+    },
+    "offer": {
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador Discount Unlocked",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Printing & delivery takes {{min}} to {{max}} days, so please order accordingly",
+      "changesAllowed": "Once you order, you can still make changes for 12 hours."
+    },
+    "buttons": {
+      "buyHardcover": "Buy Hardcover",
+      "buyPaperback": "Buy Paperback",
+      "goBackToPreview": "Go Back To Preview",
+      "subscribeGetDiscount": "Subscribe & Get 10% Off"
+    },
+    "shipping": {
+      "info": "+ {{price}} shipping anywhere in {{region}}",
+      "freeInfo": "Free shipping anywhere in {{region}}"
+    },
+    "delivery": {
+      "info": "Delivery in {{min}} to {{max}} days",
+      "timeline": "Printing & delivery takes {{min}} to {{max}} days, so please order accordingly"
+    },
+    "discount": {
+      "subscriber": "{{percentage}}% Subscriber Discount Applied",
+      "limited": "{{percentage}}% Limited Time Discount Applied",
+      "ambassador": "{{percentage}}% Ambassador Discount Unlocked"
+    },
+    "subscription": {
+      "heading": "Want 10% Off?",
+      "description": "Subscribe to our emails to get 10% instant discount and early access to new book releases."
+    },
+    "badges": {
+      "popularChoice": "⭐ Popular Choice ⭐",
+      "soldOut": "Sold out"
+    }
+  },
+  "Dedication": {
+    "headings": {
+      "makeSpecial": "Make the book even more special"
+    },
+    "buttons": {
+      "buyCustomized": "Buy Customized Dedication"
+    },
+    "descriptions": {
+      "personalTouch": "Add a personal touch to your gift.",
+      "heartfeltMessage": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message.",
+      "customize": "You'll be able to customize the message after purchasing."
+    }
+  },
+  "DedicationMessage": {
+    "headings": {
+      "writeMessage": "Write your own message",
+      "writeMessageFor": "Write your own message for {{name}}"
+    },
+    "descriptions": {
+      "charLimit": "Less than {{chars}} characters and maximum {{lines}} separate lines."
+    },
+    "errors": {
+      "exceededChars": "Exceeded {{count}} characters",
+      "noEmojis": "Please remove emojis",
+      "linesExceeded": "{{count}} lines exceeded"
+    },
+    "counter": {
+      "remaining": "{{count}} characters left"
+    },
+    "buttons": {
+      "addMessage": "Add Personalized Message",
+      "useTemplate": "Use Template",
+      "goToPreview": "Go To Book Preview"
+    },
+    "labels": {
+      "ideas": "Dedication Message Ideas"
+    },
+    "placeholder": {
+      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+    },
+    "thankYou": {
+      "heading": "Thank You!",
+      "message": "We have added your personalised message. Please review the dedication page (page 2) by going to the book preview and double-check for any typos or grammatical errors."
+    },
+    "printFreeze": {
+      "heading": "This book has already been given for printing",
+      "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
+    }
+  },
+  "TrackOrders": {
+    "headings": {
+      "pageTitle": "Track Your Orders",
+      "enterVerification": "Enter Verification Code",
+      "yourOrders": "Your Orders"
+    },
+    "placeholder": {
+      "email": "Enter your email",
+      "otp": "Enter 6-digit Code"
+    },
+    "instructions": {
+      "enterOTP": "Please enter the code sent to your email"
+    },
+    "buttons": {
+      "getOTP": "Get Code",
+      "verifyOTP": "Verify Code",
+      "resendOTP": "Resend Code",
+      "trackPackage": "Track Package",
+      "trackShipping": "Track Shipping"
+    },
+    "labels": {
+      "orderNumber": "Order #{{number}}",
+      "estimatedDelivery": "Estimated Delivery:",
+      "shippingAddress": "Shipping Address"
+    },
+    "messages": {
+      "otpSent": "Code sent successfully!",
+      "otpFailed": "Failed to send code",
+      "error": "An error occurred",
+      "invalidOTP": "Invalid code. Please try again.",
+      "verifyError": "An error occurred while verifying code",
+      "noOrders": "No orders found."
+    },
+    "timer": {
+      "resendAvailable": "Resend available in {{seconds}} seconds"
+    },
+    "status": {
+      "printed": "Printed",
+      "printing": "Printing in progress",
+      "pending": "Will be given for printing soon"
+    }
+  },
+  "ThanksForApproving": {
+    "thankYou": {
+      "heading": "Thank You, You're Truly Wonderful!",
+      "message": "You've just crafted a unique tale for {{name}}",
+      "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
+    }
+  }
+}
