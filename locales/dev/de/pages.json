@@ -52,7 +52,7 @@
         "child": "Das Kind sollte <strong>zur Kamera schauen</strong>",
         "person": "Die Person sollte <strong>zur Kamera schauen</strong>"
       },
-      "frontFacingSmiling": "Vorne zugewandt & lächeln",
+      "frontFacingSmiling": "Nach vorne gewandt & lächeln",
       "noSunglassesCap": "Keine Sonnenbrille, keine Mütze",
       "noPacifierCap": "Kein Schnuller, keine Mütze",
       "noOneElse": "<strong>Niemand sonst</strong> sollte im Bild sein",
@@ -91,7 +91,7 @@
     },
     "errors": {
       "invalidType": "Ungültiger Dateityp. Erlaubte Typen sind: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
-      "fileTooLarge": "Dateigröße überschreitet das Limit von 20MB. Aktuelle Größe: {{size}}MB",
+      "fileTooLarge": "Dateigröße überschreitet das Limit von 20MB. Aktuelle Größe: {{size}}MB ",
       "dimensionsTooSmall": "Bildabmessungen zu klein. Die Mindestgröße beträgt 100x100 Pixel.",
       "dimensionsTooLarge": "Bildabmessungen zu groß. Die Höchstgröße beträgt 5000x5000 Pixel.",
       "invalidImage": "Ungültige Bilddatei"
@@ -142,7 +142,7 @@
       "generateFromOtherPhotos": "Aus anderen Fotos generieren"
     },
     "noUsablePhotos": {
-      "heading": "Keine verwendbaren Fotos",
+      "heading": "Fotos nicht verwendbar",
       "text": "Wir konnten keines Ihrer hochgeladenen Fotos in der Vorschau verwenden aus einem oder mehreren der folgenden Gründe:",
       "reasons": {
         "multiplePeople": "Mehrere Personen auf dem Foto",
@@ -196,7 +196,7 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Wohin sollen wir die Vorschau von {{name}}'s Buch senden?"
+      "whereToSend": "Wohin sollen wir die Vorschau von {{name}}s Buch senden?"
     },
     "labels": {
       "email": "E-Mail",
@@ -213,7 +213,7 @@
     "thankYou": {
       "heading": "Danke!",
       "message": "Wir haben Ihre Anfrage erhalten. Wir senden Ihnen die Buchvorschau, sobald sie bereit ist.",
-      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Andere Bücher erkunden</b></a>, die wir haben."
+      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>andere Bücher erkunden</b></a>, die wir haben."
     }
   },
   "InterestedContact": {
@@ -265,7 +265,7 @@
       "ambassador": "{{percentage}}% Botschafter-Rabatt freigeschaltet"
     },
     "subscription": {
-      "heading": "Möchten Sie 10% Rabatt?",
+      "heading": "Lust auf 10% Rabatt?",
       "description": "Abonnieren Sie unsere E-Mails, um 10% Sofortrabatt und Vorabzugang zu neuen Buchveröffentlichungen zu erhalten."
     },
     "badges": {
