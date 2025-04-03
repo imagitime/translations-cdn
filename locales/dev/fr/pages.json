@@ -49,8 +49,8 @@
     "instructions": {
       "soloPhotos": "Uniquement les photos tout(e) seul(e)",
       "facingCamera": {
-        "child": "L'enfant doit <strong>faire face à la caméra</strong>",
-        "person": "La personne doit <strong>faire face à la caméra</strong>"
+        "child": "L'enfant doit <strong>être face à la caméra</strong>",
+        "person": "La personne doit <strong>être face à la caméra</strong>"
       },
       "frontFacingSmiling": "Face à la caméra & avec un gros sourire",
       "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
@@ -70,7 +70,7 @@
       }
     },
     "qualityGuidelines": {
-      "highQuality": "Haute qualité, pas flou",
+      "highQuality": "Haute qualité, pas floue",
       "soloOnly": "Uniquement les photos tout(e) seul(e)"
     },
     "privacy": {

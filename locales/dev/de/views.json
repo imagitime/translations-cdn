@@ -2,11 +2,11 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Alles Gute zum Geburtstag, ${childName}!\n\nMögest du immer Freude an kleinen Dingen finden und weiterhin hell leuchten.\n\nLiebe immer, Mama",
+        "Alles Gute zum Geburtstag, ${childName}!\n\nMögest du immer Freude an kleinen Dingen finden und weiterhin hell leuchten.\n\nMit ganz viel liebe, Mama",
         "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit dich das ganze Jahr begleiten.\n\nMit all unserer Liebe, Mama & Papa",
         "Gewidmet an ${childName},\n\nEin erstaunliches Kind, das es wagt zu träumen. Mögest du immer Gründe zum Lächeln finden.\n\nMit viel Liebe, Oma & Opa",
         "Liebe/r ${childName},\n\nMöge dein Ehrgeiz grenzenlos wie der Himmel sein und dein Geist immer hochfliegen. Ich wünsche dir immer das Beste.\n\nLiebe Grüße, Mama & Papa",
-        "Liebste/r ${childName},\n\nIm weiten Himmel des Lebens sei immer der hellste Stern. Wir sind so stolz, dich unser Eigen zu nennen.\n\nLiebe, Onkel & Tante",
+        "Liebste/r ${childName},\n\nIm weiten Himmel des Lebens sei immer der hellste Stern. Wir sind so stolz, dich unser Eigen zu nennen.\n\nGanz liebe Grüße, Onkel & Tante",
         "${childName}, mit jedem Jahr leuchtest du noch heller.\n\nMögen deine Tage voller Lachen, Liebe und endloser Wunder sein.\n\n- Mit all unserer Liebe, Mama & Papa",
         "Jeder Moment mit dir, ${childName}, ist ein Geschenk.\n\nMöge dein Leben so erfreulich und magisch sein, wie du für uns bist.\n\nFür immer, Mama & Papa",
         "In dieser weiten Welt, ${childName}, vergiss nie:\n\nDu bist einzigartig, du wirst geliebt, und du bringst Freude in unsere Herzen jeden einzelnen Tag.\n\nLiebe immer, Mama & Papa"
@@ -45,8 +45,8 @@
       "not_available_delivery_status_info_note": "Die Lieferung erfolgt durch {carrier}. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
       "out_for_delivery_today_status_string": "Heute zur Lieferung unterwegs",
       "delivered_status_string": "Geliefert am {date}",
-      "delivery_failed_order_status_string": "Zustellung fehlgeschlagen!",
-      "delivery_failed_info_note": "Aufgrund eines Problems konnte Ihre Bestellung nicht zugestellt werden. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "delivery_failed_order_status_string": "Lieferung fehlgeschlagen!",
+      "delivery_failed_info_note": "Aufgrund eines Problems konnte Ihre Lieferung nicht zugestellt werden. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
       "delivery_attempted_order_status_string": "Versand versucht",
       "delivery_attempted_info_note": "Der Versanddienstleister hat versucht, das Buch zuzustellen, konnte jedoch nicht. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
       "tracking_info_not_present_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
@@ -73,8 +73,8 @@
   },
   "generationDetailsFunctions": {
     "messages": {
-      "processingUploadPhoto": "Verarbeite hochgeladenes Foto {processed_count} von {total_count} ...",
-      "preparingForGeneration": "Vorbereitung für die Generierung ..."
+      "processingUploadPhoto": "Hochgeladenes Foto {processed_count} von {total_count} wird vorbereitet...",
+      "preparingForGeneration": "Buch wird generiert..."
     }
   },
   "adminOrderStatus": {
