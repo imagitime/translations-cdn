@@ -4,13 +4,13 @@
       "whoToMakeBookFor": "Für wen möchten Sie das Buch erstellen?"
     },
     "labels": {
-      "childName": "Vorname des Kindes für die Geschichte",
+      "childName": "Vorname des Kindes",
       "childAge": "Aktuelles Alter auswählen",
       "birthMonth": "Geburtsmonat auswählen",
       "adultName": "Vorname",
       "bodyType": "Körpertyp auswählen",
       "adultAge": "Alter auswählen",
-      "giverName": "Name des Schenkenden (Ihr Name)",
+      "giverName": "Ihr Name (Ihr Name)",
       "language": "Sprache"
     },
     "genderOptions": {
@@ -78,10 +78,10 @@
       "confidential": "Die Fotos bleiben vertraulich und dienen nur zur Erstellung des persönlichen Buches."
     },
     "buttons": {
-      "finishedUploading": "Hochladen abgeschlossen",
+      "finishedUploading": "Upload abgeschlossen",
       "uploadPhotos": "Fotos hochladen",
       "choosePhoto": "Foto auswählen",
-      "showPreview": "Vorschau des Buches von {{name}} anzeigen",
+      "showPreview": "Vorschau von {{name}}s Buch anzeigen",
       "lastStepPages": "Letzter Schritt: Seiten auswählen"
     },
     "uploadOptions": {
@@ -91,7 +91,7 @@
     },
     "errors": {
       "invalidType": "Ungültiger Dateityp. Erlaubte Typen sind: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
-      "fileTooLarge": "Dateigröße überschreitet das Limit von 20MB. Aktuelle Größe: {{size}}MB ",
+      "fileTooLarge": "Dateigröße überschreitet das Limit von 20MB. Aktuelle Größe: {{size}}MBs",
       "dimensionsTooSmall": "Bildabmessungen zu klein. Die Mindestgröße beträgt 100x100 Pixel.",
       "dimensionsTooLarge": "Bildabmessungen zu groß. Die Höchstgröße beträgt 5000x5000 Pixel.",
       "invalidImage": "Ungültige Bilddatei"
@@ -135,8 +135,8 @@
       "createSimilar": "Ähnliches erstellen",
       "buyDedication": "Individuelle Widmung kaufen",
       "editDedication": "Widmungsnachricht bearbeiten",
-      "approveForPrinting": "Zum Druck freigeben",
-      "reapproveForPrinting": "Erneut zum Druck freigeben",
+      "approveForPrinting": "Zum Drucken freigeben",
+      "reapproveForPrinting": "Erneut zum Drucken freigeben",
       "uploadAnother": "Ein weiteres Foto hochladen",
       "addMore": "Mehr Fotos hinzufügen",
       "generateFromOtherPhotos": "Aus anderen Fotos generieren"
@@ -164,7 +164,7 @@
       "instruction1": "Seiten werden untereinander angezeigt",
       "instruction2": "Wischen Sie und lassen Sie jede Seite bei der Option, die Ihnen am besten gefällt",
       "postOrderInstructions1": "\"Bild ändern\"-Taste drücken, um alternative Optionen für eine Seite auszuwählen",
-      "postOrderInstructions2": "Sobald Sie alle Seiten überprüft haben, drücken Sie die Taste \"Zum Druck freigeben\"",
+      "postOrderInstructions2": "Sobald Sie alle Seiten überprüft haben, drücken Sie die Taste \"Zum Drucken freigeben\"",
       "postOrderSwipeInstructions1": "Wischen Sie zwischen den Seitenoptionen und wählen Sie die gewünschte Option für jede Seite",
       "postOrderSwipeInstructions2": "Sobald alle Seiten finalisiert sind, drücken Sie die Taste \"Zum Druck freigeben\"",
       "fixedInstructions1": "Seiten werden untereinander angezeigt",
@@ -172,13 +172,13 @@
     },
     "status": {
       "deleted": "Das generierte Buch sowie hochgeladene Fotos wurden gelöscht und sind nicht mehr verfügbar.",
-      "support": "Fragen? Schreiben Sie an support@imagitime.com",
+      "support": "Sie haben Fragen? Schreiben Sie an support@imagitime.com",
       "cancelled": "Diese Bestellung wurde storniert.",
       "printing": "Dieses Buch wurde bereits zum Druck geschickt.",
       "shipped": "Dieses Buch wurde am {{date}} verschickt<br>Versandunternehmen: {{carrier}}<br>Verfolgungscode: {{tracking}}"
     },
     "timer": {
-      "message": "Erstellen von {{name}}'s Buch..."
+      "message": "{{name}}s Buch wird erstellt..."
     },
     "notification": {
       "heading": "Keine Zeit zum Warten?"
@@ -192,6 +192,84 @@
       "minutes": "{{count}} Minuten",
       "second": "{{count}} Sek",
       "seconds": "{{count}} Sek"
+    },
+    "testimonials": {
+      "child": [
+        {
+          "text": "„Ich habe noch nie erlebt, dass meine Tochter bei einem Geschenk, das ich ihr gemacht habe, so gestrahlt hat.“",
+          "author": "Ashley S"
+        },
+        {
+          "text": "„FESSELND! Die Qualität, die Illustrationen, die Geschichte – alles!“",
+          "author": "Kristen"
+        },
+        {
+          "text": "„Mein Sohn war von der Geschichte und davon, dass er selbst die Hauptfigur war, absolut fasziniert.“",
+          "author": "Teddy"
+        },
+        {
+          "text": "„Ein tolles, einzigartiges Produkt – der Kundenservice ist HERVORRAGEND – wird jetzt mein Lieblingsgeschenk sein.“",
+          "author": "Ellie"
+        },
+        {
+          "text": "„Ein echtes Andenken. Das ist auch ein wirklich tolles personalisiertes Geschenk für die Kinder meiner Freunde.“",
+          "author": "Ritika"
+        },
+        {
+          "text": "„Das ist das beste Geschenk, das man seinen Kindern machen kann!“",
+          "author": "SNJ"
+        },
+        {
+          "text": "„Sehr einfach zusammenzustellen. Eine hervorragende Qualität des fertigen Buches.“",
+          "author": "Anna"
+        },
+        {
+          "text": "„Ich habe 4 Bücher bestellt und die Erfahrung war hervorragend.“",
+          "author": "Surbhi K."
+        },
+        {
+          "text": "„Dies ist ein wunderschönes Buch von hervorragender Qualität. Es ist sein Geld wert und ein tolles Geschenk.“",
+          "author": "Gill"
+        }
+      ],
+      "adult": [
+        {
+          "text": "„Meine Freundin war völlig überwältigt vor Glück. Das ist ein Mitbringsel fürs Leben.“",
+          "author": "Liam D"
+        },
+        {
+          "text": "„Dies ist ein wunderschönes Buch von hervorragender Qualität. Es ist sein Geld wert und ein schönes Geschenk.“",
+          "author": "Gill"
+        },
+        {
+          "text": "„Ich wollte ihm etwas Einzigartiges schenken, und dieses Buch fängt alles ein, was er mir bedeutet.“",
+          "author": "Olivia K"
+        },
+        {
+          "text": "„Von Anfang bis Ende eine gute Erfahrung. Sehr zufrieden und würde dieses Unternehmen weiterempfehlen.“",
+          "author": "A Daly"
+        },
+        {
+          "text": "„Ich habe gerade meine Bestellung erhalten. Ich liebe das Buch!!! Die Qualität ist hervorragend und der Kundenservice ist großartig.“",
+          "author": "Victorina P"
+        },
+        {
+          "text": "„Mein Freund sagte, er glaube nicht, dass ich all diese kleinen Dinge an ihm bemerke. Dieses Buch bedeutete ihm die Welt.“",
+          "author": "Amelia R"
+        },
+        {
+          "text": "„Das Buch ist wunderschön gestaltet und der Kundenservice war hervorragend.“",
+          "author": "Janice"
+        },
+        {
+          "text": "„Sie hat immer wieder gelächelt und gesagt: ‚Das passt so gut zu mir!‘ Es war das perfekte Geschenk.“",
+          "author": "Michael T"
+        },
+        {
+          "text": "„Dieses Buch ist unglaublich. Die Bilder sahen so realistisch aus, dass Amy sprachlos war.“",
+          "author": "Jake C"
+        }
+      ]
     }
   },
   "ContactDetails": {
@@ -213,7 +291,7 @@
     "thankYou": {
       "heading": "Danke!",
       "message": "Wir haben Ihre Anfrage erhalten. Wir senden Ihnen die Buchvorschau, sobald sie bereit ist.",
-      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>andere Bücher erkunden</b></a>, die wir haben."
+      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b> andere Bücher erkunden</b></a>, die wir haben."
     }
   },
   "InterestedContact": {
@@ -241,7 +319,7 @@
       "pageTitle": "Individuelles Geschichtenbuch von {{name}}"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Botschafter-Rabatt freigeschaltet",
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador-Rabatt freigeschaltet",
       "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Druck & Lieferung dauert {{min}} bis {{max}} Tage, bestellen Sie bitte entsprechend",
       "changesAllowed": "Nach der Bestellung können Sie 12 Stunden lang noch Änderungen vornehmen."
     },
@@ -249,7 +327,7 @@
       "buyHardcover": "Gebundene Ausgabe kaufen",
       "buyPaperback": "Taschenbuch kaufen",
       "goBackToPreview": "Zurück zur Vorschau",
-      "subscribeGetDiscount": "Abonnieren & 10% Rabatt erhalten"
+      "subscribeGetDiscount": "Abonnieren & 10 % Rabatt erhalten"
     },
     "shipping": {
       "info": "+ {{price}} Versand überall in {{region}}",
@@ -262,7 +340,7 @@
     "discount": {
       "subscriber": "{{percentage}}% Abonnentenrabatt angewendet",
       "limited": "{{percentage}}% Rabatt für begrenzte Zeit angewendet",
-      "ambassador": "{{percentage}}% Botschafter-Rabatt freigeschaltet"
+      "ambassador": "{{percentage}}% Ambassador-Rabatt freigeschaltet"
     },
     "subscription": {
       "heading": "Lust auf 10% Rabatt?",

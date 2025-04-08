@@ -49,8 +49,8 @@
     "instructions": {
       "soloPhotos": "Uniquement les photos tout(e) seul(e)",
       "facingCamera": {
-        "child": "L'enfant doit <strong>faire face à la caméra</strong>",
-        "person": "La personne doit <strong>faire face à la caméra</strong>"
+        "child": "L'enfant doit <strong>être face à la caméra</strong>",
+        "person": "La personne doit <strong>être face à la caméra</strong>"
       },
       "frontFacingSmiling": "Face à la caméra & avec un gros sourire",
       "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
@@ -70,7 +70,7 @@
       }
     },
     "qualityGuidelines": {
-      "highQuality": "Haute qualité, pas flou",
+      "highQuality": "Haute qualité, pas floue",
       "soloOnly": "Uniquement les photos tout(e) seul(e)"
     },
     "privacy": {
@@ -192,6 +192,84 @@
       "minutes": "{{count}} mins",
       "second": "{{count}} sec",
       "seconds": "{{count}} secs"
+    },
+    "testimonials": {
+      "child": [
+        {
+          "text": "« Je n'ai jamais vu les yeux de ma fille s'illuminer comme ça pour un cadeau que je lui ai offert. »",
+          "author": "Ashley S"
+        },
+        {
+          "text": "« HALLUCINANT ! La qualité, les illustrations, l'histoire, tout ! »",
+          "author": "Kristen"
+        },
+        {
+          "text": "« Mon fils était absolument fasciné par l'histoire et par le fait qu'il en était le personnage principal. »",
+          "author": "Teddy"
+        },
+        {
+          "text": "« Produit incroyable et unique - service client EXCEPTIONNEL - ce sera désormais mon cadeau de prédilection. »",
+          "author": "Ellie"
+        },
+        {
+          "text": "« Quel beau souvenir. C'est aussi un cadeau personnalisé vraiment génial pour les enfants de mes amis. »",
+          "author": "Ritika"
+        },
+        {
+          "text": "« C'est le plus beau cadeau que l'on puisse offrir à ses enfants ! »",
+          "author": "SNJ"
+        },
+        {
+          "text": "« Très simple à assembler. Une excellente qualité du livre fini. »",
+          "author": "Anna"
+        },
+        {
+          "text": "« J'ai commandé 4 livres et l'expérience a été excellente. »",
+          "author": "Surbhi K."
+        },
+        {
+          "text": "« C'est un livre magnifique d'une qualité exceptionnelle. Il vaut son prix et constitue un joli cadeau. »",
+          "author": "Gill"
+        }
+      ],
+      "adult": [
+        {
+          "text": "« Ma petite amie était complètement comblée de bonheur. C'est un souvenir pour la vie. »",
+          "author": "Liam D"
+        },
+        {
+          "text": "« C'est un livre magnifique d'une qualité exceptionnelle. Il vaut son prix et constitue un joli cadeau. »",
+          "author": "Gill"
+        },
+        {
+          "text": "« Je voulais lui offrir quelque chose d'unique, et ce livre a capturé tout ce qu'il représente pour moi. »",
+          "author": "Olivia K"
+        },
+        {
+          "text": "« Bonne expérience du début à la fin. Très satisfait et je recommanderais cette entreprise. »",
+          "author": "A Daly"
+        },
+        {
+          "text": "« Je viens de recevoir ma commande. J'adore le livre !!! La qualité est exquise et leur service client est excellent. »",
+          "author": "Victorina P"
+        },
+        {
+          "text": "« Mon petit ami m'a dit qu'il ne pensait pas que je remarquais tous ces petits détails à son sujet. Ce livre était tout pour lui. »",
+          "author": "Ameila R"
+        },
+        {
+          "text": "« Le livre est magnifiquement réalisé et l'expérience client a été parfaite. »",
+          "author": "Janice"
+        },
+        {
+          "text": "« Elle n'arrêtait pas de sourire et de dire : ‘C'est tellement moi !’ C'était le cadeau parfait. »",
+          "author": "Michael T"
+        },
+        {
+          "text": "« Ce livre est incroyable. Les images étaient si réalistes qu'Amy en est restée sans voix. »",
+          "author": "Jake C"
+        }
+      ]
     }
   },
   "ContactDetails": {
