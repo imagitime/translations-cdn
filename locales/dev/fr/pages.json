@@ -192,6 +192,84 @@
       "minutes": "{{count}} mins",
       "second": "{{count}} sec",
       "seconds": "{{count}} secs"
+    },
+    "testimonials": {
+      "child": [
+        {
+          "text": "\"Never seen my daughter's eyes light up like that for any gift I have ever given her.\"",
+          "author": "Ashley S"
+        },
+        {
+          "text": "\"OBSESSED! The quality, the illustrations, the story- all of it!\"",
+          "author": "Kristen"
+        },
+        {
+          "text": "\"My son was absolutely fascinated by the story and himself being the main character.\"",
+          "author": "Teddy"
+        },
+        {
+          "text": "\"Amazing, unique product - customer service OUTSTANDING - will now be my go to gift.\"",
+          "author": "Ellie"
+        },
+        {
+          "text": "\"It's a keepsake. This also makes for a really amazing personalized gift for my friends kids.\"",
+          "author": "Ritika"
+        },
+        {
+          "text": "\"This is the best gift one can give to their kids!\"",
+          "author": "SNJ"
+        },
+        {
+          "text": "\"Very simple to put together. An excellent quality of the finished book.\"",
+          "author": "Anna"
+        },
+        {
+          "text": "\"I have ordered 4 books and the experience has been par excellence.\"",
+          "author": "Surbhi K."
+        },
+        {
+          "text": "\"This is a fabulous quality beautiful book. It's worth the money and a Lovely present.\"",
+          "author": "Gill"
+        }
+      ],
+      "adult": [
+        {
+          "text": "\"My girlfriend was completely overwhelmed with happiness. This is a keepsake for life.\"",
+          "author": "Liam D"
+        },
+        {
+          "text": "\"This is a fabulous quality beautiful book. Its worth the money and a Lovely present.\"",
+          "author": "Gill"
+        },
+        {
+          "text": "\"I wanted to give him something unique, and this book captured everything he means to me.\"",
+          "author": "Olivia K"
+        },
+        {
+          "text": "\"Good experience from start to finish. Very pleased and would recommend this company.\"",
+          "author": "A Daly"
+        },
+        {
+          "text": "\"I just received my order. I love the book!!! The quality is exquisite and their customer service is great.\"",
+          "author": "Victorina P"
+        },
+        {
+          "text": "\"My boyfriend said he didnt think I noticed all these little things about him. This book meant the world to him.\"",
+          "author": "Amelia R"
+        },
+        {
+          "text": "\"The book is beautifully done and the customer experience has been par excellence.\"",
+          "author": "Janice"
+        },
+        {
+          "text": "\"She kept smiling and saying, 'This is so me!' It was the perfect gift.\"",
+          "author": "Michael T"
+        },
+        {
+          "text": "\"This book is incredible. The pictures were so realistic looking that Amy was left speechless.\"",
+          "author": "Jake C"
+        }
+      ]
     }
   },
   "ContactDetails": {
