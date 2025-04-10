@@ -4,18 +4,18 @@
       "child": [
         "Joyeux anniversaire, ${childName} !\n\nPuisses-tu toujours trouver de la joie dans les petites choses et continuer à briller de mille feux.\n\nAvec amour, Maman",
         "Joyeux Noël, ${childName} !\n\nQue la joie et la chaleur de cette saison t'accompagnent tout au long de l'année.\n\nAvec tout notre amour, Maman et Papa",
-        "Dédié à ${childName},\n\nUn enfant incroyable qui ose rêver. Puisses-tu toujours trouver des raisons de sourire.\n\nAvec beaucoup d'amour, Grand-mère et Grand-père",
+        "Dédié à ${childName},\n\nUn enfant extraordinaire qui ose rêver. Puisses-tu toujours trouver des raisons de sourire.\n\nAvec tout notre amour, Grand-mère et Grand-père",
         "Cher/Chère ${childName},\n\nQue tes rêves soient aussi infinis que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec amour, Maman et Papa",
         "Cher/Chère ${childName},\n\nDans le vaste ciel de la vie, sois toujours l'étoile la plus brillante. Nous sommes tellement fiers de t'appeler nôtre.\n\nAvec tout notre amour, Tonton et Tatie",
         "${childName}, chaque année, tu brilles encore plus.\n\nQue tes journées soient remplies de rire, d'amour et de découvertes sans fin.\n\n- Avec tout notre amour, Maman et Papa",
         "Chaque moment avec toi, ${childName}, est un cadeau.\n\nQue ta vie soit aussi délectable et magique que tu l'es pour nous.\n\nToujours et à jamais, Maman et Papa",
-        "Dans ce vaste monde, ${childName}, souviens-toi toujours :\n\nTu es unique, tu es aimé, et tu apportes de la joie à nos cœurs chaque jour.\n\nAvec amour toujours, Maman et Papa"
+        "Dans ce vaste monde, ${childName}, souviens-toi toujours que:\n\nTu es unique, tu es aimée et tu remplis nos cœurs de joie chaque jour.\n\nMaman et Papa, à jamais"
       ],
       "adult": [
         "Pour mon bien-aimé ${childName},\n\nEn ce jour de la Saint-Valentin, je voulais saisir toutes les raisons pour lesquelles mon cœur bat pour toi. Ce livre est un témoignage de l'amour qui nous rend uniques.\n\nToujours à toi, ${giver_name}",
-        "Joyeux anniversaire ${childName}, célébrant une autre année à aimer chaque chose chez toi. Ton cœur, ton esprit, ton âme.\n\nEntièrement à toi, ${giver_name}",
-        "Mon/ma chéri(e) ${childName},\n\nPour ton anniversaire, je voulais créer quelque chose qui reflète à quel point tu es extraordinaire. Ces pages sont remplies des innombrables raisons pour lesquelles tu es la personne la plus incroyable de mon monde.\n\nAvec un amour infini, ${giver_name}",
-        "À mon/ma ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de toi – de tes particularités, de tes forces, et de toutes les petites choses qui font de toi une personne absolument irremplaçable.\n\nAvec tout notre amour, ${giver_name}"
+        "Joyeux anniversaire ${childName}, une année de plus à aimer tout ce que tu es. Ton cœur, ton esprit, ton âme.\n\nComplètement à toi, ${giver_name}",
+        "Ma/mon chér/chére ${childName},\n\nPour ton anniversaire, j'ai voulu créer quelque chose qui reflète à quel point tu es extraordinaire. Ces pages sont remplies d'innombrables raisons pour lesquelles tu es la personne la plus incroyable de mon monde.\n\nAvec un amour infini, ${giver_name}",
+        "À mon/ma ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de ton être : de tes particularités, de tes forces et de toutes les petites choses qui te rendent absolument irremplaçable.\n\nJe t'aime, ${giver_name}"
       ]
     }
   },
