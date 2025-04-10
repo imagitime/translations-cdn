@@ -6,16 +6,16 @@
         "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit das ganze Jahr über bei dir sein.\n\nMit all unserer Liebe, Mama und Papa",
         "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit das ganze Jahr über bei dir sein.\n\nMit all unserer Liebe, Mama und Papa",
         "Liebe/r ${childName},\nMögen deine Träume so grenzenlos sein wie der Himmel und dein Geist immer hoch fliegen. Wir wünschen dir immer das Beste.\n\nIn Liebe, Mama und Papa",
-        "Liebste/r ${childName},\n\nIm weiten Himmel des Lebens sei immer der hellste Stern. Wir sind so stolz, dich unser Eigen zu nennen.\n\nGanz liebe Grüße, Onkel & Tante",
+        "Liebste/r ${childName},\n\nSei am weiten Himmel des Lebens immer der hellste Stern. Wir sind so stolz, dich unser Neffen/Nichte zu nennen.\n\nLiebe Grüße, Onkel und Tante",
         "${childName}, mit jedem Jahr leuchtest du noch heller.\n\nMögen deine Tage voller Lachen, Liebe und endloser Wunder sein.\n\n- Mit all unserer Liebe, Mama & Papa",
-        "Jeder Moment mit dir, ${childName}, ist ein Geschenk.\n\nMöge dein Leben so erfreulich und magisch sein, wie du für uns bist.\n\nFür immer, Mama & Papa",
-        "In dieser weiten Welt, ${childName}, vergiss nie:\n\nDu bist einzigartig, du wirst geliebt, und du bringst Freude in unsere Herzen jeden einzelnen Tag.\n\nLiebe immer, Mama & Papa"
+        "Jeder Moment mit dir, ${childName}, ist ein Geschenk. \n\nMöge dein Leben so schön und magisch sein, wie du es für uns bist. \n\nFür immer und ewig, Mama und Papa",
+        "In dieser weiten Welt, ${childName}, vergiss nie:\n\nDu bist einzigartig, du wirst geliebt und du bringst jeden einzelnen Tag Freude in unsere Herzen.\n\nFür immer in Liebe, Mama & Papa"
       ],
       "adult": [
         "Für meinen geliebten ${childName},\n\nAn diesem Valentinstag wollte ich all die Gründe festhalten, warum mein Herz für dich schlägt. Dieses Buch ist ein Zeugnis der Liebe, die uns einzigartig macht.\n\nImmer dein/e, ${giver_name}",
-        "Alles Gute zum Jahrestag ${childName}, ein weiteres Jahr voller Liebe für alles an dir. Dein Herz, dein Verstand, deine Seele.\n\nGanz deiner/e, ${giver_name}",
-        "Mein liebster ${childName},\n\nAn deinem Geburtstag wollte ich etwas erschaffen, das widerspiegelt, wie außergewöhnlich du bist. Diese Seiten sind gefüllt mit unzähligen Gründen, warum du der erstaunlichste Mensch in meiner Welt bist.\n\nMit endloser Liebe, ${giver_name}",
-        "An meinen ${childName},\n\nManchmal braucht Liebe keinen Anlass. Dieses Buch ist eine spontane Feier von dir - deinen Macken, deinen Stärken und all den kleinen Dingen, die dich absolut unersetzlich machen.\n\nLiebe immer, ${giver_name}"
+        "An meine geliebte ${childName},\nan diesem Valentinstag wollte ich all die Gründe festhalten, warum mein Herz für dich schlägt. Dieses Buch ist ein Zeugnis der Liebe, die uns einzigartig macht.\n\nFür immer dein/e, ${giver_name}",
+        "Mein Schatz ${childName},\n\nAn deinem Geburtstag wollte ich etwas erschaffen, das widerspiegelt, wie außergewöhnlich du bist. Diese Seiten sind gefüllt mit unzähligen Gründen, warum du der erstaunlichste Mensch auf der Welt sind.\n\nMit unendlicher Liebe, ${giver_name}",
+        "An mein/e ${childName},\n\nmanchmal braucht Liebe keinen Anlass. Dieses Buch ist eine spontane Hommage an dich – deine Eigenheiten, deine Stärken und all die kleinen Dinge, die dich absolut unersetzlich machen. \n\nMit Liebe, dein/e ${giver_name}"
       ]
     }
   },
