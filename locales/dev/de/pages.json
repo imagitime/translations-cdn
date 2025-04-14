@@ -12,15 +12,15 @@
       "adultAge": "Alter auswählen",
       "giverName": "Ihr Name (Ihr Name)",
       "language": "Sprache",
-      "relationshipToChild": "What is your relationship to the child?"
+      "relationshipToChild": "Was ist Ihre Beziehung zu dem Kind?"
     },
     "relationshipOptions": {
-      "default": "Please select your relationship",
-      "parentGuardian": "Parent/Guardian",
-      "grandparent": "Grandparent",
-      "auntUncle": "Aunt/Uncle",
-      "familyFriend": "Family Friend",
-      "other": "Other"
+      "default": "Bitte wählen Sie Ihre Beziehung",
+      "parentGuardian": "Elternteil/Vormund",
+      "grandparent": "Großelternteil",
+      "auntUncle": "Tante/Onkel",
+      "familyFriend": "Familienfreund",
+      "other": "Andere"
     },
     "genderOptions": {
       "boy": "Junge",
@@ -33,12 +33,12 @@
     },
     "validation": {
       "tooLongForBook": "Das ist zu lang für das Buch.",
-      "selectRelationship": "Please select your relationship to the child.",
-      "consentRequired": "You must provide consent to proceed."
+      "selectRelationship": "Bitte wählen Sie Ihre Beziehung zu dem Kind aus.",
+      "consentRequired": "Sie müssen zustimmen, um fortzufahren."
     },
     "consent": {
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/privacy-policy'>Privacy Policy</a>.",
-      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/privacy-policy'>Privacy Policy</a>."
+      "parentGuardianText": "Ich bestätige, dass ich der Elternteil oder rechtliche Vormund dieses Kindes bin, über 18 Jahre alt bin und zustimme, diese Angaben zur Erstellung eines personalisierten Märchenbuchs gemäß der <a href='/policies/privacy-policy'>Datenschutzrichtlinie</a> bereitzustellen.",
+      "otherRelationshipText": "Ich bestätige, dass ich über 18 Jahre alt bin und die Erlaubnis des Elternteils oder Vormunds des Kindes habe, diese Angaben zur Erstellung eines personalisierten Märchenbuchs gemäß der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> bereitzustellen."
     },
     "months": {
       "january": "Januar",
