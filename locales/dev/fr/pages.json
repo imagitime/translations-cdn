@@ -12,7 +12,8 @@
       "adultAge": "Sélectionnez l'âge",
       "giverName": "Votre nom",
       "language": "Langue",
-      "relationshipToChild": "Quelle est votre relation avec l'enfant ?"
+      "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
+      "consentSectionHeader": "Nous prenons la vie privée des enfants au sérieux"
     },
     "relationshipOptions": {
       "default": "Veuillez sélectionner votre relation",
@@ -37,6 +38,7 @@
       "consentRequired": "Vous devez donner votre consentement pour continuer."
     },
     "consent": {
+      "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
       "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans, et que je consens à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>.",
       "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé par le parent ou tuteur de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
     },
