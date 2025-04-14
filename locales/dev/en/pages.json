@@ -11,7 +11,16 @@
       "bodyType": "Select Their Body Type",
       "adultAge": "Select Age",
       "giverName": "Giver's Name (Your Name)",
-      "language": "Language"
+      "language": "Language",
+      "relationshipToChild": "What is your relationship to the child?"
+    },
+    "relationshipOptions": {
+      "default": "Please select your relationship",
+      "parentGuardian": "Parent/Guardian",
+      "grandparent": "Grandparent",
+      "auntUncle": "Aunt/Uncle",
+      "familyFriend": "Family Friend",
+      "other": "Other"
     },
     "genderOptions": {
       "boy": "Boy",
@@ -23,7 +32,13 @@
       "nextStep": "Next Step ➔ Upload Photos"
     },
     "validation": {
-      "tooLongForBook": "That's too long for the book."
+      "tooLongForBook": "That's too long for the book.",
+      "selectRelationship": "Please select your relationship to the child.",
+      "consentRequired": "You must provide consent to proceed."
+    },
+    "consent": {
+      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/privacy-policy'>Privacy Policy</a>.",
+      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/privacy-policy'>Privacy Policy</a>."
     },
     "months": {
       "january": "January",
