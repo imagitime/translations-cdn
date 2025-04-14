@@ -12,15 +12,15 @@
       "adultAge": "Sélectionnez l'âge",
       "giverName": "Votre nom",
       "language": "Langue",
-      "relationshipToChild": "What is your relationship to the child?"
+      "relationshipToChild": "Quelle est votre relation avec l'enfant ?"
     },
     "relationshipOptions": {
-      "default": "Please select your relationship",
-      "parentGuardian": "Parent/Guardian",
-      "grandparent": "Grandparent",
-      "auntUncle": "Aunt/Uncle",
-      "familyFriend": "Family Friend",
-      "other": "Other"
+      "default": "Veuillez sélectionner votre relation",
+      "parentGuardian": "Parent/Tuteur",
+      "grandparent": "Grand-parent",
+      "auntUncle": "Tante/Oncle",
+      "familyFriend": "Ami de la famille",
+      "other": "Autre"
     },
     "genderOptions": {
       "boy": "Garçon",
@@ -33,12 +33,12 @@
     },
     "validation": {
       "tooLongForBook": "Ça, c'est un peu trop long.",
-      "selectRelationship": "Please select your relationship to the child.",
-      "consentRequired": "You must provide consent to proceed."
+      "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
+      "consentRequired": "Vous devez donner votre consentement pour continuer."
     },
     "consent": {
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/privacy-policy'>Privacy Policy</a>.",
-      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/privacy-policy'>Privacy Policy</a>."
+      "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans, et que je consens à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>.",
+      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé par le parent ou tuteur de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
     },
     "months": {
       "january": "Janvier",
