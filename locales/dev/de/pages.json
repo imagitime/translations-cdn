@@ -112,6 +112,9 @@
       "dimensionsTooSmall": "Bildabmessungen zu klein. Die Mindestgröße beträgt 100x100 Pixel.",
       "dimensionsTooLarge": "Bildabmessungen zu groß. Die Höchstgröße beträgt 5000x5000 Pixel.",
       "invalidImage": "Ungültige Bilddatei"
+    },
+    "consent": {
+      "photosConsent": "Ich stimme der sicheren Verarbeitung dieser Fotos ausschließlich zum Erstellen des personalisierten Geschichtenbuchs zu. Fotos werden nach 24 Stunden gelöscht, wenn ich die Vorschau nicht durch Angabe meiner E-Mail speichere, und nach 1 Jahr, selbst wenn ich die Vorschau speichere. Ich verstehe, dass ich meine Zustimmung jederzeit widerrufen kann, indem ich support@imagitime.com kontaktiere"
     }
   },
   "UploadPhotosRealtime": {
