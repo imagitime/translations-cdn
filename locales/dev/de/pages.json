@@ -39,7 +39,7 @@
     },
     "consent": {
       "defaultConsentText": "[Bitte wählen Sie oben Ihre Beziehung zum Kind aus, um die entsprechende Einverständniserklärung zu sehen]",
-      "parentGuardianText": "Ich bestätige, dass ich der Elternteil oder rechtliche Vormund dieses Kindes bin, über 18 Jahre alt bin und zustimme, diese Angaben zur Erstellung eines personalisierten Märchenbuchs gemäß der <a href='/policies/privacy-policy'>Datenschutzrichtlinie</a> bereitzustellen.",
+      "parentGuardianText": "Ich bestätige, dass ich über 18 Jahre alt bin, der Elternteil oder gesetzlicher Vormund dieses Kindes bin und ich stimme zu, diese Details zur Erstellung eines personalisierten Märchenbuchs gemäß der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> bereitzustellen.",
       "otherRelationshipText": "Ich bestätige, dass ich über 18 Jahre alt bin und die Erlaubnis des Elternteils oder Vormunds des Kindes habe, diese Angaben zur Erstellung eines personalisierten Märchenbuchs gemäß der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> bereitzustellen."
     },
     "months": {
