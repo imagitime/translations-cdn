@@ -39,7 +39,7 @@
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans, et que je consens à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>.",
+      "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
       "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé par le parent ou tuteur de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
     },
     "months": {
