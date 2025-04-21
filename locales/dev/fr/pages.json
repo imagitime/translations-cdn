@@ -170,7 +170,8 @@
         "blurry": "Qualité de la photo floue",
         "obstruction": "Quelque chose obstruant le visage"
       },
-      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées."
+      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées.",
+      "uploadMorePhotos": "Téléchargez plus de photos"
     },
     "page": {
       "number": "Page {{number}}",
