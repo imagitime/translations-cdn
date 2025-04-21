@@ -39,7 +39,7 @@
     },
     "consent": {
       "defaultConsentText": "[Please select your relationship to the child above to see the appropriate consent message]",
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy'>Privacy Policy</a>.",
+      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
       "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy'>Privacy Policy</a>."
     },
     "months": {
