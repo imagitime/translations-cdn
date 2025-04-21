@@ -170,7 +170,8 @@
         "blurry": "Blurry photo quality",
         "obstruction": "Something obstructing the face"
       },
-      "uploadPrompt": "Please use the \"Upload More Photos\" button to add suitable images."
+      "uploadPrompt": "Please use the \"Upload More Photos\" button to add suitable images.",
+      "uploadMorePhotos": "Upload More Photos"
     },
     "page": {
       "number": "Page {{number}}",
