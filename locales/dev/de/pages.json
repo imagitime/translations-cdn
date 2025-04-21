@@ -170,7 +170,8 @@
         "blurry": "Unscharfe Fotoqualität",
         "obstruction": "Etwas verdeckt das Gesicht"
       },
-      "uploadPrompt": "Bitte verwenden Sie die Schaltfläche \"Weitere Fotos hochladen\", um geeignete Bilder hinzuzufügen."
+      "uploadPrompt": "Bitte verwenden Sie die Schaltfläche \"Weitere Fotos hochladen\", um geeignete Bilder hinzuzufügen.",
+      "uploadMorePhotos": "Weitere Fotos hochladen"
     },
     "page": {
       "number": "Seite {{number}}",
