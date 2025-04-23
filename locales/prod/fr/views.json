@@ -2,20 +2,20 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Joyeux anniversaire, ${childName}!\n\nPuissiez-vous toujours trouver la joie dans les petites choses et continuer à briller.\n\nAvec amour, Maman",
-        "Joyeux Noël, ${childName}!\n\nQue la joie et la chaleur de cette saison vous accompagnent toute l'année.\n\nAvec tout notre amour, Maman & Papa",
-        "Dédié à ${childName},\n\nUn enfant incroyable qui ose rêver. Puissiez-vous toujours trouver des raisons de sourire.\n\nAvec beaucoup d'amour, Grand-mère & Grand-père",
-        "Cher ${childName},\n\nQue vos rêves soient aussi vastes que le ciel et que votre esprit s'élève toujours plus haut. Je vous souhaite le meilleur toujours.\n\nAvec amour, Maman & Papa",
-        "Cher/Chère ${childName},\n\nDans le vaste ciel de la vie, sois toujours l'étoile la plus brillante. Nous sommes si fiers de t'appeler nôtre.\n\nAmour, Oncle & Tante",
-        "${childName}, chaque année, tu brilles encore plus.\n\nQue tes journées soient remplies de rire, d'amour et de découvertes sans fin.\n\n- Avec tout notre amour, Maman & Papa",
-        "Chaque moment avec toi, ${childName}, est un cadeau.\n\nQue ta vie soit aussi délectable et magique que tu l'es pour nous.\n\nToujours et à jamais, Maman & Papa",
-        "Dans ce vaste monde, ${childName}, souviens-toi toujours :\n\nTu es unique, tu es aimé, et tu apportes de la joie à nos cœurs chaque jour.\n\nAvec amour toujours, Maman & Papa"
+        "Joyeux anniversaire, ${childName} !\n\nPuisses-tu toujours trouver de la joie dans les petites choses et continuer à briller de mille feux.\n\nAvec amour, Maman",
+        "Joyeux Noël, ${childName} !\n\nQue la joie et la chaleur de cette saison t'accompagnent tout au long de l'année.\n\nAvec tout notre amour, Maman et Papa",
+        "Dédié à ${childName},\n\nUn enfant extraordinaire qui ose rêver. Puisses-tu toujours trouver des raisons de sourire.\n\nAvec tout notre amour, Grand-mère et Grand-père",
+        "Cher/Chère ${childName},\n\nQue tes rêves soient aussi infinis que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec amour, Maman et Papa",
+        "Cher/Chère ${childName},\n\nDans le vaste ciel de la vie, sois toujours l'étoile la plus brillante. Nous sommes tellement fiers de t'appeler nôtre.\n\nAvec tout notre amour, Tonton et Tatie",
+        "${childName}, chaque année, tu brilles encore plus.\n\nQue tes journées soient remplies de rire, d'amour et de découvertes sans fin.\n\n- Avec tout notre amour, Maman et Papa",
+        "Chaque moment avec toi, ${childName}, est un cadeau.\n\nQue ta vie soit aussi délectable et magique que tu l'es pour nous.\n\nToujours et à jamais, Maman et Papa",
+        "Dans ce vaste monde, ${childName}, souviens-toi toujours que:\n\nTu es unique, tu es aimée et tu remplis nos cœurs de joie chaque jour.\n\nMaman et Papa, à jamais"
       ],
       "adult": [
         "Pour mon bien-aimé ${childName},\n\nEn ce jour de la Saint-Valentin, je voulais saisir toutes les raisons pour lesquelles mon cœur bat pour toi. Ce livre est un témoignage de l'amour qui nous rend uniques.\n\nToujours à toi, ${giver_name}",
-        "Joyeux anniversaire de mariage ${childName}, marquant une autre année à aimer chaque petite chose de toi. Ton cœur, ton esprit, ton âme.\n\nEntièrement à toi, ${giver_name}",
-        "Mon chéri(e) ${childName},\n\nPour ton anniversaire, je voulais créer quelque chose qui reflète à quel point tu es extraordinaire. Ces pages sont remplies des innombrables raisons pour lesquelles tu es la personne la plus incroyable de mon monde.\n\nAvec un amour infini, ${giver_name}",
-        "À mon/ma ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de toi - tes bizarreries, tes forces, et toutes les petites choses qui te rendent absolument irremplaçable.\n\nAvec amour, ${giver_name}"
+        "Joyeux anniversaire ${childName}, une année de plus à aimer tout ce que tu es. Ton cœur, ton esprit, ton âme.\n\nComplètement à toi, ${giver_name}",
+        "Ma/mon chér/chére ${childName},\n\nPour ton anniversaire, j'ai voulu créer quelque chose qui reflète à quel point tu es extraordinaire. Ces pages sont remplies d'innombrables raisons pour lesquelles tu es la personne la plus incroyable de mon monde.\n\nAvec un amour infini, ${giver_name}",
+        "À mon/ma ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de ton être : de tes particularités, de tes forces et de toutes les petites choses qui te rendent absolument irremplaçable.\n\nJe t'aime, ${giver_name}"
       ]
     }
   },
@@ -24,13 +24,13 @@
       "will_be_given_for_printing_order_status_string": "Sera bientôt donné pour impression",
       "will_be_given_for_printing_info_note": "Comme notre livre est fait sur mesure pour chaque commande, l'impression et la reliure prennent du temps.",
       "delayed_order_status_string": "Retardé",
-      "delayed_info_note": "Il y a eu un problème lors de la traite de votre commande. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com.",
+      "delayed_info_note": "Il y a eu un problème lors du traitement de votre commande. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
       "paused_order_status_string": "Mis en pause à la demande du client",
       "paused_info_note": "L'impression de ce livre a été mise en pause à la demande du client. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com."
     },
     "printing": {
       "currently_in_printing_and_binding_stage_order_status_string": "Actuellement en cours d'impression et de reliure",
-      "currently_in_printing_and_binding_stage_info_note": "Comme notre livre est fait sur mesure pour chaque commande, l'impression et la reliure prennent du temps.",
+      "currently_in_printing_and_binding_stage_info_note": "Comme notre livre est fabriqué sur mesure pour chaque commande, l'impression et la reliure prennent un certain temps.",
       "delayed_order_status_string": "Retardé",
       "delayed_info_note": "Il y a eu un retard dans le traitement de votre commande. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com.",
       "book_was_given_for_printing_info_note": "Ce livre a été donné pour impression le {date}."
@@ -38,19 +38,19 @@
     "printed": {
       "shipped_order_status_string": "Expédié",
       "stuck_in_transit_delivery_status_string": "Bloqué en transit",
-      "stuck_delayed_info_note": "En raison d'un problème, votre colis semble bloqué en transit. Veuillez utiliser le lien de suivi pour voir plus de détails. Pour obtenir de l'aide, veuillez répondre à un e-mail lié à la commande ou nous écrire à support@imagitime.com.",
+      "stuck_delayed_info_note": "En raison d'un problème, votre colis semble bloqué en transit. Veuillez utiliser le lien de suivi pour voir plus de détails. Pour obtenir de l'aide, veuillez répondre à un e-mail lié c la commande ou nous écrire à support@imagitime.com.",
       "delayed_delivery_status_string": "Retardé",
-      "delayed_info_note": "Votre commande est en route mais semble être retardée. Veuillez utiliser le lien de suivi pour voir plus de détails. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com.",
+      "delayed_info_note": "Votre commande est en route, mais semble être retardée. Veuillez utiliser le lien de suivi pour obtenir plus de détails. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
       "not_available_delivery_status_string": "Statut de la livraison non disponible",
       "not_available_delivery_status_info_note": "La livraison sera effectuée par {carrier}. Veuillez utiliser le numéro de suivi - {tracking_number} pour suivre votre commande.",
       "out_for_delivery_today_status_string": "En cours de livraison aujourd'hui",
       "delivered_status_string": "Livré le {date}",
-      "delivery_failed_order_status_string": "Échec de la livraison!",
-      "delivery_failed_info_note": "En raison d'un problème, votre commande n'a pas pu être livrée. Veuillez utiliser le lien de suivi pour voir plus de détails. Pour obtenir de l'aide, veuillez répondre à un e-mail lié à la commande ou nous écrire à support@imagitime.com.",
-      "delivery_attempted_order_status_string": "Livraison tentée",
-      "delivery_attempted_info_note": "Le transporteur a tenté de livrer le livre mais n'a pas pu. Veuillez utiliser le lien de suivi pour voir plus de détails. Pour obtenir de l'aide, veuillez répondre à un e-mail lié à la commande ou nous écrire à support@imagitime.com.",
-      "tracking_info_not_present_info_note": "L'estimation de la date de livraison est fournie par {carrier}. Veuillez utiliser le numéro de suivi - {tracking_number} pour suivre votre commande.",
-      "shipped_order_info_note": "L'estimation de la date de livraison est fournie par {carrier}. La date de livraison réelle peut varier en raison de facteurs externes."
+      "delivery_failed_order_status_string": "Échec de la livraison !",
+      "delivery_failed_info_note": "En raison d'un problème, votre commande n'a pas pu être livrée. Veuillez utiliser le lien de suivi pour obtenir plus de détails. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
+      "delivery_attempted_order_status_string": "Tentative de livraison",
+      "delivery_attempted_info_note": "Le transporteur a tenté de livrer le livre, mais n'a pas pu. Veuillez utiliser le lien de suivi pour obtenir plus de détails. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
+      "tracking_info_not_present_info_note": "La date de livraison estimée est celle fournie par {carrier}. Veuillez utiliser le numéro de suivi - {tracking_number} pour suivre votre commande.",
+      "shipped_order_info_note": "La date de livraison estimée est celle fournie par {carrier}. La date de livraison réelle peut varier en raison de facteurs externes."
     },
     "cancelled": {
       "cancelled_order_status_string": "Votre commande a été annulée.",
@@ -64,7 +64,7 @@
       "otpExpiredOrInvalid": "OTP expiré ou non trouvé"
     },
     "labels": {
-      "orderNumber": "Commande n°{{number}}"
+      "orderNumber": "Commande {{number}}"
     },
     "buttons": {
       "trackPackage": "Suivre le colis",
@@ -73,8 +73,15 @@
   },
   "generationDetailsFunctions": {
     "messages": {
-      "processingUploadPhoto": "Traitement de la photo téléchargée {processed_count} sur {total_count} ...",
+      "processingUploadPhoto": "Traitement de la photo téléchargée {processed_count} sûr {total_count} ...",
       "preparingForGeneration": "Préparation pour la génération ..."
     }
+  },
+  "adminOrderStatus": {
+    "salutation": "Bonjour {name},",
+    "genericSalutation": "Coucou,",
+    "pendingPrinting": "Votre livre sera bientôt envoyé pour impression. Comme notre livre est fait sur mesure pour chaque individu, cela prend généralement entre {min_days} et {max_days} jours pour la révision, l'impression, la reliure et l'expédition. Nous partagerons les détails de suivi dès qu'il sera expédié de l'imprimerie. Merci de votre patience et compréhension.",
+    "shipped": "Votre livre a été imprimé et expédié par {carrier}. Voici le lien de suivi.",
+    "inPrinting": "Votre livre est actuellement en cours d'impression et de reliure. Comme notre livre est fait sur mesure pour chaque individu, cela prend généralement entre {min_days} et {max_days} jours de la commande à la livraison. Nous partagerons les détails de suivi dès qu'il sera expédié de l'imprimerie. Merci de votre patience et compréhension."
   }
 }

@@ -1,17 +1,27 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Pour qui souhaitez-vous faire le livre ?"
+      "whoToMakeBookFor": "Pour qui souhaitez-vous créer ce livre ?"
     },
     "labels": {
-      "childName": "Prénom de l'enfant pour l'histoire",
+      "childName": "Prénom de l'enfant",
       "childAge": "Sélectionnez l'âge actuel",
       "birthMonth": "Sélectionnez le mois de naissance",
       "adultName": "Prénom",
-      "bodyType": "Sélectionnez leur type de corps",
+      "bodyType": "Sélectionnez leur corpulence",
       "adultAge": "Sélectionnez l'âge",
-      "giverName": "Nom du donateur (Votre nom)",
-      "language": "Langue"
+      "giverName": "Votre nom",
+      "language": "Langue",
+      "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
+      "consentSectionHeader": "Nous prenons la vie privée des enfants au sérieux"
+    },
+    "relationshipOptions": {
+      "default": "Veuillez sélectionner votre relation",
+      "parentGuardian": "Parent/Tuteur",
+      "grandparent": "Grand-parent",
+      "auntUncle": "Tante/Oncle",
+      "familyFriend": "Ami de la famille",
+      "other": "Autre"
     },
     "genderOptions": {
       "boy": "Garçon",
@@ -23,7 +33,14 @@
       "nextStep": "Étape suivante ➔ Télécharger des photos"
     },
     "validation": {
-      "tooLongForBook": "C'est trop long pour le livre."
+      "tooLongForBook": "Ça, c'est un peu trop long.",
+      "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
+      "consentRequired": "Vous devez donner votre consentement pour continuer."
+    },
+    "consent": {
+      "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
+      "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
+      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé par le parent ou tuteur de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
     },
     "months": {
       "january": "Janvier",
@@ -47,12 +64,12 @@
       "uploadAnother": "Téléchargez une autre photo de {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Photos solo seulement",
+      "soloPhotos": "Uniquement les photos tout(e) seul(e)",
       "facingCamera": {
-        "child": "L'enfant doit <strong>faire face à la caméra</strong>",
-        "person": "La personne doit <strong>faire face à la caméra</strong>"
+        "child": "L'enfant doit <strong>être face à la caméra</strong>",
+        "person": "La personne doit <strong>être face à la caméra</strong>"
       },
-      "frontFacingSmiling": "Face à la caméra & Sourire",
+      "frontFacingSmiling": "Face à la caméra & avec un gros sourire",
       "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
       "noPacifierCap": "Pas de tétine, pas de casquette",
       "noOneElse": "<strong>Personne d'autre</strong> ne doit être sur la photo",
@@ -66,12 +83,12 @@
       },
       "recommended": {
         "range": "2 à 4 photos",
-        "careerBook": "5 minimum, 15 recommandé"
+        "careerBook": "5 minimum, 15 recommandés"
       }
     },
     "qualityGuidelines": {
-      "highQuality": "Haute qualité, pas flou",
-      "soloOnly": "Photos solo uniquement"
+      "highQuality": "Haute qualité, pas floue",
+      "soloOnly": "Uniquement les photos tout(e) seul(e)"
     },
     "privacy": {
       "standard": "Nous suivons des normes strictes de confidentialité des données.",
@@ -79,14 +96,14 @@
     },
     "buttons": {
       "finishedUploading": "Téléchargement terminé",
-      "uploadPhotos": "Télécharger des Photos",
-      "choosePhoto": "Choisir une Photo",
+      "uploadPhotos": "Télécharger les photos",
+      "choosePhoto": "Choisir une photo",
       "showPreview": "Afficher l'aperçu du livre de {{name}}",
       "lastStepPages": "Dernière étape : Sélectionner les pages"
     },
     "uploadOptions": {
-      "gallery": "Choisir depuis la Galerie",
-      "camera": "Prendre une Photo",
+      "gallery": "Choisir depuis la galerie",
+      "camera": "Prendre une photo",
       "cancel": "Annuler"
     },
     "errors": {
@@ -95,6 +112,9 @@
       "dimensionsTooSmall": "Dimensions de l'image trop petites. La taille minimale est de 100x100 pixels.",
       "dimensionsTooLarge": "Dimensions de l'image trop grandes. La taille maximale est de 5000x5000 pixels.",
       "invalidImage": "Fichier image invalide"
+    },
+    "consent": {
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement pour créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et après 1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -150,7 +170,8 @@
         "blurry": "Qualité de la photo floue",
         "obstruction": "Quelque chose obstruant le visage"
       },
-      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées."
+      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées.",
+      "uploadMorePhotos": "Téléchargez plus de photos"
     },
     "page": {
       "number": "Page {{number}}",
@@ -165,14 +186,14 @@
       "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois satisfait de toutes les pages, appuyez sur le bouton \"Approuver pour impression\"",
-      "postOrderSwipeInstructions1": "Balayez parmi les choix de pages et amenez chaque page à l'option que vous aimez",
+      "postOrderSwipeInstructions1": "Faites défiler parmi les options de page et amenez chaque page à l'option que vous préférez.",
       "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour impression\"",
       "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
       "fixedInstructions2": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page"
     },
     "status": {
       "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
-      "support": "Questions? Écrivez à support@imagitime.com",
+      "support": "Questions ? Écrivez à support@imagitime.com",
       "cancelled": "Cette commande a été annulée.",
       "printing": "Ce livre a déjà été envoyé pour impression.",
       "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
@@ -188,10 +209,88 @@
       "lessThan": "Moins de <strong>{{time}}</strong> restant pour charger le livre de {{name}}"
     },
     "timeUnits": {
-      "minute": "{{count}} min",
+      "minute": "{{count}} min ",
       "minutes": "{{count}} mins",
       "second": "{{count}} sec",
       "seconds": "{{count}} secs"
+    },
+    "testimonials": {
+      "child": [
+        {
+          "text": "« Je n'ai jamais vu les yeux de ma fille s'illuminer comme ça pour un cadeau que je lui ai offert. »",
+          "author": "Ashley S"
+        },
+        {
+          "text": "« HALLUCINANT ! La qualité, les illustrations, l'histoire, tout ! »",
+          "author": "Kristen"
+        },
+        {
+          "text": "« Mon fils était absolument fasciné par l'histoire et par le fait qu'il en était le personnage principal. »",
+          "author": "Teddy"
+        },
+        {
+          "text": "« Produit incroyable et unique - service client EXCEPTIONNEL - ce sera désormais mon cadeau de prédilection. »",
+          "author": "Ellie"
+        },
+        {
+          "text": "« Quel beau souvenir. C'est aussi un cadeau personnalisé vraiment génial pour les enfants de mes amis. »",
+          "author": "Ritika"
+        },
+        {
+          "text": "« C'est le plus beau cadeau que l'on puisse offrir à ses enfants ! »",
+          "author": "SNJ"
+        },
+        {
+          "text": "« Très simple à assembler. Une excellente qualité du livre fini. »",
+          "author": "Anna"
+        },
+        {
+          "text": "« J'ai commandé 4 livres et l'expérience a été excellente. »",
+          "author": "Surbhi K."
+        },
+        {
+          "text": "« C'est un livre magnifique d'une qualité exceptionnelle. Il vaut son prix et constitue un joli cadeau. »",
+          "author": "Gill"
+        }
+      ],
+      "adult": [
+        {
+          "text": "« Ma petite amie était complètement comblée de bonheur. C'est un souvenir pour la vie. »",
+          "author": "Liam D"
+        },
+        {
+          "text": "« C'est un livre magnifique d'une qualité exceptionnelle. Il vaut son prix et constitue un joli cadeau. »",
+          "author": "Gill"
+        },
+        {
+          "text": "« Je voulais lui offrir quelque chose d'unique, et ce livre a capturé tout ce qu'il représente pour moi. »",
+          "author": "Olivia K"
+        },
+        {
+          "text": "« Bonne expérience du début à la fin. Très satisfait et je recommanderais cette entreprise. »",
+          "author": "A Daly"
+        },
+        {
+          "text": "« Je viens de recevoir ma commande. J'adore le livre !!! La qualité est exquise et leur service client est excellent. »",
+          "author": "Victorina P"
+        },
+        {
+          "text": "« Mon petit ami m'a dit qu'il ne pensait pas que je remarquais tous ces petits détails à son sujet. Ce livre était tout pour lui. »",
+          "author": "Ameila R"
+        },
+        {
+          "text": "« Le livre est magnifiquement réalisé et l'expérience client a été parfaite. »",
+          "author": "Janice"
+        },
+        {
+          "text": "« Elle n'arrêtait pas de sourire et de dire : ‘C'est tellement moi !’ C'était le cadeau parfait. »",
+          "author": "Michael T"
+        },
+        {
+          "text": "« Ce livre est incroyable. Les images étaient si réalistes qu'Amy en est restée sans voix. »",
+          "author": "Jake C"
+        }
+      ]
     }
   },
   "ContactDetails": {
@@ -230,7 +329,7 @@
     "subscription": {
       "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
       "yes": "Oui, j'adorerais",
-      "no": "Non, je paierai le prix plein"
+      "no": "Non, je paierai le prix complet"
     },
     "buttons": {
       "savePreview": "Enregistrer l'aperçu et afficher le prix"
@@ -249,7 +348,7 @@
       "buyHardcover": "Acheter Relié",
       "buyPaperback": "Acheter Broché",
       "goBackToPreview": "Retourner à l'Aperçu",
-      "subscribeGetDiscount": "S'abonner et Obtenir 10% de Réduction"
+      "subscribeGetDiscount": "S'abonner et obtenir 10% de réduction"
     },
     "shipping": {
       "info": "+ {{price}} frais de livraison partout en {{region}}",
@@ -265,7 +364,7 @@
       "ambassador": "{{percentage}}% Réduction d'Ambassadeur Déverrouillée"
     },
     "subscription": {
-      "heading": "Voulez-vous 10% de Réduction?",
+      "heading": "Voulez-vous 10% de Réduction ?",
       "description": "Abonnez-vous à nos emails pour obtenir une réduction instantanée de 10% et un accès anticipé aux nouvelles sorties de livres."
     },
     "badges": {
@@ -311,15 +410,15 @@
       "ideas": "Idées de message de dédicace"
     },
     "placeholder": {
-      "default": "Cher {{name}},\n\nQue vos rêves soient aussi vastes que le ciel et que votre esprit s'élève toujours plus haut. Je vous souhaite le meilleur toujours.\n\nAvec amour, Maman & Papa"
+      "default": "Cher/Chère {{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec tout notre amour, Maman & Papa"
     },
     "thankYou": {
       "heading": "Merci !",
-      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en accédant à l'aperçu du livre et vérifiez si des fautes de frappe ou des erreurs grammaticales sont présentes."
+      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en consultant l'aperçu du livre et vérifier s'il y a des fautes de frappe ou des erreurs grammaticales."
     },
     "printFreeze": {
       "heading": "Ce livre a déjà été envoyé pour impression",
-      "message": "Il n'est plus possible de personnaliser le message de dédicace. Pour toute question, veuillez contacter support@imagitime.com"
+      "message": "Il n'est plus possible de personnaliser le message de dédicace. Pour toute question, veuillez contacter support@imagitime.com."
     }
   },
   "TrackOrders": {
@@ -366,7 +465,7 @@
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Merci, vous êtes vraiment formidable!",
+      "heading": "Merci, vous êtes vraiment formidable !",
       "message": "Vous venez de créer une histoire unique pour {{name}}",
       "tracking": "Une fois le livre imprimé et expédié, nous vous enverrons les informations de suivi par email."
     }

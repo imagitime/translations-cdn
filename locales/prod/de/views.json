@@ -2,20 +2,20 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Alles Gute zum Geburtstag, ${childName}!\n\nMögest du immer Freude an kleinen Dingen finden und weiterhin hell leuchten.\n\nLiebe immer, Mama",
-        "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit dich das ganze Jahr begleiten.\n\nMit all unserer Liebe, Mama & Papa",
-        "Gewidmet an ${childName},\n\nEin erstaunliches Kind, das es wagt zu träumen. Mögest du immer Gründe zum Lächeln finden.\n\nMit viel Liebe, Oma & Opa",
-        "Liebe/r ${childName},\n\nMöge dein Ehrgeiz grenzenlos wie der Himmel sein und dein Geist immer hochfliegen. Ich wünsche dir immer das Beste.\n\nLiebe Grüße, Mama & Papa",
-        "Liebste/r ${childName},\n\nIm weiten Himmel des Lebens sei immer der hellste Stern. Wir sind so stolz, dich unser Eigen zu nennen.\n\nLiebe, Onkel & Tante",
-        "${childName}, mit jedem Jahr leuchtest du noch heller.\n\nMögen deine Tage voller Lachen, Liebe und endloser Wunder sein.\n\n- Mit all unserer Liebe, Mama & Papa",
-        "Jeder Moment mit dir, ${childName}, ist ein Geschenk.\n\nMöge dein Leben so erfreulich und magisch sein, wie du für uns bist.\n\nFür immer, Mama & Papa",
-        "In dieser weiten Welt, ${childName}, vergiss nie:\n\nDu bist einzigartig, du wirst geliebt, und du bringst Freude in unsere Herzen jeden einzelnen Tag.\n\nLiebe immer, Mama & Papa"
+        "Herzlichen Glückwunsch zum Geburtstag, ${childName}!\n\nMögest du immer Freude an kleinen Dingen finden und weiterhin hell leuchten.\n\nAlles Liebe, Mama",
+        "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit das ganze Jahr über bei dir sein.\n\nMit all unserer Liebe, Mama und Papa",
+        "Frohe Weihnachten, ${childName}!\n\nMöge die Freude und Wärme der Jahreszeit das ganze Jahr über bei dir sein.\n\nMit all unserer Liebe, Mama und Papa",
+        "Liebe/r ${childName},\nMögen deine Träume so grenzenlos sein wie der Himmel und dein Geist immer hoch fliegen. Wir wünschen dir immer das Beste.\n\nIn Liebe, Mama und Papa",
+        "Liebste/r ${childName},\n\nSei am weiten Himmel des Lebens immer der hellste Stern. Wir sind so stolz, dich unser Neffen/Nichte zu nennen.\n\nLiebe Grüße, Onkel und Tante",
+        "${childName}, mit jedem Jahr strahlen Sie noch heller. \n\nMögen deine Tage voller Lachen, Liebe und endloser Wunder sein. \n\nMit all unserer Liebe, Mama und Papa",
+        "Jeder Moment mit dir, ${childName}, ist ein Geschenk. \n\nMöge dein Leben so schön und magisch sein, wie du es für uns bist. \n\nFür immer und ewig, Mama und Papa",
+        "In dieser weiten Welt, ${childName}, vergiss nie:\n\nDu bist einzigartig, du wirst geliebt und du bringst jeden einzelnen Tag Freude in unsere Herzen.\n\nFür immer in Liebe, Mama & Papa"
       ],
       "adult": [
         "Für meinen geliebten ${childName},\n\nAn diesem Valentinstag wollte ich all die Gründe festhalten, warum mein Herz für dich schlägt. Dieses Buch ist ein Zeugnis der Liebe, die uns einzigartig macht.\n\nImmer dein/e, ${giver_name}",
-        "Alles Gute zum Jahrestag ${childName}, ein weiteres Jahr voller Liebe für alles an dir. Dein Herz, dein Verstand, deine Seele.\n\nGanz deiner/e, ${giver_name}",
-        "Mein liebster ${childName},\n\nAn deinem Geburtstag wollte ich etwas erschaffen, das widerspiegelt, wie außergewöhnlich du bist. Diese Seiten sind gefüllt mit unzähligen Gründen, warum du der erstaunlichste Mensch in meiner Welt bist.\n\nMit endloser Liebe, ${giver_name}",
-        "An meinen ${childName},\n\nManchmal braucht Liebe keinen Anlass. Dieses Buch ist eine spontane Feier von dir - deinen Macken, deinen Stärken und all den kleinen Dingen, die dich absolut unersetzlich machen.\n\nLiebe immer, ${giver_name}"
+        "An meine geliebte ${childName},\nan diesem Valentinstag wollte ich all die Gründe festhalten, warum mein Herz für dich schlägt. Dieses Buch ist ein Zeugnis der Liebe, die uns einzigartig macht.\n\nFür immer dein/e, ${giver_name}",
+        "Mein Schatz ${childName},\n\nAn deinem Geburtstag wollte ich etwas erschaffen, das widerspiegelt, wie außergewöhnlich du bist. Diese Seiten sind gefüllt mit unzähligen Gründen, warum du der erstaunlichste Mensch auf der Welt sind.\n\nMit unendlicher Liebe, ${giver_name}",
+        "An mein/e ${childName},\n\nmanchmal braucht Liebe keinen Anlass. Dieses Buch ist eine spontane Hommage an dich – deine Eigenheiten, deine Stärken und all die kleinen Dinge, die dich absolut unersetzlich machen. \n\nMit Liebe, dein/e ${giver_name}"
       ]
     }
   },
@@ -45,9 +45,9 @@
       "not_available_delivery_status_info_note": "Die Lieferung erfolgt durch {carrier}. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
       "out_for_delivery_today_status_string": "Heute zur Lieferung unterwegs",
       "delivered_status_string": "Geliefert am {date}",
-      "delivery_failed_order_status_string": "Zustellung fehlgeschlagen!",
-      "delivery_failed_info_note": "Aufgrund eines Problems konnte Ihre Bestellung nicht zugestellt werden. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
-      "delivery_attempted_order_status_string": "Zustellung versucht",
+      "delivery_failed_order_status_string": "Lieferung fehlgeschlagen!",
+      "delivery_failed_info_note": "Aufgrund eines Problems konnte Ihre Lieferung nicht zugestellt werden. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
+      "delivery_attempted_order_status_string": "Versand versucht",
       "delivery_attempted_info_note": "Der Versanddienstleister hat versucht, das Buch zuzustellen, konnte jedoch nicht. Bitte verwenden Sie den Tracking-Link, um weitere Details zu sehen. Für weitere Unterstützung antworten Sie bitte auf eine der bestellbezogenen E-Mails oder schreiben Sie uns an support@imagitime.com.",
       "tracking_info_not_present_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Bitte verwenden Sie die Tracking-Nummer - {tracking_number}, um Ihre Bestellung zu verfolgen.",
       "shipped_order_info_note": "Das voraussichtliche Lieferdatum wird von {carrier} angegeben. Das tatsächliche Lieferdatum kann aufgrund externer Faktoren variieren."
@@ -73,8 +73,15 @@
   },
   "generationDetailsFunctions": {
     "messages": {
-      "processingUploadPhoto": "Verarbeite hochgeladenes Foto {processed_count} von {total_count} ...",
-      "preparingForGeneration": "Vorbereitung für die Generierung ..."
+      "processingUploadPhoto": "Hochgeladenes Foto {processed_count} von {total_count} wird vorbereitet...",
+      "preparingForGeneration": "Buch wird generiert..."
     }
+  },
+  "adminOrderStatus": {
+    "salutation": "Hallo {name},",
+    "genericSalutation": "Hallo,",
+    "pendingPrinting": "Ihr Buch wird in Kürze zum Druck gegeben. Da unser Buch für jeden individuell angefertigt wird, dauert die Überprüfung, der Druck, die Bindung und der Versand in der Regel insgesamt etwa {min_days} bis {max_days} Tage. Wir werden die Sendungsverfolgungsdetails mitteilen, sobald es die Druckerei verlassen hat. Vielen Dank für Ihre Geduld und Ihr Verständnis.",
+    "shipped": "Ihr Buch wurde gedruckt und per {carrier} versandt. Hier ist der Tracking-Link.",
+    "inPrinting": "Ihr Buch befindet sich derzeit in der Druck- und Bindungsphase. Da unser Buch für jeden individuell angefertigt wird, dauert es von der Bestellung bis zur Lieferung in der Regel insgesamt etwa {min_days} bis {max_days} Tage. Wir werden die Details zur Sendungsverfolgung mitteilen, sobald es die Druckerei verlassen hat. Vielen Dank für Ihre Geduld und Ihr Verständnis."
   }
 }

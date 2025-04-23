@@ -50,7 +50,7 @@
   "out_for_delivery_email.delivery_info": "Great news! {kid_name}'s personalized book from Imagitime is out for delivery today.",
   "out_for_delivery_email.delivery_details": "Delivery Details:",
   "out_for_delivery_email.carrier_label": "Carrier",
-  "out_for_delivery_email.order_number_label": "Order Number",
+  "out_for_delivery_email.order_number_label": "Tracking Number",
   "out_for_delivery_email.track_package": "Track Your Package",
   "out_for_delivery_email.thank_you": "Thank you for choosing Imagitime to create magical memories for {kid_name}.",
   "out_for_delivery_email.questions": "If you have any questions or concerns, please don't hesitate to contact our support team by replying to this message.",
@@ -86,5 +86,9 @@
   "review_collection_email.family_thank_you": "Thank you for being part of our family. We can't wait to hear your story!",
   "review_collection_email.closing": "Warm regards,<br>The Imagitime Team",
   "review_collection_email.footer": "You received this email because you purchased a personalized book from us.",
-  "review_collection_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>."
+  "review_collection_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>.",
+  "otp_email.subject": "Imagitime Verification Code",
+  "otp_email.greeting": "Hi,",
+  "otp_email.intro": "Please use the following verification code to access your Imagitime orders:",
+  "otp_email.ignore_notice": "If you didn't request this code, you can safely ignore this email."
 }
