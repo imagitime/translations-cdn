@@ -185,28 +185,28 @@
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
       "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
-      "postOrderInstructions2": "Une fois satisfait de toutes les pages, appuyez sur le bouton \"Approuver pour impression\"",
+      "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
       "postOrderSwipeInstructions1": "Faites défiler parmi les options de page et amenez chaque page à l'option que vous préférez.",
-      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour impression\"",
+      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l'impression\"",
       "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
-      "fixedInstructions2": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page"
+      "fixedInstructions2": "Appuyez sur le bouton 'Changer l'image' pour faire défiler les choix alternatifs"
     },
     "status": {
       "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
-      "support": "Questions ? Écrivez à support@imagitime.com",
+      "support": "Vous avez des questions ? Contactez-nous à support@imagitime.com",
       "cancelled": "Cette commande a été annulée.",
       "printing": "Ce livre a déjà été envoyé pour impression.",
       "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
     },
     "timer": {
-      "message": "Création du livre de {{name}}..."
+      "message": "Création du livre de {{name}} en cours..."
     },
     "notification": {
       "heading": "Pas le temps d'attendre ?"
     },
     "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
     "timeRemaining": {
-      "lessThan": "Moins de <strong>{{time}}</strong> restant pour charger le livre de {{name}}"
+      "lessThan": "Il ne reste plus que <strong>{{time}}</strong> pour charger le livre de {{name}}"
     },
     "timeUnits": {
       "minute": "{{count}} min ",
@@ -298,7 +298,7 @@
       "whereToSend": "Où devons-nous envoyer l'aperçu du livre de {{name}} ?"
     },
     "labels": {
-      "email": "Courriel",
+      "email": "Email",
       "yourName": "Votre Nom"
     },
     "subscription": {
@@ -312,7 +312,7 @@
     "thankYou": {
       "heading": "Merci !",
       "message": "Nous avons reçu votre demande. Nous vous enverrons l'aperçu du livre dès qu'il sera prêt.",
-      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explorer d'autres livres</b></a> que nous avons."
+      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b> explorer d'autres livres</b></a>."
     }
   },
   "InterestedContact": {
@@ -320,7 +320,7 @@
       "emailPreview": "Envoyer le lien d'aperçu de {{name}} et montrer le prix du livre imprimé"
     },
     "labels": {
-      "email": "Courriel",
+      "email": "Email",
       "yourName": "Votre Nom"
     },
     "descriptions": {
@@ -340,13 +340,13 @@
       "pageTitle": "Livre personnalisé de {{name}}"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Réduction d'Ambassadeur 20% Déverrouillée",
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Réduction Ambassador 20% Déverrouillée",
       "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence",
       "changesAllowed": "Une fois votre commande passée, vous pouvez toujours faire des modifications pendant 12 heures."
     },
     "buttons": {
-      "buyHardcover": "Acheter Relié",
-      "buyPaperback": "Acheter Broché",
+      "buyHardcover": "Acheter Version Reliée",
+      "buyPaperback": "Acheter Version Brochée",
       "goBackToPreview": "Retourner à l'Aperçu",
       "subscribeGetDiscount": "S'abonner et obtenir 10% de réduction"
     },
@@ -359,12 +359,12 @@
       "timeline": "L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
     },
     "discount": {
-      "subscriber": "{{percentage}}% Réduction Abonné Appliquée",
-      "limited": "{{percentage}}% Réduction Temporaire Appliquée",
-      "ambassador": "{{percentage}}% Réduction d'Ambassadeur Déverrouillée"
+      "subscriber": "{{percentage}}% Réduction abonné appliquée",
+      "limited": "{{percentage}}% Réduction temporaire appliquée",
+      "ambassador": "{{percentage}}% Réduction d'Ambassador déverrouillée"
     },
     "subscription": {
-      "heading": "Voulez-vous 10% de Réduction ?",
+      "heading": "Voulez-vous 10% de réduction ?",
       "description": "Abonnez-vous à nos emails pour obtenir une réduction instantanée de 10% et un accès anticipé aux nouvelles sorties de livres."
     },
     "badges": {
@@ -407,7 +407,7 @@
       "goToPreview": "Accéder à l'aperçu du livre"
     },
     "labels": {
-      "ideas": "Idées de message de dédicace"
+      "ideas": "Idées de message dédicace"
     },
     "placeholder": {
       "default": "Cher/Chère {{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec tout notre amour, Maman & Papa"
@@ -423,7 +423,7 @@
   },
   "TrackOrders": {
     "headings": {
-      "pageTitle": "Suivre vos commandes",
+      "pageTitle": "Suivez vos commandes",
       "enterVerification": "Entrez le code de vérification",
       "yourOrders": "Vos commandes"
     },
