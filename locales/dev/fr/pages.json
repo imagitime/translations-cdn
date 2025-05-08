@@ -183,10 +183,10 @@
     },
     "instructions": {
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
-      "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
+      "instruction2": "Balayez et laissez chaque page sur l'option que vous préférez",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
-      "postOrderSwipeInstructions1": "Faites défiler parmi les options de page et amenez chaque page à l'option que vous préférez.",
+      "postOrderSwipeInstructions1": "Faites défiler les options de page et arrêtez-vous sur celle que vous préférez",
       "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l'impression\"",
       "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
       "fixedInstructions2": "Appuyez sur le bouton 'Changer l'image' pour faire défiler les choix alternatifs"
@@ -196,23 +196,23 @@
       "support": "Vous avez des questions ? Contactez-nous à support@imagitime.com",
       "cancelled": "Cette commande a été annulée.",
       "printing": "Ce livre a déjà été envoyé pour impression.",
-      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
+      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Numéro de suivi : {{tracking}}"
     },
     "timer": {
-      "message": "Création du livre de {{name}} en cours..."
+      "message": "Création du livre pour {{name}} en cours..."
     },
     "notification": {
       "heading": "Pas le temps d'attendre ?"
     },
-    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
+    "scrollIndicator": "Balayez vers le bas pour voir toutes les pages",
     "timeRemaining": {
-      "lessThan": "Il ne reste plus que <strong>{{time}}</strong> pour charger le livre de {{name}}"
+      "lessThan": "Il ne reste plus que <strong>{{time}}</strong> pour charger le livre pour {{name}}"
     },
     "timeUnits": {
       "minute": "{{count}} min ",
-      "minutes": "{{count}} mins",
-      "second": "{{count}} sec",
-      "seconds": "{{count}} secs"
+      "minutes": "{{count}} min",
+      "second": "{{count}} s",
+      "seconds": "{{count}} s"
     },
     "testimonials": {
       "child": [
@@ -295,16 +295,16 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Où devons-nous envoyer l'aperçu du livre de {{name}} ?"
+      "whereToSend": "Où devons-nous envoyer l'aperçu du livre pour {{name}} ?"
     },
     "labels": {
-      "email": "Email",
-      "yourName": "Votre Nom"
+      "email": "E-mail",
+      "yourName": "Votre prénom"
     },
     "subscription": {
-      "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
+      "question": "Une remise immédiate de 10 % et un accès anticipé aux lancements des nouveaux livres vous tentent ? Si oui, inscrivez-vous à notre newsletter.",
       "yes": "Oui, j'adorerais",
-      "no": "Non, merci"
+      "no": "Non, pas cette fois"
     },
     "buttons": {
       "sendPreview": "Envoyez-moi l'aperçu"
@@ -312,24 +312,24 @@
     "thankYou": {
       "heading": "Merci !",
       "message": "Nous avons reçu votre demande. Nous vous enverrons l'aperçu du livre dès qu'il sera prêt.",
-      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b> explorer d'autres livres</b></a>."
+      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b> découvrir nos autres livres</b></a>."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Envoyer le lien d'aperçu de {{name}} et montrer le prix du livre imprimé"
+      "emailPreview": "Envoyer le lien d'aperçu pour {{name}} et montrer le prix du livre imprimé"
     },
     "labels": {
-      "email": "Email",
-      "yourName": "Votre Nom"
+      "email": "E-mail",
+      "yourName": "Votre nom"
     },
     "descriptions": {
       "email": "Nous vous enverrons par courriel le lien d'aperçu."
     },
     "subscription": {
-      "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
+      "question": "Vous aimeriez bénéficier d'une remise immédiate de 10 % et d'un accès anticipé aux lancements des nouveaux livres en rejoignant notre liste de diffusion ?",
       "yes": "Oui, j'adorerais",
-      "no": "Non, je paierai le prix complet"
+      "no": "Non, je paierai le prix intégral"
     },
     "buttons": {
       "savePreview": "Enregistrer l'aperçu et afficher le prix"
@@ -337,29 +337,29 @@
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "Livre personnalisé de {{name}}"
+      "pageTitle": "Livre personnalisé pour {{name}}"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Réduction Ambassador 20% Déverrouillée",
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Remise ambassadeur de 20% déverrouillée",
       "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence",
-      "changesAllowed": "Une fois votre commande passée, vous pouvez toujours faire des modifications pendant 12 heures."
+      "changesAllowed": "Une fois votre commande passée, vous pouvez encore apporter des modifications pendant 12 heures."
     },
     "buttons": {
-      "buyHardcover": "Acheter Version Reliée",
-      "buyPaperback": "Acheter Version Brochée",
-      "goBackToPreview": "Retourner à l'Aperçu",
-      "subscribeGetDiscount": "S'abonner et obtenir 10% de réduction"
+      "buyHardcover": "Acheter la version reliée",
+      "buyPaperback": "Acheter la version brochée",
+      "goBackToPreview": "Retourner à l'aperçu",
+      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise"
     },
     "shipping": {
-      "info": "+ {{price}} de frais de livraison partout en {{region}}",
-      "freeInfo": "Livraison gratuite partout en {{region}}"
+      "info": "+ {{price}} de frais de livraison partout en/au/aux {{region}}",
+      "freeInfo": "Livraison gratuite partout en/au/aux {{region}}"
     },
     "delivery": {
       "info": "Livraison en {{min}} à {{max}} jours",
       "timeline": "L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
     },
     "discount": {
-      "subscriber": "{{percentage}}% Réduction abonné appliquée",
+      "subscriber": "{{percentage}}% de remise abonné·e appliquée",
       "limited": "{{percentage}}% Réduction temporaire appliquée",
       "ambassador": "{{percentage}}% Réduction d'Ambassador déverrouillée"
     },
@@ -460,12 +460,12 @@
     "status": {
       "printed": "Imprimé",
       "printing": "Impression en cours",
-      "pending": "Sera bientôt donné pour impression"
+      "pending": "Sera bientôt envoyé pour impression"
     }
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Merci, vous êtes vraiment formidable !",
+      "heading": "Merci, vous êtes formidable !",
       "message": "Vous venez de créer une histoire unique pour {{name}}",
       "tracking": "Une fois le livre imprimé et expédié, nous vous enverrons les informations de suivi par email."
     }
