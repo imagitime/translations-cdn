@@ -5,12 +5,12 @@
     },
     "labels": {
       "childName": "Prénom de l'enfant",
-      "childAge": "Sélectionnez l'âge actuel",
-      "birthMonth": "Sélectionnez le mois de naissance",
+      "childAge": "Sélectionner l'âge actuel",
+      "birthMonth": "Sélectionner le mois de naissance",
       "adultName": "Prénom",
-      "bodyType": "Sélectionnez leur corpulence",
-      "adultAge": "Sélectionnez l'âge",
-      "giverName": "Votre nom",
+      "bodyType": "Sélectionner sa corpulence",
+      "adultAge": "Sélectionner son âge",
+      "giverName": "Votre prénom",
       "language": "Langue",
       "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
       "consentSectionHeader": "Nous prenons la vie privée des enfants très au sérieux"
@@ -30,10 +30,10 @@
       "feminine": "Féminin"
     },
     "buttons": {
-      "nextStep": "Étape suivante ➔ Télécharger des photos"
+      "nextStep": "Étape suivante ➔ Télécharger les photos"
     },
     "validation": {
-      "tooLongForBook": "Ça, c'est un peu trop long.",
+      "tooLongForBook": "C'est un peu trop long pour le livre.",
       "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
       "consentRequired": "Vous devez donner votre consentement pour pouvoir continuer."
     },
@@ -60,19 +60,19 @@
   "UploadCommon": {
     "headings": {
       "lastStep": "Dernière étape",
-      "uploadMore": "Téléchargez plus de photos de {{name}}",
-      "uploadAnother": "Téléchargez une autre photo de {{name}}"
+      "uploadMore": "Télécharger plus de photos pour {{name}}",
+      "uploadAnother": "Télécharger une autre photo pour {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Uniquement les photos tout(e) seul(e)",
+      "soloPhotos": "Uniquement des photos où l'enfant est seul",
       "facingCamera": {
         "child": "L'enfant doit <strong>être face à la caméra</strong>",
         "person": "La personne doit <strong>être face à la caméra</strong>"
       },
-      "frontFacingSmiling": "Face à la caméra & avec un gros sourire",
-      "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
-      "noPacifierCap": "Pas de tétine, pas de casquette",
-      "noOneElse": "<strong>Personne d'autre</strong> ne doit être sur la photo",
+      "frontFacingSmiling": "Face à la caméra et souriant",
+      "noSunglassesCap": "Pas de lunettes de soleil ni de casquette",
+      "noPacifierCap": "Pas de tétine ni de casquette",
+      "noOneElse": "<strong>Personne d'autre</strong> ne doit être présent sur la photo",
       "faceEdges": "Le visage et les cheveux ne doivent <strong>pas toucher les bords</strong>",
       "noObstructions": "Les mains ou objets ne doivent <strong>pas obstruer le visage</strong>"
     },
@@ -87,8 +87,8 @@
       }
     },
     "qualityGuidelines": {
-      "highQuality": "Haute qualité, pas floue",
-      "soloOnly": "Uniquement les photos tout(e) seul(e)"
+      "highQuality": "Haute qualité, non floue",
+      "soloOnly": "Uniquement les photos où l'enfant est seul"
     },
     "privacy": {
       "standard": "Nous suivons des normes strictes de confidentialité des données.",
@@ -98,7 +98,7 @@
       "finishedUploading": "Téléchargement terminé",
       "uploadPhotos": "Télécharger les photos",
       "choosePhoto": "Choisir une photo",
-      "showPreview": "Afficher l'aperçu du livre de {{name}}",
+      "showPreview": "Afficher l'aperçu du livre pour {{name}}",
       "lastStepPages": "Dernière étape : Sélectionner les pages"
     },
     "uploadOptions": {
@@ -114,32 +114,32 @@
       "invalidImage": "Fichier image invalide"
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement pour créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
     "headings": {
-      "uploadRecent": "Téléchargez les photos récentes de {{name}}"
+      "uploadRecent": "Télécharger des photos récentes avec {{name}}"
     }
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos de {{name}}"
+      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos montrant {{name}}"
     }
   },
   "UploadMorePhotos": {
     "headings": {
-      "uploadMore": "Téléchargez plus de photos de {{name}}"
+      "uploadMore": "Télécharger plus de photos pour {{name}}"
     }
   },
   "UploadAnotherPhoto": {
     "headings": {
-      "uploadAnother": "Téléchargez une autre photo de {{name}}"
+      "uploadAnother": "Télécharger une autre photo pour {{name}}"
     }
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "Afficher l'aperçu du livre de {{name}}"
+      "pageTitle": "Afficher l'aperçu du livre pour {{name}}"
     },
     "morePhotosQuestion": "Voulez-vous améliorer l'aperçu ?",
     "differentPhotoQuestion": "Envie d'essayer une autre photo ?",
@@ -147,7 +147,7 @@
     "buttons": {
       "editPageSelection": "Modifier la sélection des pages",
       "generateMoreOptions": "Générer plus d'options",
-      "uploadMorePhotos": "Pour améliorer : Téléchargez plus de photos",
+      "uploadMorePhotos": "Pour améliorer : Télécharger plus de photos",
       "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
       "savePreview": "Enregistrer l'aperçu et afficher le prix",
       "changePicture": "Changer d'image",
@@ -157,7 +157,7 @@
       "editDedication": "Modifier le message de dédicace",
       "approveForPrinting": "Approuver pour impression",
       "reapproveForPrinting": "Ré-approuver pour impression",
-      "uploadAnother": "Téléchargez une autre photo",
+      "uploadAnother": "Télécharger une autre photo",
       "addMore": "Ajouter plus de photos",
       "generateFromOtherPhotos": "Générer à partir d'autres photos"
     },
@@ -165,12 +165,12 @@
       "heading": "Aucune photo utilisable",
       "text": "Nous n'avons pas pu utiliser vos photos téléchargées dans l'aperçu de l'histoire pour une ou plusieurs des raisons suivantes :",
       "reasons": {
-        "multiplePeople": "Plusieurs personnes présentes sur la photo",
-        "faceEdges": "Visage ou cheveux coupant les bords",
+        "multiplePeople": "Plusieurs personnes sont présentes sur la photo",
+        "faceEdges": "Visage ou cheveux touchant les bords",
         "blurry": "Qualité de la photo floue",
-        "obstruction": "Quelque chose obstruant le visage"
+        "obstruction": "Un élément obstrue le visage"
       },
-      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées.",
+      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des photos appropriées.",
       "uploadMorePhotos": "Télécharger plus de photos"
     },
     "page": {
