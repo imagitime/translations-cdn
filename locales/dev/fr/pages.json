@@ -13,14 +13,14 @@
       "giverName": "Votre nom",
       "language": "Langue",
       "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
-      "consentSectionHeader": "Nous prenons la vie privée des enfants au sérieux"
+      "consentSectionHeader": "Nous prenons la vie privée des enfants très au sérieux"
     },
     "relationshipOptions": {
       "default": "Veuillez sélectionner votre relation",
-      "parentGuardian": "Parent/Tuteur",
+      "parentGuardian": "Parent/Tuteur·rice",
       "grandparent": "Grand-parent",
       "auntUncle": "Tante/Oncle",
-      "familyFriend": "Ami de la famille",
+      "familyFriend": "Ami·e de la famille",
       "other": "Autre"
     },
     "genderOptions": {
@@ -35,12 +35,12 @@
     "validation": {
       "tooLongForBook": "Ça, c'est un peu trop long.",
       "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
-      "consentRequired": "Vous devez donner votre consentement pour continuer."
+      "consentRequired": "Vous devez donner votre consentement pour pouvoir continuer."
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
-      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé par le parent ou tuteur de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
+      "parentGuardianText": "Je confirme que je suis le parent ou le·la tuteur·rice légal·e de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
+      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé·e par le parent ou le·la tuteur·rice de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
     },
     "months": {
       "january": "Janvier",
@@ -114,7 +114,7 @@
       "invalidImage": "Fichier image invalide"
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement pour créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et après 1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement pour créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -171,7 +171,7 @@
         "obstruction": "Quelque chose obstruant le visage"
       },
       "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées.",
-      "uploadMorePhotos": "Téléchargez plus de photos"
+      "uploadMorePhotos": "Télécharger plus de photos"
     },
     "page": {
       "number": "Page {{number}}",
