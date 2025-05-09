@@ -26,30 +26,30 @@
       "delayed_order_status_string": "Retardé",
       "delayed_info_note": "Un problème est survenu lors du traitement de votre commande. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
       "paused_order_status_string": "Mis en pause à la demande du client",
-      "paused_info_note": "L'impression de ce livre a été mise en pause à la demande du client. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com."
+      "paused_info_note": "L'impression de ce livre a été mise en pause à la demande du client. Pour obtenir de l'aide, veuillez répondre à l'un des e-mails liés à votre commande ou nous écrire à support@imagitime.com."
     },
     "printing": {
       "currently_in_printing_and_binding_stage_order_status_string": "Actuellement en cours d'impression et de reliure",
-      "currently_in_printing_and_binding_stage_info_note": "Comme notre livre est fabriqué sur mesure pour chaque commande, l'impression et la reliure prennent un certain temps.",
+      "currently_in_printing_and_binding_stage_info_note": "Comme notre livre est personnalisé individuellement, l'impression et la reliure prennent un certain temps.",
       "delayed_order_status_string": "Retardé",
-      "delayed_info_note": "Il y a eu un retard dans le traitement de votre commande. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com.",
+      "delayed_info_note": "Un retard est survenu dans le traitement de votre commande. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou nous écrire à support@imagitime.com.",
       "book_was_given_for_printing_info_note": "Ce livre a été donné pour impression le {date}."
     },
     "printed": {
       "shipped_order_status_string": "Expédié",
       "stuck_in_transit_delivery_status_string": "Bloqué en transit",
-      "stuck_delayed_info_note": "En raison d'un problème, votre colis semble bloqué en transit. Veuillez utiliser le lien de suivi pour voir plus de détails. Pour obtenir de l'aide, veuillez répondre à un e-mail lié c la commande ou nous écrire à support@imagitime.com.",
+      "stuck_delayed_info_note": "En raison d'un problème, votre colis semble être bloqué en cours d'acheminement. Nous vous invitons à consulter le lien de suivi pour plus de détails. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou nous écrire à support@imagitime.com.",
       "delayed_delivery_status_string": "Retardé",
-      "delayed_info_note": "Votre commande est en route, mais semble être retardée. Veuillez utiliser le lien de suivi pour obtenir plus de détails. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
+      "delayed_info_note": "Votre commande est en route, mais semble subir un retard. Nous vous invitons à consulter le lien de suivi pour plus de détails. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
       "not_available_delivery_status_string": "Statut de la livraison non disponible",
       "not_available_delivery_status_info_note": "La livraison sera effectuée par {carrier}. Veuillez utiliser le numéro de suivi - {tracking_number} pour suivre votre commande.",
-      "out_for_delivery_today_status_string": "En cours de livraison aujourd'hui",
+      "out_for_delivery_today_status_string": "Livraison prévue aujourd'hui",
       "delivered_status_string": "Livré le {date}",
       "delivery_failed_order_status_string": "Échec de la livraison !",
-      "delivery_failed_info_note": "En raison d'un problème, votre commande n'a pas pu être livrée. Veuillez utiliser le lien de suivi pour obtenir plus de détails. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
+      "delivery_failed_info_note": "En raison d'un problème, votre commande n'a pas pu être livrée. Nous vous invitons à consulter le lien de suivi pour plus de détails. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
       "delivery_attempted_order_status_string": "Tentative de livraison",
-      "delivery_attempted_info_note": "Le transporteur a tenté de livrer le livre, mais n'a pas pu. Veuillez utiliser le lien de suivi pour obtenir plus de détails. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
-      "tracking_info_not_present_info_note": "La date de livraison estimée est celle fournie par {carrier}. Veuillez utiliser le numéro de suivi  {tracking_number} pour suivre votre commande.",
+      "delivery_attempted_info_note": "Le transporteur a tenté de livrer le livre, mais n'a pas pu. Nous vous invitons à consulter le lien de suivi pour plus de détails. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
+      "tracking_info_not_present_info_note": "La date de livraison estimée est celle fournie par {carrier}. Veuillez utiliser le numéro de suivi {tracking_number} pour suivre votre commande.",
       "shipped_order_info_note": "La date de livraison estimée est celle fournie par {carrier}. La date de livraison réelle peut varier en raison de facteurs externes."
     },
     "cancelled": {
