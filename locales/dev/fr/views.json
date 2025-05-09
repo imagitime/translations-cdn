@@ -2,29 +2,29 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Joyeux anniversaire, ${childName} !\n\nPuisses-tu toujours trouver de la joie dans les petites choses et continuer à briller.\n\nJe t'aime, Maman",
+        "Joyeux anniversaire, ${childName} !\n\nPuisses-tu toujours trouver de la joie dans les petites choses et continuer à briller de tout ton éclat.\n\nJe t'aime, Maman",
         "Joyeux Noël, ${childName} !\n\nQue la joie et la chaleur de cette saison t'accompagnent tout au long de l'année.\n\nAvec tout notre amour, Maman et Papa",
-        "Dédié à ${childName},\n\nUn enfant extraordinaire qui ose rêver. Puisses-tu toujours trouver des raisons de sourire.\n\nAvec tout notre amour, Grand-mère et Grand-père",
-        "Cher/Chère ${childName},\n\nPuissent tes rêves être aussi illimités que le ciel et ton esprit toujours s'élever haut. Nous te souhaitons le meilleur toujours.\n\nAvec tout notre amour, Maman et Papa",
-        "Très cher/chère ${childName},\n\nDans le vaste ciel de la vie, sois toujours l'étoile la plus brillante. Nous sommes si fiers de t'appeler la nôtre.\n\nAvec tout notre amour, oncle et tante",
-        "${childName}, chaque année, tu brilles encore plus.\n\nQue tes journées soient remplies de rires, d'amour et d'émerveillement sans fin.\n\nAvec tout notre amour, maman et papa",
-        "Chaque moment passé avec toi, ${childName}, est un cadeau.\n\nQue ta vie soit aussi merveilleuse et magique que tu l'es pour nous.\n\nMaman et Papa, pour toujours",
-        "Dans ce vaste monde, ${childName}, souviens-toi toujours que:\n\nTu es unique, tu es aimée et tu remplis nos cœurs de joie chaque jour.\n\nMaman et Papa, à jamais"
+        "Dédié à ${childName},\n\nUn enfant extraordinaire qui ose rêver. Puisses-tu toujours trouver mille raisons de sourire.\n\nAvec tout notre amour, Grand-mère et Grand-père",
+        "${childName},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s’envole toujours plus haut. Nous te souhaitons le meilleur, aujourd’hui et toujours\n\nAvec tout notre amour, Maman et Papa",
+        "${childName},\n\nDans le vaste ciel de la vie, sois toujours l'étoile la plus brillante. Nous sommes si fiers de t'avoir dans nos vies.\n\nAvec tout notre amour, Tonton et tata",
+        "${childName}, chaque année, tu brilles plus intensément.\n\nQue tes journées soient remplies de rires, d'amour et d'émerveillement sans fin.\n\nAvec tout notre amour, Maman et papa",
+        "Chaque moment passé avec toi, ${childName}, est un vrai cadeau.\n\nQue ta vie soit aussi douce et magique que ton existence l'est pour nous.\n\nMaman et Papa, pour toujours",
+        "Dans ce vaste monde, ${childName}, souviens-toi toujours que :\n\ntu es unique et que, chaque jour, tu inondes nos cœurs de joie.\n\nOn t'aime plus que tout au monde, Maman et papa"
       ],
       "adult": [
-        "Pour mon bien-aimé ${childName},\n\nEn ce jour de la Saint-Valentin, je voulais saisir toutes les raisons pour lesquelles mon cœur bat pour toi. Ce livre est un témoignage de l'amour qui nous rend uniques.\n\nToujours à toi, ${giver_name}",
-        "Joyeux anniversaire ${childName}, une année de plus à aimer tout ce que tu es. Ton cœur, ton esprit, ton âme.\n\nComplètement à toi, ${giver_name}",
-        "Ma/mon chér/chére ${childName},\n\nPour ton anniversaire, j'ai voulu créer quelque chose qui reflète à quel point tu es extraordinaire. Ces pages sont remplies d'innombrables raisons pour lesquelles tu es la personne la plus incroyable de mon monde.\n\nAvec un amour infini, ${giver_name}",
-        "À mon/ma ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de ton être : de tes particularités, de tes forces et de toutes les petites choses qui te rendent absolument irremplaçable.\n\nJe t'aime, ${giver_name}"
+        "À mon amour, ${childName},\n\nEn ce jour de la Saint-Valentin, je voulais réunir toutes les raisons pour lesquelles mon cœur bat pour toi. Ce livre témoigne de l'amour unique qui nous lie.\n\nÀ toi pour toujours, ${giver_name}",
+        "Joyeux anniversaire ${childName}, une année de plus à aimer chaque petite chose chez toi : ton cœur, ton esprit, ton âme.\n\nÀ toi entièrement, ${giver_name}",
+        "${childName}, mon amour,\n\nPour ton anniversaire, j'ai voulu créer quelque chose qui montre à quel point tu es extraordinaire. Ces pages racontent toutes les raisons pour lesquelles tu es la personne la plus merveilleuse de ma vie\n\nAvec mon amour infini, ${giver_name}",
+        "Pour ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de tout ce qui fait que tu es unique : tes manies, tes forces et toutes ces petites choses qui te rendent absolument irremplaçable.\n\nJe t'aime, ${giver_name}"
       ]
     }
   },
   "orderStatus": {
     "pending": {
       "will_be_given_for_printing_order_status_string": "Sera bientôt donné pour impression",
-      "will_be_given_for_printing_info_note": "Comme notre livre est fait sur mesure pour chaque commande, l'impression et la reliure prennent du temps.",
+      "will_be_given_for_printing_info_note": "Comme notre livre est personnalisé individuellement, l'impression et la reliure demandent un certain délai.",
       "delayed_order_status_string": "Retardé",
-      "delayed_info_note": "Il y a eu un problème lors du traitement de votre commande. Pour toute assistance supplémentaire, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
+      "delayed_info_note": "Un problème est survenu lors du traitement de votre commande. Pour toute assistance, veuillez répondre à l'un des e-mails liés à votre commande ou écrivez-nous à support@imagitime.com.",
       "paused_order_status_string": "Mis en pause à la demande du client",
       "paused_info_note": "L'impression de ce livre a été mise en pause à la demande du client. Pour obtenir de l'aide, veuillez répondre à n'importe quel e-mail lié à la commande ou nous écrire à support@imagitime.com."
     },
