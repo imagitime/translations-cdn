@@ -83,7 +83,7 @@
       },
       "recommended": {
         "range": "2 à 4 photos",
-        "careerBook": "5 minimum, 15 recommandés"
+        "careerBook": "5 minimum, 15 recommandées"
       }
     },
     "qualityGuidelines": {
@@ -124,7 +124,7 @@
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos montrant {{name}}"
+      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos pour {{name}}"
     }
   },
   "UploadMorePhotos": {
@@ -167,7 +167,7 @@
       "reasons": {
         "multiplePeople": "Plusieurs personnes sont présentes sur la photo",
         "faceEdges": "Visage ou cheveux touchant les bords",
-        "blurry": "Qualité de la photo floue",
+        "blurry": "La qualité de la photo est floue",
         "obstruction": "Un élément obstrue le visage"
       },
       "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des photos appropriées.",
@@ -351,8 +351,8 @@
       "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise"
     },
     "shipping": {
-      "info": "+ {{price}} de frais de livraison partout en/au/aux {{region}}",
-      "freeInfo": "Livraison gratuite partout en/au/aux {{region}}"
+      "info": "+ {{price}} de frais de livraison - {{region}}",
+      "freeInfo": "Livraison offerte - {{region}}"
     },
     "delivery": {
       "info": "Livraison en {{min}} à {{max}} jours",
@@ -360,12 +360,12 @@
     },
     "discount": {
       "subscriber": "{{percentage}}% de remise abonné·e appliquée",
-      "limited": "{{percentage}}% Réduction temporaire appliquée",
-      "ambassador": "{{percentage}}% Réduction d'Ambassador déverrouillée"
+      "limited": "{{percentage}}% de remise limitée appliquée",
+      "ambassador": "{{percentage}}% de remise Ambassadeur déverrouillée"
     },
     "subscription": {
-      "heading": "Voulez-vous 10% de réduction ?",
-      "description": "Abonnez-vous à nos emails pour obtenir une réduction instantanée de 10% et un accès anticipé aux nouvelles sorties de livres."
+      "heading": "10% de remise, ça vous dit ?",
+      "description": "Abonnez-vous à notre newsletter pour bénéficier d'une réduction immédiate de 10% et d'un accès anticipé aux nouvelles sorties de livres."
     },
     "badges": {
       "popularChoice": "⭐ Choix Populaire ⭐",
@@ -381,7 +381,7 @@
     },
     "descriptions": {
       "personalTouch": "Ajoutez une touche personnelle à votre cadeau.",
-      "heartfeltMessage": "Que ce soit des mots d'encouragement ou une note spéciale, ravissez-les avec un message de dédicace sincère.",
+      "heartfeltMessage": "Qu'il s'agisse de mots d'encouragement ou d'un message spécial, offrez-lui un moment d'émotion avec une chaleureuse dédicace.",
       "customize": "Vous pourrez personnaliser le message après l'achat."
     }
   },
@@ -391,11 +391,11 @@
       "writeMessageFor": "Écrivez votre propre message pour {{name}}"
     },
     "descriptions": {
-      "charLimit": "Moins de {{chars}} caractères et un maximum de {{lines}} lignes distinctes."
+      "charLimit": "Moins de {{chars}} caractères et un maximum de {{lines}} lignes séparées."
     },
     "errors": {
       "exceededChars": "Dépassement de {{count}} caractères",
-      "noEmojis": "Veuillez supprimer les emojis",
+      "noEmojis": "Veuillez supprimer les émojis",
       "linesExceeded": "{{count}} lignes dépassées"
     },
     "counter": {
@@ -410,11 +410,11 @@
       "ideas": "Idées de message dédicace"
     },
     "placeholder": {
-      "default": "Cher/Chère {{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec tout notre amour, Maman & Papa"
+      "default": "{{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'envole toujours plus haut. Nous te souhaitons le meilleur, aujourd'hui et pour toujours.\n\nAvec tout notre amour, Maman et papa"
     },
     "thankYou": {
       "heading": "Merci !",
-      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en consultant l'aperçu du livre et vérifier s'il y a des fautes de frappe ou des erreurs grammaticales."
+      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en consultant l'aperçu du livre et vérifier qu'il n'y ait pas de fautes de frappe ou d'erreurs grammaticales."
     },
     "printFreeze": {
       "heading": "Ce livre a déjà été envoyé pour impression",
@@ -424,15 +424,15 @@
   "TrackOrders": {
     "headings": {
       "pageTitle": "Suivez vos commandes",
-      "enterVerification": "Entrez le code de vérification",
+      "enterVerification": "Saisissez le code de vérification",
       "yourOrders": "Vos commandes"
     },
     "placeholder": {
-      "email": "Entrez votre e-mail",
-      "otp": "Entrez le code à 6 chiffres"
+      "email": "Saisir votre e-mail",
+      "otp": "Saisir le code à 6 chiffres"
     },
     "instructions": {
-      "enterOTP": "Veuillez entrer le code envoyé à votre e-mail"
+      "enterOTP": "Veuillez saisir le code envoyé à votre e-mail"
     },
     "buttons": {
       "getOTP": "Obtenir le code",
