@@ -183,7 +183,7 @@
     },
     "instructions": {
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
-      "instruction2": "Balayez et laissez chaque page sur l'option que vous préférez",
+      "instruction2": "Faites défiler et laissez chaque page sur l'option que vous préférez",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
       "postOrderSwipeInstructions1": "Faites défiler les options de page et arrêtez-vous sur celle que vous préférez",
@@ -321,7 +321,7 @@
     },
     "labels": {
       "email": "E-mail",
-      "yourName": "Votre nom"
+      "yourName": "Votre prénom"
     },
     "descriptions": {
       "email": "Nous vous enverrons par courriel le lien d'aperçu."
@@ -403,7 +403,7 @@
     },
     "buttons": {
       "addMessage": "Ajouter un message personnalisé",
-      "useTemplate": "Utiliser le modèle",
+      "useTemplate": "Utiliser un modèle",
       "goToPreview": "Accéder à l'aperçu du livre"
     },
     "labels": {
@@ -424,7 +424,7 @@
   "TrackOrders": {
     "headings": {
       "pageTitle": "Suivez vos commandes",
-      "enterVerification": "Saisissez le code de vérification",
+      "enterVerification": "Saisir le code de vérification",
       "yourOrders": "Vos commandes"
     },
     "placeholder": {
