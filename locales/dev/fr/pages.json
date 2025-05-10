@@ -166,7 +166,7 @@
       "text": "Nous n'avons pas pu utiliser vos photos téléchargées dans l'aperçu de l'histoire pour une ou plusieurs des raisons suivantes :",
       "reasons": {
         "multiplePeople": "Plusieurs personnes sont présentes sur la photo",
-        "faceEdges": "Visage ou cheveux touchant les bords",
+        "faceEdges": "Le visage ou les cheveux touchent les bords",
         "blurry": "La qualité de la photo est floue",
         "obstruction": "Un élément obstrue le visage"
       },
