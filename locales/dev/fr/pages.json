@@ -439,7 +439,7 @@
       "verifyOTP": "Vérifier le code",
       "resendOTP": "Renvoyer le code",
       "trackPackage": "Suivre le colis",
-      "trackShipping": "Suivre l'expédition"
+      "trackShipping": "Suivre la livraison"
     },
     "labels": {
       "orderNumber": "Commande n°{{number}}",
