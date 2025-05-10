@@ -14,7 +14,7 @@
       "adult": [
         "À mon amour, ${childName},\n\nEn ce jour de la Saint-Valentin, je voulais réunir toutes les raisons pour lesquelles mon cœur bat pour toi. Ce livre témoigne de l'amour unique qui nous lie.\n\nÀ toi pour toujours, ${giver_name}",
         "Joyeux anniversaire ${childName}, une année de plus à aimer chaque petite chose chez toi : ton cœur, ton esprit, ton âme.\n\nÀ toi entièrement, ${giver_name}",
-        "${childName}, mon amour,\n\nPour ton anniversaire, j'ai voulu créer quelque chose qui montre à quel point tu es extraordinaire. Ces pages racontent toutes les raisons pour lesquelles tu es la personne la plus merveilleuse de ma vie\n\nAvec mon amour infini, ${giver_name}",
+        "${childName}, mon amour,\n\nPour ton anniversaire, j'ai voulu créer quelque chose qui montre à quel point tu es extraordinaire. Ces pages racontent toutes les raisons pour lesquelles tu es la personne la plus merveilleuse de ma vie.\n\nAvec mon amour infini, ${giver_name}",
         "Pour ${childName},\n\nParfois, l'amour n'a pas besoin d'occasion. Ce livre est une célébration spontanée de tout ce qui fait que tu es unique : tes manies, tes forces et toutes ces petites choses qui te rendent absolument irremplaçable.\n\nJe t'aime, ${giver_name}"
       ]
     }
