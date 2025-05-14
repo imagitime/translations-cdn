@@ -5,22 +5,22 @@
     },
     "labels": {
       "childName": "Prénom de l'enfant",
-      "childAge": "Sélectionnez l'âge actuel",
-      "birthMonth": "Sélectionnez le mois de naissance",
+      "childAge": "Sélectionner l'âge actuel",
+      "birthMonth": "Sélectionner le mois de naissance",
       "adultName": "Prénom",
-      "bodyType": "Sélectionnez leur corpulence",
-      "adultAge": "Sélectionnez l'âge",
-      "giverName": "Votre nom",
+      "bodyType": "Sélectionner sa corpulence",
+      "adultAge": "Sélectionner son âge",
+      "giverName": "Votre prénom",
       "language": "Langue",
       "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
-      "consentSectionHeader": "Nous prenons la vie privée des enfants au sérieux"
+      "consentSectionHeader": "Nous prenons la vie privée des enfants très au sérieux"
     },
     "relationshipOptions": {
       "default": "Veuillez sélectionner votre relation",
-      "parentGuardian": "Parent/Tuteur",
+      "parentGuardian": "Parent/Tuteur·rice",
       "grandparent": "Grand-parent",
       "auntUncle": "Tante/Oncle",
-      "familyFriend": "Ami de la famille",
+      "familyFriend": "Ami·e de la famille",
       "other": "Autre"
     },
     "genderOptions": {
@@ -30,17 +30,17 @@
       "feminine": "Féminin"
     },
     "buttons": {
-      "nextStep": "Étape suivante ➔ Télécharger des photos"
+      "nextStep": "Étape suivante ➔ Télécharger les photos"
     },
     "validation": {
-      "tooLongForBook": "Ça, c'est un peu trop long.",
+      "tooLongForBook": "C'est un peu trop long pour le livre.",
       "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
-      "consentRequired": "Vous devez donner votre consentement pour continuer."
+      "consentRequired": "Vous devez donner votre consentement pour pouvoir continuer."
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je confirme que je suis le parent ou tuteur légal de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
-      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé par le parent ou tuteur de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
+      "parentGuardianText": "Je confirme que je suis le parent ou le·la tuteur·rice légal·e de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
+      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé·e par le parent ou le·la tuteur·rice de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
     },
     "months": {
       "january": "Janvier",
@@ -60,19 +60,19 @@
   "UploadCommon": {
     "headings": {
       "lastStep": "Dernière étape",
-      "uploadMore": "Téléchargez plus de photos de {{name}}",
-      "uploadAnother": "Téléchargez une autre photo de {{name}}"
+      "uploadMore": "Télécharger plus de photos pour {{name}}",
+      "uploadAnother": "Télécharger une autre photo pour {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Uniquement les photos tout(e) seul(e)",
+      "soloPhotos": "Uniquement des photos où l'enfant est seul",
       "facingCamera": {
         "child": "L'enfant doit <strong>être face à la caméra</strong>",
         "person": "La personne doit <strong>être face à la caméra</strong>"
       },
-      "frontFacingSmiling": "Face à la caméra & avec un gros sourire",
-      "noSunglassesCap": "Pas de lunettes de soleil, pas de casquette",
-      "noPacifierCap": "Pas de tétine, pas de casquette",
-      "noOneElse": "<strong>Personne d'autre</strong> ne doit être sur la photo",
+      "frontFacingSmiling": "Face à la caméra et souriant",
+      "noSunglassesCap": "Pas de lunettes de soleil ni de casquette",
+      "noPacifierCap": "Pas de tétine ni de casquette",
+      "noOneElse": "<strong>Personne d'autre</strong> ne doit être présent sur la photo",
       "faceEdges": "Le visage et les cheveux ne doivent <strong>pas toucher les bords</strong>",
       "noObstructions": "Les mains ou objets ne doivent <strong>pas obstruer le visage</strong>"
     },
@@ -83,12 +83,12 @@
       },
       "recommended": {
         "range": "2 à 4 photos",
-        "careerBook": "5 minimum, 15 recommandés"
+        "careerBook": "5 minimum, 15 recommandées"
       }
     },
     "qualityGuidelines": {
-      "highQuality": "Haute qualité, pas floue",
-      "soloOnly": "Uniquement les photos tout(e) seul(e)"
+      "highQuality": "Haute qualité, non floue",
+      "soloOnly": "Uniquement les photos où l'enfant est seul"
     },
     "privacy": {
       "standard": "Nous suivons des normes strictes de confidentialité des données.",
@@ -98,7 +98,7 @@
       "finishedUploading": "Téléchargement terminé",
       "uploadPhotos": "Télécharger les photos",
       "choosePhoto": "Choisir une photo",
-      "showPreview": "Afficher l'aperçu du livre de {{name}}",
+      "showPreview": "Afficher l'aperçu du livre pour {{name}}",
       "lastStepPages": "Dernière étape : Sélectionner les pages"
     },
     "uploadOptions": {
@@ -114,32 +114,32 @@
       "invalidImage": "Fichier image invalide"
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement pour créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et après 1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
     "headings": {
-      "uploadRecent": "Téléchargez les photos récentes de {{name}}"
+      "uploadRecent": "Télécharger des photos récentes avec {{name}}"
     }
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos de {{name}}"
+      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos pour {{name}}"
     }
   },
   "UploadMorePhotos": {
     "headings": {
-      "uploadMore": "Téléchargez plus de photos de {{name}}"
+      "uploadMore": "Télécharger plus de photos pour {{name}}"
     }
   },
   "UploadAnotherPhoto": {
     "headings": {
-      "uploadAnother": "Téléchargez une autre photo de {{name}}"
+      "uploadAnother": "Télécharger une autre photo pour {{name}}"
     }
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "Afficher l'aperçu du livre de {{name}}"
+      "pageTitle": "Afficher l'aperçu du livre pour {{name}}"
     },
     "morePhotosQuestion": "Voulez-vous améliorer l'aperçu ?",
     "differentPhotoQuestion": "Envie d'essayer une autre photo ?",
@@ -147,7 +147,7 @@
     "buttons": {
       "editPageSelection": "Modifier la sélection des pages",
       "generateMoreOptions": "Générer plus d'options",
-      "uploadMorePhotos": "Pour améliorer : Téléchargez plus de photos",
+      "uploadMorePhotos": "Pour améliorer : Télécharger plus de photos",
       "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
       "savePreview": "Enregistrer l'aperçu et afficher le prix",
       "changePicture": "Changer d'image",
@@ -157,7 +157,7 @@
       "editDedication": "Modifier le message de dédicace",
       "approveForPrinting": "Approuver pour impression",
       "reapproveForPrinting": "Ré-approuver pour impression",
-      "uploadAnother": "Téléchargez une autre photo",
+      "uploadAnother": "Télécharger une autre photo",
       "addMore": "Ajouter plus de photos",
       "generateFromOtherPhotos": "Générer à partir d'autres photos"
     },
@@ -165,13 +165,13 @@
       "heading": "Aucune photo utilisable",
       "text": "Nous n'avons pas pu utiliser vos photos téléchargées dans l'aperçu de l'histoire pour une ou plusieurs des raisons suivantes :",
       "reasons": {
-        "multiplePeople": "Plusieurs personnes présentes sur la photo",
-        "faceEdges": "Visage ou cheveux coupant les bords",
-        "blurry": "Qualité de la photo floue",
-        "obstruction": "Quelque chose obstruant le visage"
+        "multiplePeople": "Plusieurs personnes sont présentes sur la photo",
+        "faceEdges": "Le visage ou les cheveux touchent les bords",
+        "blurry": "La qualité de la photo est floue",
+        "obstruction": "Un élément obstrue le visage"
       },
-      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des images appropriées.",
-      "uploadMorePhotos": "Téléchargez plus de photos"
+      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des photos appropriées.",
+      "uploadMorePhotos": "Télécharger plus de photos"
     },
     "page": {
       "number": "Page {{number}}",
@@ -183,36 +183,36 @@
     },
     "instructions": {
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
-      "instruction2": "Balayez et laissez chaque page à l'option que vous préférez",
+      "instruction2": "Faites défiler et laissez chaque page sur l'option que vous préférez",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
-      "postOrderInstructions2": "Une fois satisfait de toutes les pages, appuyez sur le bouton \"Approuver pour impression\"",
-      "postOrderSwipeInstructions1": "Faites défiler parmi les options de page et amenez chaque page à l'option que vous préférez.",
-      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour impression\"",
+      "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
+      "postOrderSwipeInstructions1": "Faites défiler les options de page et arrêtez-vous sur celle que vous préférez",
+      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l'impression\"",
       "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
-      "fixedInstructions2": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page"
+      "fixedInstructions2": "Appuyez sur le bouton 'Changer l'image' pour faire défiler les choix alternatifs"
     },
     "status": {
       "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
-      "support": "Questions ? Écrivez à support@imagitime.com",
+      "support": "Vous avez des questions ? Contactez-nous à support@imagitime.com",
       "cancelled": "Cette commande a été annulée.",
       "printing": "Ce livre a déjà été envoyé pour impression.",
-      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Code de suivi : {{tracking}}"
+      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Numéro de suivi : {{tracking}}"
     },
     "timer": {
-      "message": "Création du livre de {{name}}..."
+      "message": "Création du livre pour {{name}} en cours..."
     },
     "notification": {
       "heading": "Pas le temps d'attendre ?"
     },
-    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
+    "scrollIndicator": "Balayez vers le bas pour voir toutes les pages",
     "timeRemaining": {
-      "lessThan": "Moins de <strong>{{time}}</strong> restant pour charger le livre de {{name}}"
+      "lessThan": "Il ne reste plus que <strong>{{time}}</strong> pour charger le livre pour {{name}}"
     },
     "timeUnits": {
       "minute": "{{count}} min ",
-      "minutes": "{{count}} mins",
-      "second": "{{count}} sec",
-      "seconds": "{{count}} secs"
+      "minutes": "{{count}} min",
+      "second": "{{count}} s",
+      "seconds": "{{count}} s"
     },
     "testimonials": {
       "child": [
@@ -295,16 +295,16 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Où devons-nous envoyer l'aperçu du livre de {{name}} ?"
+      "whereToSend": "Où devons-nous envoyer l'aperçu du livre pour {{name}} ?"
     },
     "labels": {
-      "email": "Courriel",
-      "yourName": "Votre Nom"
+      "email": "E-mail",
+      "yourName": "Votre prénom"
     },
     "subscription": {
-      "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
+      "question": "Une remise immédiate de 10 % et un accès anticipé aux lancements des nouveaux livres vous tentent ? Si oui, inscrivez-vous à notre newsletter.",
       "yes": "Oui, j'adorerais",
-      "no": "Non, merci"
+      "no": "Non, pas cette fois"
     },
     "buttons": {
       "sendPreview": "Envoyez-moi l'aperçu"
@@ -312,24 +312,24 @@
     "thankYou": {
       "heading": "Merci !",
       "message": "Nous avons reçu votre demande. Nous vous enverrons l'aperçu du livre dès qu'il sera prêt.",
-      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explorer d'autres livres</b></a> que nous avons."
+      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b> découvrir nos autres livres</b></a>."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Envoyer le lien d'aperçu de {{name}} et montrer le prix du livre imprimé"
+      "emailPreview": "Envoyer le lien d'aperçu pour {{name}} et montrer le prix du livre imprimé"
     },
     "labels": {
-      "email": "Courriel",
-      "yourName": "Votre Nom"
+      "email": "E-mail",
+      "yourName": "Votre prénom"
     },
     "descriptions": {
       "email": "Nous vous enverrons par courriel le lien d'aperçu."
     },
     "subscription": {
-      "question": "Vous voulez une remise instantanée de 10 % et un accès anticipé aux nouvelles sorties de livres en rejoignant notre liste de diffusion ?",
+      "question": "Vous aimeriez bénéficier d'une remise immédiate de 10 % et d'un accès anticipé aux lancements des nouveaux livres en rejoignant notre liste de diffusion ?",
       "yes": "Oui, j'adorerais",
-      "no": "Non, je paierai le prix complet"
+      "no": "Non, je paierai le prix intégral"
     },
     "buttons": {
       "savePreview": "Enregistrer l'aperçu et afficher le prix"
@@ -337,35 +337,35 @@
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "Livre personnalisé de {{name}}"
+      "pageTitle": "Livre personnalisé pour {{name}}"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Réduction d'Ambassadeur 20% Déverrouillée",
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Remise ambassadeur de 20% déverrouillée",
       "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence",
-      "changesAllowed": "Une fois votre commande passée, vous pouvez toujours faire des modifications pendant 12 heures."
+      "changesAllowed": "Une fois votre commande passée, vous pouvez encore apporter des modifications pendant 12 heures."
     },
     "buttons": {
-      "buyHardcover": "Acheter Relié",
-      "buyPaperback": "Acheter Broché",
-      "goBackToPreview": "Retourner à l'Aperçu",
-      "subscribeGetDiscount": "S'abonner et obtenir 10% de réduction"
+      "buyHardcover": "Acheter la version reliée",
+      "buyPaperback": "Acheter la version brochée",
+      "goBackToPreview": "Retourner à l'aperçu",
+      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise"
     },
     "shipping": {
-      "info": "+ {{price}} frais de livraison partout en {{region}}",
-      "freeInfo": "Livraison gratuite partout en {{region}}"
+      "info": "+ {{price}} de frais de livraison - {{region}}",
+      "freeInfo": "Livraison offerte - {{region}}"
     },
     "delivery": {
       "info": "Livraison en {{min}} à {{max}} jours",
       "timeline": "L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
     },
     "discount": {
-      "subscriber": "{{percentage}}% Réduction Abonné Appliquée",
-      "limited": "{{percentage}}% Réduction Temporaire Appliquée",
-      "ambassador": "{{percentage}}% Réduction d'Ambassadeur Déverrouillée"
+      "subscriber": "{{percentage}}% de remise abonné·e appliquée",
+      "limited": "{{percentage}}% de remise limitée appliquée",
+      "ambassador": "{{percentage}}% de remise Ambassadeur déverrouillée"
     },
     "subscription": {
-      "heading": "Voulez-vous 10% de Réduction ?",
-      "description": "Abonnez-vous à nos emails pour obtenir une réduction instantanée de 10% et un accès anticipé aux nouvelles sorties de livres."
+      "heading": "10% de remise, ça vous dit ?",
+      "description": "Abonnez-vous à notre newsletter pour bénéficier d'une réduction immédiate de 10% et d'un accès anticipé aux nouvelles sorties de livres."
     },
     "badges": {
       "popularChoice": "⭐ Choix Populaire ⭐",
@@ -381,7 +381,7 @@
     },
     "descriptions": {
       "personalTouch": "Ajoutez une touche personnelle à votre cadeau.",
-      "heartfeltMessage": "Que ce soit des mots d'encouragement ou une note spéciale, ravissez-les avec un message de dédicace sincère.",
+      "heartfeltMessage": "Qu'il s'agisse de mots d'encouragement ou d'un message spécial, offrez-lui un moment d'émotion avec une chaleureuse dédicace.",
       "customize": "Vous pourrez personnaliser le message après l'achat."
     }
   },
@@ -391,11 +391,11 @@
       "writeMessageFor": "Écrivez votre propre message pour {{name}}"
     },
     "descriptions": {
-      "charLimit": "Moins de {{chars}} caractères et un maximum de {{lines}} lignes distinctes."
+      "charLimit": "Moins de {{chars}} caractères et un maximum de {{lines}} lignes séparées."
     },
     "errors": {
       "exceededChars": "Dépassement de {{count}} caractères",
-      "noEmojis": "Veuillez supprimer les emojis",
+      "noEmojis": "Veuillez supprimer les émojis",
       "linesExceeded": "{{count}} lignes dépassées"
     },
     "counter": {
@@ -403,18 +403,18 @@
     },
     "buttons": {
       "addMessage": "Ajouter un message personnalisé",
-      "useTemplate": "Utiliser le modèle",
+      "useTemplate": "Utiliser un modèle",
       "goToPreview": "Accéder à l'aperçu du livre"
     },
     "labels": {
-      "ideas": "Idées de message de dédicace"
+      "ideas": "Idées de message dédicace"
     },
     "placeholder": {
-      "default": "Cher/Chère {{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'élève toujours haut. Nous te souhaitons le meilleur à tout jamais.\n\nAvec tout notre amour, Maman & Papa"
+      "default": "{{name}},\n\nQue tes rêves soient aussi vastes que le ciel et que ton esprit s'envole toujours plus haut. Nous te souhaitons le meilleur, aujourd'hui et pour toujours.\n\nAvec tout notre amour, Maman et papa"
     },
     "thankYou": {
       "heading": "Merci !",
-      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en consultant l'aperçu du livre et vérifier s'il y a des fautes de frappe ou des erreurs grammaticales."
+      "message": "Nous avons ajouté votre message personnalisé. Veuillez vérifier la page de dédicace (page 2) en consultant l'aperçu du livre et vérifier qu'il n'y ait pas de fautes de frappe ou d'erreurs grammaticales."
     },
     "printFreeze": {
       "heading": "Ce livre a déjà été envoyé pour impression",
@@ -423,23 +423,23 @@
   },
   "TrackOrders": {
     "headings": {
-      "pageTitle": "Suivre vos commandes",
-      "enterVerification": "Entrez le code de vérification",
+      "pageTitle": "Suivez vos commandes",
+      "enterVerification": "Saisir le code de vérification",
       "yourOrders": "Vos commandes"
     },
     "placeholder": {
-      "email": "Entrez votre e-mail",
-      "otp": "Entrez le code à 6 chiffres"
+      "email": "Saisir votre e-mail",
+      "otp": "Saisir le code à 6 chiffres"
     },
     "instructions": {
-      "enterOTP": "Veuillez entrer le code envoyé à votre e-mail"
+      "enterOTP": "Veuillez saisir le code envoyé à votre e-mail"
     },
     "buttons": {
       "getOTP": "Obtenir le code",
       "verifyOTP": "Vérifier le code",
       "resendOTP": "Renvoyer le code",
       "trackPackage": "Suivre le colis",
-      "trackShipping": "Suivre l'expédition"
+      "trackShipping": "Suivre la livraison"
     },
     "labels": {
       "orderNumber": "Commande n°{{number}}",
@@ -460,12 +460,12 @@
     "status": {
       "printed": "Imprimé",
       "printing": "Impression en cours",
-      "pending": "Sera bientôt donné pour impression"
+      "pending": "Sera bientôt envoyé pour impression"
     }
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Merci, vous êtes vraiment formidable !",
+      "heading": "Merci, vous êtes formidable !",
       "message": "Vous venez de créer une histoire unique pour {{name}}",
       "tracking": "Une fois le livre imprimé et expédié, nous vous enverrons les informations de suivi par email."
     }
