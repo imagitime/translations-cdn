@@ -1,7 +1,7 @@
 {
-  "preview_email.subject": "Here's {kid_name}'s Book Preview",
-  "preview_email.title": "{kid_name}'s Storybook Preview",
-  "preview_email.greeting": "Dear {requester_name},",
+  "preview_email.subject": "Vista previa del libro de {kid_name}",
+  "preview_email.title": "Vista previa del libro de {kid_name}",
+  "preview_email.greeting": "Hola {requester_name},",
   "preview_email.intro": "Congratulations on taking the first step in crafting {kid_name}'s magical book with Imagitime! Unlike any other personalized books, they're not just a name on a page; they're the star, brought to life through personalized illustrations. 🌈📖",
   "preview_email.preview_heading": "{kid_name}'s Book Preview:",
   "preview_email.preview_text": "Your magical creation is underway! Feel free to refine it and show it to others by clicking the button below.",
