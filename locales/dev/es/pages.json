@@ -259,109 +259,109 @@
           "author": "Leonardo D"
         },
         {
-          "text": "\"This is a fabulous quality beautiful book. Its worth the money and a Lovely present.\"",
-          "author": "Gill"
+          "text": "«Es un libro precioso, de una calidad excelente. Tiene un precio asequible y es un regalo encantador».",
+          "author": "Isa"
         },
         {
-          "text": "\"I wanted to give him something unique, and this book captured everything he means to me.\"",
+          "text": "«Quería regalarle algo único y este libro plasmó todo lo que él significa para mí».",
           "author": "Olivia K"
         },
         {
-          "text": "\"Good experience from start to finish. Very pleased and would recommend this company.\"",
+          "text": "«Una experiencia estupenda de principio a fin. Me alegro de haberlo comprado, recomiendo a esta empresa sin dudarlo».",
           "author": "A Daly"
         },
         {
-          "text": "\"I just received my order. I love the book!!! The quality is exquisite and their customer service is great.\"",
-          "author": "Victorina P"
+          "text": "«Acabo de recibir mi pedido. ¡¡¡Me encanta el libro!!! La calidad es exquisita y el servicio de atención al cliente es estupendo».",
+          "author": "Victoria P"
         },
         {
-          "text": "\"My boyfriend said he didnt think I noticed all these little things about him. This book meant the world to him.\"",
+          "text": "«Mi novio se sorprendió cuando leyó el libro y comprobó lo mucho que me importa. Este libro ha afianzado nuestra relación».",
           "author": "Amelia R"
         },
         {
-          "text": "\"The book is beautifully done and the customer experience has been par excellence.\"",
-          "author": "Janice"
+          "text": "«El libro está muy bien hecho y la experiencia como cliente ha sido excelente».",
+          "author": "Juani"
         },
         {
-          "text": "\"She kept smiling and saying, 'This is so me!' It was the perfect gift.\"",
-          "author": "Michael T"
+          "text": "«No paraba de sonreír y decir \"¡soy yo!\". Es el regalo perfecto».",
+          "author": "Miguel T"
         },
         {
-          "text": "\"This book is incredible. The pictures were so realistic looking that Amy was left speechless.\"",
-          "author": "Jake C"
+          "text": "«Este libro es increíble. Las imágenes tienen un efecto tan realista que Amelia se quedó boquiabierta».",
+          "author": "Javier C"
         }
       ]
     }
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Where should we send {{name}}'s book preview?"
+      "whereToSend": "¿A dónde enviamos la vista previa del libro de {{name}}?"
     },
     "labels": {
       "email": "Email",
-      "yourName": "Your Name"
+      "yourName": "Tu nombre"
     },
     "subscription": {
-      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
-      "yes": "Yes, I'd love that",
-      "no": "No, thanks"
+      "question": "Si te unes a nuestra lista de correo, puedes llevarte un 10% de descuento al instante y tener acceso anticipado a los nuevos libros que se publiquen. ¿Te apuntas?",
+      "yes": "Sí, por supuesto",
+      "no": "No, gracias"
     },
     "buttons": {
-      "sendPreview": "Send Me The Preview"
+      "sendPreview": "Envíame la vista previa"
     },
     "thankYou": {
-      "heading": "Thank You!",
-      "message": "We've received your request. We'll send you the book preview once it is ready.",
-      "explore": "Meanwhile, you can <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explore Other Books</b></a> we have."
+      "heading": "¡Gracias!",
+      "message": "Hemos recibido tu solicitud. Te enviaremos la vista previa del libro cuando esté lista.",
+      "explore": "Mientras tanto, puedes <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>descubrir otros libros</b></a> que tenemos."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Email {{name}}'s preview link & show price of printed book"
+      "emailPreview": "Envíame por email la vista previa del libro de {{name}} y dime su precio impreso"
     },
     "labels": {
       "email": "Email",
-      "yourName": "Your Name"
+      "yourName": "Tu nombre"
     },
     "descriptions": {
-      "email": "We'll email you the preview link."
+      "email": "Te enviaremos el enlace a la vista previa."
     },
     "subscription": {
-      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
-      "yes": "Yes, I'd love that",
-      "no": "No, I'll pay full price"
+      "question": "Si te unes a nuestra lista de correo, puedes llevarte un 10% de descuento al instante y tener acceso anticipado a los nuevos libros que se publiquen. ¿Te apuntas?",
+      "yes": "Sí, por supuesto",
+      "no": "No, pagaré el precio íntegro"
     },
     "buttons": {
-      "savePreview": "Save Preview & Show Price"
+      "savePreview": "Guardar vista previa y mostrar precio"
     }
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "{{name}}'s Personalized Storybook"
+      "pageTitle": "El cuento personalizado de {{name}}"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador Discount Unlocked",
-      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Printing & delivery takes {{min}} to {{max}} days, so please order accordingly",
-      "changesAllowed": "Once you order, you can still make changes for 12 hours."
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i>Desbloqueado el 20% de descuento de embajador",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> La impresión y el envío tarda de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido",
+      "changesAllowed": "Una vez hecho el pedido, puedes hacer modificaciones en las 12 horas siguientes."
     },
     "buttons": {
-      "buyHardcover": "Buy Hardcover",
-      "buyPaperback": "Buy Paperback",
-      "goBackToPreview": "Go Back To Preview",
-      "subscribeGetDiscount": "Subscribe & Get 10% Off"
+      "buyHardcover": "Comprar edición tapa dura",
+      "buyPaperback": "Comprar edición tapa blanda",
+      "goBackToPreview": "Volver a la vista previa",
+      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO"
     },
     "shipping": {
-      "info": "+ {{price}} shipping anywhere in {{region}}",
-      "freeInfo": "Free shipping anywhere in {{region}}"
+      "info": "+ {{price}} de gastos de envío a {{region}}",
+      "freeInfo": "Envío gratis a cualquier parte de {{region}}"
     },
     "delivery": {
-      "info": "Delivery in {{min}} to {{max}} days",
-      "timeline": "Printing & delivery takes {{min}} to {{max}} days, so please order accordingly"
+      "info": "El envío tarda entre {{min}} y {{max}} días",
+      "timeline": "La impresión y el envío tarda de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido"
     },
     "discount": {
-      "subscriber": "{{percentage}}% Subscriber Discount Applied",
-      "limited": "{{percentage}}% Limited Time Discount Applied",
-      "ambassador": "{{percentage}}% Ambassador Discount Unlocked"
+      "subscriber": "{{percentage}}% de descuento por suscripción aplicado",
+      "limited": "{{percentage}}% de descuento limitado aplicado",
+      "ambassador": "{{percentage}}% de descuento por embajador aplicado"
     },
     "subscription": {
       "heading": "Want 10% Off?",
