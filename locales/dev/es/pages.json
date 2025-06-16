@@ -359,115 +359,115 @@
       "timeline": "La impresión y el envío tarda de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido"
     },
     "discount": {
-      "subscriber": "{{percentage}}% de descuento por suscripción aplicado",
+      "subscriber": "{{percentage}}% de descuento por suscriptor aplicado",
       "limited": "{{percentage}}% de descuento limitado aplicado",
       "ambassador": "{{percentage}}% de descuento por embajador aplicado"
     },
     "subscription": {
-      "heading": "Want 10% Off?",
-      "description": "Subscribe to our emails to get 10% instant discount and early access to new book releases."
+      "heading": "¿Quieres un 10% de descuento?",
+      "description": "Suscríbete a nuestra lista de correo y llévate un 10% de descuento inmediato y acceso anticipado a la publicación de nuevos libros."
     },
     "badges": {
-      "popularChoice": "⭐ Popular Choice ⭐",
-      "soldOut": "Sold out"
+      "popularChoice": "⭐ Opción más vendida ⭐",
+      "soldOut": "Agotado"
     }
   },
   "Dedication": {
     "headings": {
-      "makeSpecial": "Make the book even more special"
+      "makeSpecial": "Haz que el libro sea aún más especial"
     },
     "buttons": {
-      "buyCustomized": "Buy Customized Dedication"
+      "buyCustomized": "Compra una dedicatoria personalizada"
     },
     "descriptions": {
-      "personalTouch": "Add a personal touch to your gift.",
-      "heartfeltMessage": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message.",
-      "customize": "You'll be able to customize the message after purchasing."
+      "personalTouch": "Añade un toque personal a tu regalo.",
+      "heartfeltMessage": "Deleita a tu ser querido con una dedicatoria sincera, ya sean palabras de ánimo o una nota especial.",
+      "customize": "Podrás personalizar el mensaje tras la compra."
     }
   },
   "DedicationMessage": {
     "headings": {
-      "writeMessage": "Write your own message",
-      "writeMessageFor": "Write your own message for {{name}}"
+      "writeMessage": "Escribe tu mensaje",
+      "writeMessageFor": "Escribe tu mensaje para {{name}}"
     },
     "descriptions": {
-      "charLimit": "Less than {{chars}} characters and maximum {{lines}} separate lines."
+      "charLimit": "Menos de {{chars}} caracteres y un máximo de {{lines}} líneas separadas."
     },
     "errors": {
-      "exceededChars": "Exceeded {{count}} characters",
-      "noEmojis": "Please remove emojis",
-      "linesExceeded": "{{count}} lines exceeded"
+      "exceededChars": "Has superado los {{count}} caracteres",
+      "noEmojis": "Por favor, quita los emojis",
+      "linesExceeded": "Has superado las {{count}} líneas"
     },
     "counter": {
-      "remaining": "{{count}} characters left"
+      "remaining": "{{count}} caracteres restantes"
     },
     "buttons": {
-      "addMessage": "Add Personalized Message",
-      "useTemplate": "Use Template",
-      "goToPreview": "Go To Book Preview"
+      "addMessage": "Añade un mensaje personalizado",
+      "useTemplate": "Usar una plantilla",
+      "goToPreview": "Ir a la vista previa del libro"
     },
     "labels": {
-      "ideas": "Dedication Message Ideas"
+      "ideas": "Ideas para la dedicatoria"
     },
     "placeholder": {
-      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+      "default": "Querido {{name}},\n\nOjalá tus sueños alcancen las estrellas y tu espíritu vuele siempre muy alto. Te deseamos lo mejor en tu vida.\n\nCon amor, mamá y papá"
     },
     "thankYou": {
-      "heading": "Thank You!",
-      "message": "We have added your personalised message. Please review the dedication page (page 2) by going to the book preview and double-check for any typos or grammatical errors."
+      "heading": "¡Gracias!",
+      "message": "Hemos añadido tu mensaje personalizado. Revisa la página de la dedicatoria (página 2) accediendo a la vista previa del libro y comprueba que no haya erratas ni errores gramaticales."
     },
     "printFreeze": {
-      "heading": "This book has already been given for printing",
-      "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
+      "heading": "Este libro ya está en proceso de impresión",
+      "message": "Ya no es posible personalizar el mensaje de la dedicatoria. Si tienes alguna duda, ponte en contacto con support@imagitime.com"
     }
   },
   "TrackOrders": {
     "headings": {
-      "pageTitle": "Track Your Orders",
-      "enterVerification": "Enter Verification Code",
-      "yourOrders": "Your Orders"
+      "pageTitle": "Seguimiento de tus pedidos",
+      "enterVerification": "Introduce el código de verificación",
+      "yourOrders": "Tus pedidos"
     },
     "placeholder": {
-      "email": "Enter your email",
-      "otp": "Enter 6-digit Code"
+      "email": "Introduce tu email",
+      "otp": "Introduce el código de 6 dígitos"
     },
     "instructions": {
-      "enterOTP": "Please enter the code sent to your email"
+      "enterOTP": "Introduce el código que hemos enviado a tu email"
     },
     "buttons": {
-      "getOTP": "Get Code",
-      "verifyOTP": "Verify Code",
-      "resendOTP": "Resend Code",
-      "trackPackage": "Track Package",
-      "trackShipping": "Track Shipping"
+      "getOTP": "Obtener código",
+      "verifyOTP": "Verificar código",
+      "resendOTP": "Reenviar código",
+      "trackPackage": "Seguimiento del paquete",
+      "trackShipping": "Localizar el envío"
     },
     "labels": {
-      "orderNumber": "Order #{{number}}",
-      "estimatedDelivery": "Estimated Delivery:",
-      "shippingAddress": "Shipping Address"
+      "orderNumber": "Pedido #{{number}}",
+      "estimatedDelivery": "Entrega estimada:",
+      "shippingAddress": "Dirección de envío"
     },
     "messages": {
-      "otpSent": "Code sent successfully!",
-      "otpFailed": "Failed to send code",
-      "error": "An error occurred",
-      "invalidOTP": "Invalid code. Please try again.",
-      "verifyError": "An error occurred while verifying code",
-      "noOrders": "No orders found."
+      "otpSent": "¡Código enviado!",
+      "otpFailed": "No se ha podido enviar el código",
+      "error": "Ha ocurrido un error",
+      "invalidOTP": "Código no válido. Inténtalo de nuevo.",
+      "verifyError": "Ha ocurrido un error al verificar el código",
+      "noOrders": "No se han encontrado pedidos."
     },
     "timer": {
-      "resendAvailable": "Resend available in {{seconds}} seconds"
+      "resendAvailable": "Reenvío disponible en {{seconds}} segundos"
     },
     "status": {
-      "printed": "Printed",
-      "printing": "Printing in progress",
-      "pending": "Will be given for printing soon"
+      "printed": "Impreso",
+      "printing": "Impresión en progreso",
+      "pending": "El proceso de impresión empezará pronto"
     }
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Thank You, You're Truly Wonderful!",
-      "message": "You've just crafted a unique tale for {{name}}",
-      "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
+      "heading": "¡Te lo agradecemos de corazón!",
+      "message": "Has creado un cuento exclusivo para {{name}}",
+      "tracking": "Una vez se imprima el libro y salga el envío, te mandaremos la información de seguimiento a tu email."
     }
   }
 }
