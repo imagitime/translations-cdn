@@ -68,20 +68,20 @@
     },
     "buttons": {
       "trackPackage": "Seguimiento del paquete",
-      "trackShipping": "Track Shipping"
+      "trackShipping": "Localizar el envío"
     }
   },
   "generationDetailsFunctions": {
     "messages": {
-      "processingUploadPhoto": "Processing Uploaded Photo {processed_count} out of {total_count} ...",
-      "preparingForGeneration": "Preparing For Generation ..."
+      "processingUploadPhoto": "Procesando foto {processed_count} de {total_count} ...",
+      "preparingForGeneration": "Preparando la generación..."
     }
   },
   "adminOrderStatus": {
-    "salutation": "Hi {name},",
-    "genericSalutation": "Hi,",
-    "pendingPrinting": "Your book will be given for printing shortly. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days for review, printing, binding, and shipping. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding.",
-    "shipped": "Your book has been printed and shipped via {carrier}. Here's the tracking link.",
-    "inPrinting": "Your book is currently in the printing and binding stage. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days from order to delivery. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding."
+    "salutation": "Hola {name},",
+    "genericSalutation": "Hola,",
+    "pendingPrinting": "El proceso de impresión de tu libro se iniciará en breve. Como se elabora a medida para cada persona, la revisión, impresión, encuadernación y envío suele tardar entre {min_days} y {max_days} días en total. Te enviaremos los datos de seguimiento del envío cuando salga de la imprenta. Gracias por tu paciencia y comprensión.",
+    "shipped": "Tu libro ya está impreso y lo hemos enviado a través de {carrier}. Aquí tienes el enlace de seguimiento.",
+    "inPrinting": "Tu libro se encuentra actualmente en la fase de impresión y encuadernación. Como se elabora a medida para cada persona, el proceso completo suele tardar entre {min_days} y {max_days} días desde que se hace el pedido hasta que se envía el paquete. Te enviaremos los datos de seguimiento del envío cuando salga de la imprenta. Gracias por tu paciencia y comprensión."
   }
 }
