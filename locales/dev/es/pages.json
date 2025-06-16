@@ -1,26 +1,26 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Who would you like to make the book for?"
+      "whoToMakeBookFor": "¿A quién quieres hacerle el libro?"
     },
     "labels": {
-      "childName": "Child's First Name For Story",
-      "childAge": "Select Current Age",
-      "birthMonth": "Select Birth Month",
-      "adultName": "First Name",
-      "bodyType": "Select Their Body Type",
-      "adultAge": "Select Age",
-      "giverName": "Giver's Name (Your Name)",
-      "language": "Language",
-      "relationshipToChild": "What is your relationship to the child?",
-      "consentSectionHeader": "We take child privacy seriously"
+      "childName": "Nombre del niño que aparecerá en el cuento",
+      "childAge": "Selecciona la edad actual",
+      "birthMonth": "Selecciona el mes de nacimiento",
+      "adultName": "Nombre",
+      "bodyType": "Selecciona la apariencia física",
+      "adultAge": "Selecciona la edad",
+      "giverName": "Nombre del que regala el libro (tu nombre)",
+      "language": "Idioma",
+      "relationshipToChild": "¿Qué relación tienes con el niño?",
+      "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
     },
     "relationshipOptions": {
-      "default": "Please select your relationship",
-      "parentGuardian": "Parent/Guardian",
-      "grandparent": "Grandparent",
-      "auntUncle": "Aunt/Uncle",
-      "familyFriend": "Family Friend",
+      "default": "Por favor, selecciona la relación",
+      "parentGuardian": "Padre/Madre/Tutor",
+      "grandparent": "Abuelo/a",
+      "auntUncle": "Tío/a",
+      "familyFriend": "Amigo de la familia",
       "other": "Other"
     },
     "genderOptions": {
