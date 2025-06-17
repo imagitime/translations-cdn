@@ -32,7 +32,7 @@
       "currently_in_printing_and_binding_stage_order_status_string": "Actualmente en fase de impresión y encuadernación",
       "currently_in_printing_and_binding_stage_info_note": "Como nuestros libros se confeccionan a medida en cada pedido, la impresión y la encuadernación llevan algún tiempo.",
       "delayed_order_status_string": "Retrasado",
-      "delayed_info_note": "Se producido un retraso al procesar tu pedido. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "delayed_info_note": "Se ha producido un retraso al procesar tu pedido. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
       "book_was_given_for_printing_info_note": "Este libro se envió a reimpresión el {date}."
     },
     "printed": {
