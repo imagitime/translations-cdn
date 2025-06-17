@@ -12,16 +12,16 @@
       "adultAge": "Selecciona la edad",
       "giverName": "Nombre del que regala el libro (tu nombre)",
       "language": "Idioma",
-      "relationshipToChild": "¿Qué parentesco tienes con el niño?",
+      "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
       "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
     },
     "relationshipOptions": {
       "default": "Por favor, selecciona el parentesco",
-      "parentGuardian": "Padre/Madre/Tutor",
-      "grandparent": "Abuelo/a",
-      "auntUncle": "Tío/a",
+      "parentGuardian": "Padre, madre o tutor legal",
+      "grandparent": "Abuela o abuelo",
+      "auntUncle": "Tía o tío",
       "familyFriend": "Amigo de la familia",
-      "other": "Otro"
+      "other": "Otra relación"
     },
     "genderOptions": {
       "boy": "Niño",
