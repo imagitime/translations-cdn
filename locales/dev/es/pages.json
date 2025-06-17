@@ -24,8 +24,8 @@
       "other": "Otro"
     },
     "genderOptions": {
-      "boy": "Chico",
-      "girl": "Chica",
+      "boy": "Niño",
+      "girl": "Niña",
       "masculine": "Masculina",
       "feminine": "Femenina"
     },
@@ -145,7 +145,7 @@
     "differentPhotoQuestion": "¿Quieres probar con otra foto?",
     "editPagesQuestion": "¿Quieres editar la selección de páginas o añadir fotos?",
     "buttons": {
-      "editPageSelection": "Editar selección de página",
+      "editPageSelection": "Editar selección de páginas",
       "generateMoreOptions": "Generar más opciones",
       "uploadMorePhotos": "Para mejorarlo: Sube más fotos",
       "emailPreview": "Envíame la vista previa por email",
