@@ -1,0 +1,87 @@
+{
+  "dedication": {
+    "suggestions": {
+      "child": [
+        "¡Feliz cumpleaños, ${childName}!\n\nQue siempre encuentres la felicidad en las pequeñas cosas y sigas tan resplandeciente como ahora.\n\nCon amor, Mamá",
+        "¡Feliz Navidad, ${childName}!\n\nQue la alegría y la calidez de estas fiestas te acompañen durante todo el año.\n\nCon todo nuestro amor, Mamá y Papá",
+        "Dedicado a ${childName},\n\nUn niño increíble que se atreve a soñar. Que siempre encuentres motivos para sonreír.\n\nCon mucho amor, la Abuela y el Abuelo",
+        "Querido ${childName},\n\nOjalá tus sueños alcancen las estrellas y tu espíritu vuele siempre muy alto. Te deseamos lo mejor en tu vida.\n\nCon amor, Mamá y Papá",
+        "Queridísimo ${childName},\n\nEn el vasto cielo de la vida, siempre serás la estrella más brillante. Estamos muy orgullosos de que seas nuestro sobrino.\n\nCon amor, tu Tío y tu Tía",
+        "${childName}, cada año brillas con más fuerza.\n\nQue tus días estén llenos de risas, amor y maravillas inagotables.\n\nCon todo nuestro amor, Mamá y Papá",
+        "${childName}, cada momento que pasamos contigo es un regalo.\n\nQue tu vida sea tan maravillosa y mágica como tú lo eres para nosotros.\n\nSiempre contigo, Mamá y Papá",
+        "${childName}, en este vasto mundo, recuerda siempre:\n\nEres único, eres querido y traes alegría a nuestros corazones todos los días.\n\nSiempre con amor, Mamá y Papá"
+      ],
+      "adult": [
+        "A mi querido ${childName},\n\nEn este Día de San Valentín, quiero plasmar todas las razones por las que mi corazón late por ti. Este libro es un testimonio del amor que nos hace únicos.\n\nSiempre tuya, ${giver_name}",
+        "Feliz Aniversario ${childName}, un año más celebro lo mucho que quiero todo lo que eres: tu corazón, tu mente, tu alma.\n\nCompletamente tuyo, ${giver_name}",
+        "Mi querido ${childName},\n\nCon motivo de tu cumpleaños, quería crear algo que reflejara lo extraordinario que eres. Estas páginas están repletas de las infinitas razones por las que eres la persona más asombrosa que hay en el mundo.\n\nCon todo mi amor, ${giver_name}",
+        "A mi querido ${childName},\n\nA veces el amor no necesita una ocasión especial. Este libro es una forma espontánea de celebrarlo: tus peculiaridades, tus puntos fuertes y todas las pequeñas cosas que te hacen absolutamente irremplazable.\n\nCon amor eterno, ${giver_name}"
+      ]
+    }
+  },
+  "orderStatus": {
+    "pending": {
+      "will_be_given_for_printing_order_status_string": "El proceso de impresión empezará pronto",
+      "will_be_given_for_printing_info_note": "Como nuestros libros se confeccionan a medida en cada pedido, la impresión y la encuadernación llevan algún tiempo.",
+      "delayed_order_status_string": "Retrasado",
+      "delayed_info_note": "Ha surgido una incidencia al procesar tu pedido. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "paused_order_status_string": "En pausa a petición del cliente",
+      "paused_info_note": "La impresión de este libro se ha paralizado a petición del cliente. Para recibir asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com."
+    },
+    "printing": {
+      "currently_in_printing_and_binding_stage_order_status_string": "Actualmente en fase de impresión y encuadernación",
+      "currently_in_printing_and_binding_stage_info_note": "Como nuestros libros se confeccionan a medida en cada pedido, la impresión y la encuadernación llevan algún tiempo.",
+      "delayed_order_status_string": "Retrasado",
+      "delayed_info_note": "Se ha producido un retraso al procesar tu pedido. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "book_was_given_for_printing_info_note": "Este libro se envió a reimpresión el {date}."
+    },
+    "printed": {
+      "shipped_order_status_string": "Enviado",
+      "stuck_in_transit_delivery_status_string": "Retenido en tránsito",
+      "stuck_delayed_info_note": "Por alguna incidencia, tu expedición parece estar retenida. Utiliza el enlace de seguimiento para más información. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "delayed_delivery_status_string": "Retrasado",
+      "delayed_info_note": "Tu pedido está en camino, pero la expedición se ha retrasado. Utiliza el enlace de seguimiento para más información. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "not_available_delivery_status_string": "El estado del envío no está disponible",
+      "not_available_delivery_status_info_note": "La entrega la realizará {carrier}. Para localizar tu pedido, utiliza el número de seguimiento {tracking_number}.",
+      "out_for_delivery_today_status_string": "En entrega",
+      "delivered_status_string": "Entregado el {date}",
+      "delivery_failed_order_status_string": "¡No se ha realizado la entrega!",
+      "delivery_failed_info_note": "Por alguna incidencia, no se ha podido entregar tu pedido. Utiliza el enlace de seguimiento para más información. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "delivery_attempted_order_status_string": "Intento de entrega",
+      "delivery_attempted_info_note": "La agencia de transporte ha intentado entregar tu pedido, pero no ha podido. Utiliza el enlace de seguimiento para más información. Para solicitar asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com.",
+      "tracking_info_not_present_info_note": "La fecha de entrega estimada la proporciona {carrier}. Para localizar tu pedido, utiliza el número de seguimiento {tracking_number}.",
+      "shipped_order_info_note": "La fecha de entrega estimada es la que indica {carrier}. La fecha de entrega real puede variar debido a factores externos."
+    },
+    "cancelled": {
+      "cancelled_order_status_string": "Tu pedido se ha cancelado.",
+      "cancelled_info_note": "La impresión de este libro se ha cancelado. Para recibir asistencia, responde a cualquiera de los emails relacionados con el pedido o escríbenos a support@imagitime.com."
+    }
+  },
+  "orderTracking": {
+    "messages": {
+      "emailRequired": "El email es obligatorio",
+      "otpRequired": "La clave OTP es obligatoria",
+      "otpExpiredOrInvalid": "La clave OTP ha caducado o no se encuentra"
+    },
+    "labels": {
+      "orderNumber": "Pedido #{number}"
+    },
+    "buttons": {
+      "trackPackage": "Seguimiento del paquete",
+      "trackShipping": "Localizar el envío"
+    }
+  },
+  "generationDetailsFunctions": {
+    "messages": {
+      "processingUploadPhoto": "Procesando foto {processed_count} de {total_count} ...",
+      "preparingForGeneration": "Preparando la generación..."
+    }
+  },
+  "adminOrderStatus": {
+    "salutation": "Hola {name},",
+    "genericSalutation": "Hola,",
+    "pendingPrinting": "El proceso de impresión de tu libro se iniciará en breve. Como se elabora a medida para cada persona, la revisión, impresión, encuadernación y envío suele tardar entre {min_days} y {max_days} días en total. Te enviaremos los datos de seguimiento del envío cuando salga de la imprenta. Gracias por tu paciencia y comprensión.",
+    "shipped": "Tu libro ya está impreso y lo hemos enviado a través de {carrier}. Aquí tienes el enlace de seguimiento.",
+    "inPrinting": "Tu libro se encuentra actualmente en la fase de impresión y encuadernación. Como se elabora a medida para cada persona, el proceso completo suele tardar entre {min_days} y {max_days} días desde que se hace el pedido hasta que se envía el paquete. Te enviaremos los datos de seguimiento del envío cuando salga de la imprenta. Gracias por tu paciencia y comprensión."
+  }
+}
