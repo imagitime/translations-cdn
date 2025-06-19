@@ -1,0 +1,473 @@
+{
+  "InitialForm": {
+    "headings": {
+      "whoToMakeBookFor": "¿A quién quieres hacerle el libro?"
+    },
+    "labels": {
+      "childName": "Nombre del niño que aparecerá en el cuento",
+      "childAge": "Selecciona la edad actual",
+      "birthMonth": "Selecciona el mes de nacimiento",
+      "adultName": "Nombre",
+      "bodyType": "Selecciona la apariencia física",
+      "adultAge": "Selecciona la edad",
+      "giverName": "Nombre del que regala el libro (tu nombre)",
+      "language": "Idioma",
+      "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
+      "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
+    },
+    "relationshipOptions": {
+      "default": "Por favor, selecciona el parentesco",
+      "parentGuardian": "Padre, madre o tutor legal",
+      "grandparent": "Abuela o abuelo",
+      "auntUncle": "Tía o tío",
+      "familyFriend": "Amigo de la familia",
+      "other": "Otra relación"
+    },
+    "genderOptions": {
+      "boy": "Niño",
+      "girl": "Niña",
+      "masculine": "Masculina",
+      "feminine": "Femenina"
+    },
+    "buttons": {
+      "nextStep": "Siguiente paso ➔ Subir fotos"
+    },
+    "validation": {
+      "tooLongForBook": "Es demasiado largo.",
+      "selectRelationship": "Por favor, selecciona el parentesco con el niño.",
+      "consentRequired": "Debes dar tu consentimiento para continuar."
+    },
+    "consent": {
+      "defaultConsentText": "[Selecciona arriba tu parentesco con el niño para visualizar el mensaje de consentimiento adecuado]",
+      "parentGuardianText": "Confirmo que soy el padre, la madre o el tutor legal de este niño, que tengo más de 18 años y que doy mi consentimiento para que la información proporcionada sirva para la creación de un libro de cuentos personalizado de acuerdo con la <a href='/policies/privacy-policy' target='_blank'>Política de privacidad</a>.",
+      "otherRelationshipText": "Confirmo que soy mayor de 18 años y que tengo la autorización de los padres o tutores del niño para facilitar esta información con el fin de crear un libro de cuentos personalizado conforme a la <a href='/policies/privacy-policy'>Política de privacidad</a>."
+    },
+    "months": {
+      "january": "Enero",
+      "february": "Febrero",
+      "march": "Marzo",
+      "april": "Abril",
+      "may": "Mayo",
+      "june": "Junio",
+      "july": "Julio",
+      "august": "Agosto",
+      "september": "Septiembre",
+      "october": "Octubre",
+      "november": "Noviembre",
+      "december": "Diciembre"
+    }
+  },
+  "UploadCommon": {
+    "headings": {
+      "lastStep": "Último paso",
+      "uploadMore": "Subir más fotos de {{name}}",
+      "uploadAnother": "Subir otra foto de {{name}}"
+    },
+    "instructions": {
+      "soloPhotos": "Únicamente fotos individuales",
+      "facingCamera": {
+        "child": "El niño debe estar <strong>mirando de frente a la cámara</strong>",
+        "person": "La persona debe estar <strong>mirando de frente a la cámara</strong>"
+      },
+      "frontFacingSmiling": "De frente y sonriendo",
+      "noSunglassesCap": "Sin gafas de sol ni gorra",
+      "noPacifierCap": "Sin chupete y sin gorra",
+      "noOneElse": "<strong>No debe aparecer nadie más</strong> en la foto",
+      "faceEdges": "La cara y el pelo no deben <strong>tocar los bordes</strong>",
+      "noObstructions": "Ni las manos ni ningún objeto deben <strong>ocultar la cara</strong>"
+    },
+    "photoRequirements": {
+      "minimum": {
+        "regular": "Se requiere un mínimo de 2 fotos para tener una vista previa",
+        "career": "Se requieren al menos 5 fotos para obtener una vista previa"
+      },
+      "recommended": {
+        "range": "De 2 a 4 fotos",
+        "careerBook": "5 mínimo, 15 recomendado"
+      }
+    },
+    "qualityGuidelines": {
+      "highQuality": "De alta calidad, no borrosas",
+      "soloOnly": "Únicamente fotos individuales"
+    },
+    "privacy": {
+      "standard": "Cumplimos unas normas estrictas en privacidad de datos.",
+      "confidential": "Las fotos son confidenciales y sólo se usan para crear el libro personalizado."
+    },
+    "buttons": {
+      "finishedUploading": "Subida finalizada",
+      "uploadPhotos": "Subir fotos",
+      "choosePhoto": "Elegir foto",
+      "showPreview": "Mostrar la vista previa del libro de {{name}}",
+      "lastStepPages": "Último Paso: Seleccionar páginas"
+    },
+    "uploadOptions": {
+      "gallery": "Elige una de la Galería",
+      "camera": "Haz una foto",
+      "cancel": "Cancelar"
+    },
+    "errors": {
+      "invalidType": "Tipo de archivo no válido. Los formatos válidos son: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "fileTooLarge": "El tamaño del archivo supera el límite de 20MB. Tamaño actual: {{size}}MB",
+      "dimensionsTooSmall": "La imagen es demasiado pequeña. El tamaño mínimo es 100x100 píxeles.",
+      "dimensionsTooLarge": "La imagen es demasiado grande. El tamaño máximo es de 5000x5000 píxeles.",
+      "invalidImage": "Archivo de imagen no válido"
+    },
+    "consent": {
+      "photosConsent": "Autorizo el tratamiento seguro de estas fotos únicamente para crear el libro de cuentos personalizado. Las fotos se eliminarán al cabo de 24 horas si no guardo la vista previa facilitando mi correo electrónico y al cabo de 1 año aunque guarde la vista previa. Entiendo que puedo retirar mi consentimiento en cualquier momento poniéndome en contacto con support@imagitime.com"
+    }
+  },
+  "UploadPhotosRealtime": {
+    "headings": {
+      "uploadRecent": "Sube fotos recientes de {{name}}"
+    }
+  },
+  "UploadPhotosUniversal": {
+    "headings": {
+      "uploadPhotos": "Sube de {{minCount}} a {{maxCount}} fotos de {{name}}"
+    }
+  },
+  "UploadMorePhotos": {
+    "headings": {
+      "uploadMore": "Sube más fotos de {{name}}"
+    }
+  },
+  "UploadAnotherPhoto": {
+    "headings": {
+      "uploadAnother": "Sube otra foto de {{name}}"
+    }
+  },
+  "BookPreview": {
+    "headings": {
+      "pageTitle": "Vista previa del libro de {{name}}"
+    },
+    "morePhotosQuestion": "¿Quieres mejorar la vista previa?",
+    "differentPhotoQuestion": "¿Quieres probar con otra foto?",
+    "editPagesQuestion": "¿Quieres editar la selección de páginas o añadir fotos?",
+    "buttons": {
+      "editPageSelection": "Editar selección de páginas",
+      "generateMoreOptions": "Generar más opciones",
+      "uploadMorePhotos": "Para mejorarlo: Sube más fotos",
+      "emailPreview": "Envíame la vista previa por email",
+      "savePreview": "Guardar la vista previa y mostrar el precio",
+      "changePicture": "Cambiar la imagen",
+      "change": "Cambiar",
+      "createSimilar": "Crear uno similar",
+      "buyDedication": "Comprar dedicatoria personalizada",
+      "editDedication": "Editar el mensaje de la dedicatoria",
+      "approveForPrinting": "Aprobar la impresión",
+      "reapproveForPrinting": "Reaprobar la impresión",
+      "uploadAnother": "Subir otra foto",
+      "addMore": "Añadir más fotos",
+      "generateFromOtherPhotos": "Generar a partir de otras fotos"
+    },
+    "noUsablePhotos": {
+      "heading": "No hay fotos aprovechables",
+      "text": "No podemos usar ninguna de las fotos que has subido en la vista previa del cuento por uno o varios de los siguientes motivos:",
+      "reasons": {
+        "multiplePeople": "En la foto aparecen varias personas",
+        "faceEdges": "El rostro o el pelo cruzan los bordes",
+        "blurry": "Foto borrosa",
+        "obstruction": "Algo oculta parte de la cara"
+      },
+      "uploadPrompt": "Puedes añadir fotos apropiadas con el botón «Subir más fotos».",
+      "uploadMorePhotos": "Subir más fotos"
+    },
+    "page": {
+      "number": "Página {{number}}",
+      "loading": "Cargando imagen para la página {{number}}",
+      "generating": "Generando opciones para la página {{number}}",
+      "generatingMoreOptions": "Generando más opciones",
+      "generatingTime": "Tarda unos 60 segundos",
+      "waiting": "Esperando a que se cargue la página {{number}}"
+    },
+    "instructions": {
+      "instruction1": "Las páginas se muestran una debajo de otra",
+      "instruction2": "Desplázate y deja cada página en la opción que más te guste",
+      "postOrderInstructions1": "Toca el botón «Cambiar imagen» para desplazarte por las opciones alternativas de la página",
+      "postOrderInstructions2": "Una vez que las páginas estén a tu gusto, toca el botón «Aprobar la impresión»",
+      "postOrderSwipeInstructions1": "Desplázate entre las opciones de página y dirige cada página a la opción que más te guste",
+      "postOrderSwipeInstructions2": "Una vez que hayas terminado con todas las páginas, pulsa el botón «Aprobar la impresión»",
+      "fixedInstructions1": "Las páginas se mostrarán una debajo de otra",
+      "fixedInstructions2": "Toca el botón «Cambiar imagen» para desplazarte a las opciones alternativas de la página"
+    },
+    "status": {
+      "deleted": "El libro generado, así como las fotos enviadas, se han eliminado y ya no están disponibles.",
+      "support": "¿Alguna pregunta? Contacta con support@imagitime.com",
+      "cancelled": "Este pedido se ha anulado.",
+      "printing": "Este libro ya está en proceso de impresión.",
+      "shipped": "Este libro se envió el {{date}}<br>Agencia de transporte: {{carrier}}<br>Código de seguimiento: {{tracking}}"
+    },
+    "timer": {
+      "message": "Creando el libro de {{name}}..."
+    },
+    "notification": {
+      "heading": "¿No puedes esperar?"
+    },
+    "scrollIndicator": "Desliza hacia abajo para ver todas las páginas",
+    "timeRemaining": {
+      "lessThan": "Quedan menos de <strong>{{time}}</strong> para cargar el libro de {{name}}"
+    },
+    "timeUnits": {
+      "minute": "{{count}} min",
+      "minutes": "{{count}} min",
+      "second": "{{count}} s",
+      "seconds": "{{count}} s"
+    },
+    "testimonials": {
+      "child": [
+        {
+          "text": "«Ningún otro regalo ha conseguido iluminar así los ojos de mi hija».",
+          "author": "Alicia S"
+        },
+        {
+          "text": "«¡UNA LOCURA! La calidad, las ilustraciones, la historia... ¡todo!»",
+          "author": "Carolina"
+        },
+        {
+          "text": "«A mi hijo le fascinó muchísimo el cuento y que él fuera el protagonista».",
+          "author": "Tomás"
+        },
+        {
+          "text": "«Un producto sorprendente y exclusivo. El servicio de atención al cliente EXCELENTE. A partir de ahora será mi regalo estrella».",
+          "author": "Elisa"
+        },
+        {
+          "text": "«Es un recuerdo inolvidable. También es un regalo personalizado fantástico para los hijos de mis amigas».",
+          "author": "Rita"
+        },
+        {
+          "text": "«¡Es el mejor regalo que les puedes hacer a tus hijos!»",
+          "author": "SNJ"
+        },
+        {
+          "text": "«Es muy fácil crearlos. El libro terminado es de excelente calidad».",
+          "author": "Ana"
+        },
+        {
+          "text": "«He pedido 4 libros y la experiencia ha sido inmejorable».",
+          "author": "Surbhi K."
+        },
+        {
+          "text": "«Es un libro precioso de una calidad fabulosa. Tiene un precio muy razonable y es un regalo adorable».",
+          "author": "Elena"
+        }
+      ],
+      "adult": [
+        {
+          "text": "«Cuando le di el regalo, mi novia se sintió inmensamente feliz. Es un recuerdo para toda la vida».",
+          "author": "Leonardo D"
+        },
+        {
+          "text": "«Es un libro precioso, de una calidad excelente. Tiene un precio asequible y es un regalo encantador».",
+          "author": "Isa"
+        },
+        {
+          "text": "«Quería regalarle algo único y este libro plasmó todo lo que él significa para mí».",
+          "author": "Olivia K"
+        },
+        {
+          "text": "«Una experiencia estupenda de principio a fin. Me alegro de haberlo comprado, recomiendo a esta empresa sin dudarlo».",
+          "author": "A Daly"
+        },
+        {
+          "text": "«Acabo de recibir mi pedido. ¡¡¡Me encanta el libro!!! La calidad es exquisita y el servicio de atención al cliente es estupendo».",
+          "author": "Victoria P"
+        },
+        {
+          "text": "«Mi novio se sorprendió cuando leyó el libro y comprobó lo mucho que me importa. Este libro ha afianzado nuestra relación».",
+          "author": "Amelia R"
+        },
+        {
+          "text": "«El libro está muy bien hecho y la experiencia como cliente ha sido excelente».",
+          "author": "Juani"
+        },
+        {
+          "text": "«No paraba de sonreír y decir \"¡soy yo!\". Es el regalo perfecto».",
+          "author": "Miguel T"
+        },
+        {
+          "text": "«Este libro es increíble. Las imágenes tienen un efecto tan realista que Amelia se quedó boquiabierta».",
+          "author": "Javier C"
+        }
+      ]
+    }
+  },
+  "ContactDetails": {
+    "headings": {
+      "whereToSend": "¿A dónde enviamos la vista previa del libro de {{name}}?"
+    },
+    "labels": {
+      "email": "Email",
+      "yourName": "Tu nombre"
+    },
+    "subscription": {
+      "question": "Si te unes a nuestra lista de correo, puedes llevarte un 10% de descuento al instante y tener acceso anticipado a los nuevos libros que se publiquen. ¿Te apuntas?",
+      "yes": "Sí, por supuesto",
+      "no": "No, gracias"
+    },
+    "buttons": {
+      "sendPreview": "Envíame la vista previa"
+    },
+    "thankYou": {
+      "heading": "¡Gracias!",
+      "message": "Hemos recibido tu solicitud. Te enviaremos la vista previa del libro cuando esté lista.",
+      "explore": "Mientras tanto, puedes <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>descubrir otros libros</b></a> que tenemos."
+    }
+  },
+  "InterestedContact": {
+    "headings": {
+      "emailPreview": "Envíame por email la vista previa del libro de {{name}} y dime su precio impreso"
+    },
+    "labels": {
+      "email": "Email",
+      "yourName": "Tu nombre"
+    },
+    "descriptions": {
+      "email": "Te enviaremos el enlace a la vista previa."
+    },
+    "subscription": {
+      "question": "Si te unes a nuestra lista de correo, puedes llevarte un 10% de descuento al instante y tener acceso anticipado a los nuevos libros que se publiquen. ¿Te apuntas?",
+      "yes": "Sí, por supuesto",
+      "no": "No, pagaré el precio íntegro"
+    },
+    "buttons": {
+      "savePreview": "Guardar vista previa y mostrar precio"
+    }
+  },
+  "InterestedPage": {
+    "headings": {
+      "pageTitle": "El cuento personalizado de {{name}}"
+    },
+    "offer": {
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i>Desbloqueado el 20% de descuento de embajador",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> La impresión y el envío tarda de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido",
+      "changesAllowed": "Una vez hecho el pedido, puedes hacer modificaciones en las 12 horas siguientes."
+    },
+    "buttons": {
+      "buyHardcover": "Comprar edición tapa dura",
+      "buyPaperback": "Comprar edición tapa blanda",
+      "goBackToPreview": "Volver a la vista previa",
+      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO"
+    },
+    "shipping": {
+      "info": "+ {{price}} de gastos de envío a {{region}}",
+      "freeInfo": "Envío gratis a cualquier parte de {{region}}"
+    },
+    "delivery": {
+      "info": "El envío tarda entre {{min}} y {{max}} días",
+      "timeline": "La impresión y el envío tarda de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido"
+    },
+    "discount": {
+      "subscriber": "{{percentage}}% de descuento por suscriptor aplicado",
+      "limited": "{{percentage}}% de descuento limitado aplicado",
+      "ambassador": "{{percentage}}% de descuento por embajador aplicado"
+    },
+    "subscription": {
+      "heading": "¿Quieres un 10% de descuento?",
+      "description": "Suscríbete a nuestra lista de correo y llévate un 10% de descuento inmediato y acceso anticipado a la publicación de nuevos libros."
+    },
+    "badges": {
+      "popularChoice": "⭐ Opción más vendida ⭐",
+      "soldOut": "Agotado"
+    }
+  },
+  "Dedication": {
+    "headings": {
+      "makeSpecial": "Haz que el libro sea aún más especial"
+    },
+    "buttons": {
+      "buyCustomized": "Compra una dedicatoria personalizada"
+    },
+    "descriptions": {
+      "personalTouch": "Añade un toque personal a tu regalo.",
+      "heartfeltMessage": "Deleita a tu ser querido con una dedicatoria sincera, ya sean palabras de ánimo o una nota especial.",
+      "customize": "Podrás personalizar el mensaje tras la compra."
+    }
+  },
+  "DedicationMessage": {
+    "headings": {
+      "writeMessage": "Escribe tu mensaje",
+      "writeMessageFor": "Escribe tu mensaje para {{name}}"
+    },
+    "descriptions": {
+      "charLimit": "Menos de {{chars}} caracteres y un máximo de {{lines}} líneas separadas."
+    },
+    "errors": {
+      "exceededChars": "Has superado los {{count}} caracteres",
+      "noEmojis": "Por favor, quita los emojis",
+      "linesExceeded": "Has superado las {{count}} líneas"
+    },
+    "counter": {
+      "remaining": "{{count}} caracteres restantes"
+    },
+    "buttons": {
+      "addMessage": "Añade un mensaje personalizado",
+      "useTemplate": "Usar una plantilla",
+      "goToPreview": "Ir a la vista previa del libro"
+    },
+    "labels": {
+      "ideas": "Ideas para la dedicatoria"
+    },
+    "placeholder": {
+      "default": "Querido {{name}},\n\nOjalá tus sueños alcancen las estrellas y tu espíritu vuele siempre muy alto. Te deseamos lo mejor en tu vida.\n\nCon amor, mamá y papá"
+    },
+    "thankYou": {
+      "heading": "¡Gracias!",
+      "message": "Hemos añadido tu mensaje personalizado. Revisa la página de la dedicatoria (página 2) accediendo a la vista previa del libro y comprueba que no haya erratas ni errores gramaticales."
+    },
+    "printFreeze": {
+      "heading": "Este libro ya está en proceso de impresión",
+      "message": "Ya no es posible personalizar el mensaje de la dedicatoria. Si tienes alguna duda, ponte en contacto con support@imagitime.com"
+    }
+  },
+  "TrackOrders": {
+    "headings": {
+      "pageTitle": "Seguimiento de tus pedidos",
+      "enterVerification": "Introduce el código de verificación",
+      "yourOrders": "Tus pedidos"
+    },
+    "placeholder": {
+      "email": "Introduce tu email",
+      "otp": "Introduce el código de 6 dígitos"
+    },
+    "instructions": {
+      "enterOTP": "Introduce el código que hemos enviado a tu email"
+    },
+    "buttons": {
+      "getOTP": "Obtener código",
+      "verifyOTP": "Verificar código",
+      "resendOTP": "Reenviar código",
+      "trackPackage": "Seguimiento del paquete",
+      "trackShipping": "Localizar el envío"
+    },
+    "labels": {
+      "orderNumber": "Pedido #{{number}}",
+      "estimatedDelivery": "Entrega estimada:",
+      "shippingAddress": "Dirección de envío"
+    },
+    "messages": {
+      "otpSent": "¡Código enviado!",
+      "otpFailed": "No se ha podido enviar el código",
+      "error": "Ha ocurrido un error",
+      "invalidOTP": "Código no válido. Inténtalo de nuevo.",
+      "verifyError": "Ha ocurrido un error al verificar el código",
+      "noOrders": "No se han encontrado pedidos."
+    },
+    "timer": {
+      "resendAvailable": "Reenvío disponible en {{seconds}} segundos"
+    },
+    "status": {
+      "printed": "Impreso",
+      "printing": "Impresión en progreso",
+      "pending": "El proceso de impresión empezará pronto"
+    }
+  },
+  "ThanksForApproving": {
+    "thankYou": {
+      "heading": "¡Te lo agradecemos de corazón!",
+      "message": "Has creado un cuento exclusivo para {{name}}",
+      "tracking": "Una vez se imprima el libro y salga el envío, te mandaremos la información de seguimiento a tu email."
+    }
+  }
+}
