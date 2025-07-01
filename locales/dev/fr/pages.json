@@ -114,7 +114,7 @@
       "invalidImage": "Fichier image invalide"
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'un an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -204,7 +204,7 @@
     "notification": {
       "heading": "Pas le temps d'attendre ?"
     },
-    "scrollIndicator": "Balayez vers le bas pour voir toutes les pages",
+    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
     "timeRemaining": {
       "lessThan": "Il ne reste plus que <strong>{{time}}</strong> pour charger le livre pour {{name}}"
     },
