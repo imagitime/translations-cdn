@@ -114,7 +114,7 @@
       "invalidImage": "Fichier image invalide"
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'1 an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'un an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -183,10 +183,10 @@
     },
     "instructions": {
       "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
-      "instruction2": "Faites défiler et laissez chaque page sur l'option que vous préférez",
+      "instruction2": "Balayez et laissez chaque page sur l'option que vous préférez.",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
-      "postOrderSwipeInstructions1": "Faites défiler les options de page et arrêtez-vous sur celle que vous préférez",
+      "postOrderSwipeInstructions1": "Balayez et laissez chaque page sur l'option que vous préférez",
       "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l'impression\"",
       "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
       "fixedInstructions2": "Appuyez sur le bouton 'Changer l'image' pour faire défiler les choix alternatifs"
@@ -204,7 +204,7 @@
     "notification": {
       "heading": "Pas le temps d'attendre ?"
     },
-    "scrollIndicator": "Balayez vers le bas pour voir toutes les pages",
+    "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
     "timeRemaining": {
       "lessThan": "Il ne reste plus que <strong>{{time}}</strong> pour charger le livre pour {{name}}"
     },
