@@ -2,7 +2,7 @@
   "preview_email.subject": "Voici l'aperçu du livre pour {kid_name}",
   "preview_email.title": "Aperçu du livre d'histoires pour {kid_name}",
   "preview_email.greeting": "Coucou {requester_name},",
-  "preview_email.intro": "Félicitations ! Vous venez de franchir la première étape dans la création du livre magique pour {kid_name} avec Imagitime ! Contrairement aux autres livres personnalisés, les enfants ne sont pas un simple prénom glissé dans l'histoire ; ils en sont les héros. Au fil des pages, ils prennent vie grâce aux magnifiques illustrations personnalisées. 🌈📖",
+  "preview_email.intro": "Félicitations ! Vous venez de franchir la première étape dans la création du livre magique pour {kid_name} avec Imagitime ! Contrairement aux autres livres personnalisés, les enfants ne sont pas un simple prénoms glissés dans l'histoire ; ils en sont les héros. Au fil des pages, ils prennent vie grâce aux magnifiques illustrations personnalisées. 🌈📖",
   "preview_email.preview_heading": "Aperçu du livre pour {kid_name} :",
   "preview_email.preview_text": "Votre fantastique création est en cours ! N'hésitez pas à la peaufiner et à la partager avec vos proches en cliquant sur le bouton ci-dessous.",
   "preview_email.button_text": "Peaufiner le livre pour {kid_name}",
