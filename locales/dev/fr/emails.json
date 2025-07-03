@@ -61,7 +61,7 @@
   "delivery_attempt_failed_email.greeting": "Cher/Chère {requester_name},",
   "delivery_attempt_failed_email.attempt_info": "Nous tenons à vous informer que {shipping_carrier} a tenté de livrer le livre personnalisé Imagitime de {kid_name} aujourd'hui, mais la tentative de livraison a échoué.",
   "delivery_attempt_failed_email.reattempt_info": "{shipping_carrier} tentera normalement une nouvelle livraison ou conservera le colis dans son centre local de distribution.",
-  "delivery_attempt_failed_email.help_text": "Besoin d'aide ? Répondez simplement à cet e-mail - nous sommes là pour nous assurer que le magnifique livre pour {kid_name} arrive à bon port.",
+  "delivery_attempt_failed_email.help_text": "Besoin d'aide ? Répondez simplement à cet e-mail - nous sommes là pour nous assurer que le livre spécial pour {kid_name} arrive à bon port.",
   "delivery_attempt_failed_email.closing": "Cordialement,<br>L'équipe Imagitime",
   "delivery_attempt_failed_email.footer": "Vous avez reçu cet e-mail parce que vous avez acheté un livre personnalisé chez nous.",
   "delivery_attempt_failed_email.unsubscribe": "Si vous ne souhaitez pas recevoir ces e-mails, veuillez <a href=\"https://293404e7.sibforms. com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bX gHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">vous désinscrire ici</a>.",
