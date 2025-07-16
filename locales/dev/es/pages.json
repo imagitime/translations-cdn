@@ -370,6 +370,10 @@
     "badges": {
       "popularChoice": "⭐ Opción más vendida ⭐",
       "soldOut": "Agotado"
+    },
+    "upsell": {
+      "heading": "Add another copy for a discounted price",
+      "subhead": "Perfect as a treasured keepsake or for grandparents’ house."
     }
   },
   "Dedication": {
