@@ -373,13 +373,12 @@
       "soldOut": "Épuisé"
     },
     "upsell": {
-      "heading": "Enveloppez-le de magie",
-      "subhead": "Ajoutez une ou plusieurs de ces délicieuses extractions",
-      "addSecondBook": "Ajoutez un autre exemplaire à prix réduit",
+      "heading": "Ajouter une copie supplémentaire",
+      "addSecondBook": "Copie supplémentaire",
       "description": "Parfait comme souvenir précieux ou pour la maison des grands-parents."
     },
     "checkout": {
-      "subtotal": "Sous-total (hors frais de port)"
+      "subtotal": "<b>Sous-total</b> (hors frais de port)"
     }
   },
   "Dedication": {
