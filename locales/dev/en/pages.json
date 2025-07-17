@@ -294,7 +294,8 @@
       "buyHardcover": "Buy Hardcover",
       "buyPaperback": "Buy Paperback",
       "goBackToPreview": "Go Back To Preview",
-      "subscribeGetDiscount": "Subscribe & Get 10% Off"
+      "subscribeGetDiscount": "Subscribe & Get 10% Off",
+      "continueCheckout": "Continue to Checkout"
     },
     "shipping": {
       "info": "+ {{price}} shipping anywhere in {{region}}",
@@ -318,8 +319,13 @@
       "soldOut": "Sold out"
     },
     "upsell": {
-      "heading": "Add another copy for a discounted price",
-      "subhead": "Perfect as a treasured keepsake or for grandparents’ house."
+      "heading": "Wrap it up in magic",
+      "subhead": "Add one or more of these delightful extras",
+      "addSecondBook": "Add another copy for a discounted price",
+      "description": "Perfect as a treasured keepsake or for grandparents' house."
+    },
+    "checkout": {
+      "subtotal": "Subtotal (excluding shipping)"
     }
   },
   "Dedication": {
