@@ -348,7 +348,8 @@
       "buyHardcover": "Gebundene Ausgabe kaufen",
       "buyPaperback": "Taschenbuch kaufen",
       "goBackToPreview": "Zurück zur Vorschau",
-      "subscribeGetDiscount": "Abonnieren und 10 % Rabatt erhalten"
+      "subscribeGetDiscount": "Abonnieren und 10 % Rabatt erhalten",
+      "continueCheckout": "Weiter zur Kasse"
     },
     "shipping": {
       "info": "+ {{price}} Versand überall in {{region}}",
@@ -372,8 +373,13 @@
       "soldOut": "Ausverkauft"
     },
     "upsell": {
-      "heading": "Fügen Sie ein weiteres Exemplar zu einem ermäßigten Preis hinzu.",
-      "subhead": "Perfekt als wertvolle Erinnerung oder für das Haus der Großeltern."
+      "heading": "Wickeln Sie es in Magie ein",
+      "subhead": "Fügen Sie eines oder mehrere dieser bezaubernden Extras hinzu",
+      "addSecondBook": "Fügen Sie ein weiteres Exemplar zu einem ermäßigten Preis hinzu",
+      "description": "Perfekt als wertvolles Andenken oder für das Haus der Großeltern."
+    },
+    "checkout": {
+      "subtotal": "Zwischensumme (zzgl. Versandkosten)"
     }
   },
   "Dedication": {

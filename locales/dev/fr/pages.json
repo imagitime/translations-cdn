@@ -348,7 +348,8 @@
       "buyHardcover": "Acheter la version reliée",
       "buyPaperback": "Acheter la version brochée",
       "goBackToPreview": "Retourner à l'aperçu",
-      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise"
+      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise",
+      "continueCheckout": "Continuer à la caisse"
     },
     "shipping": {
       "info": "+ {{price}} de frais de livraison - {{region}}",
@@ -372,8 +373,13 @@
       "soldOut": "Épuisé"
     },
     "upsell": {
-      "heading": "Ajoutez un autre exemplaire à prix réduit",
-      "subhead": "Parfait comme souvenir précieux ou pour la maison des grands-parents."
+      "heading": "Enveloppez-le de magie",
+      "subhead": "Ajoutez une ou plusieurs de ces délicieuses extractions",
+      "addSecondBook": "Ajoutez un autre exemplaire à prix réduit",
+      "description": "Parfait comme souvenir précieux ou pour la maison des grands-parents."
+    },
+    "checkout": {
+      "subtotal": "Sous-total (hors frais de port)"
     }
   },
   "Dedication": {

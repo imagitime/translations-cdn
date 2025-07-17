@@ -348,7 +348,8 @@
       "buyHardcover": "Comprar edición tapa dura",
       "buyPaperback": "Comprar edición tapa blanda",
       "goBackToPreview": "Volver a la vista previa",
-      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO"
+      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO",
+      "continueCheckout": "Continuar con el pago"
     },
     "shipping": {
       "info": "+ {{price}} de gastos de envío a {{region}}",
@@ -372,8 +373,13 @@
       "soldOut": "Agotado"
     },
     "upsell": {
-      "heading": "Agrega otra copia a un precio con descuento",
-      "subhead": "Perfecto como un recuerdo preciado o para la casa de los abuelos."
+      "heading": "\u001envuelve en magia",
+      "subhead": "Añade uno o más de estos extras encantadores",
+      "addSecondBook": "Añade otra copia a precio reducido",
+      "description": "Perfecto como un recuerdo atesorado o para la casa de los abuelos."
+    },
+    "checkout": {
+      "subtotal": "Subtotal (excluye envío)"
     }
   },
   "Dedication": {
