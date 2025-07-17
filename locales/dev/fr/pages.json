@@ -373,8 +373,9 @@
       "soldOut": "Épuisé"
     },
     "upsell": {
-      "heading": "Get an extra copy",
-      "addSecondBook": "Add Another Copy",
+      "heading": "Add a second copy",
+      "subheading": "One to gift, one to preserve",
+      "addSecondBook": "Add another copy",
       "description": "Parfait comme souvenir précieux ou pour la maison des grands-parents."
     },
     "checkout": {
