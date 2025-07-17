@@ -373,13 +373,12 @@
       "soldOut": "Agotado"
     },
     "upsell": {
-      "heading": "\u001envuelve en magia",
-      "subhead": "Añade uno o más de estos extras encantadores",
-      "addSecondBook": "Añade otra copia a precio reducido",
+      "heading": "Agregar una copia extra",
+      "addSecondBook": "Copia adicional",
       "description": "Perfecto como un recuerdo atesorado o para la casa de los abuelos."
     },
     "checkout": {
-      "subtotal": "Subtotal (excluye envío)"
+      "subtotal": "<b>Subtotal</b> (excluyendo el envío)"
     }
   },
   "Dedication": {
