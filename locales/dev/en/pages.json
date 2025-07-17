@@ -319,13 +319,12 @@
       "soldOut": "Sold out"
     },
     "upsell": {
-      "heading": "Wrap it up in magic",
-      "subhead": "Add one or more of these delightful extras",
-      "addSecondBook": "Add another copy for a discounted price",
+      "heading": "Add an extra copy",
+      "addSecondBook": "Additional Copy",
       "description": "Perfect as a treasured keepsake or for grandparents' house."
     },
     "checkout": {
-      "subtotal": "Subtotal (excluding shipping)"
+      "subtotal": "<b>Subtotal</b> (excluding shipping)"
     }
   },
   "Dedication": {
