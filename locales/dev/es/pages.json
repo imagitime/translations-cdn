@@ -373,8 +373,8 @@
       "soldOut": "Agotado"
     },
     "upsell": {
-      "heading": "Agregar una copia extra",
-      "addSecondBook": "Copia adicional",
+      "heading": "Get an extra copy",
+      "addSecondBook": "Add Another Copy",
       "description": "Perfecto como un recuerdo atesorado o para la casa de los abuelos."
     },
     "checkout": {
