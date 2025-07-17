@@ -373,13 +373,12 @@
       "soldOut": "Ausverkauft"
     },
     "upsell": {
-      "heading": "Wickeln Sie es in Magie ein",
-      "subhead": "Fügen Sie eines oder mehrere dieser bezaubernden Extras hinzu",
-      "addSecondBook": "Fügen Sie ein weiteres Exemplar zu einem ermäßigten Preis hinzu",
+      "heading": "Fügen Sie eine zusätzliche Kopie hinzu",
+      "addSecondBook": "Zusätzliche Kopie",
       "description": "Perfekt als wertvolles Andenken oder für das Haus der Großeltern."
     },
     "checkout": {
-      "subtotal": "Zwischensumme (zzgl. Versandkosten)"
+      "subtotal": "<b>Zwischensumme</b> (ohne Versandkosten)"
     }
   },
   "Dedication": {
