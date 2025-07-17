@@ -319,8 +319,9 @@
       "soldOut": "Sold out"
     },
     "upsell": {
-      "heading": "Get an extra copy",
-      "addSecondBook": "Add Another Copy",
+      "heading": "Add a second copy",
+      "subheading": "One to gift, one to preserve",
+      "addSecondBook": "Add another copy",
       "description": "Perfect as a treasured keepsake or for grandparents' house."
     },
     "checkout": {
