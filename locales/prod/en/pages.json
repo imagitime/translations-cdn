@@ -294,7 +294,8 @@
       "buyHardcover": "Buy Hardcover",
       "buyPaperback": "Buy Paperback",
       "goBackToPreview": "Go Back To Preview",
-      "subscribeGetDiscount": "Subscribe & Get 10% Off"
+      "subscribeGetDiscount": "Subscribe & Get 10% Off",
+      "continueCheckout": "Continue to Checkout"
     },
     "shipping": {
       "info": "+ {{price}} shipping anywhere in {{region}}",
@@ -316,6 +317,15 @@
     "badges": {
       "popularChoice": "⭐ Popular Choice ⭐",
       "soldOut": "Sold out"
+    },
+    "upsell": {
+      "heading": "Add a second copy",
+      "subheading": "One to gift, one to preserve",
+      "addSecondBook": "Add another copy",
+      "description": "Perfect as a treasured keepsake or for grandparents' house."
+    },
+    "checkout": {
+      "subtotal": "<b>Subtotal</b> (excluding shipping)"
     }
   },
   "Dedication": {

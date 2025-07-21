@@ -348,7 +348,8 @@
       "buyHardcover": "Comprar edición tapa dura",
       "buyPaperback": "Comprar edición tapa blanda",
       "goBackToPreview": "Volver a la vista previa",
-      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO"
+      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO",
+      "continueCheckout": "Continuar con el pago"
     },
     "shipping": {
       "info": "+ {{price}} de gastos de envío a {{region}}",
@@ -370,6 +371,15 @@
     "badges": {
       "popularChoice": "⭐ Opción más vendida ⭐",
       "soldOut": "Agotado"
+    },
+    "upsell": {
+      "heading": "Añadir una segunda copia",
+      "subheading": "Uno para regalar, otro para conservar",
+      "addSecondBook": "Agregar otra copia",
+      "description": "Perfecto como un recuerdo atesorado o para la casa de los abuelos."
+    },
+    "checkout": {
+      "subtotal": "<b>Subtotal</b> (excluyendo el envío)"
     }
   },
   "Dedication": {

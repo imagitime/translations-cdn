@@ -348,7 +348,8 @@
       "buyHardcover": "Gebundene Ausgabe kaufen",
       "buyPaperback": "Taschenbuch kaufen",
       "goBackToPreview": "Zurück zur Vorschau",
-      "subscribeGetDiscount": "Abonnieren und 10 % Rabatt erhalten"
+      "subscribeGetDiscount": "Abonnieren und 10 % Rabatt erhalten",
+      "continueCheckout": "Weiter zur Kasse"
     },
     "shipping": {
       "info": "+ {{price}} Versand überall in {{region}}",
@@ -370,6 +371,15 @@
     "badges": {
       "popularChoice": "⭐ Beliebte Wahl ⭐",
       "soldOut": "Ausverkauft"
+    },
+    "upsell": {
+      "heading": "Eine zweite Kopie hinzufügen",
+      "subheading": "Eine zum Verschenken, eine zum Bewahren",
+      "addSecondBook": "Fügen Sie eine weitere Kopie hinzu",
+      "description": "Perfekt als wertvolles Andenken oder für das Haus der Großeltern."
+    },
+    "checkout": {
+      "subtotal": "<b>Zwischensumme</b> (ohne Versandkosten)"
     }
   },
   "Dedication": {

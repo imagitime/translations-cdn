@@ -348,7 +348,8 @@
       "buyHardcover": "Acheter la version reliée",
       "buyPaperback": "Acheter la version brochée",
       "goBackToPreview": "Retourner à l'aperçu",
-      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise"
+      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise",
+      "continueCheckout": "Continuer à la caisse"
     },
     "shipping": {
       "info": "+ {{price}} de frais de livraison - {{region}}",
@@ -370,6 +371,15 @@
     "badges": {
       "popularChoice": "⭐ Choix Populaire ⭐",
       "soldOut": "Épuisé"
+    },
+    "upsell": {
+      "heading": "Ajoutez une deuxième copie",
+      "subheading": "Un pour offrir, un pour préserver",
+      "addSecondBook": "Ajoutez un autre exemplaire",
+      "description": "Parfait comme souvenir précieux ou pour la maison des grands-parents."
+    },
+    "checkout": {
+      "subtotal": "<b>Sous-total</b> (hors frais de port)"
     }
   },
   "Dedication": {
