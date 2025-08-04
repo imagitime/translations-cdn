@@ -349,7 +349,7 @@
       "buyPaperback": "Acheter la version brochée",
       "goBackToPreview": "Retourner à l'aperçu",
       "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise",
-      "continueCheckout": "Continuer à la caisse"
+      "continueCheckout": "Aller au paiement"
     },
     "shipping": {
       "info": "+ {{price}} de frais de livraison - {{region}}",
@@ -373,10 +373,10 @@
       "soldOut": "Épuisé"
     },
     "upsell": {
-      "heading": "Ajoutez une deuxième copie",
-      "subheading": "Un pour offrir, un pour préserver",
-      "addSecondBook": "Ajoutez un autre exemplaire",
-      "description": "Parfait comme souvenir précieux ou pour la maison des grands-parents."
+      "heading": "Ajouter un deuxième exemplaire",
+      "subheading": "Un pour offrir, un pour garder en souvenir",
+      "addSecondBook": "Ajouter un autre exemplaire",
+      "description": "Un tendre souvenir à garder pour soi ou à lire chez papi et mamie."
     },
     "checkout": {
       "subtotal": "<b>Sous-total</b> (hors frais de port)"
