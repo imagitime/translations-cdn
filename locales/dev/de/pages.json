@@ -111,7 +111,8 @@
       "fileTooLarge": "Dateigröße überschreitet das Limit von 20 MB. Aktuelle Größe: {{size}} MB",
       "dimensionsTooSmall": "Bildabmessungen zu klein. Die Mindestgröße beträgt 100x100 Pixel.",
       "dimensionsTooLarge": "Bildabmessungen zu groß. Die Höchstgröße beträgt 5000x5000 Pixel.",
-      "invalidImage": "Ungültige Bilddatei"
+      "invalidImage": "Ungültige Bilddatei",
+      "previewUnavailable": "Diese Vorschau ist nicht mehr verfügbar. Bitte erstelle eine neue Vorschau."
     },
     "consent": {
       "photosConsent": "Ich stimme der sicheren Verarbeitung dieser Fotos ausschließlich zum Erstellen des personalisierten Geschichtenbuches zu. Fotos werden nach 24 Stunden gelöscht, wenn ich die Vorschau nicht durch Angabe meiner E-Mail speichere, und nach 1 Jahr, selbst wenn ich die Vorschau speichere. Ich verstehe, dass ich meine Zustimmung jederzeit widerrufen kann, indem ich support@imagitime.com kontaktiere"
