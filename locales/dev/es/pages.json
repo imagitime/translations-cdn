@@ -111,7 +111,8 @@
       "fileTooLarge": "El tamaño del archivo supera el límite de 20MB. Tamaño actual: {{size}}MB",
       "dimensionsTooSmall": "La imagen es demasiado pequeña. El tamaño mínimo es 100x100 píxeles.",
       "dimensionsTooLarge": "La imagen es demasiado grande. El tamaño máximo es de 5000x5000 píxeles.",
-      "invalidImage": "Archivo de imagen no válido"
+      "invalidImage": "Archivo de imagen no válido",
+      "previewUnavailable": "Esta vista previa ya no está disponible. Crea una nueva vista previa."
     },
     "consent": {
       "photosConsent": "Autorizo el tratamiento seguro de estas fotos únicamente para crear el libro de cuentos personalizado. Las fotos se eliminarán al cabo de 24 horas si no guardo la vista previa facilitando mi correo electrónico y al cabo de 1 año aunque guarde la vista previa. Entiendo que puedo retirar mi consentimiento en cualquier momento poniéndome en contacto con support@imagitime.com"
