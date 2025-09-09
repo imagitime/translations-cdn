@@ -55,6 +55,12 @@
       "october": "Oktober",
       "november": "November",
       "december": "Dezember"
+    },
+    "ageRecommendation": {
+      "betterFitTitle": "Wir haben eine bessere Empfehlung!",
+      "recommendationText": "Für {genderPlural} im Alter von {age} Jahren empfehlen wir {bookName}.",
+      "switchButtonText": "OK, zu diesem Buch wechseln.",
+      "makingBookText": "Erstellen von {bookName}"
     }
   },
   "UploadCommon": {
