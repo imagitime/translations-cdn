@@ -58,9 +58,9 @@
     },
     "ageRecommendation": {
       "betterFitTitle": "Nous avons une meilleure option !",
-      "recommendationText": "For age {age} {genderPlural} we recommend {bookName}.",
+      "recommendationText": "Pour les {{genderPlural}} de {{age}} ans, nous recommandons {{bookName}}.",
       "switchButtonText": "OK, passer à ce livre.",
-      "makingBookText": "Making {bookName}"
+      "makingBookText": "Création de {{bookName}}"
     }
   },
   "UploadCommon": {
