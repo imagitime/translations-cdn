@@ -57,7 +57,7 @@
       "december": "Dezember"
     },
     "ageRecommendation": {
-      "betterFitTitle": "Wir haben eine bessere Empfehlung",
+      "betterFitTitle": "Unsere Empfehlung",
       "recommendationText": "Für {{genderPlural}} im Alter von {{age}} Jahren empfehlen wir <b>{{bookName}}</b>.",
       "switchButtonText": "Zu diesem Buch wechseln",
       "makingBookText": "Erstellen von {{bookName}}"
