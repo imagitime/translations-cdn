@@ -55,6 +55,12 @@
       "october": "Octobre",
       "november": "Novembre",
       "december": "Décembre"
+    },
+    "ageRecommendation": {
+      "betterFitTitle": "Notre recommandation",
+      "recommendationText": "Pour les {{genderPlural}} de {{age}} ans, nous recommandons <b>{{bookName}}</b>.",
+      "switchButtonText": "Passer à ce livre",
+      "makingBookText": "Création de {{bookName}}"
     }
   },
   "UploadCommon": {
@@ -111,7 +117,8 @@
       "fileTooLarge": "La taille du fichier dépasse la limite de 20MB. Taille actuelle : {{size}}MB",
       "dimensionsTooSmall": "Dimensions de l'image trop petites. La taille minimale est de 100x100 pixels.",
       "dimensionsTooLarge": "Dimensions de l'image trop grandes. La taille maximale est de 5000x5000 pixels.",
-      "invalidImage": "Fichier image invalide"
+      "invalidImage": "Fichier image invalide",
+      "previewUnavailable": "Cet aperçu n’est plus disponible. Veuillez créer un nouvel aperçu."
     },
     "consent": {
       "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'un an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
