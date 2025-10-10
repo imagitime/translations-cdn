@@ -313,7 +313,7 @@
       "timeline": "Printing & delivery takes {{min}} to {{max}} days, so please order accordingly"
     },
     "discount": {
-      "subscriber": "{{percentage}}% Subscriber Discount Applied",
+      "subscriber": "{{percentage}}% Subscriber Discount Ends Soon",
       "limited": "{{percentage}}% Limited Time Discount Applied",
       "ambassador": "{{percentage}}% Ambassador Discount Unlocked"
     },
