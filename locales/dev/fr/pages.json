@@ -367,7 +367,7 @@
       "timeline": "L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
     },
     "discount": {
-      "subscriber": "{{percentage}}% de remise abonné·e appliquée",
+      "subscriber": "Remise de {{percentage}}% pour abonnés se termine bientôt",
       "limited": "{{percentage}}% de remise limitée appliquée",
       "ambassador": "{{percentage}}% de remise Ambassadeur déverrouillée"
     },
