@@ -344,7 +344,8 @@
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "Livre personnalisé pour {{name}}"
+      "pageTitle": "Livre personnalisé pour {{name}}",
+      "pageSubtitle": "4,9/5 • 150 000+ familles heureuses"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Remise ambassadeur de 20% déverrouillée",
@@ -377,6 +378,7 @@
     },
     "badges": {
       "popularChoice": "⭐ Choix Populaire ⭐",
+      "popularChoiceVariation1": "Choix populaire • Les places se remplissent vite",
       "soldOut": "Épuisé"
     },
     "upsell": {
