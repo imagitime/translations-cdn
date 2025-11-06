@@ -290,7 +290,8 @@
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "{{name}}'s Personalized Storybook"
+      "pageTitle": "{{name}}'s Personalized Storybook",
+      "pageSubtitle": "4.9/5 • 150,000+ happy families"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador Discount Unlocked",
@@ -323,6 +324,7 @@
     },
     "badges": {
       "popularChoice": "⭐ Popular Choice ⭐",
+      "popularChoiceVariation1": "⭐ Popular Choice • Slots filling fast",
       "soldOut": "Sold out"
     },
     "upsell": {
