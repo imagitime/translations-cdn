@@ -345,7 +345,7 @@
   "InterestedPage": {
     "headings": {
       "pageTitle": "Individuelles Geschichtenbuch von {{name}}",
-      "pageSubtitle": "⭐⭐⭐⭐⭐ 4,9/5 • 150.000+ glückliche Familien"
+      "pageSubtitle": "★★★★★ 4,9/5 • 150.000+ glückliche Familien"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador-Rabatt freigeschaltet",
@@ -378,7 +378,7 @@
     },
     "badges": {
       "popularChoice": "⭐ Beliebte Wahl ⭐",
-      "popularChoiceVariation1": "Beliebte Wahl • Plätze füllen sich schnell",
+      "popularChoiceVariation1": "★ Beliebte Wahl • Plätze füllen sich schnell",
       "soldOut": "Ausverkauft"
     },
     "upsell": {
