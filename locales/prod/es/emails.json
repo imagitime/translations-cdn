@@ -90,5 +90,8 @@
   "otp_email.subject": "Código de verificación de Imagitime",
   "otp_email.greeting": "Hola,",
   "otp_email.intro": "Utiliza el siguiente código de verificación para acceder a tus pedidos de Imagitime:",
-  "otp_email.ignore_notice": "Si no has solicitado este código, puedes ignorar este correo electrónico."
+  "otp_email.ignore_notice": "Si no has solicitado este código, puedes ignorar este correo electrónico.",
+  "available_for_pickup_email.subject": "El libro de {kid_name} está listo para recoger (pedido n.º #{order_number})",
+  "available_for_pickup_email.delivery_info": "Deseamos informarle que el libro de {child_name} está disponible para recogida.",
+  "available_for_pickup_email.tracking_link": "Aquí tiene el enlace de seguimiento."
 }
