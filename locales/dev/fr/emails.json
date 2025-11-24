@@ -91,7 +91,7 @@
   "otp_email.greeting": "Bonjour,",
   "otp_email.intro": "Veuillez utiliser le code de vérification suivant pour accéder à vos commandes Imagitime :",
   "otp_email.ignore_notice": "Si vous n'avez pas demandé ce code, veuillez ignorer cet e-mail.",
-  "available_for_pickup_email.subject": "{kid_name}'s book is available for pickup (Order #{order_number})",
-  "available_for_pickup_email.delivery_info": "We would like to inform you that {child_name}'s book is available for pickup.",
-  "available_for_pickup_email.tracking_link": "Here is the tracking link."
+  "available_for_pickup_email.subject": "Le livre de {kid_name} est prêt à être récupéré (commande n° #{order_number})",
+  "available_for_pickup_email.delivery_info": "Nous souhaitions vous informer que le livre de {child_name} est disponible pour retrait.",
+  "available_for_pickup_email.tracking_link": "Voici le lien de suivi."
 }
