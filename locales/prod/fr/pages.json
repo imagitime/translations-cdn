@@ -203,7 +203,8 @@
       "support": "Vous avez des questions ? Contactez-nous à support@imagitime.com",
       "cancelled": "Cette commande a été annulée.",
       "printing": "Ce livre a déjà été envoyé pour impression.",
-      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Numéro de suivi : {{tracking}}"
+      "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Numéro de suivi : {{tracking}}",
+      "reprintSupportInstruction": "Merci de répondre à l’e-mail que vous avez reçu de <strong>{{supportEmail}}</strong> afin que nous puissions lancer l’impression de ce livre."
     },
     "timer": {
       "message": "Création du livre pour {{name}} en cours..."
