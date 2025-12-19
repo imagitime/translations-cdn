@@ -204,7 +204,7 @@
       "cancelled": "Este pedido se ha anulado.",
       "printing": "Este libro ya está en proceso de impresión.",
       "shipped": "Este libro se envió el {{date}}<br>Agencia de transporte: {{carrier}}<br>Código de seguimiento: {{tracking}}",
-      "reprintSupportInstruction": "Por favor, responda al correo electrónico que recibió de <strong>{{{supportEmail}}</strong> para que podamos enviar este libro a reimpresión."
+      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for reprinting."
     },
     "timer": {
       "message": "Creando el libro de {{name}}..."
