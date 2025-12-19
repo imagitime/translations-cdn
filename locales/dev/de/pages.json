@@ -204,7 +204,7 @@
       "cancelled": "Diese Bestellung wurde storniert.",
       "printing": "Dieses Buch wurde bereits zum Druck geschickt.",
       "shipped": "Dieses Buch wurde am {{date}} verschickt<br>Versandunternehmen: {{carrier}}<br>Code zur Sendungsverfolgung: {{tracking}}",
-      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for reprinting."
+      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for printing."
     },
     "timer": {
       "message": "Das Buch von {{name}} wird erstellt ..."
