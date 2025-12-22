@@ -87,7 +87,7 @@
   "review_collection_email.closing": "Warm regards,<br>The Imagitime Team",
   "review_collection_email.footer": "You received this email because you purchased a personalized book from us.",
   "review_collection_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>.",
-  "otp_email.subject": "Imagitime Verification Code",
+  "otp_email.subject": "Your Imagitime Verification Code is {otp}",
   "otp_email.greeting": "Hi,",
   "otp_email.intro": "Please use the following verification code to access your Imagitime orders:",
   "otp_email.ignore_notice": "If you didn't request this code, you can safely ignore this email.",
