@@ -416,7 +416,7 @@
       "otpSent": "Code sent successfully!",
       "otpFailed": "Failed to send code",
       "error": "An error occurred",
-      "invalidOTP": "Invalid code. Please try again.",
+      "invalidOTP": "Invalid code. If you are unable to track your order here, you can write to us on support@imagitime.com or reply to any of the emails that you would have received from us.",
       "verifyError": "An error occurred while verifying code",
       "noOrders": "No orders found."
     },

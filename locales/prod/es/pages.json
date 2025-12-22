@@ -470,7 +470,7 @@
       "otpSent": "¡Código enviado!",
       "otpFailed": "No se ha podido enviar el código",
       "error": "Ha ocurrido un error",
-      "invalidOTP": "Código no válido. Inténtalo de nuevo.",
+      "invalidOTP": "Código no válido. Si no puedes hacer el seguimiento de tu pedido aquí, puedes escribirnos a support@imagitime.com\n o responder a cualquiera de los correos que hayas recibido de nuestra parte.",
       "verifyError": "Ha ocurrido un error al verificar el código",
       "noOrders": "No se han encontrado pedidos."
     },
