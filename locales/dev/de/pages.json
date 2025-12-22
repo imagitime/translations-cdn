@@ -470,7 +470,7 @@
       "otpSent": "Code erfolgreich gesendet!",
       "otpFailed": "Fehler beim Senden des Codes",
       "error": "Ein Fehler ist aufgetreten",
-      "invalidOTP": "Ungültiger Code. Bitte versuchen Sie es erneut.",
+      "invalidOTP": "Ungültiger Code. Wenn Sie Ihre Bestellung hier nicht verfolgen können, schreiben Sie uns bitte an support@imagitime.com\n oder antworten Sie auf eine der E-Mails, die Sie von uns erhalten haben.",
       "verifyError": "Ein Fehler ist bei der Überprüfung des Codes aufgetreten",
       "noOrders": "Keine Bestellungen gefunden."
     },
