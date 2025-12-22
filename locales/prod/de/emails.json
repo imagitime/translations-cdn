@@ -87,7 +87,7 @@
   "review_collection_email.closing": "Mit herzlichen Grüßen,<br>Ihr Imagitime-Team",
   "review_collection_email.footer": "Sie haben diese E-Mail erhalten, weil Sie ein personalisiertes Buch bei uns gekauft haben.",
   "review_collection_email.unsubscribe": "Wenn Sie diese E-Mails nicht mehr erhalten möchten, klicken Sie bitte <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">hier, um sich abzumelden</a>.",
-  "otp_email.subject": "Imagitime Bestätigungscode",
+  "otp_email.subject": "Ihr Imagitime-Bestätigungscode lautet {otp}",
   "otp_email.greeting": "Hallo,",
   "otp_email.intro": "Bitte verwenden Sie den folgenden Bestätigungscode, um auf Ihre Imagitime-Bestellungen zuzugreifen:",
   "otp_email.ignore_notice": "Wenn Sie diesen Code nicht angefordert haben, können Sie diese E-Mail ignorieren.",
