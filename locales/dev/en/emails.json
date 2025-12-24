@@ -88,7 +88,7 @@
   "review_collection_email.footer": "You received this email because you purchased a personalized book from us.",
   "review_collection_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>.",
   "fb_collection_email.subject": "Would you recommend Imagitime on Facebook?",
-  "fb_collection_email.fb_intro": "Hope you and {kid_name}'s are doing well — and that {child_name} has been enjoying their personalized book!",
+  "fb_collection_email.fb_intro": "Hope you and {kid_name}'s are doing well — and that {kid_name} has been enjoying their personalized book!",
   "fb_collection_email.fb_ask": "We would be thrilled if you could take a moment to <strong>share your experience</strong> and leave us a review. Your feedback will help spread the joy of our uniquely personalized books to more people.",
   "fb_collection_email.fb_trust": "If you captured a special moment of {kid_name} with the book, we would love for you to include that in your review. Photos bring experiences to life and showcase the real joy our books can bring!",
   "fb_collection_email.fb_recommend_us": "Recommend us on Facebook",
