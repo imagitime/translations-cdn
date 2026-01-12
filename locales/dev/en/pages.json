@@ -336,6 +336,23 @@
     },
     "checkout": {
       "subtotal": "<b>Subtotal</b> (excluding shipping)"
+    },
+    "addons": {
+      "heading": "Make it extra special!",
+      "subheading": "Add these exclusive extras to your order.",
+      "almostDone": "Almost Done",
+      "digitalPdf": {
+        "title": "Digital PDF Copy",
+        "description": "Get an instant download copy to keep forever."
+      },
+      "dedicationMessage":{
+        "title": "Make the book even more special",
+        "description": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message. You'll be able to customize the message after purchasing."
+      }
+    },
+    "freeShipping":{
+      "title": "Free Shipping Eligibility",
+      "text": "After placing this order, if you order another book within 24 hours - shipping will automatically be free."
     }
   },
   "Dedication": {

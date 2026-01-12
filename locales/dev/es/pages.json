@@ -390,6 +390,23 @@
     },
     "checkout": {
       "subtotal": "<b>Subtotal</b> (envío no incluido)"
+    },
+    "addons": {
+      "heading": "¡Hazlo aún más especial!",
+      "subheading": "Añade estos extras exclusivos a tu pedido.",
+      "almostDone": "Casi listo",
+      "digitalPdf": {
+        "title": "Copia digital en PDF",
+        "description": "Obtén una copia de descarga instantánea para conservar siempre."
+      },
+      "dedicationMessage": {
+        "title": "Haz que el libro sea aún más especial",
+        "description": "Ya sean palabras de aliento o una nota especial, deléitalos con un mensaje de dedicación sincero. Podrás personalizar el mensaje después de la compra."
+      }
+    },
+    "freeShipping": {
+      "title": "Elegibilidad para envío gratis",
+      "text": "Después de realizar este pedido, si pides otro libro en 24 horas, el envío será automáticamente gratuito."
     }
   },
   "Dedication": {

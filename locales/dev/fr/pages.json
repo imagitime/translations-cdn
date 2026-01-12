@@ -390,6 +390,23 @@
     },
     "checkout": {
       "subtotal": "<b>Sous-total</b> (hors frais de port)"
+    },
+    "addons": {
+      "heading": "Rendez-le encore plus spécial !",
+      "subheading": "Ajoutez ces extras exclusifs à votre commande.",
+      "almostDone": "Presque terminé",
+      "digitalPdf": {
+        "title": "Copie PDF numérique",
+        "description": "Obtenez une copie à télécharger instantanément pour toujours."
+      },
+      "dedicationMessage": {
+        "title": "Rendez le livre encore plus spécial",
+        "description": "Qu'il s'agisse de mots d'encouragement ou d'une note spéciale, ravissez-les avec un message de dédicace sincère. Vous pourrez personnaliser le message après l'achat."
+      }
+    },
+    "freeShipping": {
+      "title": "Éligibilité à la livraison gratuite",
+      "text": "Après avoir passé cette commande, si vous commandez un autre livre dans les 24 heures, la livraison sera automatiquement gratuite."
     }
   },
   "Dedication": {
