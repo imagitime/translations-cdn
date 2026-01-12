@@ -336,6 +336,15 @@
     },
     "checkout": {
       "subtotal": "<b>Subtotal</b> (excluding shipping)"
+    },
+    "addons": {
+      "heading": "Make it extra special!",
+      "subheading": "Add these exclusive digital extras to your order.",
+      "almostDone": "Almost Done"
+    },
+    "freeShipping":{
+      "title": "Free Shipping Eligibility",
+      "text": "After placing this order, if you order another book within 24 hours - shipping will automatically be free."
     }
   },
   "Dedication": {
