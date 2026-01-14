@@ -343,11 +343,11 @@
       "almostDone": "Almost Done",
       "digitalPdf": {
         "title": "Digital PDF Copy",
-        "description": "Get an instant download copy to keep forever."
+        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup."
       },
       "dedicationMessage":{
-        "title": "Make the book even more special",
-        "description": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message. You'll be able to customize the message after purchasing."
+        "title": "Personalize Dedication Message",
+        "description": "You'll be able to customize the message after purchasing."
       }
     },
     "freeShipping":{

@@ -397,11 +397,11 @@
       "almostDone": "Presque terminé",
       "digitalPdf": {
         "title": "Copie PDF numérique",
-        "description": "Obtenez une copie à télécharger instantanément pour toujours."
+        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup."
       },
       "dedicationMessage": {
-        "title": "Rendez le livre encore plus spécial",
-        "description": "Qu'il s'agisse de mots d'encouragement ou d'une note spéciale, ravissez-les avec un message de dédicace sincère. Vous pourrez personnaliser le message après l'achat."
+        "title": "Personalize Dedication Message",
+        "description": "You'll be able to customize the message after purchasing."
       }
     },
     "freeShipping": {
