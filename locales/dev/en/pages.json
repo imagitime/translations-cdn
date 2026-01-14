@@ -304,7 +304,9 @@
       "buyPaperback": "Buy Paperback",
       "goBackToPreview": "Go Back To Preview",
       "subscribeGetDiscount": "Subscribe & Get 10% Off",
-      "continueCheckout": "Continue to Checkout"
+      "continueCheckout": "Continue to Checkout",
+      "next": "Next",
+      "back": "Back"
     },
     "shipping": {
       "info": "+ {{price}} shipping anywhere in {{region}}",

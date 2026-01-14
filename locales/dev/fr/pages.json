@@ -358,7 +358,9 @@
       "buyPaperback": "Acheter la version brochée",
       "goBackToPreview": "Retourner à l'aperçu",
       "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise",
-      "continueCheckout": "Aller au paiement"
+      "continueCheckout": "Aller au paiement",
+      "next": "Next",
+      "back": "Back"
     },
     "shipping": {
       "info": "+ {{price}} de frais de livraison - {{region}}",
