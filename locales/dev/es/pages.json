@@ -358,7 +358,9 @@
       "buyPaperback": "Comprar edición tapa blanda",
       "goBackToPreview": "Volver a la vista previa",
       "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO",
-      "continueCheckout": "Proceder al pago"
+      "continueCheckout": "Proceder al pago",
+      "next": "Next",
+      "back": "Back"
     },
     "shipping": {
       "info": "+ {{price}} de gastos de envío a {{region}}",
