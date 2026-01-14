@@ -358,7 +358,9 @@
       "buyPaperback": "Taschenbuch kaufen",
       "goBackToPreview": "Zurück zur Vorschau",
       "subscribeGetDiscount": "Abonnieren und 10 % Rabatt erhalten",
-      "continueCheckout": "Weiter zur Kasse"
+      "continueCheckout": "Weiter zur Kasse",
+      "next": "Next",
+      "back": "Back"
     },
     "shipping": {
       "info": "+ {{price}} Versand überall in {{region}}",
