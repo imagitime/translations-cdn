@@ -382,13 +382,23 @@
     "badges": {
       "popularChoice": "⭐ Opción más vendida ⭐",
       "popularChoiceVariation1": "★ Elección popular • Las plazas se llenan rápido",
-      "soldOut": "Agotado"
+      "soldOut": "Agotado",
+      "popularWithGrandparents": "⭐ Popular with grandparents",
+      "popularAddon": "⭐ Popular add-on"
     },
     "upsell": {
       "heading": "Añadir una segunda copia",
       "subheading": "Uno para regalar, otro para conservar",
       "addSecondBook": "Añadir otra copia",
-      "description": "Ideal para conservar los recuerdos más valiosos o para regalar a los abuelos."
+      "description": "Ideal para conservar los recuerdos más valiosos o para regalar a los abuelos.",
+      "subheadingByRelationship": {
+        "grandparent": "One for you, one for the parents",
+        "other": "One to gift, one to keep forever"
+      },
+      "descriptionByRelationship": {
+        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
+        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
+      }
     },
     "checkout": {
       "subtotal": "<b>Subtotal</b> (envío no incluido)"
@@ -402,8 +412,16 @@
         "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup."
       },
       "dedicationMessage": {
-        "title": "Personalize Dedication Message",
-        "description": "You'll be able to customize the message after purchasing."
+        "titleNew": "Personalized Dedication",
+        "subtitle": "Your message on the first page",
+        "descriptionByRelationship": {
+          "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
+          "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+        }
+      },
+      "dedicationSignature": {
+        "grandparent": "Grandma & Grandpa",
+        "other": "Mom & Dad"
       }
     },
     "freeShipping": {
