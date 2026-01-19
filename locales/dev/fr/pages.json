@@ -417,11 +417,16 @@
         "descriptionByRelationship": {
           "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
           "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+        },
+        "preview": {
+          "header": "Happy Birthday, {{name}}!",
+          "body": "On this very special day, we want you to know how much you mean to us...",
+          "signature": "Love, Mom & Dad"
+        },
+        "dedicationSignature": {
+          "grandparent": "Love, Grandma & Grandpa",
+          "other": "Love, Mom & Dad"
         }
-      },
-      "dedicationSignature": {
-        "grandparent": "Love, Grandma & Grandpa",
-        "other": "Love, Mom & Dad"
       }
     },
     "freeShipping": {
