@@ -342,8 +342,8 @@
         "other": "One to gift, one to keep forever"
       },
       "descriptionByRelationship": {
-        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
-        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
+        "grandparent": "Keep a copy on your tablet to read together when they visit. A digital keepsake that's always with you.",
+        "other": "Read together on tablets during travel. A digital backup of this treasured keepsake."
       }
     },
     "checkout": {
@@ -366,8 +366,8 @@
         }
       },
       "dedicationSignature": {
-        "grandparent": "Grandma & Grandpa",
-        "other": "Mom & Dad"
+        "grandparent": "Love, Grandma & Grandpa",
+        "other": "Love, Mom & Dad"
       }
     },
     "freeShipping":{
