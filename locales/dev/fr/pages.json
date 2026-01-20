@@ -398,6 +398,11 @@
       "descriptionByRelationship": {
         "grandparent": "Keep a copy on your tablet to read together when they visit. A digital keepsake that's always with you.",
         "other": "Read together on tablets during travel. A digital backup of this treasured keepsake."
+      },
+      "descriptionControlAndExpA": "Perfect as a treasured keepsake or for grandparents house.",
+      "descriptionExpB": {
+        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
+        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
       }
     },
     "checkout": {
@@ -408,8 +413,12 @@
       "subheading": "Ajoutez ces extras exclusifs à votre commande.",
       "almostDone": "Presque terminé",
       "digitalPdf": {
-        "title": "Copie PDF numérique",
-        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup."
+        "title": "Digital PDF Keepsake",
+        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup.",
+        "descriptionExperiment": {
+          "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
+          "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
+        }
       },
       "dedicationMessage": {
         "titleNew": "Personalized Dedication",
