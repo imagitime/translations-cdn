@@ -166,7 +166,8 @@
       "reapproveForPrinting": "Erneut zum Drucken freigeben",
       "uploadAnother": "Ein weiteres Foto hochladen",
       "addMore": "Mehr Fotos hinzufügen",
-      "generateFromOtherPhotos": "Aus anderen Fotos generieren"
+      "generateFromOtherPhotos": "Aus anderen Fotos generieren",
+      "downloadPdf": "Download PDF"
     },
     "noUsablePhotos": {
       "heading": "Fotos nicht verwendbar",
