@@ -166,7 +166,8 @@
       "reapproveForPrinting": "Ré-approuver pour impression",
       "uploadAnother": "Télécharger une autre photo",
       "addMore": "Ajouter plus de photos",
-      "generateFromOtherPhotos": "Générer à partir d'autres photos"
+      "generateFromOtherPhotos": "Générer à partir d'autres photos",
+      "downloadPdf": "Download PDF"
     },
     "noUsablePhotos": {
       "heading": "Aucune photo utilisable",
