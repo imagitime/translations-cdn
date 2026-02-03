@@ -166,7 +166,8 @@
       "reapproveForPrinting": "Reaprobar la impresión",
       "uploadAnother": "Subir otra foto",
       "addMore": "Añadir más fotos",
-      "generateFromOtherPhotos": "Generar a partir de otras fotos"
+      "generateFromOtherPhotos": "Generar a partir de otras fotos",
+      "downloadPdf": "Download PDF"
     },
     "noUsablePhotos": {
       "heading": "No hay fotos aprovechables",
@@ -204,7 +205,8 @@
       "cancelled": "Este pedido se ha anulado.",
       "printing": "Este libro ya está en proceso de impresión.",
       "shipped": "Este libro se envió el {{date}}<br>Agencia de transporte: {{carrier}}<br>Código de seguimiento: {{tracking}}",
-      "reprintSupportInstruction": "Por favor, responda al correo electrónico que recibió de <strong>{{supportEmail}}</strong> para que podamos enviar este libro a impresión."
+      "reprintSupportInstruction": "Por favor, responda al correo electrónico que recibió de <strong>{{supportEmail}}</strong> para que podamos enviar este libro a impresión.",
+      "pdfPendingNotice": "Your digital PDF copy will be emailed to you once your book is approved and sent for printing."
     },
     "timer": {
       "message": "Creando el libro de {{name}}..."
