@@ -418,25 +418,25 @@
         "title": "Digitales PDF-Erinnerungsstück",
         "description": "Sofortiger Download per E-Mail. Perfekt zum Teilen mit der Familie oder als dauerhafte Sicherungskopie.",
         "descriptionExperiment": {
-          "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
-          "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
+          "grandparent": "Hochauflösendes PDF per E-Mail innerhalb von 24 bis 48 Stunden, wenn das Buch in den Druck geht. Perfekt zum gemeinsamen Lesen und Teilen mit der Familie.",
+          "other": "Hochauflösendes PDF per E-Mail innerhalb von 24 bis 48 Stunden, wenn das Buch in den Druck geht. Perfekt für unterwegs und zum Teilen mit der Familie."
         }
       },
       "dedicationMessage": {
-        "titleNew": "Personalized Dedication",
-        "subtitle": "Your message on the first page",
+        "titleNew": "Persönliche Widmung",
+        "subtitle": "Deine Nachricht auf der ersten Seite",
         "descriptionByRelationship": {
-          "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
-          "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+          "grandparent": "Schreibe eine herzliche Nachricht, die sie für immer in Ehren halten werden. Deine Worte, bewahrt in ihrem ganz eigenen Buch.",
+          "other": "Füge eine herzliche Nachricht auf der ersten Seite hinzu. Deine Worte, bewahrt in ihrem ganz eigenen Buch."
         },
         "preview": {
-          "header": "Happy Birthday, {{name}}!",
-          "body": "On this very special day, we want you to know how much you mean to us...",
-          "signature": "Love, Mom & Dad"
+          "header": "Alles Gute zum Geburtstag, {{name}}!",
+          "body": "An diesem ganz besonderen Tag möchten wir dir sagen, wie viel du uns bedeutest...",
+          "signature": "In Liebe, Mama & Papa"
         },
         "dedicationSignature": {
-          "grandparent": "Love, Grandma & Grandpa",
-          "other": "Love, Mom & Dad"
+          "grandparent": "In Liebe, Oma & Opa",
+          "other": "In Liebe, Mama & Papa"
         }
       }
     },
@@ -544,9 +544,9 @@
     }
   },
   "CartRedirect": {
-    "heading": "Looking for your personalized book?",
-    "message": "Please get in touch by emailing us at",
-    "messageSuffix": "and we'd be happy to help.",
-    "visitHomepage": "Visit imagitime.com"
+    "heading": "Suchst du dein personalisiertes Buch?",
+    "message": "Kontaktiere uns gerne per E-Mail an",
+    "messageSuffix": "und wir helfen dir gerne weiter.",
+    "visitHomepage": "Besuche imagitime.com"
   }
 }
