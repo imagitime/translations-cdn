@@ -490,9 +490,15 @@
     }
   },
   "CartRedirect": {
-    "heading": "Looking for your personalized book?",
-    "message": "Please get in touch by emailing us at",
-    "messageSuffix": "and we'd be happy to help.",
-    "visitHomepage": "Visit imagitime.com"
+    "noBook": {
+      "heading": "Looking for your personalized book?",
+      "message": "You will find the link to your book preview in your inbox in an email sent from support@imagitime.com (Check your promotions or spam folder if not in inbox).",
+      "contact": "For any queries, please email"
+    },
+    "activeBook": {
+      "heading": "One Book at a Time",
+      "message": "Currently you can create and order one book at a time. If you are looking to order multiple different books, you will need to place separate orders. However, from your second order onwards you can use code FREESHIP at checkout to make shipping free. To continue back to the book you were purchasing, click the button below.",
+      "backButton": "Back to My Book"
+    }
   }
 }

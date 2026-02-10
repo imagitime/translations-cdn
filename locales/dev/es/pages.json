@@ -544,9 +544,15 @@
     }
   },
   "CartRedirect": {
-    "heading": "¿Buscas tu libro personalizado?",
-    "message": "Ponte en contacto con nosotros enviándonos un correo electrónico a",
-    "messageSuffix": "y estaremos encantados de ayudarte.",
-    "visitHomepage": "Visita imagitime.com"
+    "noBook": {
+      "heading": "¿Buscas tu libro personalizado?",
+      "message": "Encontrarás el enlace a la vista previa de tu libro en tu bandeja de entrada, en un correo enviado desde support@imagitime.com (Revisa tu carpeta de promociones o spam si no lo encuentras en la bandeja de entrada).",
+      "contact": "Para cualquier consulta, envíanos un correo a"
+    },
+    "activeBook": {
+      "heading": "Un libro a la vez",
+      "message": "Actualmente solo puedes crear y pedir un libro a la vez. Si deseas pedir varios libros diferentes, deberás realizar pedidos separados. Sin embargo, a partir de tu segundo pedido puedes usar el código FREESHIP en el pago para obtener envío gratuito. Para volver al libro que estabas comprando, haz clic en el botón de abajo.",
+      "backButton": "Volver a Mi Libro"
+    }
   }
 }
