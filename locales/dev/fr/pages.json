@@ -167,7 +167,7 @@
       "uploadAnother": "Télécharger une autre photo",
       "addMore": "Ajouter plus de photos",
       "generateFromOtherPhotos": "Générer à partir d'autres photos",
-      "downloadPdf": "Download PDF"
+      "downloadPdf": "Télécharger le PDF"
     },
     "noUsablePhotos": {
       "heading": "Aucune photo utilisable",
@@ -206,7 +206,7 @@
       "printing": "Ce livre a déjà été envoyé pour impression.",
       "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Numéro de suivi : {{tracking}}",
       "reprintSupportInstruction": "Merci de répondre à l’e-mail que vous avez reçu de <strong>{{supportEmail}}</strong> afin que nous puissions lancer l’impression de ce livre.",
-      "pdfPendingNotice": "Your digital PDF copy will be emailed to you once your book is approved and sent for printing."
+      "pdfPendingNotice": "Votre copie numérique en PDF vous sera envoyée par e-mail une fois votre livre approuvé et envoyé à l'impression."
     },
     "timer": {
       "message": "Création du livre pour {{name}} en cours..."
@@ -361,8 +361,8 @@
       "goBackToPreview": "Retourner à l'aperçu",
       "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise",
       "continueCheckout": "Aller au paiement",
-      "next": "Next",
-      "back": "Back"
+      "next": "Suivant",
+      "back": "Retour"
     },
     "shipping": {
       "info": "+ {{price}} de frais de livraison - {{region}}",
@@ -385,8 +385,8 @@
       "popularChoice": "⭐ Choix Populaire ⭐",
       "popularChoiceVariation1": "★ Choix populaire • Les places se remplissent vite",
       "soldOut": "Épuisé",
-      "popularWithGrandparents": "⭐ Popular with grandparents ⭐",
-      "popularAddon": "⭐ Popular add-on ⭐"
+      "popularWithGrandparents": "⭐ Populaire chez les grands-parents ⭐",
+      "popularAddon": "⭐ Complément populaire ⭐"
     },
     "upsell": {
       "heading": "Ajouter un deuxième exemplaire",
@@ -394,17 +394,17 @@
       "addSecondBook": "Ajouter un autre exemplaire",
       "description": "Un tendre souvenir à garder pour soi ou à lire chez papi et mamie.",
       "subheadingByRelationship": {
-        "grandparent": "One for you, one for the parents",
-        "other": "One to gift, one to keep forever"
+        "grandparent": "Un pour vous, un pour les parents",
+        "other": "Un à offrir, un à garder pour toujours"
       },
       "descriptionByRelationship": {
-        "grandparent": "Keep a copy on your tablet to read together when they visit. A digital keepsake that's always with you.",
-        "other": "Read together on tablets during travel. A digital backup of this treasured keepsake."
+        "grandparent": "Gardez une copie sur votre tablette pour le lire ensemble quand ils viennent vous rendre visite. Un souvenir numérique qui vous accompagne partout.",
+        "other": "À lire ensemble sur tablette pendant les voyages. Une copie numérique de ce précieux souvenir."
       },
-      "descriptionControlAndExpA": "Perfect as a treasured keepsake or for grandparents house.",
+      "descriptionControlAndExpA": "Parfait comme souvenir précieux ou pour la maison des grands-parents.",
       "descriptionExpB": {
-        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
-        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
+        "grandparent": "Pour qu'ils puissent le lire dans les deux maisons. Un précieux souvenir pour toute la famille.",
+        "other": "Parfait pour la maison des grands-parents ou comme copie de sauvegarde de ce précieux souvenir."
       }
     },
     "checkout": {
@@ -415,8 +415,8 @@
       "subheading": "Ajoutez ces extras exclusifs à votre commande.",
       "almostDone": "Presque terminé",
       "digitalPdf": {
-        "title": "Digital PDF Keepsake",
-        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup.",
+        "title": "PDF Numérique Souvenir",
+        "description": "Téléchargement instantané envoyé par e-mail. Parfait pour partager en famille ou conserver comme copie pour toujours.",
         "descriptionExperiment": {
           "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
           "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
@@ -542,5 +542,11 @@
       "message": "Vous venez de créer une histoire unique pour {{name}}",
       "tracking": "Une fois le livre imprimé et expédié, nous vous enverrons les informations de suivi par email."
     }
+  },
+  "CartRedirect": {
+    "heading": "Looking for your personalized book?",
+    "message": "Please get in touch by emailing us at",
+    "messageSuffix": "and we'd be happy to help.",
+    "visitHomepage": "Visit imagitime.com"
   }
 }
