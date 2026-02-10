@@ -167,7 +167,7 @@
       "uploadAnother": "Subir otra foto",
       "addMore": "Añadir más fotos",
       "generateFromOtherPhotos": "Generar a partir de otras fotos",
-      "downloadPdf": "Download PDF"
+      "downloadPdf": "Descargar PDF"
     },
     "noUsablePhotos": {
       "heading": "No hay fotos aprovechables",
@@ -206,7 +206,7 @@
       "printing": "Este libro ya está en proceso de impresión.",
       "shipped": "Este libro se envió el {{date}}<br>Agencia de transporte: {{carrier}}<br>Código de seguimiento: {{tracking}}",
       "reprintSupportInstruction": "Por favor, responda al correo electrónico que recibió de <strong>{{supportEmail}}</strong> para que podamos enviar este libro a impresión.",
-      "pdfPendingNotice": "Your digital PDF copy will be emailed to you once your book is approved and sent for printing."
+      "pdfPendingNotice": "Tu copia digital en PDF se enviará por correo electrónico una vez que tu libro sea aprobado y enviado a imprenta."
     },
     "timer": {
       "message": "Creando el libro de {{name}}..."
@@ -361,8 +361,8 @@
       "goBackToPreview": "Volver a la vista previa",
       "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO",
       "continueCheckout": "Proceder al pago",
-      "next": "Next",
-      "back": "Back"
+      "next": "Siguiente",
+      "back": "Atrás"
     },
     "shipping": {
       "info": "+ {{price}} de gastos de envío a {{region}}",
@@ -385,8 +385,8 @@
       "popularChoice": "⭐ Opción más vendida ⭐",
       "popularChoiceVariation1": "★ Elección popular • Las plazas se llenan rápido",
       "soldOut": "Agotado",
-      "popularWithGrandparents": "⭐ Popular with grandparents ⭐",
-      "popularAddon": "⭐ Popular add-on ⭐"
+      "popularWithGrandparents": "⭐ Popular entre abuelos ⭐",
+      "popularAddon": "⭐ Complemento popular ⭐"
     },
     "upsell": {
       "heading": "Añadir una segunda copia",
@@ -394,17 +394,17 @@
       "addSecondBook": "Añadir otra copia",
       "description": "Ideal para conservar los recuerdos más valiosos o para regalar a los abuelos.",
       "subheadingByRelationship": {
-        "grandparent": "One for you, one for the parents",
-        "other": "One to gift, one to keep forever"
+        "grandparent": "Uno para ti, otro para los padres",
+        "other": "Uno para regalar, otro para guardar para siempre"
       },
       "descriptionByRelationship": {
-        "grandparent": "Keep a copy on your tablet to read together when they visit. A digital keepsake that's always with you.",
-        "other": "Read together on tablets during travel. A digital backup of this treasured keepsake."
+        "grandparent": "Guarda una copia en tu tablet para leerlo juntos cuando vengan de visita. Un recuerdo digital que siempre te acompañará.",
+        "other": "Léelo juntos en la tablet durante los viajes. Una copia digital de este recuerdo tan especial."
       },
-      "descriptionControlAndExpA": "Perfect as a treasured keepsake or for grandparents house.",
+      "descriptionControlAndExpA": "Perfecto como recuerdo especial o para tener en casa de los abuelos.",
       "descriptionExpB": {
-        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
-        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
+        "grandparent": "Para que puedan leerlo en las dos casas. Un recuerdo especial para toda la familia.",
+        "other": "Perfecto para casa de los abuelos o como copia de seguridad de este recuerdo tan especial."
       }
     },
     "checkout": {
@@ -415,28 +415,28 @@
       "subheading": "Añade estos extras exclusivos a tu pedido.",
       "almostDone": "Casi listo",
       "digitalPdf": {
-        "title": "Digital PDF Keepsake",
-        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup.",
+        "title": "PDF Digital de Recuerdo",
+        "description": "Descarga instantánea enviada por correo electrónico. Perfecto para compartir con la familia o guardar como copia para siempre.",
         "descriptionExperiment": {
-          "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
-          "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
+          "grandparent": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para leer juntos y compartir con la familia.",
+          "other": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para los viajes y para compartir con la familia."
         }
       },
       "dedicationMessage": {
-        "titleNew": "Personalized Dedication",
-        "subtitle": "Your message on the first page",
+        "titleNew": "Dedicatoria Personalizada",
+        "subtitle": "Tu mensaje en la primera página",
         "descriptionByRelationship": {
-          "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
-          "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+          "grandparent": "Escribe un mensaje con todo tu cariño que guardarán para siempre. Tus palabras, conservadas en su propio libro.",
+          "other": "Añade un mensaje con todo tu cariño en la primera página. Tus palabras, conservadas en su propio libro."
         },
         "preview": {
-          "header": "Happy Birthday, {{name}}!",
-          "body": "On this very special day, we want you to know how much you mean to us...",
-          "signature": "Love, Mom & Dad"
+          "header": "¡Feliz cumpleaños, {{name}}!",
+          "body": "En este día tan especial, queremos que sepas lo mucho que significas para nosotros...",
+          "signature": "Con cariño, Mamá y Papá"
         },
         "dedicationSignature": {
-          "grandparent": "Love, Grandma & Grandpa",
-          "other": "Love, Mom & Dad"
+          "grandparent": "Con cariño, la Abuela y el Abuelo",
+          "other": "Con cariño, Mamá y Papá"
         }
       }
     },
@@ -542,5 +542,11 @@
       "message": "Has creado un cuento exclusivo para {{name}}",
       "tracking": "Una vez se imprima el libro y salga el envío, te mandaremos la información de seguimiento a tu email."
     }
+  },
+  "CartRedirect": {
+    "heading": "¿Buscas tu libro personalizado?",
+    "message": "Ponte en contacto con nosotros enviándonos un correo electrónico a",
+    "messageSuffix": "y estaremos encantados de ayudarte.",
+    "visitHomepage": "Visita imagitime.com"
   }
 }

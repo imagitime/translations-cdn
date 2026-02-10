@@ -488,5 +488,11 @@
       "message": "You've just crafted a unique tale for {{name}}",
       "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
     }
+  },
+  "CartRedirect": {
+    "heading": "Looking for your personalized book?",
+    "message": "Please get in touch by emailing us at",
+    "messageSuffix": "and we'd be happy to help.",
+    "visitHomepage": "Visit imagitime.com"
   }
 }
