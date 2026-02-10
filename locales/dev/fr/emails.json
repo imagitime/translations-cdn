@@ -102,12 +102,12 @@
   "available_for_pickup_email.subject": "Le livre de {kid_name} est prêt à être récupéré (commande n° #{order_number})",
   "available_for_pickup_email.delivery_info": "Nous souhaitions vous informer que le livre de {child_name} est disponible pour retrait.",
   "available_for_pickup_email.tracking_link": "Voici le lien de suivi.",
-  "digital_pdf_email.subject": "Digital PDF of {book_title}",
-  "digital_pdf_email.greeting": "Dear {requester_name},",
-  "digital_pdf_email.intro": "Your digital PDF of \"{book_title}\" is ready!",
-  "digital_pdf_email.pdf_ready": "We've attached the high resolution PDF to this email so you can start enjoying the story right away.",
-  "digital_pdf_email.questions_text": "If you have any questions or need further assistance, simply reply to this email.",
-  "standard_email.closing": "Warmest regards,<br>The Imagitime Team",
-  "standard_email.footer": "You received this email because you purchased a personalized book from us.",
-  "standard_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>."
+  "digital_pdf_email.subject": "PDF Numérique de {book_title}",
+  "digital_pdf_email.greeting": "Bonjour {requester_name},",
+  "digital_pdf_email.intro": "Votre PDF numérique de « {book_title} » est prêt !",
+  "digital_pdf_email.pdf_ready": "Nous avons joint le PDF haute résolution à cet e-mail pour que vous puissiez profiter de l'histoire immédiatement.",
+  "digital_pdf_email.questions_text": "Si vous avez des questions ou besoin d'aide, répondez simplement à cet e-mail.",
+  "standard_email.closing": "Cordialement,<br>L'Équipe Imagitime",
+  "standard_email.footer": "Vous avez reçu cet e-mail car vous avez acheté un livre personnalisé chez nous.",
+  "standard_email.unsubscribe": "Si vous ne souhaitez plus recevoir ces e-mails, veuillez <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">vous désabonner ici</a>."
 }
