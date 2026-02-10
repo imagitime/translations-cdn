@@ -418,25 +418,25 @@
         "title": "PDF Digital de Recuerdo",
         "description": "Descarga instantánea enviada por correo electrónico. Perfecto para compartir con la familia o guardar como copia para siempre.",
         "descriptionExperiment": {
-          "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
-          "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
+          "grandparent": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para leer juntos y compartir con la familia.",
+          "other": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para los viajes y para compartir con la familia."
         }
       },
       "dedicationMessage": {
-        "titleNew": "Personalized Dedication",
-        "subtitle": "Your message on the first page",
+        "titleNew": "Dedicatoria Personalizada",
+        "subtitle": "Tu mensaje en la primera página",
         "descriptionByRelationship": {
-          "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
-          "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+          "grandparent": "Escribe un mensaje con todo tu cariño que guardarán para siempre. Tus palabras, conservadas en su propio libro.",
+          "other": "Añade un mensaje con todo tu cariño en la primera página. Tus palabras, conservadas en su propio libro."
         },
         "preview": {
-          "header": "Happy Birthday, {{name}}!",
-          "body": "On this very special day, we want you to know how much you mean to us...",
-          "signature": "Love, Mom & Dad"
+          "header": "¡Feliz cumpleaños, {{name}}!",
+          "body": "En este día tan especial, queremos que sepas lo mucho que significas para nosotros...",
+          "signature": "Con cariño, Mamá y Papá"
         },
         "dedicationSignature": {
-          "grandparent": "Love, Grandma & Grandpa",
-          "other": "Love, Mom & Dad"
+          "grandparent": "Con cariño, la Abuela y el Abuelo",
+          "other": "Con cariño, Mamá y Papá"
         }
       }
     },
@@ -544,9 +544,9 @@
     }
   },
   "CartRedirect": {
-    "heading": "Looking for your personalized book?",
-    "message": "Please get in touch by emailing us at",
-    "messageSuffix": "and we'd be happy to help.",
-    "visitHomepage": "Visit imagitime.com"
+    "heading": "¿Buscas tu libro personalizado?",
+    "message": "Ponte en contacto con nosotros enviándonos un correo electrónico a",
+    "messageSuffix": "y estaremos encantados de ayudarte.",
+    "visitHomepage": "Visita imagitime.com"
   }
 }
