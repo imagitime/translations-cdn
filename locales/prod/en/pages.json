@@ -166,7 +166,8 @@
       "reapproveForPrinting": "Re-approve For Printing",
       "uploadAnother": "Upload Another Photo",
       "addMore": "Add More Photos",
-      "generateFromOtherPhotos": "Generate From Other Photos"
+      "generateFromOtherPhotos": "Generate From Other Photos",
+      "downloadPdf": "Download PDF"
     },
     "noUsablePhotos": {
       "heading": "No Usable Photos",
@@ -204,7 +205,8 @@
       "cancelled": "This order has been cancelled.",
       "printing": "This book has already been sent for printing.",
       "shipped": "This book has been shipped on {{date}}<br>Shipping Carrier: {{carrier}}<br>Tracking Code: {{tracking}}",
-      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for printing."
+      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for printing.",
+      "pdfPendingNotice": "Your digital PDF copy will be emailed to you once your book is approved and sent for printing."
     },
     "timer": {
       "message": "Creating {{name}}'s Book..."
@@ -304,7 +306,9 @@
       "buyPaperback": "Buy Paperback",
       "goBackToPreview": "Go Back To Preview",
       "subscribeGetDiscount": "Subscribe & Get 10% Off",
-      "continueCheckout": "Continue to Checkout"
+      "continueCheckout": "Continue to Checkout",
+      "next": "Next",
+      "back": "Back"
     },
     "shipping": {
       "info": "+ {{price}} shipping anywhere in {{region}}",
@@ -326,16 +330,65 @@
     "badges": {
       "popularChoice": "⭐ Popular Choice ⭐",
       "popularChoiceVariation1": "★ Popular Choice • Slots filling fast",
-      "soldOut": "Sold out"
+      "soldOut": "Sold out",
+      "popularWithGrandparents": "⭐ Popular with grandparents ⭐",
+      "popularAddon": "⭐ Popular add-on ⭐"
     },
     "upsell": {
       "heading": "Add a second copy",
       "subheading": "One to gift, one to preserve",
-      "addSecondBook": "Add another copy",
-      "description": "Perfect as a treasured keepsake or for grandparents' house."
+      "addSecondBook": "Add Another Copy",
+      "description": "Perfect as a treasured keepsake or for grandparents' house.",
+      "subheadingByRelationship": {
+        "grandparent": "One for you, one for the parents",
+        "other": "One to gift, one to keep forever"
+      },
+      "descriptionByRelationship": {
+        "grandparent": "Keep a copy on your tablet to read together when they visit. A digital keepsake that's always with you.",
+        "other": "Read together on tablets during travel. A digital backup of this treasured keepsake."
+      },
+      "descriptionControlAndExpA": "Perfect as a treasured keepsake or for grandparents house.",
+      "descriptionExpB": {
+        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
+        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
+      }
     },
     "checkout": {
       "subtotal": "<b>Subtotal</b> (excluding shipping)"
+    },
+    "addons": {
+      "heading": "Make it extra special!",
+      "subheading": "Add these exclusive extras to your order.",
+      "almostDone": "Almost Done",
+      "digitalPdf": {
+        "title": "Digital PDF Keepsake",
+        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup.",
+        "descriptionExperiment": {
+          "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
+          "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
+        }
+      },
+      "dedicationMessage": {
+        "titleNew": "Personalized Dedication",
+        "subtitle": "Your message on the first page",
+        "descriptionByRelationship": {
+          "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
+          "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+        },
+        "preview": {
+          "header": "Happy Birthday, {{name}}!",
+          "body": "On this very special day, we want you to know how much you mean to us...",
+          "signature": "Love, Mom & Dad"
+      },
+      "dedicationSignature": {
+        "grandparent": "Love, Grandma & Grandpa",
+        "other": "Love, Mom & Dad"
+      }
+    }
+    },
+    "freeShipping":{
+      "title": "Free Shipping Eligibility",
+      "text": "After placing this order, if you order another book within 24 hours - shipping will automatically be free."
     }
   },
   "Dedication": {
@@ -434,6 +487,18 @@
       "heading": "Thank You, You're Truly Wonderful!",
       "message": "You've just crafted a unique tale for {{name}}",
       "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
+    }
+  },
+  "CartRedirect": {
+    "noBook": {
+      "heading": "Looking for your personalized book?",
+      "message": "You will find the link to your book preview in your inbox in an email sent from support@imagitime.com (Check your promotions or spam folder if not in inbox).",
+      "contact": "For any queries, please email"
+    },
+    "activeBook": {
+      "heading": "One Book at a Time",
+      "message": "Currently you can create and order one book at a time. If you are looking to order multiple different books, you will need to place separate orders. However, from your second order onwards you can use code FREESHIP at checkout to make shipping free. To continue back to the book you were purchasing, click the button below.",
+      "backButton": "Back to My Book"
     }
   }
 }

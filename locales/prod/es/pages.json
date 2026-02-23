@@ -166,7 +166,8 @@
       "reapproveForPrinting": "Reaprobar la impresión",
       "uploadAnother": "Subir otra foto",
       "addMore": "Añadir más fotos",
-      "generateFromOtherPhotos": "Generar a partir de otras fotos"
+      "generateFromOtherPhotos": "Generar a partir de otras fotos",
+      "downloadPdf": "Descargar PDF"
     },
     "noUsablePhotos": {
       "heading": "No hay fotos aprovechables",
@@ -204,7 +205,8 @@
       "cancelled": "Este pedido se ha anulado.",
       "printing": "Este libro ya está en proceso de impresión.",
       "shipped": "Este libro se envió el {{date}}<br>Agencia de transporte: {{carrier}}<br>Código de seguimiento: {{tracking}}",
-      "reprintSupportInstruction": "Por favor, responda al correo electrónico que recibió de <strong>{{supportEmail}}</strong> para que podamos enviar este libro a impresión."
+      "reprintSupportInstruction": "Por favor, responda al correo electrónico que recibió de <strong>{{supportEmail}}</strong> para que podamos enviar este libro a impresión.",
+      "pdfPendingNotice": "Tu copia digital en PDF se enviará por correo electrónico una vez que tu libro sea aprobado y enviado a imprenta."
     },
     "timer": {
       "message": "Creando el libro de {{name}}..."
@@ -358,7 +360,9 @@
       "buyPaperback": "Comprar edición tapa blanda",
       "goBackToPreview": "Volver a la vista previa",
       "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO",
-      "continueCheckout": "Proceder al pago"
+      "continueCheckout": "Proceder al pago",
+      "next": "Siguiente",
+      "back": "Atrás"
     },
     "shipping": {
       "info": "+ {{price}} de gastos de envío a {{region}}",
@@ -380,16 +384,65 @@
     "badges": {
       "popularChoice": "⭐ Opción más vendida ⭐",
       "popularChoiceVariation1": "★ Elección popular • Las plazas se llenan rápido",
-      "soldOut": "Agotado"
+      "soldOut": "Agotado",
+      "popularWithGrandparents": "⭐ Popular entre abuelos ⭐",
+      "popularAddon": "⭐ Complemento popular ⭐"
     },
     "upsell": {
       "heading": "Añadir una segunda copia",
       "subheading": "Uno para regalar, otro para conservar",
       "addSecondBook": "Añadir otra copia",
-      "description": "Ideal para conservar los recuerdos más valiosos o para regalar a los abuelos."
+      "description": "Ideal para conservar los recuerdos más valiosos o para regalar a los abuelos.",
+      "subheadingByRelationship": {
+        "grandparent": "Uno para ti, otro para los padres",
+        "other": "Uno para regalar, otro para guardar para siempre"
+      },
+      "descriptionByRelationship": {
+        "grandparent": "Guarda una copia en tu tablet para leerlo juntos cuando vengan de visita. Un recuerdo digital que siempre te acompañará.",
+        "other": "Léelo juntos en la tablet durante los viajes. Una copia digital de este recuerdo tan especial."
+      },
+      "descriptionControlAndExpA": "Perfecto como recuerdo especial o para tener en casa de los abuelos.",
+      "descriptionExpB": {
+        "grandparent": "Para que puedan leerlo en las dos casas. Un recuerdo especial para toda la familia.",
+        "other": "Perfecto para casa de los abuelos o como copia de seguridad de este recuerdo tan especial."
+      }
     },
     "checkout": {
       "subtotal": "<b>Subtotal</b> (envío no incluido)"
+    },
+    "addons": {
+      "heading": "¡Hazlo aún más especial!",
+      "subheading": "Añade estos extras exclusivos a tu pedido.",
+      "almostDone": "Casi listo",
+      "digitalPdf": {
+        "title": "PDF Digital de Recuerdo",
+        "description": "Descarga instantánea enviada por correo electrónico. Perfecto para compartir con la familia o guardar como copia para siempre.",
+        "descriptionExperiment": {
+          "grandparent": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para leer juntos y compartir con la familia.",
+          "other": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para los viajes y para compartir con la familia."
+        }
+      },
+      "dedicationMessage": {
+        "titleNew": "Dedicatoria Personalizada",
+        "subtitle": "Tu mensaje en la primera página",
+        "descriptionByRelationship": {
+          "grandparent": "Escribe un mensaje con todo tu cariño que guardarán para siempre. Tus palabras, conservadas en su propio libro.",
+          "other": "Añade un mensaje con todo tu cariño en la primera página. Tus palabras, conservadas en su propio libro."
+        },
+        "preview": {
+          "header": "¡Feliz cumpleaños, {{name}}!",
+          "body": "En este día tan especial, queremos que sepas lo mucho que significas para nosotros...",
+          "signature": "Con cariño, Mamá y Papá"
+        },
+        "dedicationSignature": {
+          "grandparent": "Con cariño, la Abuela y el Abuelo",
+          "other": "Con cariño, Mamá y Papá"
+        }
+      }
+    },
+    "freeShipping": {
+      "title": "Elegibilidad para envío gratis",
+      "text": "Después de realizar este pedido, si pides otro libro en 24 horas, el envío será automáticamente gratuito."
     }
   },
   "Dedication": {
@@ -488,6 +541,18 @@
       "heading": "¡Te lo agradecemos de corazón!",
       "message": "Has creado un cuento exclusivo para {{name}}",
       "tracking": "Una vez se imprima el libro y salga el envío, te mandaremos la información de seguimiento a tu email."
+    }
+  },
+  "CartRedirect": {
+    "noBook": {
+      "heading": "¿Buscas tu libro personalizado?",
+      "message": "Encontrarás el enlace a la vista previa de tu libro en tu bandeja de entrada, en un correo enviado desde support@imagitime.com (Revisa tu carpeta de promociones o spam si no lo encuentras en la bandeja de entrada).",
+      "contact": "Para cualquier consulta, envíanos un correo a"
+    },
+    "activeBook": {
+      "heading": "Un libro a la vez",
+      "message": "Actualmente solo puedes crear y pedir un libro a la vez. Si deseas pedir varios libros diferentes, deberás realizar pedidos separados. Sin embargo, a partir de tu segundo pedido puedes usar el código FREESHIP en el pago para obtener envío gratuito. Para volver al libro que estabas comprando, haz clic en el botón de abajo.",
+      "backButton": "Volver a Mi Libro"
     }
   }
 }

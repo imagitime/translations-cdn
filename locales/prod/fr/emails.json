@@ -101,5 +101,13 @@
   "otp_email.ignore_notice": "Si vous n'avez pas demandé ce code, veuillez ignorer cet e-mail.",
   "available_for_pickup_email.subject": "Le livre de {kid_name} est prêt à être récupéré (commande n° #{order_number})",
   "available_for_pickup_email.delivery_info": "Nous souhaitions vous informer que le livre de {child_name} est disponible pour retrait.",
-  "available_for_pickup_email.tracking_link": "Voici le lien de suivi."
+  "available_for_pickup_email.tracking_link": "Voici le lien de suivi.",
+  "digital_pdf_email.subject": "PDF Numérique de {book_title}",
+  "digital_pdf_email.greeting": "Bonjour {requester_name},",
+  "digital_pdf_email.intro": "Votre PDF numérique de « {book_title} » est prêt !",
+  "digital_pdf_email.pdf_ready": "Nous avons joint le PDF haute résolution à cet e-mail pour que vous puissiez profiter de l'histoire immédiatement.",
+  "digital_pdf_email.questions_text": "Si vous avez des questions ou besoin d'aide, répondez simplement à cet e-mail.",
+  "standard_email.closing": "Cordialement,<br>L'Équipe Imagitime",
+  "standard_email.footer": "Vous avez reçu cet e-mail car vous avez acheté un livre personnalisé chez nous.",
+  "standard_email.unsubscribe": "Si vous ne souhaitez plus recevoir ces e-mails, veuillez <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">vous désabonner ici</a>."
 }
