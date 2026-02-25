@@ -417,6 +417,7 @@
       "digitalPdf": {
         "title": "PDF Numérique Souvenir",
         "description": "Téléchargement instantané envoyé par e-mail. Parfait pour partager en famille ou conserver comme copie pour toujours.",
+        "listDescription": "Un PDF haute résolution vous sera envoyé par e-mail sous 24 à 48 heures dès que le livre sera envoyé à l'impression.",
         "descriptionExperiment": {
           "grandparent": "PDF haute résolution envoyé par e-mail sous 24 à 48 heures lorsque le livre est envoyé à l'impression. Parfait pour lire ensemble et partager avec la famille.",
           "other": "PDF haute résolution envoyé par e-mail sous 24 à 48 heures lorsque le livre est envoyé à l'impression. Parfait pour les voyages et pour partager avec la famille."
@@ -425,6 +426,7 @@
       "dedicationMessage": {
         "titleNew": "Dédicace Personnalisée",
         "subtitle": "Votre message sur la première page",
+        "listDescription": "Rédigez votre propre message personnel dans le livre.",
         "descriptionByRelationship": {
           "grandparent": "Écrivez un message plein de tendresse qu'ils garderont pour toujours. Vos mots, préservés dans leur propre livre.",
           "other": "Ajoutez un message plein de tendresse sur la première page. Vos mots, préservés dans leur propre livre."
