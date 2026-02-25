@@ -417,6 +417,7 @@
       "digitalPdf": {
         "title": "Digitales PDF-Erinnerungsstück",
         "description": "Sofortiger Download per E-Mail. Perfekt zum Teilen mit der Familie oder als dauerhafte Sicherungskopie.",
+        "listDescription": "Sobald das Buch in den Druck geht, erhalten Sie innerhalb von 24 bis 48 Stunden ein hochauflösendes PDF per E-Mail.",
         "descriptionExperiment": {
           "grandparent": "Hochauflösendes PDF per E-Mail innerhalb von 24 bis 48 Stunden, wenn das Buch in den Druck geht. Perfekt zum gemeinsamen Lesen und Teilen mit der Familie.",
           "other": "Hochauflösendes PDF per E-Mail innerhalb von 24 bis 48 Stunden, wenn das Buch in den Druck geht. Perfekt für unterwegs und zum Teilen mit der Familie."
@@ -425,6 +426,7 @@
       "dedicationMessage": {
         "titleNew": "Persönliche Widmung",
         "subtitle": "Deine Nachricht auf der ersten Seite",
+        "listDescription": "Schreiben Sie Ihre eigene persönliche Nachricht in das Buch.",
         "descriptionByRelationship": {
           "grandparent": "Schreibe eine herzliche Nachricht, die sie für immer in Ehren halten werden. Deine Worte, bewahrt in ihrem ganz eigenen Buch.",
           "other": "Füge eine herzliche Nachricht auf der ersten Seite hinzu. Deine Worte, bewahrt in ihrem ganz eigenen Buch."
