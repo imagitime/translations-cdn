@@ -417,6 +417,7 @@
       "digitalPdf": {
         "title": "PDF Digital de Recuerdo",
         "description": "Descarga instantánea enviada por correo electrónico. Perfecto para compartir con la familia o guardar como copia para siempre.",
+        "listDescription": "Recibirás un PDF de alta resolución por correo electrónico en un plazo de 24 a 48 horas una vez que el libro se envíe a imprenta.",
         "descriptionExperiment": {
           "grandparent": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para leer juntos y compartir con la familia.",
           "other": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para los viajes y para compartir con la familia."
@@ -425,6 +426,7 @@
       "dedicationMessage": {
         "titleNew": "Dedicatoria Personalizada",
         "subtitle": "Tu mensaje en la primera página",
+        "listDescription": "Escribe tu propio mensaje personal en el libro.",
         "descriptionByRelationship": {
           "grandparent": "Escribe un mensaje con todo tu cariño que guardarán para siempre. Tus palabras, conservadas en su propio libro.",
           "other": "Añade un mensaje con todo tu cariño en la primera página. Tus palabras, conservadas en su propio libro."
