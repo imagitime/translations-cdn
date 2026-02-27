@@ -426,7 +426,7 @@
       "dedicationMessage": {
         "titleNew": "Dédicace Personnalisée",
         "subtitle": "Votre message sur la première page",
-        "listDescription": "Rédigez votre propre message personnel dans le livre.",
+        "listDescription": "Vous pourrez ajouter un message personnel dans le livre après la validation de votre commande.",
         "descriptionByRelationship": {
           "grandparent": "Écrivez un message plein de tendresse qu'ils garderont pour toujours. Vos mots, préservés dans leur propre livre.",
           "other": "Ajoutez un message plein de tendresse sur la première page. Vos mots, préservés dans leur propre livre."
