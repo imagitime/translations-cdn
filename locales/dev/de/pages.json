@@ -392,6 +392,8 @@
       "heading": "Fügen Sie eine zweite Kopie hinzu",
       "subheading": "Eine zum Verschenken, eine zum Aufbewahren",
       "addSecondBook": "Fügen Sie eine weitere Kopie hinzu",
+      "listTitle": "Zusätzliches Exemplar",
+      "listSubtitle": "Eines zum Verschenken, eines zum Behalten",
       "description": "Perfekt als wertvolles Andenken oder für das Haus der Großeltern.",
       "subheadingByRelationship": {
         "grandparent": "Eins für dich, eins für die Eltern",
@@ -411,11 +413,13 @@
       "subtotal": "<b>Zwischensumme</b> (ohne Versandkosten)"
     },
     "addons": {
-      "heading": "Machen Sie es zu etwas ganz Besonderem!",
-      "subheading": "Fügen Sie diese exklusiven Extras Ihrer Bestellung hinzu.",
+      "heading": "Häufig gekaufte Add-ons",
+      "subheading": "Beliebige hinzufügen oder direkt zur Kasse gehen",
       "almostDone": "Fast geschafft",
       "digitalPdf": {
         "title": "Digitales PDF-Erinnerungsstück",
+        "listTitle": "Digitales PDF",
+        "listSubtitle": "Überall lesen, für immer Ihr Eigen",
         "description": "Sofortiger Download per E-Mail. Perfekt zum Teilen mit der Familie oder als dauerhafte Sicherungskopie.",
         "listDescription": "Sobald das Buch in den Druck geht, erhalten Sie innerhalb von 24 bis 48 Stunden ein hochauflösendes PDF per E-Mail.",
         "descriptionExperiment": {
@@ -425,8 +429,10 @@
       },
       "dedicationMessage": {
         "titleNew": "Persönliche Widmung",
+        "listTitle": "Persönliche Widmung",
+        "listSubtitle": "Schreiben Sie Ihre Nachricht nach dem Bezahlvorgang",
         "subtitle": "Deine Nachricht auf der ersten Seite",
-        "listDescription": "Sie können nach dem Bezahlvorgang eine persönliche Nachricht im Buch hinzufügen.",
+        "listDescription": "Schreiben Sie Ihre eigene persönliche Nachricht in das Buch.",
         "descriptionByRelationship": {
           "grandparent": "Schreibe eine herzliche Nachricht, die sie für immer in Ehren halten werden. Deine Worte, bewahrt in ihrem ganz eigenen Buch.",
           "other": "Füge eine herzliche Nachricht auf der ersten Seite hinzu. Deine Worte, bewahrt in ihrem ganz eigenen Buch."

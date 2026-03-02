@@ -392,6 +392,8 @@
       "heading": "Ajouter un deuxième exemplaire",
       "subheading": "Un pour offrir, un pour garder en souvenir",
       "addSecondBook": "Ajouter un autre exemplaire",
+      "listTitle": "Exemplaire supplémentaire",
+      "listSubtitle": "Un pour offrir, un pour soi",
       "description": "Un tendre souvenir à garder pour soi ou à lire chez papi et mamie.",
       "subheadingByRelationship": {
         "grandparent": "Un pour vous, un pour les parents",
@@ -411,11 +413,13 @@
       "subtotal": "<b>Sous-total</b> (hors frais de port)"
     },
     "addons": {
-      "heading": "Rendez-le encore plus spécial !",
-      "subheading": "Ajoutez ces extras exclusifs à votre commande.",
+      "heading": "Compléments souvent achetés",
+      "subheading": "Ajoutez-en ou passez directement au paiement",
       "almostDone": "Presque terminé",
       "digitalPdf": {
         "title": "PDF Numérique Souvenir",
+        "listTitle": "PDF numérique",
+        "listSubtitle": "Lisez-le partout, il est à vous pour toujours",
         "description": "Téléchargement instantané envoyé par e-mail. Parfait pour partager en famille ou conserver comme copie pour toujours.",
         "listDescription": "Un PDF haute résolution vous sera envoyé par e-mail sous 24 à 48 heures dès que le livre sera envoyé à l'impression.",
         "descriptionExperiment": {
@@ -425,8 +429,10 @@
       },
       "dedicationMessage": {
         "titleNew": "Dédicace Personnalisée",
+        "listTitle": "Dédicace personnelle",
+        "listSubtitle": "Rédigez votre message après la validation de la commande",
         "subtitle": "Votre message sur la première page",
-        "listDescription": "Vous pourrez ajouter un message personnel dans le livre après la validation de votre commande.",
+        "listDescription": "Rédigez votre propre message personnel dans le livre.",
         "descriptionByRelationship": {
           "grandparent": "Écrivez un message plein de tendresse qu'ils garderont pour toujours. Vos mots, préservés dans leur propre livre.",
           "other": "Ajoutez un message plein de tendresse sur la première page. Vos mots, préservés dans leur propre livre."
