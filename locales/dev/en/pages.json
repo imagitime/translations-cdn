@@ -361,6 +361,8 @@
     "addons": {
       "heading": "Frequently bought add-ons",
       "subheading": "Add any, or skip to checkout",
+      "controlHeading": "Make it extra special!",
+      "controlSubheading": "Add these exclusive extras to your order.",
       "almostDone": "Almost Done",
       "skipLink": "No thanks, just the book",
       "digitalPdf": {
@@ -369,6 +371,7 @@
         "listSubtitle": "Read anywhere, yours forever",
         "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup.",
         "listDescription": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing.",
+        "controlListDescription": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing.",
         "descriptionExperiment": {
           "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
           "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
@@ -380,6 +383,7 @@
         "listSubtitle": "Write your message after checkout",
         "subtitle": "Your message on the first page",
         "listDescription": "Write your own personal message in the book.",
+        "controlListDescription": "You will be able to add a personal message in the book after checkout.",
         "descriptionByRelationship": {
           "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
           "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
