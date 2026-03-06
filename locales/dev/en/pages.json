@@ -11,6 +11,7 @@
       "bodyType": "Select Their Body Type",
       "adultAge": "Select Age",
       "giverName": "Giver's Name (Your Name)",
+      "kidCallsYou": "What does the kid call you?",
       "language": "Language",
       "relationshipToChild": "What is your relationship to the child?",
       "consentSectionHeader": "We take child privacy seriously"
