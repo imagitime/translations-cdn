@@ -12,6 +12,8 @@
       "adultAge": "Selecciona la edad",
       "giverName": "Nombre del que regala el libro (tu nombre)",
       "kidCallsYou": "¿Cómo te llama el niño?",
+      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
+      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
       "language": "Idioma",
       "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
       "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
