@@ -11,6 +11,7 @@
       "bodyType": "Selecciona la apariencia física",
       "adultAge": "Selecciona la edad",
       "giverName": "Nombre del que regala el libro (tu nombre)",
+      "kidCallsYou": "¿Cómo te llama el niño?",
       "language": "Idioma",
       "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
       "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
@@ -392,6 +393,8 @@
       "heading": "Añadir una segunda copia",
       "subheading": "Uno para regalar, otro para conservar",
       "addSecondBook": "Añadir otra copia",
+      "listTitle": "Copia adicional",
+      "listSubtitle": "Una para regalar, una para ti",
       "description": "Ideal para conservar los recuerdos más valiosos o para regalar a los abuelos.",
       "subheadingByRelationship": {
         "grandparent": "Uno para ti, otro para los padres",
@@ -411,13 +414,19 @@
       "subtotal": "<b>Subtotal</b> (envío no incluido)"
     },
     "addons": {
-      "heading": "¡Hazlo aún más especial!",
-      "subheading": "Añade estos extras exclusivos a tu pedido.",
+      "heading": "Complementos comprados con frecuencia",
+      "subheading": "Añade alguno o ve directamente a finalizar la compra",
+      "controlHeading": "¡Hazlo aún más especial!",
+      "controlSubheading": "Añade estos extras exclusivos a tu pedido.",
       "almostDone": "Casi listo",
+      "skipLink": "No gracias, solo el libro",
       "digitalPdf": {
         "title": "PDF Digital de Recuerdo",
+        "listTitle": "PDF digital",
+        "listSubtitle": "Enviado por correo electrónico tras 24 horas",
         "description": "Descarga instantánea enviada por correo electrónico. Perfecto para compartir con la familia o guardar como copia para siempre.",
         "listDescription": "Recibirás un PDF de alta resolución por correo electrónico en un plazo de 24 a 48 horas una vez que el libro se envíe a imprenta.",
+        "controlListDescription": "Recibirás un PDF de alta resolución por correo electrónico en un plazo de 24 a 48 horas una vez que el libro se envíe a imprenta.",
         "descriptionExperiment": {
           "grandparent": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para leer juntos y compartir con la familia.",
           "other": "PDF en alta resolución enviado por correo electrónico en 24 a 48 horas cuando el libro se envíe a imprenta. Perfecto para los viajes y para compartir con la familia."
@@ -425,8 +434,11 @@
       },
       "dedicationMessage": {
         "titleNew": "Dedicatoria Personalizada",
+        "listTitle": "Dedicatoria personal",
+        "listSubtitle": "Escribe tu mensaje después de finalizar la compra",
         "subtitle": "Tu mensaje en la primera página",
-        "listDescription": "Podrá añadir un mensaje personal en el libro después de completar la compra.",
+        "listDescription": "Escribe tu propio mensaje personal en el libro.",
+        "controlListDescription": "Podrá añadir un mensaje personal en el libro después de completar la compra.",
         "descriptionByRelationship": {
           "grandparent": "Escribe un mensaje con todo tu cariño que guardarán para siempre. Tus palabras, conservadas en su propio libro.",
           "other": "Añade un mensaje con todo tu cariño en la primera página. Tus palabras, conservadas en su propio libro."

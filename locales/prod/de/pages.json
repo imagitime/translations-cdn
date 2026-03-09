@@ -11,6 +11,7 @@
       "bodyType": "Körpertyp auswählen",
       "adultAge": "Alter auswählen",
       "giverName": "Ihr Name (Ihr Name)",
+      "kidCallsYou": "Wie nennt dich das Kind?",
       "language": "Sprache",
       "relationshipToChild": "Was ist Ihre Beziehung zu dem Kind?",
       "consentSectionHeader": "Wir nehmen die Privatsphäre von Kindern ernst"
@@ -392,6 +393,8 @@
       "heading": "Fügen Sie eine zweite Kopie hinzu",
       "subheading": "Eine zum Verschenken, eine zum Aufbewahren",
       "addSecondBook": "Fügen Sie eine weitere Kopie hinzu",
+      "listTitle": "Extra-Exemplar",
+      "listSubtitle": "Zum Schenken & Behalten",
       "description": "Perfekt als wertvolles Andenken oder für das Haus der Großeltern.",
       "subheadingByRelationship": {
         "grandparent": "Eins für dich, eins für die Eltern",
@@ -411,13 +414,19 @@
       "subtotal": "<b>Zwischensumme</b> (ohne Versandkosten)"
     },
     "addons": {
-      "heading": "Machen Sie es zu etwas ganz Besonderem!",
-      "subheading": "Fügen Sie diese exklusiven Extras Ihrer Bestellung hinzu.",
+      "heading": "Häufig gekaufte Add-ons",
+      "subheading": "Beliebige hinzufügen oder direkt zur Kasse gehen",
+      "controlHeading": "Machen Sie es zu etwas ganz Besonderem!",
+      "controlSubheading": "Fügen Sie diese exklusiven Extras Ihrer Bestellung hinzu.",
       "almostDone": "Fast geschafft",
+      "skipLink": "Nein danke, nur das Buch",
       "digitalPdf": {
         "title": "Digitales PDF-Erinnerungsstück",
+        "listTitle": "Digitales PDF",
+        "listSubtitle": "Versand per E-Mail nach 24 Stunden",
         "description": "Sofortiger Download per E-Mail. Perfekt zum Teilen mit der Familie oder als dauerhafte Sicherungskopie.",
         "listDescription": "Sobald das Buch in den Druck geht, erhalten Sie innerhalb von 24 bis 48 Stunden ein hochauflösendes PDF per E-Mail.",
+        "controlListDescription": "Sobald das Buch in den Druck geht, erhalten Sie innerhalb von 24 bis 48 Stunden ein hochauflösendes PDF per E-Mail.",
         "descriptionExperiment": {
           "grandparent": "Hochauflösendes PDF per E-Mail innerhalb von 24 bis 48 Stunden, wenn das Buch in den Druck geht. Perfekt zum gemeinsamen Lesen und Teilen mit der Familie.",
           "other": "Hochauflösendes PDF per E-Mail innerhalb von 24 bis 48 Stunden, wenn das Buch in den Druck geht. Perfekt für unterwegs und zum Teilen mit der Familie."
@@ -425,8 +434,11 @@
       },
       "dedicationMessage": {
         "titleNew": "Persönliche Widmung",
+        "listTitle": "Persönliche Widmung",
+        "listSubtitle": "Schreiben Sie Ihre Nachricht nach dem Bezahlvorgang",
         "subtitle": "Deine Nachricht auf der ersten Seite",
-        "listDescription": "Sie können nach dem Bezahlvorgang eine persönliche Nachricht im Buch hinzufügen.",
+        "listDescription": "Schreiben Sie Ihre eigene persönliche Nachricht in das Buch.",
+        "controlListDescription": "Sie können nach dem Bezahlvorgang eine persönliche Nachricht im Buch hinzufügen.",
         "descriptionByRelationship": {
           "grandparent": "Schreibe eine herzliche Nachricht, die sie für immer in Ehren halten werden. Deine Worte, bewahrt in ihrem ganz eigenen Buch.",
           "other": "Füge eine herzliche Nachricht auf der ersten Seite hinzu. Deine Worte, bewahrt in ihrem ganz eigenen Buch."
