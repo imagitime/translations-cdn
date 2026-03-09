@@ -12,6 +12,8 @@
       "adultAge": "Select Age",
       "giverName": "Giver's Name (Your Name)",
       "kidCallsYou": "What does the kid call you?",
+      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
+      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
       "language": "Language",
       "relationshipToChild": "What is your relationship to the child?",
       "consentSectionHeader": "We take child privacy seriously"
