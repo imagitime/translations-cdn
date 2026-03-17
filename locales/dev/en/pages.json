@@ -20,6 +20,7 @@
     },
     "experiment": {
       "title": "Who is this book for?",
+      "bookIn": "Book in",
       "childNameExp": "Child's name",
       "relationshipLabel": "Relationship",
       "birthMonthExp": "Birth month",
