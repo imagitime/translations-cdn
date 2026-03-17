@@ -18,6 +18,16 @@
       "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
       "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
     },
+    "experiment": {
+      "title": "Who is this book for?",
+      "childNameExp": "Child's name",
+      "relationshipLabel": "Relationship",
+      "birthMonthExp": "Birth month",
+      "childNamePlaceholder": "e.g. Emma",
+      "adultNamePlaceholder": "e.g. Sarah",
+      "giverNamePlaceholder": "e.g. John",
+      "kidCallsYouPlaceholder": "e.g. Mama"
+    },
     "relationshipOptions": {
       "default": "Por favor, selecciona el parentesco",
       "parentGuardian": "Padre, madre o tutor legal",
