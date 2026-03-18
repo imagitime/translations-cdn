@@ -22,6 +22,8 @@
       "title": "À qui est destiné ce livre ?",
       "bookIn": "Livre en",
       "childNameExp": "Prénom de l'enfant",
+      "genderExp": "Genre",
+      "ageExp": "Âge",
       "relationshipLabel": "Relation",
       "birthMonthExp": "Mois de naissance",
       "childNamePlaceholder": "ex. Emma",
