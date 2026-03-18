@@ -18,6 +18,19 @@
       "relationshipToChild": "What is your relationship to the child?",
       "consentSectionHeader": "We take child privacy seriously"
     },
+    "experiment": {
+      "title": "Who is this book for?",
+      "bookIn": "Book in",
+      "childNameExp": "Child's name",
+      "genderExp": "Gender",
+      "ageExp": "Age",
+      "relationshipLabel": "Relationship",
+      "birthMonthExp": "Birth month",
+      "childNamePlaceholder": "e.g. Emma",
+      "adultNamePlaceholder": "e.g. Sarah",
+      "giverNamePlaceholder": "e.g. John",
+      "kidCallsYouPlaceholder": "e.g. Mama"
+    },
     "relationshipOptions": {
       "default": "Please select your relationship",
       "parentGuardian": "Parent/Guardian",

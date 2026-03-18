@@ -12,11 +12,24 @@
       "adultAge": "Alter auswählen",
       "giverName": "Ihr Name (Ihr Name)",
       "kidCallsYou": "Wie nennt dich das Kind?",
-      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
-      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
+      "kidCallsMommy": "Wie nennen sie ihre Mama? (z.B. Mami, Mama, Mutti)",
+      "kidCallsDaddy": "Wie nennen sie ihren Papa? (z.B. Papi, Papa, Vati)",
       "language": "Sprache",
       "relationshipToChild": "Was ist Ihre Beziehung zu dem Kind?",
       "consentSectionHeader": "Wir nehmen die Privatsphäre von Kindern ernst"
+    },
+    "experiment": {
+      "title": "Für wen ist dieses Buch?",
+      "bookIn": "Buch auf",
+      "childNameExp": "Name des Kindes",
+      "genderExp": "Geschlecht",
+      "ageExp": "Alter",
+      "relationshipLabel": "Beziehung",
+      "birthMonthExp": "Geburtsmonat",
+      "childNamePlaceholder": "z.B. Emma",
+      "adultNamePlaceholder": "z.B. Sarah",
+      "giverNamePlaceholder": "z.B. John",
+      "kidCallsYouPlaceholder": "z.B. Mama"
     },
     "relationshipOptions": {
       "default": "Bitte wählen Sie Ihre Beziehung",

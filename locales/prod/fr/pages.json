@@ -12,11 +12,24 @@
       "adultAge": "Sélectionner son âge",
       "giverName": "Votre prénom",
       "kidCallsYou": "Comment est-ce que l'enfant t'appelle ?",
-      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
-      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
+      "kidCallsMommy": "Comment appelle-t-il/elle sa maman ? (ex. Maman, Mamounette)",
+      "kidCallsDaddy": "Comment appelle-t-il/elle son papa ? (ex. Papa, Papounet)",
       "language": "Langue",
       "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
       "consentSectionHeader": "Nous prenons la vie privée des enfants très au sérieux"
+    },
+    "experiment": {
+      "title": "À qui est destiné ce livre ?",
+      "bookIn": "Livre en",
+      "childNameExp": "Prénom de l'enfant",
+      "genderExp": "Genre",
+      "ageExp": "Âge",
+      "relationshipLabel": "Relation",
+      "birthMonthExp": "Mois de naissance",
+      "childNamePlaceholder": "ex. Emma",
+      "adultNamePlaceholder": "ex. Sarah",
+      "giverNamePlaceholder": "ex. Jean",
+      "kidCallsYouPlaceholder": "ex. Maman"
     },
     "relationshipOptions": {
       "default": "Veuillez sélectionner votre relation",

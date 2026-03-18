@@ -12,11 +12,24 @@
       "adultAge": "Selecciona la edad",
       "giverName": "Nombre del que regala el libro (tu nombre)",
       "kidCallsYou": "¿Cómo te llama el niño?",
-      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
-      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
+      "kidCallsMommy": "¿Cómo llaman a su mamá? (ej. Mamá, Mami)",
+      "kidCallsDaddy": "¿Cómo llaman a su papá? (ej. Papá, Papi)",
       "language": "Idioma",
       "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
       "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
+    },
+    "experiment": {
+      "title": "¿Para quién es este libro?",
+      "bookIn": "Libro en",
+      "childNameExp": "Nombre del niño/a",
+      "genderExp": "Género",
+      "ageExp": "Edad",
+      "relationshipLabel": "Relación",
+      "birthMonthExp": "Mes de nacimiento",
+      "childNamePlaceholder": "ej. Emma",
+      "adultNamePlaceholder": "ej. Sara",
+      "giverNamePlaceholder": "ej. Juan",
+      "kidCallsYouPlaceholder": "ej. Mamá"
     },
     "relationshipOptions": {
       "default": "Por favor, selecciona el parentesco",
