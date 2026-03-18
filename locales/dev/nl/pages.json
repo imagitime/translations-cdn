@@ -22,6 +22,8 @@
       "title": "Who is this book for?",
       "bookIn": "Book in",
       "childNameExp": "Child's name",
+      "genderExp": "Gender",
+      "ageExp": "Age",
       "relationshipLabel": "Relationship",
       "birthMonthExp": "Birth month",
       "childNamePlaceholder": "e.g. Emma",
