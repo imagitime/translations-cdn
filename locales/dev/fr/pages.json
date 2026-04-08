@@ -2,7 +2,7 @@
   "InitialForm": {
     "headings": {
       "whoToMakeBookFor": "Pour qui souhaitez-vous créer ce livre ?",
-      "createYourChildsBookNow": "Créez maintenant le livre de votre enfant"
+      "createYourChildsBookNow": "Créez le livre de votre enfant dès maintenant"
     },
     "labels": {
       "childName": "Prénom de l'enfant",
