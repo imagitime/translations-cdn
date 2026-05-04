@@ -1,83 +1,83 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Who would you like to make the book for?",
-      "createYourChildsBookNow": "Create Your Child's Book Now"
+      "whoToMakeBookFor": "Voor wie wil je het boek maken?",
+      "createYourChildsBookNow": "Maak nu het boek van jouw kind"
     },
     "labels": {
-      "childName": "Child's First Name For Story",
-      "childAge": "Select Current Age",
-      "birthMonth": "Select Birth Month",
-      "adultName": "First Name",
-      "bodyType": "Select Their Body Type",
-      "adultAge": "Select Age",
-      "giverName": "Giver's Name (Your Name)",
-      "kidCallsYou": "What does the kid call you?",
-      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
-      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
-      "language": "Language",
-      "relationshipToChild": "What is your relationship to the child?",
-      "consentSectionHeader": "We take child privacy seriously"
+      "childName": "Voornaam van het kind voor het verhaal",
+      "childAge": "Selecteer huidige leeftijd",
+      "birthMonth": "Selecteer geboortemaand",
+      "adultName": "Voornaam",
+      "bodyType": "Selecteer hun lichaamstype",
+      "adultAge": "Selecteer leeftijd",
+      "giverName": "Naam van de gever (jouw naam)",
+      "kidCallsYou": "Hoe noemt het kind jou?",
+      "kidCallsMommy": "Hoe noemen ze hun mama? (bijv. Mam, Mama, Moeder)",
+      "kidCallsDaddy": "Hoe noemen ze hun papa? (bijv. Pap, Papa, Vader)",
+      "language": "Taal",
+      "relationshipToChild": "Wat is jouw relatie tot het kind?",
+      "consentSectionHeader": "Wij nemen de privacy van kinderen serieus"
     },
     "experiment": {
-      "title": "Who is this book for?",
-      "bookIn": "Book in",
-      "childNameExp": "Child's name",
-      "genderExp": "Gender",
-      "ageExp": "Age",
-      "relationshipLabel": "Relationship",
-      "birthMonthExp": "Birth month",
-      "childNamePlaceholder": "e.g. Emma",
-      "adultNamePlaceholder": "e.g. Sarah",
-      "giverNamePlaceholder": "e.g. John",
-      "kidCallsYouPlaceholder": "e.g. Mama"
+      "title": "Voor wie is dit boek?",
+      "bookIn": "Boek in",
+      "childNameExp": "Naam van het kind",
+      "genderExp": "Geslacht",
+      "ageExp": "Leeftijd",
+      "relationshipLabel": "Relatie",
+      "birthMonthExp": "Geboortemaand",
+      "childNamePlaceholder": "bijv. Emma",
+      "adultNamePlaceholder": "bijv. Sarah",
+      "giverNamePlaceholder": "bijv. Jan",
+      "kidCallsYouPlaceholder": "bijv. Mama"
     },
     "relationshipOptions": {
-      "default": "Please select your relationship",
-      "parentGuardian": "Parent/Guardian",
-      "grandparent": "Grandparent",
-      "auntUncle": "Aunt/Uncle",
-      "familyFriend": "Family Friend",
-      "other": "Other"
+      "default": "Selecteer jouw relatie",
+      "parentGuardian": "Ouder/Voogd",
+      "grandparent": "Grootouder",
+      "auntUncle": "Tante/Oom",
+      "familyFriend": "Vriend van de familie",
+      "other": "Anders"
     },
     "genderOptions": {
-      "boy": "Boy",
-      "girl": "Girl",
-      "masculine": "Masculine",
-      "feminine": "Feminine"
+      "boy": "Jongen",
+      "girl": "Meisje",
+      "masculine": "Mannelijk",
+      "feminine": "Vrouwelijk"
     },
     "buttons": {
-      "nextStep": "Next Step ➔ Upload Photos"
+      "nextStep": "Volgende stap ➔ Foto's uploaden"
     },
     "validation": {
-      "tooLongForBook": "That's too long for the book.",
-      "selectRelationship": "Please select your relationship to the child.",
-      "consentRequired": "You must provide consent to proceed."
+      "tooLongForBook": "Dat is te lang voor het boek.",
+      "selectRelationship": "Selecteer jouw relatie tot het kind.",
+      "consentRequired": "Je moet toestemming geven om door te gaan."
     },
     "consent": {
-      "defaultConsentText": "[Please select your relationship to the child above to see the appropriate consent message]",
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
-      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy'>Privacy Policy</a>."
+      "defaultConsentText": "[Selecteer hierboven jouw relatie tot het kind om het bijbehorende toestemmingsbericht te zien]",
+      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder ben dan 18 jaar, en ik geef toestemming om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
+      "otherRelationshipText": "Ik bevestig dat ik ouder ben dan 18 jaar en toestemming heb van de ouder of voogd van het kind om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy'>Privacybeleid</a>."
     },
     "months": {
-      "january": "January",
-      "february": "February",
-      "march": "March",
+      "january": "Januari",
+      "february": "Februari",
+      "march": "Maart",
       "april": "April",
-      "may": "May",
-      "june": "June",
-      "july": "July",
-      "august": "August",
+      "may": "Mei",
+      "june": "Juni",
+      "july": "Juli",
+      "august": "Augustus",
       "september": "September",
-      "october": "October",
+      "october": "Oktober",
       "november": "November",
       "december": "December"
     },
     "ageRecommendation": {
-      "betterFitTitle": "We've got a better fit",
-      "recommendationText": "For age {{age}} {{genderPlural}}, we suggest <b>{{bookName}}</b>.",
-      "switchButtonText": "Switch to this book",
-      "makingBookText": "Making {{bookName}}"
+      "betterFitTitle": "We hebben een betere match",
+      "recommendationText": "Voor {{genderPlural}} van {{age}} jaar raden we <b>{{bookName}}</b> aan.",
+      "switchButtonText": "Wissel naar dit boek",
+      "makingBookText": "{{bookName}} wordt gemaakt"
     }
   },
   "UploadCommon": {
