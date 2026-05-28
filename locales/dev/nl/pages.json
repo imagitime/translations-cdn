@@ -1,239 +1,239 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Who would you like to make the book for?",
-      "createYourChildsBookNow": "Create Your Child's Book Now"
+      "whoToMakeBookFor": "Voor wie wil je het boek maken?",
+      "createYourChildsBookNow": "Maak nu het boek van je kind"
     },
     "labels": {
-      "childName": "Child's First Name For Story",
-      "childAge": "Select Current Age",
-      "birthMonth": "Select Birth Month",
-      "adultName": "First Name",
-      "bodyType": "Select Their Body Type",
-      "adultAge": "Select Age",
-      "giverName": "Giver's Name (Your Name)",
-      "kidCallsYou": "What does the kid call you?",
-      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
-      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
-      "language": "Language",
-      "relationshipToChild": "What is your relationship to the child?",
-      "consentSectionHeader": "We take child privacy seriously"
+      "childName": "Voornaam van je kind voor het verhaal",
+      "childAge": "Selecteer de huidige leeftijd",
+      "birthMonth": "Selecteer de geboortemaand",
+      "adultName": "Voornaam",
+      "bodyType": "Selecteer het lichaamstype",
+      "adultAge": "Selecteer de leeftijd",
+      "giverName": "Naam van de gever (jouw naam)",
+      "kidCallsYou": "Hoe noemt het kind je?",
+      "kidCallsMommy": "Hoe noemt je kind mama? (bijv. mama, mam, mams)",
+      "kidCallsDaddy": "Hoe noemt je kind papa? (bijv. papa, pap, paps)",
+      "language": "Taal",
+      "relationshipToChild": "Wat is je relatie tot het kind?",
+      "consentSectionHeader": "We nemen de privacy van kinderen serieus"
     },
     "experiment": {
-      "title": "Who is this book for?",
-      "bookIn": "Book in",
-      "childNameExp": "Child's name",
-      "genderExp": "Gender",
-      "ageExp": "Age",
-      "relationshipLabel": "Relationship",
-      "birthMonthExp": "Birth month",
-      "childNamePlaceholder": "e.g. Emma",
-      "adultNamePlaceholder": "e.g. Sarah",
-      "giverNamePlaceholder": "e.g. John",
-      "kidCallsYouPlaceholder": "e.g. Mama"
+      "title": "Voor wie is dit boek?",
+      "bookIn": "Boek in",
+      "childNameExp": "Naam van je kind",
+      "genderExp": "Geslacht",
+      "ageExp": "Leeftijd",
+      "relationshipLabel": "Relatie",
+      "birthMonthExp": "Geboortemaand",
+      "childNamePlaceholder": "bijv. Emma",
+      "adultNamePlaceholder": "bijv. Sarah",
+      "giverNamePlaceholder": "bijv. Jan",
+      "kidCallsYouPlaceholder": "bijv. Mama"
     },
     "relationshipOptions": {
-      "default": "Please select your relationship",
-      "parentGuardian": "Parent/Guardian",
-      "grandparent": "Grandparent",
-      "auntUncle": "Aunt/Uncle",
-      "familyFriend": "Family Friend",
-      "other": "Other"
+      "default": "Selecteer je relatie",
+      "parentGuardian": "Ouder/Voogd",
+      "grandparent": "Grootouder",
+      "auntUncle": "Tante/Oom",
+      "familyFriend": "Vriend van de familie",
+      "other": "Anders"
     },
     "genderOptions": {
-      "boy": "Boy",
-      "girl": "Girl",
-      "masculine": "Masculine",
-      "feminine": "Feminine"
+      "boy": "Jongen",
+      "girl": "Meisje",
+      "masculine": "Mannelijk",
+      "feminine": "Vrouwelijk"
     },
     "buttons": {
-      "nextStep": "Next Step ➔ Upload Photos"
+      "nextStep": "Volgende stap ➔ Foto's uploaden"
     },
     "validation": {
-      "tooLongForBook": "That's too long for the book.",
-      "selectRelationship": "Please select your relationship to the child.",
-      "consentRequired": "You must provide consent to proceed."
+      "tooLongForBook": "Dat is te lang voor het boek.",
+      "selectRelationship": "Selecteer je relatie tot het kind.",
+      "consentRequired": "Je moet toestemming geven om door te gaan."
     },
     "consent": {
-      "defaultConsentText": "[Please select your relationship to the child above to see the appropriate consent message]",
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
-      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy'>Privacy Policy</a>."
+      "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
+      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder dan 18 ben en dat ik toestemming geef om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
+      "otherRelationshipText": "Ik bevestig dat ik ouder dan 18 ben en toestemming heb van de ouder of voogd van het kind om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy'>Privacybeleid</a>."
     },
     "months": {
-      "january": "January",
-      "february": "February",
-      "march": "March",
+      "january": "Januari",
+      "february": "Februari",
+      "march": "Maart",
       "april": "April",
-      "may": "May",
-      "june": "June",
-      "july": "July",
-      "august": "August",
+      "may": "Mei",
+      "june": "Juni",
+      "july": "Juli",
+      "august": "Augustus",
       "september": "September",
-      "october": "October",
+      "october": "Oktober",
       "november": "November",
       "december": "December"
     },
     "ageRecommendation": {
-      "betterFitTitle": "We've got a better fit",
-      "recommendationText": "For age {{age}} {{genderPlural}}, we suggest <b>{{bookName}}</b>.",
-      "switchButtonText": "Switch to this book",
-      "makingBookText": "Making {{bookName}}"
+      "betterFitTitle": "Dit past beter",
+      "recommendationText": "Voor {{genderPlural}} van {{age}} jaar raden we <b>{{bookName}}</b> aan.",
+      "switchButtonText": "Wissel naar dit boek",
+      "makingBookText": "We maken {{bookName}}"
     }
   },
   "UploadCommon": {
     "headings": {
-      "lastStep": "Last Step",
-      "uploadMore": "Upload more photos of {{name}}",
-      "uploadAnother": "Upload another photo of {{name}}"
+      "lastStep": "Laatste stap",
+      "uploadMore": "Upload meer foto's van {{name}}",
+      "uploadAnother": "Upload nog een foto van {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Solo Photos Only",
+      "soloPhotos": "Alleen foto's van één persoon",
       "facingCamera": {
-        "child": "Child should be <strong>facing the camera</strong>",
-        "person": "Person should be <strong>facing the camera</strong>"
+        "child": "Je kind moet <strong>recht in de camera kijken</strong>",
+        "person": "De persoon moet <strong>recht in de camera kijken</strong>"
       },
-      "frontFacingSmiling": "Front Facing & Smiling",
-      "noSunglassesCap": "No Sunglasses, No Cap",
-      "noPacifierCap": "No Pacifier, No Cap",
-      "noOneElse": "<strong>No one else</strong> should be in the picture",
-      "faceEdges": "Face & hair should <strong>not touch the edges</strong>",
-      "noObstructions": "Hands or objects should <strong>not obstruct the face</strong>"
+      "frontFacingSmiling": "Naar voren kijkend en lachend",
+      "noSunglassesCap": "Geen zonnebril, geen pet",
+      "noPacifierCap": "Geen fopspeen, geen pet",
+      "noOneElse": "<strong>Niemand anders</strong> mag op de foto staan",
+      "faceEdges": "Gezicht en haar mogen <strong>de randen niet raken</strong>",
+      "noObstructions": "Handen of voorwerpen mogen <strong>het gezicht niet bedekken</strong>"
     },
     "photoRequirements": {
       "minimum": {
-        "regular": "Minimum 2 Photos required for preview",
-        "career": "At least 5 photos required for preview"
+        "regular": "Minimaal 2 foto's nodig voor de preview",
+        "career": "Minimaal 5 foto's nodig voor de preview"
       },
       "recommended": {
-        "range": "2 to 4 photos",
-        "careerBook": "5 minimum, 15 recommended"
+        "range": "2 tot 4 foto's",
+        "careerBook": "Minimaal 5, aanbevolen 15"
       }
     },
     "qualityGuidelines": {
-      "highQuality": "High quality, not blurry",
-      "soloOnly": "Solo photos only"
+      "highQuality": "Hoge kwaliteit, niet wazig",
+      "soloOnly": "Alleen foto's van één persoon"
     },
     "privacy": {
-      "standard": "We follow strict data privacy standards.",
-      "confidential": "The photos are kept confidential and are only for crafting the personalised book."
+      "standard": "We hanteren strenge normen voor gegevensbescherming.",
+      "confidential": "De foto's blijven vertrouwelijk en worden alleen gebruikt om het gepersonaliseerde boek te maken."
     },
     "buttons": {
-      "finishedUploading": "Finished Uploading",
-      "uploadPhotos": "Upload Photos",
-      "choosePhoto": "Choose Photo",
-      "showPreview": "Show {{name}}'s Book Preview",
-      "lastStepPages": "Last Step: Select Pages"
+      "finishedUploading": "Klaar met uploaden",
+      "uploadPhotos": "Foto's uploaden",
+      "choosePhoto": "Foto kiezen",
+      "showPreview": "Bekijk de boekpreview van {{name}}",
+      "lastStepPages": "Laatste stap: pagina's selecteren"
     },
     "uploadOptions": {
-      "gallery": "Choose from Gallery",
-      "camera": "Take Photo",
-      "cancel": "Cancel"
+      "gallery": "Kies uit galerij",
+      "camera": "Foto maken",
+      "cancel": "Annuleren"
     },
     "errors": {
-      "invalidType": "Invalid file type. Allowed types are: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
-      "fileTooLarge": "File size exceeds 20MB limit. Current size: {{size}}MB",
-      "dimensionsTooSmall": "Image dimensions too small. Minimum size is 100x100 pixels.",
-      "dimensionsTooLarge": "Image dimensions too large. Maximum size is 5000x5000 pixels.",
-      "invalidImage": "Invalid image file",
-      "previewUnavailable": "This preview is no longer available. Please create a new preview."
+      "invalidType": "Ongeldig bestandstype. Toegestane types zijn: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "fileTooLarge": "Bestand is groter dan de limiet van 20 MB. Huidige grootte: {{size}} MB",
+      "dimensionsTooSmall": "Afbeelding is te klein. Het minimumformaat is 100x100 pixels.",
+      "dimensionsTooLarge": "Afbeelding is te groot. Het maximumformaat is 5000x5000 pixels.",
+      "invalidImage": "Ongeldig afbeeldingsbestand",
+      "previewUnavailable": "Deze preview is niet meer beschikbaar. Maak een nieuwe preview."
     },
     "consent": {
-      "photosConsent": "I consent to the secure processing of these photos solely for creating the personalized storybook. Photos will be deleted after 24 hours if I do not save the preview by providing my email and after 1 year even if I do save the preview. I understand I can withdraw consent at any time by contacting support@imagitime.com"
+      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto's, uitsluitend voor het maken van het gepersonaliseerde verhalenboek. De foto's worden na 24 uur verwijderd als ik de preview niet opsla door mijn e-mailadres op te geven, en na 1 jaar ook als ik de preview wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
     "headings": {
-      "uploadRecent": "Upload recent photos of {{name}}"
+      "uploadRecent": "Upload recente foto's van {{name}}"
     }
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Upload {{minCount}} to {{maxCount}} photos of {{name}}"
+      "uploadPhotos": "Upload {{minCount}} tot {{maxCount}} foto's van {{name}}"
     }
   },
   "UploadMorePhotos": {
     "headings": {
-      "uploadMore": "Upload more photos of {{name}}"
+      "uploadMore": "Upload meer foto's van {{name}}"
     }
   },
   "UploadAnotherPhoto": {
     "headings": {
-      "uploadAnother": "Upload another photo of {{name}}"
+      "uploadAnother": "Upload nog een foto van {{name}}"
     }
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "{{name}}'s Book Preview"
+      "pageTitle": "Boekpreview van {{name}}"
     },
-    "morePhotosQuestion": "Want to improve the preview?",
-    "differentPhotoQuestion": "Want to try a different photo?",
-    "editPagesQuestion": "Want to edit page selection or add photos?",
+    "morePhotosQuestion": "Wil je de preview verbeteren?",
+    "differentPhotoQuestion": "Wil je een andere foto proberen?",
+    "editPagesQuestion": "Wil je je paginaselectie aanpassen of foto's toevoegen?",
     "buttons": {
-      "editPageSelection": "Edit Page Selection",
-      "generateMoreOptions": "Generate More Options",
-      "uploadMorePhotos": "To Enhance: Upload More Photos",
-      "emailPreview": "Email Me The Preview Instead",
-      "savePreview": "Save Preview & Show Price",
-      "changePicture": "Change Picture",
-      "change": "Change",
-      "createSimilar": "Create Similar",
-      "buyDedication": "Buy Customized Dedication",
-      "editDedication": "Edit Dedication Message",
-      "approveForPrinting": "Approve For Printing",
-      "reapproveForPrinting": "Re-approve For Printing",
-      "uploadAnother": "Upload Another Photo",
-      "addMore": "Add More Photos",
-      "generateFromOtherPhotos": "Generate From Other Photos",
-      "downloadPdf": "Download PDF"
+      "editPageSelection": "Paginaselectie bewerken",
+      "generateMoreOptions": "Meer opties genereren",
+      "uploadMorePhotos": "Voor een beter resultaat: meer foto's uploaden",
+      "emailPreview": "Mail mij de preview",
+      "savePreview": "Preview opslaan en prijs tonen",
+      "changePicture": "Afbeelding wijzigen",
+      "change": "Wijzigen",
+      "createSimilar": "Soortgelijke maken",
+      "buyDedication": "Persoonlijke boodschap kopen",
+      "editDedication": "Persoonlijke boodschap bewerken",
+      "approveForPrinting": "Goedkeuren voor het drukken",
+      "reapproveForPrinting": "Opnieuw goedkeuren voor het drukken",
+      "uploadAnother": "Nog een foto uploaden",
+      "addMore": "Meer foto's toevoegen",
+      "generateFromOtherPhotos": "Met andere foto's genereren",
+      "downloadPdf": "PDF downloaden"
     },
     "noUsablePhotos": {
-      "heading": "No Usable Photos",
-      "text": "We were unable to use any of your uploaded photos in the story preview due to one or more of the following reasons:",
+      "heading": "Geen bruikbare foto's",
+      "text": "We konden geen van je geüploade foto's gebruiken voor de preview van het verhaal, om een of meer van de volgende redenen:",
       "reasons": {
-        "multiplePeople": "Multiple people present in the photo",
-        "faceEdges": "Face or hair intersecting the edges",
-        "blurry": "Blurry photo quality",
-        "obstruction": "Something obstructing the face"
+        "multiplePeople": "Er staan meerdere personen op de foto",
+        "faceEdges": "Gezicht of haar raakt de randen",
+        "blurry": "Wazige fotokwaliteit",
+        "obstruction": "Iets bedekt het gezicht"
       },
-      "uploadPrompt": "Please use the \"Upload More Photos\" button to add suitable images.",
-      "uploadMorePhotos": "Upload More Photos"
+      "uploadPrompt": "Gebruik de knop \"Meer foto's uploaden\" om geschikte foto's toe te voegen.",
+      "uploadMorePhotos": "Meer foto's uploaden"
     },
     "page": {
-      "number": "Page {{number}}",
-      "loading": "Loading image for page {{number}}",
-      "generating": "Generating options for page {{number}}",
-      "generatingMoreOptions": "Generating More Options",
-      "generatingTime": "Takes around 60 seconds",
-      "waiting": "Waiting to load page {{number}}"
+      "number": "Pagina {{number}}",
+      "loading": "Afbeelding voor pagina {{number}} wordt geladen",
+      "generating": "Opties voor pagina {{number}} worden gegenereerd",
+      "generatingMoreOptions": "Meer opties worden gegenereerd",
+      "generatingTime": "Duurt ongeveer 60 seconden",
+      "waiting": "Wachten op het laden van pagina {{number}}"
     },
     "instructions": {
-      "instruction1": "Pages get shown one below the other",
-      "instruction2": "Swipe and leave each page at the option you like best",
-      "postOrderInstructions1": "Press 'Change Picture' button to swipe to alternative choices for a page",
-      "postOrderInstructions2": "Once you're satisfied with all pages, press the \"Approve For Printing\" button",
-      "postOrderSwipeInstructions1": "Swipe among the page choices and bring each page to the option you like",
-      "postOrderSwipeInstructions2": "Once all pages are finalized, press the \"Approve For Printing\" button",
-      "fixedInstructions1": "The pages will get shown one below the other",
-      "fixedInstructions2": "Press 'Change Picture' button to swipe to alternative choices for a page"
+      "instruction1": "De pagina's worden onder elkaar getoond",
+      "instruction2": "Veeg en laat elke pagina op de optie staan die je het mooist vindt",
+      "postOrderInstructions1": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te vegen",
+      "postOrderInstructions2": "Als je tevreden bent met alle pagina's, druk je op de knop \"Goedkeuren voor het drukken\"",
+      "postOrderSwipeInstructions1": "Veeg door de pagina-opties en zet elke pagina op de optie die je het mooist vindt",
+      "postOrderSwipeInstructions2": "Als alle pagina's klaar zijn, druk je op de knop \"Goedkeuren voor het drukken\"",
+      "fixedInstructions1": "De pagina's worden onder elkaar getoond",
+      "fixedInstructions2": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te vegen"
     },
     "status": {
-      "deleted": "The generated book as well as uploaded photos have been deleted and are no longer available.",
-      "support": "Queries? Write to support@imagitime.com",
-      "cancelled": "This order has been cancelled.",
-      "printing": "This book has already been sent for printing.",
-      "shipped": "This book has been shipped on {{date}}<br>Shipping Carrier: {{carrier}}<br>Tracking Code: {{tracking}}",
-      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for printing.",
-      "pdfPendingNotice": "Your digital PDF copy will be emailed to you once your book is approved and sent for printing."
+      "deleted": "Het gegenereerde boek en de geüploade foto's zijn verwijderd en niet meer beschikbaar.",
+      "support": "Vragen? Mail naar support@imagitime.com",
+      "cancelled": "Deze bestelling is geannuleerd.",
+      "printing": "Dit boek is al naar de drukker gestuurd.",
+      "shipped": "Dit boek is verzonden op {{date}}<br>Vervoerder: {{carrier}}<br>Trackingcode: {{tracking}}",
+      "reprintSupportInstruction": "Beantwoord de e-mail die je hebt ontvangen van <strong>{{supportEmail}}</strong> om dit boek te laten drukken.",
+      "pdfPendingNotice": "Je digitale PDF-kopie wordt naar je gemaild zodra je boek is goedgekeurd en naar de drukker is gestuurd."
     },
     "timer": {
-      "message": "Creating {{name}}'s Book..."
+      "message": "Het boek van {{name}} wordt gemaakt..."
     },
     "notification": {
-      "heading": "Don’t have time to wait?"
+      "heading": "Geen tijd om te wachten?"
     },
-    "scrollIndicator": "Scroll down to see all pages",
+    "scrollIndicator": "Scroll naar beneden om alle pagina's te zien",
     "timeRemaining": {
-      "lessThan": "Less than <strong>{{time}}</strong> remaining to load {{name}}'s book"
+      "lessThan": "Nog minder dan <strong>{{time}}</strong> om het boek van {{name}} te laden"
     },
     "timeUnits": {
       "minute": "{{count}} min",
@@ -244,77 +244,77 @@
     "testimonials": {
       "child": [
         {
-          "text": "\"Never seen my daughter's eyes light up like that for any gift I have ever given her.\"",
+          "text": "\"Nog nooit zag ik de ogen van mijn dochter zo stralen om een cadeau dat ik haar ooit heb gegeven.\"",
           "author": "Ashley S"
         },
         {
-          "text": "\"OBSESSED! The quality, the illustrations, the story- all of it!\"",
+          "text": "\"HELEMAAL VERSLINGERD! De kwaliteit, de illustraties, het verhaal – alles!\"",
           "author": "Kristen"
         },
         {
-          "text": "\"My son was absolutely fascinated by the story and himself being the main character.\"",
+          "text": "\"Mijn zoon was helemaal gefascineerd door het verhaal en doordat hij zelf de hoofdpersoon was.\"",
           "author": "Teddy"
         },
         {
-          "text": "\"Amazing, unique product - customer service OUTSTANDING - will now be my go to gift.\"",
+          "text": "\"Geweldig, uniek product – klantenservice UITMUNTEND – wordt voortaan mijn vaste cadeau.\"",
           "author": "Ellie"
         },
         {
-          "text": "\"It's a keepsake. This also makes for a really amazing personalized gift for my friends kids.\"",
+          "text": "\"Het is een dierbaar aandenken. Het is ook een echt fantastisch gepersonaliseerd cadeau voor de kinderen van mijn vrienden.\"",
           "author": "Ritika"
         },
         {
-          "text": "\"This is the best gift one can give to their kids!\"",
+          "text": "\"Dit is het mooiste cadeau dat je je kinderen kunt geven!\"",
           "author": "SNJ"
         },
         {
-          "text": "\"Very simple to put together. An excellent quality of the finished book.\"",
+          "text": "\"Heel eenvoudig samen te stellen. Het afgewerkte boek is van uitstekende kwaliteit.\"",
           "author": "Anna"
         },
         {
-          "text": "\"I have ordered 4 books and the experience has been par excellence.\"",
+          "text": "\"Ik heb 4 boeken besteld en de ervaring was uitstekend.\"",
           "author": "Surbhi K."
         },
         {
-          "text": "\"This is a fabulous quality beautiful book. It's worth the money and a Lovely present.\"",
+          "text": "\"Dit is een prachtig boek van fantastische kwaliteit. Het is zijn geld waard en een heerlijk cadeau.\"",
           "author": "Gill"
         }
       ],
       "adult": [
         {
-          "text": "\"My girlfriend was completely overwhelmed with happiness. This is a keepsake for life.\"",
+          "text": "\"Mijn vriendin was helemaal overweldigd van geluk. Dit is een aandenken voor het leven.\"",
           "author": "Liam D"
         },
         {
-          "text": "\"This is a fabulous quality beautiful book. Its worth the money and a Lovely present.\"",
+          "text": "\"Dit is een prachtig boek van fantastische kwaliteit. Het is zijn geld waard en een heerlijk cadeau.\"",
           "author": "Gill"
         },
         {
-          "text": "\"I wanted to give him something unique, and this book captured everything he means to me.\"",
+          "text": "\"Ik wilde hem iets unieks geven, en dit boek ving alles wat hij voor me betekent.\"",
           "author": "Olivia K"
         },
         {
-          "text": "\"Good experience from start to finish. Very pleased and would recommend this company.\"",
+          "text": "\"Een goede ervaring van begin tot eind. Heel tevreden en ik zou dit bedrijf aanbevelen.\"",
           "author": "A Daly"
         },
         {
-          "text": "\"I just received my order. I love the book!!! The quality is exquisite and their customer service is great.\"",
+          "text": "\"Ik heb mijn bestelling net ontvangen. Ik ben dol op het boek!!! De kwaliteit is verfijnd en de klantenservice is geweldig.\"",
           "author": "Victorina P"
         },
         {
-          "text": "\"My boyfriend said he didnt think I noticed all these little things about him. This book meant the world to him.\"",
+          "text": "\"Mijn vriend zei dat hij niet dacht dat ik al die kleine dingen aan hem opmerkte. Dit boek betekende de wereld voor hem.\"",
           "author": "Amelia R"
         },
         {
-          "text": "\"The book is beautifully done and the customer experience has been par excellence.\"",
+          "text": "\"Het boek is prachtig gemaakt en de klantervaring was uitstekend.\"",
           "author": "Janice"
         },
         {
-          "text": "\"She kept smiling and saying, 'This is so me!' It was the perfect gift.\"",
+          "text": "\"Ze bleef maar glimlachen en zeggen: 'Dit ben ik echt!' Het was het perfecte cadeau.\"",
           "author": "Michael T"
         },
         {
-          "text": "\"This book is incredible. The pictures were so realistic looking that Amy was left speechless.\"",
+          "text": "\"Dit boek is ongelofelijk. De afbeeldingen zagen er zo realistisch uit dat Amy met stomheid geslagen was.\"",
           "author": "Jake C"
         }
       ]
@@ -322,44 +322,44 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Where should we send {{name}}'s book preview?"
+      "whereToSend": "Waar sturen we de boekpreview van {{name}} naartoe?"
     },
     "labels": {
-      "email": "Email",
-      "yourName": "Your Name"
+      "email": "E-mail",
+      "yourName": "Je naam"
     },
     "subscription": {
-      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
-      "yes": "Yes, I'd love that",
-      "no": "No, thanks"
+      "question": "Wil je 10% directe korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
+      "yes": "Ja, graag!",
+      "no": "Nee, bedankt"
     },
     "buttons": {
-      "sendPreview": "Send Me The Preview"
+      "sendPreview": "Stuur mij de preview"
     },
     "thankYou": {
-      "heading": "Thank You!",
-      "message": "We've received your request. We'll send you the book preview once it is ready.",
-      "explore": "Meanwhile, you can <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explore Other Books</b></a> we have."
+      "heading": "Bedankt!",
+      "message": "We hebben je aanvraag ontvangen. We sturen je de boekpreview zodra die klaar is.",
+      "explore": "Ondertussen kun je <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>onze andere boeken ontdekken</b></a>."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Email {{name}}'s preview link & show price of printed book"
+      "emailPreview": "Mail de previewlink van {{name}} en toon de prijs van het gedrukte boek"
     },
     "labels": {
-      "email": "Email",
-      "yourName": "Your Name"
+      "email": "E-mail",
+      "yourName": "Je naam"
     },
     "descriptions": {
-      "email": "We'll email you the preview link."
+      "email": "We mailen je de previewlink."
     },
     "subscription": {
-      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
-      "yes": "Yes, I'd love that",
-      "no": "No, I'll pay full price"
+      "question": "Wil je 10% directe korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
+      "yes": "Ja, graag!",
+      "no": "Nee, ik betaal de volle prijs"
     },
     "buttons": {
-      "savePreview": "Save Preview & Show Price"
+      "savePreview": "Preview opslaan en prijs tonen"
     }
   },
   "InterestedPage": {
