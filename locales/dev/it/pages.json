@@ -1,239 +1,239 @@
 {
   "InitialForm": {
     "headings": {
-      "whoToMakeBookFor": "Who would you like to make the book for?",
-      "createYourChildsBookNow": "Create Your Child's Book Now"
+      "whoToMakeBookFor": "Per chi vuoi creare il libro?",
+      "createYourChildsBookNow": "Crea ora il libro del tuo bambino/a"
     },
     "labels": {
-      "childName": "Child's First Name For Story",
-      "childAge": "Select Current Age",
-      "birthMonth": "Select Birth Month",
-      "adultName": "First Name",
-      "bodyType": "Select Their Body Type",
-      "adultAge": "Select Age",
-      "giverName": "Giver's Name (Your Name)",
-      "kidCallsYou": "What does the kid call you?",
-      "kidCallsMommy": "What do they call their Mommy? (e.g. Mom, Mama, Mommy)",
-      "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
-      "language": "Language",
-      "relationshipToChild": "What is your relationship to the child?",
-      "consentSectionHeader": "We take child privacy seriously"
+      "childName": "Nome del bambino/a per la storia",
+      "childAge": "Seleziona l'età attuale",
+      "birthMonth": "Seleziona il mese di nascita",
+      "adultName": "Nome",
+      "bodyType": "Seleziona la corporatura",
+      "adultAge": "Seleziona l'età",
+      "giverName": "Nome di chi regala il libro (il tuo nome)",
+      "kidCallsYou": "Come ti chiama il bambino/a?",
+      "kidCallsMommy": "Come chiama la sua mamma? (es. Mamma, Mami, Mammina)",
+      "kidCallsDaddy": "Come chiama il suo papà? (es. Papà, Papi, Babbo)",
+      "language": "Lingua",
+      "relationshipToChild": "Qual è il tuo rapporto con il bambino/a?",
+      "consentSectionHeader": "Prendiamo sul serio la privacy dei bambini"
     },
     "experiment": {
-      "title": "Who is this book for?",
-      "bookIn": "Book in",
-      "childNameExp": "Child's name",
-      "genderExp": "Gender",
-      "ageExp": "Age",
-      "relationshipLabel": "Relationship",
-      "birthMonthExp": "Birth month",
-      "childNamePlaceholder": "e.g. Emma",
-      "adultNamePlaceholder": "e.g. Sarah",
-      "giverNamePlaceholder": "e.g. John",
-      "kidCallsYouPlaceholder": "e.g. Mama"
+      "title": "Per chi è questo libro?",
+      "bookIn": "Libro in",
+      "childNameExp": "Nome del bambino/a",
+      "genderExp": "Genere",
+      "ageExp": "Età",
+      "relationshipLabel": "Rapporto",
+      "birthMonthExp": "Mese di nascita",
+      "childNamePlaceholder": "es. Emma",
+      "adultNamePlaceholder": "es. Sara",
+      "giverNamePlaceholder": "es. Marco",
+      "kidCallsYouPlaceholder": "es. Mamma"
     },
     "relationshipOptions": {
-      "default": "Please select your relationship",
-      "parentGuardian": "Parent/Guardian",
-      "grandparent": "Grandparent",
-      "auntUncle": "Aunt/Uncle",
-      "familyFriend": "Family Friend",
-      "other": "Other"
+      "default": "Seleziona il tuo rapporto",
+      "parentGuardian": "Genitore/Tutore legale",
+      "grandparent": "Nonno/Nonna",
+      "auntUncle": "Zia/Zio",
+      "familyFriend": "Amico/a di famiglia",
+      "other": "Altro"
     },
     "genderOptions": {
-      "boy": "Boy",
-      "girl": "Girl",
-      "masculine": "Masculine",
-      "feminine": "Feminine"
+      "boy": "Bambino",
+      "girl": "Bambina",
+      "masculine": "Maschile",
+      "feminine": "Femminile"
     },
     "buttons": {
-      "nextStep": "Next Step ➔ Upload Photos"
+      "nextStep": "Passo successivo ➔ Carica le foto"
     },
     "validation": {
-      "tooLongForBook": "That's too long for the book.",
-      "selectRelationship": "Please select your relationship to the child.",
-      "consentRequired": "You must provide consent to proceed."
+      "tooLongForBook": "È troppo lungo per il libro.",
+      "selectRelationship": "Seleziona il tuo rapporto con il bambino/a.",
+      "consentRequired": "Devi dare il consenso per continuare."
     },
     "consent": {
-      "defaultConsentText": "[Please select your relationship to the child above to see the appropriate consent message]",
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
-      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy'>Privacy Policy</a>."
+      "defaultConsentText": "[Seleziona qui sopra il tuo rapporto con il bambino/a per visualizzare il messaggio di consenso appropriato]",
+      "parentGuardianText": "Confermo di essere il genitore o il tutore legale di questo bambino/a, di avere più di 18 anni e di acconsentire a fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con la <a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
+      "otherRelationshipText": "Confermo di avere più di 18 anni e di avere il permesso del genitore o del tutore del bambino/a per fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con la <a href='/policies/privacy-policy'>Informativa sulla privacy</a>."
     },
     "months": {
-      "january": "January",
-      "february": "February",
-      "march": "March",
-      "april": "April",
-      "may": "May",
-      "june": "June",
-      "july": "July",
-      "august": "August",
-      "september": "September",
-      "october": "October",
-      "november": "November",
-      "december": "December"
+      "january": "Gennaio",
+      "february": "Febbraio",
+      "march": "Marzo",
+      "april": "Aprile",
+      "may": "Maggio",
+      "june": "Giugno",
+      "july": "Luglio",
+      "august": "Agosto",
+      "september": "Settembre",
+      "october": "Ottobre",
+      "november": "Novembre",
+      "december": "Dicembre"
     },
     "ageRecommendation": {
-      "betterFitTitle": "We've got a better fit",
-      "recommendationText": "For age {{age}} {{genderPlural}}, we suggest <b>{{bookName}}</b>.",
-      "switchButtonText": "Switch to this book",
-      "makingBookText": "Making {{bookName}}"
+      "betterFitTitle": "Il nostro consiglio",
+      "recommendationText": "Per {{genderPlural}} di {{age}} anni, consigliamo <b>{{bookName}}</b>.",
+      "switchButtonText": "Passa a questo libro",
+      "makingBookText": "Creazione di {{bookName}}"
     }
   },
   "UploadCommon": {
     "headings": {
-      "lastStep": "Last Step",
-      "uploadMore": "Upload more photos of {{name}}",
-      "uploadAnother": "Upload another photo of {{name}}"
+      "lastStep": "Ultimo passo",
+      "uploadMore": "Carica altre foto di {{name}}",
+      "uploadAnother": "Carica un'altra foto di {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Solo Photos Only",
+      "soloPhotos": "Solo foto singole",
       "facingCamera": {
-        "child": "Child should be <strong>facing the camera</strong>",
-        "person": "Person should be <strong>facing the camera</strong>"
+        "child": "Il bambino/a deve <strong>guardare verso la fotocamera</strong>",
+        "person": "La persona deve <strong>guardare verso la fotocamera</strong>"
       },
-      "frontFacingSmiling": "Front Facing & Smiling",
-      "noSunglassesCap": "No Sunglasses, No Cap",
-      "noPacifierCap": "No Pacifier, No Cap",
-      "noOneElse": "<strong>No one else</strong> should be in the picture",
-      "faceEdges": "Face & hair should <strong>not touch the edges</strong>",
-      "noObstructions": "Hands or objects should <strong>not obstruct the face</strong>"
+      "frontFacingSmiling": "Di fronte e sorridente",
+      "noSunglassesCap": "Niente occhiali da sole, niente cappello",
+      "noPacifierCap": "Niente ciuccio, niente cappello",
+      "noOneElse": "<strong>Nessun altro</strong> deve comparire nella foto",
+      "faceEdges": "Viso e capelli non devono <strong>toccare i bordi</strong>",
+      "noObstructions": "Mani o oggetti non devono <strong>coprire il viso</strong>"
     },
     "photoRequirements": {
       "minimum": {
-        "regular": "Minimum 2 Photos required for preview",
-        "career": "At least 5 photos required for preview"
+        "regular": "Servono almeno 2 foto per l'anteprima",
+        "career": "Servono almeno 5 foto per l'anteprima"
       },
       "recommended": {
-        "range": "2 to 4 photos",
-        "careerBook": "5 minimum, 15 recommended"
+        "range": "Da 2 a 4 foto",
+        "careerBook": "Minimo 5, consigliate 15"
       }
     },
     "qualityGuidelines": {
-      "highQuality": "High quality, not blurry",
-      "soloOnly": "Solo photos only"
+      "highQuality": "Alta qualità, non sfocate",
+      "soloOnly": "Solo foto singole"
     },
     "privacy": {
-      "standard": "We follow strict data privacy standards.",
-      "confidential": "The photos are kept confidential and are only for crafting the personalised book."
+      "standard": "Rispettiamo rigorosi standard di privacy dei dati.",
+      "confidential": "Le foto restano riservate e vengono usate solo per creare il libro personalizzato."
     },
     "buttons": {
-      "finishedUploading": "Finished Uploading",
-      "uploadPhotos": "Upload Photos",
-      "choosePhoto": "Choose Photo",
-      "showPreview": "Show {{name}}'s Book Preview",
-      "lastStepPages": "Last Step: Select Pages"
+      "finishedUploading": "Caricamento completato",
+      "uploadPhotos": "Carica le foto",
+      "choosePhoto": "Scegli foto",
+      "showPreview": "Mostra l'anteprima del libro di {{name}}",
+      "lastStepPages": "Ultimo passo: Seleziona le pagine"
     },
     "uploadOptions": {
-      "gallery": "Choose from Gallery",
-      "camera": "Take Photo",
-      "cancel": "Cancel"
+      "gallery": "Scegli dalla galleria",
+      "camera": "Scatta una foto",
+      "cancel": "Annulla"
     },
     "errors": {
-      "invalidType": "Invalid file type. Allowed types are: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
-      "fileTooLarge": "File size exceeds 20MB limit. Current size: {{size}}MB",
-      "dimensionsTooSmall": "Image dimensions too small. Minimum size is 100x100 pixels.",
-      "dimensionsTooLarge": "Image dimensions too large. Maximum size is 5000x5000 pixels.",
-      "invalidImage": "Invalid image file",
-      "previewUnavailable": "This preview is no longer available. Please create a new preview."
+      "invalidType": "Tipo di file non valido. I formati consentiti sono: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "fileTooLarge": "Il file supera il limite di 20MB. Dimensione attuale: {{size}}MB",
+      "dimensionsTooSmall": "Dimensioni dell'immagine troppo piccole. La dimensione minima è 100x100 pixel.",
+      "dimensionsTooLarge": "Dimensioni dell'immagine troppo grandi. La dimensione massima è 5000x5000 pixel.",
+      "invalidImage": "File immagine non valido",
+      "previewUnavailable": "Questa anteprima non è più disponibile. Crea una nuova anteprima."
     },
     "consent": {
-      "photosConsent": "I consent to the secure processing of these photos solely for creating the personalized storybook. Photos will be deleted after 24 hours if I do not save the preview by providing my email and after 1 year even if I do save the preview. I understand I can withdraw consent at any time by contacting support@imagitime.com"
+      "photosConsent": "Acconsento al trattamento sicuro di queste foto esclusivamente per la creazione del libro di fiabe personalizzato. Le foto verranno eliminate dopo 24 ore se non salvo l'anteprima fornendo la mia email e dopo 1 anno anche se salvo l'anteprima. Sono consapevole di poter revocare il consenso in qualsiasi momento contattando support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
     "headings": {
-      "uploadRecent": "Upload recent photos of {{name}}"
+      "uploadRecent": "Carica foto recenti di {{name}}"
     }
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Upload {{minCount}} to {{maxCount}} photos of {{name}}"
+      "uploadPhotos": "Carica da {{minCount}} a {{maxCount}} foto di {{name}}"
     }
   },
   "UploadMorePhotos": {
     "headings": {
-      "uploadMore": "Upload more photos of {{name}}"
+      "uploadMore": "Carica altre foto di {{name}}"
     }
   },
   "UploadAnotherPhoto": {
     "headings": {
-      "uploadAnother": "Upload another photo of {{name}}"
+      "uploadAnother": "Carica un'altra foto di {{name}}"
     }
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "{{name}}'s Book Preview"
+      "pageTitle": "Anteprima del libro di {{name}}"
     },
-    "morePhotosQuestion": "Want to improve the preview?",
-    "differentPhotoQuestion": "Want to try a different photo?",
-    "editPagesQuestion": "Want to edit page selection or add photos?",
+    "morePhotosQuestion": "Vuoi migliorare l'anteprima?",
+    "differentPhotoQuestion": "Vuoi provare con un'altra foto?",
+    "editPagesQuestion": "Vuoi modificare la selezione delle pagine o aggiungere foto?",
     "buttons": {
-      "editPageSelection": "Edit Page Selection",
-      "generateMoreOptions": "Generate More Options",
-      "uploadMorePhotos": "To Enhance: Upload More Photos",
-      "emailPreview": "Email Me The Preview Instead",
-      "savePreview": "Save Preview & Show Price",
-      "changePicture": "Change Picture",
-      "change": "Change",
-      "createSimilar": "Create Similar",
-      "buyDedication": "Buy Customized Dedication",
-      "editDedication": "Edit Dedication Message",
-      "approveForPrinting": "Approve For Printing",
-      "reapproveForPrinting": "Re-approve For Printing",
-      "uploadAnother": "Upload Another Photo",
-      "addMore": "Add More Photos",
-      "generateFromOtherPhotos": "Generate From Other Photos",
-      "downloadPdf": "Download PDF"
+      "editPageSelection": "Modifica selezione pagine",
+      "generateMoreOptions": "Genera altre opzioni",
+      "uploadMorePhotos": "Per migliorare: Carica altre foto",
+      "emailPreview": "Inviami l'anteprima via email",
+      "savePreview": "Salva l'anteprima e mostra il prezzo",
+      "changePicture": "Cambia immagine",
+      "change": "Cambia",
+      "createSimilar": "Crea simile",
+      "buyDedication": "Acquista dedica personalizzata",
+      "editDedication": "Modifica il messaggio della dedica",
+      "approveForPrinting": "Approva per la stampa",
+      "reapproveForPrinting": "Approva di nuovo per la stampa",
+      "uploadAnother": "Carica un'altra foto",
+      "addMore": "Aggiungi altre foto",
+      "generateFromOtherPhotos": "Genera da altre foto",
+      "downloadPdf": "Scarica PDF"
     },
     "noUsablePhotos": {
-      "heading": "No Usable Photos",
-      "text": "We were unable to use any of your uploaded photos in the story preview due to one or more of the following reasons:",
+      "heading": "Nessuna foto utilizzabile",
+      "text": "Non siamo riusciti a usare nessuna delle foto che hai caricato per l'anteprima della storia per uno o più dei seguenti motivi:",
       "reasons": {
-        "multiplePeople": "Multiple people present in the photo",
-        "faceEdges": "Face or hair intersecting the edges",
-        "blurry": "Blurry photo quality",
-        "obstruction": "Something obstructing the face"
+        "multiplePeople": "Nella foto sono presenti più persone",
+        "faceEdges": "Viso o capelli che toccano i bordi",
+        "blurry": "Foto sfocata",
+        "obstruction": "Qualcosa copre il viso"
       },
-      "uploadPrompt": "Please use the \"Upload More Photos\" button to add suitable images.",
-      "uploadMorePhotos": "Upload More Photos"
+      "uploadPrompt": "Usa il pulsante «Carica altre foto» per aggiungere immagini adatte.",
+      "uploadMorePhotos": "Carica altre foto"
     },
     "page": {
-      "number": "Page {{number}}",
-      "loading": "Loading image for page {{number}}",
-      "generating": "Generating options for page {{number}}",
-      "generatingMoreOptions": "Generating More Options",
-      "generatingTime": "Takes around 60 seconds",
-      "waiting": "Waiting to load page {{number}}"
+      "number": "Pagina {{number}}",
+      "loading": "Caricamento dell'immagine per la pagina {{number}}",
+      "generating": "Generazione delle opzioni per la pagina {{number}}",
+      "generatingMoreOptions": "Generazione di altre opzioni",
+      "generatingTime": "Richiede circa 60 secondi",
+      "waiting": "In attesa del caricamento della pagina {{number}}"
     },
     "instructions": {
-      "instruction1": "Pages get shown one below the other",
-      "instruction2": "Swipe and leave each page at the option you like best",
-      "postOrderInstructions1": "Press 'Change Picture' button to swipe to alternative choices for a page",
-      "postOrderInstructions2": "Once you're satisfied with all pages, press the \"Approve For Printing\" button",
-      "postOrderSwipeInstructions1": "Swipe among the page choices and bring each page to the option you like",
-      "postOrderSwipeInstructions2": "Once all pages are finalized, press the \"Approve For Printing\" button",
-      "fixedInstructions1": "The pages will get shown one below the other",
-      "fixedInstructions2": "Press 'Change Picture' button to swipe to alternative choices for a page"
+      "instruction1": "Le pagine vengono mostrate una sotto l'altra",
+      "instruction2": "Scorri e lascia ogni pagina sull'opzione che preferisci",
+      "postOrderInstructions1": "Premi il pulsante «Cambia immagine» per scorrere le alternative di una pagina",
+      "postOrderInstructions2": "Quando tutte le pagine ti soddisfano, premi il pulsante «Approva per la stampa»",
+      "postOrderSwipeInstructions1": "Scorri tra le opzioni e porta ogni pagina su quella che preferisci",
+      "postOrderSwipeInstructions2": "Quando tutte le pagine sono definitive, premi il pulsante «Approva per la stampa»",
+      "fixedInstructions1": "Le pagine verranno mostrate una sotto l'altra",
+      "fixedInstructions2": "Premi il pulsante «Cambia immagine» per scorrere le alternative di una pagina"
     },
     "status": {
-      "deleted": "The generated book as well as uploaded photos have been deleted and are no longer available.",
-      "support": "Queries? Write to support@imagitime.com",
-      "cancelled": "This order has been cancelled.",
-      "printing": "This book has already been sent for printing.",
-      "shipped": "This book has been shipped on {{date}}<br>Shipping Carrier: {{carrier}}<br>Tracking Code: {{tracking}}",
-      "reprintSupportInstruction": "Please reply to the email you received from <strong>{{supportEmail}}</strong> to give this book for printing.",
-      "pdfPendingNotice": "Your digital PDF copy will be emailed to you once your book is approved and sent for printing."
+      "deleted": "Il libro generato e le foto caricate sono stati eliminati e non sono più disponibili.",
+      "support": "Domande? Scrivi a support@imagitime.com",
+      "cancelled": "Questo ordine è stato annullato.",
+      "printing": "Questo libro è già stato inviato in stampa.",
+      "shipped": "Questo libro è stato spedito il {{date}}<br>Corriere: {{carrier}}<br>Codice di tracciamento: {{tracking}}",
+      "reprintSupportInstruction": "Rispondi all'email che hai ricevuto da <strong>{{supportEmail}}</strong> per mandare questo libro in stampa.",
+      "pdfPendingNotice": "La tua copia digitale in PDF ti verrà inviata via email una volta che il libro sarà approvato e inviato in stampa."
     },
     "timer": {
-      "message": "Creating {{name}}'s Book..."
+      "message": "Stiamo creando il libro di {{name}}..."
     },
     "notification": {
-      "heading": "Don’t have time to wait?"
+      "heading": "Non hai tempo di aspettare?"
     },
-    "scrollIndicator": "Scroll down to see all pages",
+    "scrollIndicator": "Scorri verso il basso per vedere tutte le pagine",
     "timeRemaining": {
-      "lessThan": "Less than <strong>{{time}}</strong> remaining to load {{name}}'s book"
+      "lessThan": "Manca meno di <strong>{{time}}</strong> per caricare il libro di {{name}}"
     },
     "timeUnits": {
       "minute": "{{count}} min",
@@ -244,77 +244,77 @@
     "testimonials": {
       "child": [
         {
-          "text": "\"Never seen my daughter's eyes light up like that for any gift I have ever given her.\"",
+          "text": "«Non avevo mai visto gli occhi di mia figlia illuminarsi così per nessun regalo che le abbia mai fatto.»",
           "author": "Ashley S"
         },
         {
-          "text": "\"OBSESSED! The quality, the illustrations, the story- all of it!\"",
+          "text": "«PAZZESCO! La qualità, le illustrazioni, la storia... tutto quanto!»",
           "author": "Kristen"
         },
         {
-          "text": "\"My son was absolutely fascinated by the story and himself being the main character.\"",
+          "text": "«Mio figlio è rimasto affascinato dalla storia e dal fatto di esserne il protagonista.»",
           "author": "Teddy"
         },
         {
-          "text": "\"Amazing, unique product - customer service OUTSTANDING - will now be my go to gift.\"",
+          "text": "«Prodotto straordinario e unico, servizio clienti ECCEZIONALE: d'ora in poi sarà il mio regalo di riferimento.»",
           "author": "Ellie"
         },
         {
-          "text": "\"It's a keepsake. This also makes for a really amazing personalized gift for my friends kids.\"",
+          "text": "«È un ricordo da custodire. È anche un fantastico regalo personalizzato per i figli dei miei amici.»",
           "author": "Ritika"
         },
         {
-          "text": "\"This is the best gift one can give to their kids!\"",
+          "text": "«È il regalo più bello che si possa fare ai propri figli!»",
           "author": "SNJ"
         },
         {
-          "text": "\"Very simple to put together. An excellent quality of the finished book.\"",
+          "text": "«Davvero semplice da creare. Il libro finito è di qualità eccellente.»",
           "author": "Anna"
         },
         {
-          "text": "\"I have ordered 4 books and the experience has been par excellence.\"",
+          "text": "«Ho ordinato 4 libri e l'esperienza è stata impeccabile.»",
           "author": "Surbhi K."
         },
         {
-          "text": "\"This is a fabulous quality beautiful book. It's worth the money and a Lovely present.\"",
+          "text": "«Un libro bellissimo e di qualità favolosa. Vale ogni centesimo ed è un regalo adorabile.»",
           "author": "Gill"
         }
       ],
       "adult": [
         {
-          "text": "\"My girlfriend was completely overwhelmed with happiness. This is a keepsake for life.\"",
+          "text": "«La mia ragazza è stata travolta dalla felicità. È un ricordo per tutta la vita.»",
           "author": "Liam D"
         },
         {
-          "text": "\"This is a fabulous quality beautiful book. Its worth the money and a Lovely present.\"",
+          "text": "«Un libro bellissimo e di qualità favolosa. Vale ogni centesimo ed è un regalo adorabile.»",
           "author": "Gill"
         },
         {
-          "text": "\"I wanted to give him something unique, and this book captured everything he means to me.\"",
+          "text": "«Volevo regalargli qualcosa di unico, e questo libro ha racchiuso tutto ciò che lui significa per me.»",
           "author": "Olivia K"
         },
         {
-          "text": "\"Good experience from start to finish. Very pleased and would recommend this company.\"",
+          "text": "«Bella esperienza dall'inizio alla fine. Consiglierei questa azienda senza esitazioni.»",
           "author": "A Daly"
         },
         {
-          "text": "\"I just received my order. I love the book!!! The quality is exquisite and their customer service is great.\"",
+          "text": "«Ho appena ricevuto il mio ordine. Adoro il libro!!! La qualità è squisita e il servizio clienti è fantastico.»",
           "author": "Victorina P"
         },
         {
-          "text": "\"My boyfriend said he didnt think I noticed all these little things about him. This book meant the world to him.\"",
+          "text": "«Il mio ragazzo non pensava che notassi tutti quei piccoli dettagli su di lui. Questo libro ha significato tantissimo per lui.»",
           "author": "Amelia R"
         },
         {
-          "text": "\"The book is beautifully done and the customer experience has been par excellence.\"",
+          "text": "«Il libro è realizzato magnificamente e l'esperienza come cliente è stata impeccabile.»",
           "author": "Janice"
         },
         {
-          "text": "\"She kept smiling and saying, 'This is so me!' It was the perfect gift.\"",
+          "text": "«Continuava a sorridere e a dire: \"È proprio da me!\" Era il regalo perfetto.»",
           "author": "Michael T"
         },
         {
-          "text": "\"This book is incredible. The pictures were so realistic looking that Amy was left speechless.\"",
+          "text": "«Questo libro è incredibile. Le immagini erano così realistiche che Amy è rimasta senza parole.»",
           "author": "Jake C"
         }
       ]
@@ -322,44 +322,44 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Where should we send {{name}}'s book preview?"
+      "whereToSend": "Dove inviamo l'anteprima del libro di {{name}}?"
     },
     "labels": {
       "email": "Email",
-      "yourName": "Your Name"
+      "yourName": "Il tuo nome"
     },
     "subscription": {
-      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
-      "yes": "Yes, I'd love that",
-      "no": "No, thanks"
+      "question": "Vuoi un 10% di sconto immediato e l'accesso anticipato alle nuove uscite iscrivendoti alla nostra newsletter?",
+      "yes": "Sì, volentieri!",
+      "no": "No, grazie"
     },
     "buttons": {
-      "sendPreview": "Send Me The Preview"
+      "sendPreview": "Inviami l'anteprima"
     },
     "thankYou": {
-      "heading": "Thank You!",
-      "message": "We've received your request. We'll send you the book preview once it is ready.",
-      "explore": "Meanwhile, you can <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>Explore Other Books</b></a> we have."
+      "heading": "Grazie!",
+      "message": "Abbiamo ricevuto la tua richiesta. Ti invieremo l'anteprima del libro non appena sarà pronta.",
+      "explore": "Nel frattempo, puoi <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>scoprire altri libri</b></a> che offriamo."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Email {{name}}'s preview link & show price of printed book"
+      "emailPreview": "Inviami il link dell'anteprima di {{name}} e mostra il prezzo del libro stampato"
     },
     "labels": {
       "email": "Email",
-      "yourName": "Your Name"
+      "yourName": "Il tuo nome"
     },
     "descriptions": {
-      "email": "We'll email you the preview link."
+      "email": "Ti invieremo il link dell'anteprima via email."
     },
     "subscription": {
-      "question": "Want 10% instant discount and early access to new book releases by joining our email list?",
-      "yes": "Yes, I'd love that",
-      "no": "No, I'll pay full price"
+      "question": "Vuoi un 10% di sconto immediato e l'accesso anticipato alle nuove uscite iscrivendoti alla nostra newsletter?",
+      "yes": "Sì, volentieri!",
+      "no": "No, pagherò il prezzo intero"
     },
     "buttons": {
-      "savePreview": "Save Preview & Show Price"
+      "savePreview": "Salva l'anteprima e mostra il prezzo"
     }
   },
   "InterestedPage": {
