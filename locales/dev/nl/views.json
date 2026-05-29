@@ -2,14 +2,14 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Happy Birthday, ${childName}!\n\nMay you always find joy in little things and continue to shine bright.\n\nLove always, Mom",
-        "Merry Christmas, ${childName}!\n\nMay the joy and warmth of the season be with you throughout the year.\n\nWith all our love, Mom & Dad",
-        "Dedicated to ${childName},\n\nAn amazing kid who dares to dream. May you always find reasons to smile.\n\nWith lots of love, Grandma & Grandpa",
-        "Dear ${childName},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad",
-        "Dearest ${childName},\n\nIn the vast sky of life, always be the brightest star. We're so proud to call you ours.\n\nLove, Uncle & Aunt",
-        "${childName}, with each year, you shine even brighter.\n\nMay your days be filled with laughter, love, and endless wonder.\n\n- With all our love, Mom & Dad",
-        "Every moment with you, ${childName}, is a gift.\n\nMay your life be as delightful and magical as you are to us.\n\nAlways and forever, Mom & Dad",
-        "In this vast world, ${childName}, always remember:\n\nYou're unique, you're loved, and you bring joy to our hearts every single day.\n\nLove always, Mom & Dad"
+        "Fijne verjaardag, ${childName}!\n\nMoge je altijd vreugde vinden in de kleine dingen en blijf altijd zo stralen.\n\nVoor altijd liefs, mama",
+        "Vrolijk kerstfeest, ${childName}!\n\nMoge de vreugde en warmte van de feestdagen je het hele jaar door vergezellen.\n\nMet heel veel liefs, mama en papa",
+        "Opgedragen aan ${childName},\n\nEen geweldig kind dat durft te dromen. Moge je altijd redenen vinden om te lachen.\n\nMet heel veel liefs, oma en opa",
+        "Lieve ${childName},\n\nMogen je dromen zo grenzeloos zijn als de hemel en je geest altijd hoog vliegen. We wensen je altijd het allerbeste.\n\nLiefs, mama en papa",
+        "Allerliefste ${childName},\n\nWees in de weidse hemel van het leven altijd de allerhelderste ster. We zijn zo trots dat je bij ons hoort.\n\nLiefs, oom en tante",
+        "${childName}, met elk jaar straal je nog helderder.\n\nMogen je dagen gevuld zijn met lachen, liefde en eindeloze verwondering.\n\n- Met heel veel liefs, mama en papa",
+        "Elk moment met jou, ${childName}, is een cadeau.\n\nMoge je leven net zo heerlijk en magisch zijn als jij voor ons bent.\n\nVoor altijd, mama en papa",
+        "In deze grote wereld, ${childName}, vergeet nooit:\n\nJij bent uniek, we houden van je, en jij brengt elke dag opnieuw vreugde in onze harten.\n\nVoor altijd liefs, mama en papa"
       ],
       "adult": [
         "To my beloved ${childName},\n\nOn this Valentine's Day, I wanted to capture all the reasons why my heart beats for you. This book is a testament to the love that makes us unique.\n\nAlways yours, ${giver_name}",
