@@ -526,63 +526,63 @@
   },
   "TrackOrders": {
     "headings": {
-      "pageTitle": "Track Your Orders",
-      "enterVerification": "Enter Verification Code",
-      "yourOrders": "Your Orders"
+      "pageTitle": "Volg je bestellingen",
+      "enterVerification": "Voer de verificatiecode in",
+      "yourOrders": "Je bestellingen"
     },
     "placeholder": {
-      "email": "Enter your email",
-      "otp": "Enter 6-digit Code"
+      "email": "Voer je e-mailadres in",
+      "otp": "Voer de 6-cijferige code in"
     },
     "instructions": {
-      "enterOTP": "Please enter the code sent to your email"
+      "enterOTP": "Voer de code in die we naar je e-mailadres hebben gestuurd"
     },
     "buttons": {
-      "getOTP": "Get Code",
-      "verifyOTP": "Verify Code",
-      "resendOTP": "Resend Code",
-      "trackPackage": "Track Package",
-      "trackShipping": "Track Shipping"
+      "getOTP": "Code opvragen",
+      "verifyOTP": "Code verifiëren",
+      "resendOTP": "Code opnieuw sturen",
+      "trackPackage": "Pakket volgen",
+      "trackShipping": "Verzending volgen"
     },
     "labels": {
-      "orderNumber": "Order #{{number}}",
-      "estimatedDelivery": "Estimated Delivery:",
-      "shippingAddress": "Shipping Address"
+      "orderNumber": "Bestelling #{{number}}",
+      "estimatedDelivery": "Verwachte bezorging:",
+      "shippingAddress": "Bezorgadres"
     },
     "messages": {
-      "otpSent": "Code sent successfully!",
-      "otpFailed": "Failed to send code",
-      "error": "An error occurred",
-      "invalidOTP": "Invalid code. If you are unable to track your order here, you can write to us on support@imagitime.com or reply to any of the emails that you would have received from us.",
-      "verifyError": "An error occurred while verifying code",
-      "noOrders": "No orders found."
+      "otpSent": "Code verzonden!",
+      "otpFailed": "Code kon niet worden verzonden",
+      "error": "Er is een fout opgetreden",
+      "invalidOTP": "Ongeldige code. Als je je bestelling hier niet kunt volgen, kun je ons mailen op support@imagitime.com of antwoorden op een van de e-mails die je van ons hebt ontvangen.",
+      "verifyError": "Er is een fout opgetreden bij het verifiëren van de code",
+      "noOrders": "Geen bestellingen gevonden."
     },
     "timer": {
-      "resendAvailable": "Resend available in {{seconds}} seconds"
+      "resendAvailable": "Opnieuw versturen mogelijk over {{seconds}} seconden"
     },
     "status": {
-      "printed": "Printed",
-      "printing": "Printing in progress",
-      "pending": "Will be given for printing soon"
+      "printed": "Gedrukt",
+      "printing": "Bezig met drukken",
+      "pending": "Wordt binnenkort naar de drukker gestuurd"
     }
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Thank You, You're Truly Wonderful!",
-      "message": "You've just crafted a unique tale for {{name}}",
-      "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
+      "heading": "Bedankt, je bent echt geweldig!",
+      "message": "Je hebt zojuist een uniek verhaal voor {{name}} gecreëerd",
+      "tracking": "Zodra het boek gedrukt en verzonden is, mailen we je de trackinginformatie."
     }
   },
   "CartRedirect": {
     "noBook": {
-      "heading": "Looking for your personalized book?",
-      "message": "You will find the link to your book preview in your inbox in an email sent from support@imagitime.com (Check your promotions or spam folder if not in inbox).",
-      "contact": "For any queries, please email"
+      "heading": "Op zoek naar je gepersonaliseerde boek?",
+      "message": "Je vindt de link naar je boekpreview in je inbox, in een e-mail van support@imagitime.com (Kijk in je Reclame- of spammap als de e-mail er niet in staat).",
+      "contact": "Voor vragen kun je mailen naar"
     },
     "activeBook": {
-      "heading": "One Book at a Time",
-      "message": "Currently you can create and order one book at a time. If you are looking to order multiple different books, you will need to place separate orders. However, from your second order onwards you can use code FREESHIP at checkout to make shipping free. To continue back to the book you were purchasing, click the button below.",
-      "backButton": "Back to My Book"
+      "heading": "Eén boek tegelijk",
+      "message": "Op dit moment kun je één boek tegelijk maken en bestellen. Wil je meerdere verschillende boeken bestellen, dan moet je aparte bestellingen plaatsen. Vanaf je tweede bestelling kun je wel de code FREESHIP gebruiken bij het afrekenen om gratis verzending te krijgen. Klik op de knop hieronder om terug te gaan naar het boek dat je aan het kopen was.",
+      "backButton": "Terug naar mijn boek"
     }
   }
 }
