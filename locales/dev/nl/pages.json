@@ -364,115 +364,115 @@
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "{{name}}'s Personalized Storybook",
-      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4.9/5 • 150,000+ happy families"
+      "pageTitle": "Het gepersonaliseerde verhalenboek van {{name}}",
+      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 150.000+ blije gezinnen"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador Discount Unlocked",
-      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Printing & delivery takes {{min}} to {{max}} days, so please order accordingly",
-      "changesAllowed": "Once you order, you can still make changes for 12 hours."
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% ambassadeurskorting vrijgespeeld",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Drukken en bezorgen duurt {{min}} tot {{max}} dagen, dus houd daar rekening mee bij je bestelling",
+      "changesAllowed": "Na je bestelling kun je nog 12 uur lang wijzigingen aanbrengen."
     },
     "buttons": {
-      "buyHardcover": "Buy Hardcover",
-      "buyPaperback": "Buy Paperback",
-      "goBackToPreview": "Go Back To Preview",
-      "subscribeGetDiscount": "Subscribe & Get 10% Off",
-      "continueCheckout": "Continue to Checkout",
-      "next": "Next",
-      "back": "Back"
+      "buyHardcover": "Hardcover kopen",
+      "buyPaperback": "Paperback kopen",
+      "goBackToPreview": "Terug naar de preview",
+      "subscribeGetDiscount": "Meld je aan en krijg 10% korting",
+      "continueCheckout": "Doorgaan naar afrekenen",
+      "next": "Volgende",
+      "back": "Terug"
     },
     "shipping": {
-      "info": "+ {{price}} shipping anywhere in {{region}}",
-      "freeInfo": "Free shipping anywhere in {{region}}"
+      "info": "+ {{price}} verzendkosten overal in {{region}}",
+      "freeInfo": "Gratis verzending overal in {{region}}"
     },
     "delivery": {
-      "info": "Delivery in {{min}} to {{max}} days",
-      "timeline": "Printing & delivery takes {{min}} to {{max}} days, so please order accordingly"
+      "info": "Bezorging in {{min}} tot {{max}} dagen",
+      "timeline": "Drukken en bezorgen duurt {{min}} tot {{max}} dagen, dus houd daar rekening mee bij je bestelling"
     },
     "discount": {
-      "subscriber": "{{percentage}}% Subscriber Discount Ends Soon",
-      "limited": "{{percentage}}% Limited Time Discount Applied",
-      "ambassador": "{{percentage}}% Ambassador Discount Unlocked"
+      "subscriber": "{{percentage}}% korting voor abonnees loopt bijna af",
+      "limited": "{{percentage}}% tijdelijke korting toegepast",
+      "ambassador": "{{percentage}}% ambassadeurskorting vrijgespeeld"
     },
     "subscription": {
-      "heading": "Want 10% Off?",
-      "description": "Subscribe to our emails to get 10% instant discount and early access to new book releases."
+      "heading": "Wil je 10% korting?",
+      "description": "Meld je aan voor onze nieuwsbrief en krijg 10% directe korting en als eerste toegang tot nieuwe boeken."
     },
     "badges": {
-      "popularChoice": "⭐ Popular Choice ⭐",
-      "popularChoiceVariation1": "★ Popular Choice • Slots filling fast",
-      "soldOut": "Sold out",
-      "popularWithGrandparents": "⭐ Popular with grandparents ⭐",
-      "popularAddon": "⭐ Popular add-on ⭐"
+      "popularChoice": "⭐ Populaire keuze ⭐",
+      "popularChoiceVariation1": "★ Populaire keuze • Plekken raken snel vol",
+      "soldOut": "Uitverkocht",
+      "popularWithGrandparents": "⭐ Populair bij grootouders ⭐",
+      "popularAddon": "⭐ Populaire add-on ⭐"
     },
     "upsell": {
-      "heading": "Add a second copy",
-      "subheading": "One to gift, one to preserve",
-      "addSecondBook": "Add Another Copy",
-      "listTitle": "Extra Copy",
-      "listSubtitle": "One to gift, one to keep",
-      "description": "Perfect as a treasured keepsake or for grandparents' house.",
+      "heading": "Voeg een tweede exemplaar toe",
+      "subheading": "Eén om cadeau te geven, één om te bewaren",
+      "addSecondBook": "Nog een exemplaar toevoegen",
+      "listTitle": "Extra exemplaar",
+      "listSubtitle": "Eén om cadeau te geven, één om te houden",
+      "description": "Perfect als dierbaar aandenken of voor bij oma en opa.",
       "subheadingByRelationship": {
-        "grandparent": "One for you, one for the parents",
-        "other": "One to gift, one to keep forever"
+        "grandparent": "Eén voor jou, één voor de ouders",
+        "other": "Eén om cadeau te geven, één om voor altijd te bewaren"
       },
       "descriptionByRelationship": {
-        "grandparent": "Keep a copy on your tablet to read together when they visit. A digital keepsake that's always with you.",
-        "other": "Read together on tablets during travel. A digital backup of this treasured keepsake."
+        "grandparent": "Bewaar een exemplaar op je tablet om samen te lezen als ze op bezoek komen. Een digitaal aandenken dat altijd bij je is.",
+        "other": "Lees samen op de tablet tijdens het reizen. Een digitale back-up van dit dierbare aandenken."
       },
-      "descriptionControlAndExpA": "Perfect as a treasured keepsake or for grandparent's house.",
+      "descriptionControlAndExpA": "Perfect als dierbaar aandenken of voor bij oma en opa.",
       "descriptionExpB": {
-        "grandparent": "So they can read it at both houses. A treasured keepsake for the whole family.",
-        "other": "Perfect for grandparents' house, or as a backup for this treasured keepsake."
+        "grandparent": "Zo kunnen ze het in beide huizen lezen. Een dierbaar aandenken voor de hele familie.",
+        "other": "Perfect voor bij oma en opa, of als back-up van dit dierbare aandenken."
       }
     },
     "checkout": {
-      "subtotal": "<b>Subtotal</b> (excluding shipping)"
+      "subtotal": "<b>Subtotaal</b> (exclusief verzendkosten)"
     },
     "addons": {
-      "heading": "Frequently bought add-ons",
-      "subheading": "Add any, or skip to checkout",
-      "controlHeading": "Make it extra special!",
-      "controlSubheading": "Add these exclusive extras to your order.",
-      "almostDone": "Almost Done",
-      "skipLink": "No thanks, just the book",
+      "heading": "Vaak gekochte add-ons",
+      "subheading": "Voeg er gerust toe of ga direct naar afrekenen",
+      "controlHeading": "Maak het extra bijzonder!",
+      "controlSubheading": "Voeg deze exclusieve extra's toe aan je bestelling.",
+      "almostDone": "Bijna klaar",
+      "skipLink": "Nee bedankt, alleen het boek",
       "digitalPdf": {
-        "title": "Digital PDF Keepsake",
-        "listTitle": "Digital PDF",
-        "listSubtitle": "Sent via email after 24 hours",
-        "description": "Instant download delivered via email. Perfect for sharing with family or keeping as a forever backup.",
-        "listDescription": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing.",
-        "controlListDescription": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing.",
+        "title": "Digitaal PDF-aandenken",
+        "listTitle": "Digitale PDF",
+        "listSubtitle": "Wordt na 24 uur per e-mail verstuurd",
+        "description": "Direct te downloaden, geleverd via e-mail. Perfect om te delen met familie of om voor altijd als back-up te bewaren.",
+        "listDescription": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat.",
+        "controlListDescription": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat.",
         "descriptionExperiment": {
-          "grandparent": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for reading together and for sharing with family.",
-          "other": "High resolution PDF sent via email in 24 to 48 hours when the book is sent for printing. Perfect for travel and for sharing with family."
+          "grandparent": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat. Perfect om samen te lezen en te delen met familie.",
+          "other": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat. Perfect voor onderweg en om te delen met familie."
         }
       },
       "dedicationMessage": {
-        "titleNew": "Personalized Dedication",
-        "listTitle": "Personal Dedication",
-        "listSubtitle": "Write your message after checkout",
-        "subtitle": "Your message on the first page",
-        "listDescription": "Write your own personal message in the book.",
-        "controlListDescription": "You will be able to add a personal message in the book after checkout.",
+        "titleNew": "Persoonlijke boodschap",
+        "listTitle": "Persoonlijke boodschap",
+        "listSubtitle": "Schrijf je boodschap na het afrekenen",
+        "subtitle": "Jouw boodschap op de eerste pagina",
+        "listDescription": "Schrijf je eigen persoonlijke boodschap in het boek.",
+        "controlListDescription": "Je kunt na het afrekenen een persoonlijke boodschap in het boek toevoegen.",
         "descriptionByRelationship": {
-          "grandparent": "Write a heartfelt message they'll treasure forever. Your words, preserved in their very own book.",
-          "other": "Add a heartfelt message on the first page. Your words, preserved in their very own book."
+          "grandparent": "Schrijf een hartverwarmende boodschap die ze voor altijd koesteren. Jouw woorden, bewaard in hun eigen boek.",
+          "other": "Voeg een hartverwarmende boodschap toe op de eerste pagina. Jouw woorden, bewaard in hun eigen boek."
         },
         "preview": {
-          "header": "Happy Birthday, {{name}}!",
-          "body": "On this very special day, we want you to know how much you mean to us...",
-          "signature": "Love, Mom & Dad"
+          "header": "Fijne verjaardag, {{name}}!",
+          "body": "Op deze heel bijzondere dag willen we dat je weet hoeveel je voor ons betekent...",
+          "signature": "Liefs, mama en papa"
         },
         "dedicationSignature": {
-          "grandparent": "Love, Grandma & Grandpa",
-          "other": "Love, Mom & Dad"
+          "grandparent": "Liefs, oma en opa",
+          "other": "Liefs, mama en papa"
         }
       }
     },
     "freeShipping": {
-      "title": "Free Shipping Eligibility",
-      "text": "After placing this order, if you order another book within 24 hours - shipping will automatically be free."
+      "title": "Kom je in aanmerking voor gratis verzending?",
+      "text": "Als je na deze bestelling binnen 24 uur nog een boek bestelt, is de verzending automatisch gratis."
     }
   },
   "Dedication": {
