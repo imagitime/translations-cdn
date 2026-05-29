@@ -477,51 +477,51 @@
   },
   "Dedication": {
     "headings": {
-      "makeSpecial": "Make the book even more special"
+      "makeSpecial": "Rendi il libro ancora più speciale"
     },
     "buttons": {
-      "buyCustomized": "Buy Customized Dedication"
+      "buyCustomized": "Acquista dedica personalizzata"
     },
     "descriptions": {
-      "personalTouch": "Add a personal touch to your gift.",
-      "heartfeltMessage": "Whether it's words of encouragement or a special note, delight them with a heartfelt dedication message.",
-      "customize": "You'll be able to customize the message after purchasing."
+      "personalTouch": "Aggiungi un tocco personale al tuo regalo.",
+      "heartfeltMessage": "Che siano parole d'incoraggiamento o un pensiero speciale, sorprendili con una dedica affettuosa.",
+      "customize": "Potrai personalizzare il messaggio dopo l'acquisto."
     }
   },
   "DedicationMessage": {
     "headings": {
-      "writeMessage": "Write your own message",
-      "writeMessageFor": "Write your own message for {{name}}"
+      "writeMessage": "Scrivi il tuo messaggio",
+      "writeMessageFor": "Scrivi il tuo messaggio per {{name}}"
     },
     "descriptions": {
-      "charLimit": "Less than {{chars}} characters and maximum {{lines}} separate lines."
+      "charLimit": "Meno di {{chars}} caratteri e massimo {{lines}} righe separate."
     },
     "errors": {
-      "exceededChars": "Exceeded {{count}} characters",
-      "noEmojis": "Please remove emojis",
-      "linesExceeded": "{{count}} lines exceeded"
+      "exceededChars": "Hai superato i {{count}} caratteri",
+      "noEmojis": "Rimuovi gli emoji",
+      "linesExceeded": "Hai superato le {{count}} righe"
     },
     "counter": {
-      "remaining": "{{count}} characters left"
+      "remaining": "{{count}} caratteri rimasti"
     },
     "buttons": {
-      "addMessage": "Add Personalized Message",
-      "useTemplate": "Use Template",
-      "goToPreview": "Go To Book Preview"
+      "addMessage": "Aggiungi messaggio personalizzato",
+      "useTemplate": "Usa un modello",
+      "goToPreview": "Vai all'anteprima del libro"
     },
     "labels": {
-      "ideas": "Dedication Message Ideas"
+      "ideas": "Idee per la dedica"
     },
     "placeholder": {
-      "default": "Dear {{name}},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad"
+      "default": "Caro/a {{name}},\n\nChe i tuoi sogni siano vasti come il cielo e il tuo spirito voli sempre in alto. Ti auguriamo sempre il meglio.\n\nCon affetto, mamma e papà"
     },
     "thankYou": {
-      "heading": "Thank You!",
-      "message": "We have added your personalised message. Please review the dedication page (page 2) by going to the book preview and double-check for any typos or grammatical errors."
+      "heading": "Grazie!",
+      "message": "Abbiamo aggiunto il tuo messaggio personalizzato. Controlla la pagina della dedica (pagina 2) andando all'anteprima del libro e verifica che non ci siano errori di battitura o grammaticali."
     },
     "printFreeze": {
-      "heading": "This book has already been given for printing",
-      "message": "It is not possible to customize the dedication message any longer. For any queries, please reach out to support@imagitime.com"
+      "heading": "Questo libro è già stato inviato in stampa",
+      "message": "Non è più possibile personalizzare il messaggio della dedica. Per qualsiasi domanda, scrivi a support@imagitime.com"
     }
   },
   "TrackOrders": {
