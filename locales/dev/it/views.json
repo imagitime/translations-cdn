@@ -2,14 +2,14 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Happy Birthday, ${childName}!\n\nMay you always find joy in little things and continue to shine bright.\n\nLove always, Mom",
-        "Merry Christmas, ${childName}!\n\nMay the joy and warmth of the season be with you throughout the year.\n\nWith all our love, Mom & Dad",
-        "Dedicated to ${childName},\n\nAn amazing kid who dares to dream. May you always find reasons to smile.\n\nWith lots of love, Grandma & Grandpa",
-        "Dear ${childName},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad",
-        "Dearest ${childName},\n\nIn the vast sky of life, always be the brightest star. We're so proud to call you ours.\n\nLove, Uncle & Aunt",
-        "${childName}, with each year, you shine even brighter.\n\nMay your days be filled with laughter, love, and endless wonder.\n\n- With all our love, Mom & Dad",
-        "Every moment with you, ${childName}, is a gift.\n\nMay your life be as delightful and magical as you are to us.\n\nAlways and forever, Mom & Dad",
-        "In this vast world, ${childName}, always remember:\n\nYou're unique, you're loved, and you bring joy to our hearts every single day.\n\nLove always, Mom & Dad"
+        "Buon compleanno, ${childName}!\n\nChe tu possa sempre trovare gioia nelle piccole cose e continuare a brillare di luce propria.\n\nCon affetto, mamma",
+        "Buon Natale, ${childName}!\n\nChe la gioia e il calore di questo periodo ti accompagnino per tutto l'anno.\n\nCon tutto il nostro affetto, mamma e papà",
+        "A ${childName},\n\nUn bambino/a straordinario/a che ha il coraggio di sognare. Che tu possa sempre trovare motivi per sorridere.\n\nCon tanto affetto, nonna e nonno",
+        "Caro/a ${childName},\n\nChe i tuoi sogni siano vasti come il cielo e il tuo spirito voli sempre in alto. Ti auguriamo sempre il meglio.\n\nCon affetto, mamma e papà",
+        "Carissimo/a ${childName},\n\nNel vasto cielo della vita, sii sempre la stella più luminosa. Siamo così orgogliosi di averti.\n\nCon affetto, zio e zia",
+        "${childName}, ogni anno che passa brilli ancora di più.\n\nChe i tuoi giorni siano pieni di risate, amore e meraviglia senza fine.\n\n- Con tutto il nostro affetto, mamma e papà",
+        "Ogni momento con te, ${childName}, è un dono.\n\nChe la tua vita sia bella e magica quanto lo sei tu per noi.\n\nPer sempre, mamma e papà",
+        "In questo vasto mondo, ${childName}, ricorda sempre:\n\nsei unico/a, sei amato/a e porti gioia nei nostri cuori ogni singolo giorno.\n\nCon affetto, mamma e papà"
       ],
       "adult": [
         "To my beloved ${childName},\n\nOn this Valentine's Day, I wanted to capture all the reasons why my heart beats for you. This book is a testament to the love that makes us unique.\n\nAlways yours, ${giver_name}",
@@ -21,40 +21,40 @@
   },
   "orderStatus": {
     "pending": {
-      "will_be_given_for_printing_order_status_string": "Will be given for printing soon",
-      "will_be_given_for_printing_info_note": "As our book is custom-made for each order, the printing and binding takes some time.",
-      "delayed_order_status_string": "Delayed",
-      "delayed_info_note": "There has been some issue in processing your order. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "paused_order_status_string": "Paused On Customer Request",
-      "paused_info_note": "This book's printing has been paused on customer request. For further support, please reply to any of the order related emails or write to us at support@imagitime.com."
+      "will_be_given_for_printing_order_status_string": "A breve sarà inviato in stampa",
+      "will_be_given_for_printing_info_note": "Poiché ogni libro è realizzato su misura per ogni ordine, la stampa e la rilegatura richiedono un po' di tempo.",
+      "delayed_order_status_string": "In ritardo",
+      "delayed_info_note": "Si è verificato un problema nell'elaborazione del tuo ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "paused_order_status_string": "In pausa su richiesta del cliente",
+      "paused_info_note": "La stampa di questo libro è stata messa in pausa su richiesta del cliente. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com."
     },
     "printing": {
-      "currently_in_printing_and_binding_stage_order_status_string": "Currently in printing & binding stage",
-      "currently_in_printing_and_binding_stage_info_note": "As our book is custom-made for each order, the printing and binding takes some time.",
-      "delayed_order_status_string": "Delayed",
-      "delayed_info_note": "There has been a delay in processing your order. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "book_was_given_for_printing_info_note": "This book was given for reprinting on {date}."
+      "currently_in_printing_and_binding_stage_order_status_string": "Attualmente in fase di stampa e rilegatura",
+      "currently_in_printing_and_binding_stage_info_note": "Poiché ogni libro è realizzato su misura per ogni ordine, la stampa e la rilegatura richiedono un po' di tempo.",
+      "delayed_order_status_string": "In ritardo",
+      "delayed_info_note": "Si è verificato un ritardo nell'elaborazione del tuo ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "book_was_given_for_printing_info_note": "Questo libro è stato inviato per la ristampa il {date}."
     },
     "printed": {
-      "shipped_order_status_string": "Shipped",
-      "stuck_in_transit_delivery_status_string": "Stuck In Transit",
-      "stuck_delayed_info_note": "Due to some issue, your package seems stuck in transit. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "delayed_delivery_status_string": "Delayed",
-      "delayed_info_note": "Your order is on the way but seems to be delayed. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "not_available_delivery_status_string": "Delivery Status Not Available",
-      "not_available_delivery_status_info_note": "Delivery will be done by {carrier}. Please use tracking number - {tracking_number} to track your order.",
-      "out_for_delivery_today_status_string": "Out For Delivery Today",
-      "delivered_status_string": "Delivered on {date}",
-      "delivery_failed_order_status_string": "Delivery Failed!",
-      "delivery_failed_info_note": "Due to some issue, your order could not be delivered. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "delivery_attempted_order_status_string": "Delivery Attempted",
-      "delivery_attempted_info_note": "The shipping carrier attempted to deliver the book but could not. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "tracking_info_not_present_info_note": "Delivery date estimate is as provided by {carrier}. Please use tracking number - {tracking_number} to track your order.",
-      "shipped_order_info_note": "Delivery date estimate is as provided by {carrier}. Actual delivery date may vary due to external factors."
+      "shipped_order_status_string": "Spedito",
+      "stuck_in_transit_delivery_status_string": "Bloccato in transito",
+      "stuck_delayed_info_note": "A causa di un problema, il tuo pacco sembra bloccato in transito. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "delayed_delivery_status_string": "In ritardo",
+      "delayed_info_note": "Il tuo ordine è in viaggio ma sembra in ritardo. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "not_available_delivery_status_string": "Stato della consegna non disponibile",
+      "not_available_delivery_status_info_note": "La consegna sarà effettuata da {carrier}. Usa il numero di tracciamento - {tracking_number} per tracciare il tuo ordine.",
+      "out_for_delivery_today_status_string": "In consegna oggi",
+      "delivered_status_string": "Consegnato il {date}",
+      "delivery_failed_order_status_string": "Consegna non riuscita!",
+      "delivery_failed_info_note": "A causa di un problema, il tuo ordine non è stato consegnato. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "delivery_attempted_order_status_string": "Tentativo di consegna effettuato",
+      "delivery_attempted_info_note": "Il corriere ha tentato di consegnare il libro ma non ci è riuscito. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "tracking_info_not_present_info_note": "La data di consegna prevista è quella fornita da {carrier}. Usa il numero di tracciamento - {tracking_number} per tracciare il tuo ordine.",
+      "shipped_order_info_note": "La data di consegna prevista è quella fornita da {carrier}. La data effettiva di consegna può variare a causa di fattori esterni."
     },
     "cancelled": {
-      "cancelled_order_status_string": "Your order has been cancelled.",
-      "cancelled_info_note": "This book's printing has been cancelled. For further support, please reply to any of the order related emails or write to us at support@imagitime.com."
+      "cancelled_order_status_string": "Il tuo ordine è stato annullato.",
+      "cancelled_info_note": "La stampa di questo libro è stata annullata. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com."
     }
   },
   "orderTracking": {
@@ -78,10 +78,10 @@
     }
   },
   "adminOrderStatus": {
-    "salutation": "Hi {name},",
-    "genericSalutation": "Hi,",
-    "pendingPrinting": "Your book will be given for printing shortly. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days for review, printing, binding, and shipping. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding.",
-    "shipped": "Your book has been printed and shipped via {carrier}. Here's the tracking link.",
-    "inPrinting": "Your book is currently in the printing and binding stage. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days from order to delivery. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding."
+    "salutation": "Ciao {name},",
+    "genericSalutation": "Ciao,",
+    "pendingPrinting": "Il tuo libro sarà inviato in stampa a breve. Poiché ogni libro è realizzato su misura per ogni persona, in genere occorrono in totale circa {min_days}-{max_days} giorni tra revisione, stampa, rilegatura e spedizione. Ti invieremo i dettagli del tracciamento della spedizione non appena il libro lascerà la tipografia. Grazie per la pazienza e la comprensione.",
+    "shipped": "Il tuo libro è stato stampato e spedito tramite {carrier}. Ecco il link di tracciamento.",
+    "inPrinting": "Il tuo libro è attualmente in fase di stampa e rilegatura. Poiché ogni libro è realizzato su misura per ogni persona, in genere occorrono in totale circa {min_days}-{max_days} giorni dall'ordine alla consegna. Ti invieremo i dettagli del tracciamento della spedizione non appena il libro lascerà la tipografia. Grazie per la pazienza e la comprensione."
   }
 }
