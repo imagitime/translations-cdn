@@ -526,63 +526,63 @@
   },
   "TrackOrders": {
     "headings": {
-      "pageTitle": "Track Your Orders",
-      "enterVerification": "Enter Verification Code",
-      "yourOrders": "Your Orders"
+      "pageTitle": "Traccia i tuoi ordini",
+      "enterVerification": "Inserisci il codice di verifica",
+      "yourOrders": "I tuoi ordini"
     },
     "placeholder": {
-      "email": "Enter your email",
-      "otp": "Enter 6-digit Code"
+      "email": "Inserisci la tua email",
+      "otp": "Inserisci il codice a 6 cifre"
     },
     "instructions": {
-      "enterOTP": "Please enter the code sent to your email"
+      "enterOTP": "Inserisci il codice inviato alla tua email"
     },
     "buttons": {
-      "getOTP": "Get Code",
-      "verifyOTP": "Verify Code",
-      "resendOTP": "Resend Code",
-      "trackPackage": "Track Package",
-      "trackShipping": "Track Shipping"
+      "getOTP": "Ottieni codice",
+      "verifyOTP": "Verifica codice",
+      "resendOTP": "Invia di nuovo",
+      "trackPackage": "Traccia il pacco",
+      "trackShipping": "Traccia la spedizione"
     },
     "labels": {
-      "orderNumber": "Order #{{number}}",
-      "estimatedDelivery": "Estimated Delivery:",
-      "shippingAddress": "Shipping Address"
+      "orderNumber": "Ordine #{{number}}",
+      "estimatedDelivery": "Consegna prevista:",
+      "shippingAddress": "Indirizzo di spedizione"
     },
     "messages": {
-      "otpSent": "Code sent successfully!",
-      "otpFailed": "Failed to send code",
-      "error": "An error occurred",
-      "invalidOTP": "Invalid code. If you are unable to track your order here, you can write to us on support@imagitime.com or reply to any of the emails that you would have received from us.",
-      "verifyError": "An error occurred while verifying code",
-      "noOrders": "No orders found."
+      "otpSent": "Codice inviato!",
+      "otpFailed": "Invio del codice non riuscito",
+      "error": "Si è verificato un errore",
+      "invalidOTP": "Codice non valido. Se non riesci a tracciare il tuo ordine qui, puoi scriverci a support@imagitime.com o rispondere a una qualsiasi delle email che hai ricevuto da noi.",
+      "verifyError": "Si è verificato un errore durante la verifica del codice",
+      "noOrders": "Nessun ordine trovato."
     },
     "timer": {
-      "resendAvailable": "Resend available in {{seconds}} seconds"
+      "resendAvailable": "Nuovo invio disponibile tra {{seconds}} secondi"
     },
     "status": {
-      "printed": "Printed",
-      "printing": "Printing in progress",
-      "pending": "Will be given for printing soon"
+      "printed": "Stampato",
+      "printing": "Stampa in corso",
+      "pending": "A breve sarà inviato in stampa"
     }
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Thank You, You're Truly Wonderful!",
-      "message": "You've just crafted a unique tale for {{name}}",
-      "tracking": "Once the book is printed and shipped, we will send the tracking information to your email."
+      "heading": "Grazie, sei davvero una meraviglia!",
+      "message": "Hai appena creato una storia unica per {{name}}",
+      "tracking": "Una volta che il libro sarà stampato e spedito, ti invieremo le informazioni di tracciamento via email."
     }
   },
   "CartRedirect": {
     "noBook": {
-      "heading": "Looking for your personalized book?",
-      "message": "You will find the link to your book preview in your inbox in an email sent from support@imagitime.com (Check your promotions or spam folder if not in inbox).",
-      "contact": "For any queries, please email"
+      "heading": "Stai cercando il tuo libro personalizzato?",
+      "message": "Troverai il link all'anteprima del tuo libro nella tua casella di posta, in un'email inviata da support@imagitime.com (controlla la cartella promozioni o spam se non lo trovi nella posta in arrivo).",
+      "contact": "Per qualsiasi domanda, scrivici a"
     },
     "activeBook": {
-      "heading": "One Book at a Time",
-      "message": "Currently you can create and order one book at a time. If you are looking to order multiple different books, you will need to place separate orders. However, from your second order onwards you can use code FREESHIP at checkout to make shipping free. To continue back to the book you were purchasing, click the button below.",
-      "backButton": "Back to My Book"
+      "heading": "Un libro alla volta",
+      "message": "Al momento puoi creare e ordinare un libro alla volta. Se vuoi ordinare più libri diversi, dovrai effettuare ordini separati. Tuttavia, dal secondo ordine in poi puoi usare il codice FREESHIP al pagamento per ottenere la spedizione gratuita. Per tornare al libro che stavi acquistando, clicca sul pulsante qui sotto.",
+      "backButton": "Torna al mio libro"
     }
   }
 }
