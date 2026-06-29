@@ -480,11 +480,11 @@
       "makeSpecial": "Rendi il libro ancora più speciale"
     },
     "buttons": {
-      "buyCustomized": "Acquista dedica personalizzata"
+      "buyCustomized": "Acquista una dedica personalizzata"
     },
     "descriptions": {
       "personalTouch": "Aggiungi un tocco personale al tuo regalo.",
-      "heartfeltMessage": "Che siano parole d'incoraggiamento o un pensiero speciale, sorprendili con una dedica affettuosa.",
+      "heartfeltMessage": "Che siano parole d'incoraggiamento o un pensiero speciale, sorprendi con una dedica affettuosa chi lo riceverà.",
       "customize": "Potrai personalizzare il messaggio dopo l'acquisto."
     }
   },
