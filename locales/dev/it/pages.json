@@ -25,7 +25,7 @@
       "childNameExp": "Nome del bambino/a",
       "genderExp": "Genere",
       "ageExp": "Età",
-      "relationshipLabel": "Rapporto",
+      "relationshipLabel": "Rapporto/parentela",
       "birthMonthExp": "Mese di nascita",
       "childNamePlaceholder": "es. Emma",
       "adultNamePlaceholder": "es. Sara",
@@ -33,7 +33,7 @@
       "kidCallsYouPlaceholder": "es. Mamma"
     },
     "relationshipOptions": {
-      "default": "Seleziona il tuo rapporto",
+      "default": "Seleziona il tuo rapporto/parentela",
       "parentGuardian": "Genitore/Tutore legale",
       "grandparent": "Nonno/Nonna",
       "auntUncle": "Zia/Zio",
@@ -498,7 +498,7 @@
     },
     "errors": {
       "exceededChars": "Hai superato i {{count}} caratteri",
-      "noEmojis": "Rimuovi gli emoji",
+      "noEmojis": "Rimuovi le emoji",
       "linesExceeded": "Hai superato le {{count}} righe"
     },
     "counter": {
@@ -517,7 +517,7 @@
     },
     "thankYou": {
       "heading": "Grazie!",
-      "message": "Abbiamo aggiunto il tuo messaggio personalizzato. Controlla la pagina della dedica (pagina 2) andando all'anteprima del libro e verifica che non ci siano errori di battitura o grammaticali."
+      "message": "Abbiamo aggiunto il tuo messaggio personalizzato. Vai all'anteprima del libro e controlla la pagina della dedica (pagina 2) verificando che non ci siano errori grammaticali o di battitura."
     },
     "printFreeze": {
       "heading": "Questo libro è già stato inviato in stampa",
