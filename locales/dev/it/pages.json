@@ -5,14 +5,14 @@
       "createYourChildsBookNow": "Crea ora il libro del tuo bambino/a"
     },
     "labels": {
-      "childName": "Nome del bambino/a per la storia",
+      "childName": "Nome del protagonista della storia",
       "childAge": "Seleziona l'età attuale",
       "birthMonth": "Seleziona il mese di nascita",
       "adultName": "Nome",
       "bodyType": "Seleziona la corporatura",
       "adultAge": "Seleziona l'età",
       "giverName": "Nome di chi regala il libro (il tuo nome)",
-      "kidCallsYou": "Come ti chiama il bambino/a?",
+      "kidCallsYou": "Come ti chiama il/la bambino/a?",
       "kidCallsMommy": "Come chiama la sua mamma? (es. Mamma, Mami, Mammina)",
       "kidCallsDaddy": "Come chiama il suo papà? (es. Papà, Papi, Babbo)",
       "language": "Lingua",
@@ -22,7 +22,7 @@
     "experiment": {
       "title": "Per chi è questo libro?",
       "bookIn": "Libro in",
-      "childNameExp": "Nome del bambino/a",
+      "childNameExp": "Nome del/della bambino/a",
       "genderExp": "Genere",
       "ageExp": "Età",
       "relationshipLabel": "Rapporto/parentela",
@@ -82,14 +82,14 @@
   },
   "UploadCommon": {
     "headings": {
-      "lastStep": "Ultimo passo",
+      "lastStep": "Ultimo passaggio",
       "uploadMore": "Carica altre foto di {{name}}",
       "uploadAnother": "Carica un'altra foto di {{name}}"
     },
     "instructions": {
       "soloPhotos": "Solo foto singole",
       "facingCamera": {
-        "child": "Il bambino/a deve <strong>guardare verso la fotocamera</strong>",
+        "child": "Il bambino o la bambina deve <strong>guardare verso la fotocamera</strong>",
         "person": "La persona deve <strong>guardare verso la fotocamera</strong>"
       },
       "frontFacingSmiling": "Di fronte e sorridente",
@@ -122,7 +122,7 @@
       "uploadPhotos": "Carica le foto",
       "choosePhoto": "Scegli foto",
       "showPreview": "Mostra l'anteprima del libro di {{name}}",
-      "lastStepPages": "Ultimo passo: Seleziona le pagine"
+      "lastStepPages": "Ultimo passaggio: seleziona le pagine"
     },
     "uploadOptions": {
       "gallery": "Scegli dalla galleria",
@@ -135,7 +135,7 @@
       "dimensionsTooSmall": "Dimensioni dell'immagine troppo piccole. La dimensione minima è 100x100 pixel.",
       "dimensionsTooLarge": "Dimensioni dell'immagine troppo grandi. La dimensione massima è 5000x5000 pixel.",
       "invalidImage": "File immagine non valido",
-      "previewUnavailable": "Questa anteprima non è più disponibile. Crea una nuova anteprima."
+      "previewUnavailable": "Questa anteprima non è più disponibile. Creane una nuova."
     },
     "consent": {
       "photosConsent": "Acconsento al trattamento sicuro di queste foto esclusivamente per la creazione del libro di fiabe personalizzato. Le foto verranno eliminate dopo 24 ore se non salvo l'anteprima fornendo la mia email e dopo 1 anno anche se salvo l'anteprima. Sono consapevole di poter revocare il consenso in qualsiasi momento contattando support@imagitime.com"
@@ -171,7 +171,7 @@
     "buttons": {
       "editPageSelection": "Modifica selezione pagine",
       "generateMoreOptions": "Genera altre opzioni",
-      "uploadMorePhotos": "Per migliorare: Carica altre foto",
+      "uploadMorePhotos": "Per migliorare: carica altre foto",
       "emailPreview": "Inviami l'anteprima via email",
       "savePreview": "Salva l'anteprima e mostra il prezzo",
       "changePicture": "Cambia immagine",
@@ -576,12 +576,12 @@
   "CartRedirect": {
     "noBook": {
       "heading": "Stai cercando il tuo libro personalizzato?",
-      "message": "Troverai il link all'anteprima del tuo libro nella tua casella di posta, in un'email inviata da support@imagitime.com (controlla la cartella promozioni o spam se non lo trovi nella posta in arrivo).",
+      "message": "Troverai il link all'anteprima del libro nella tua casella di posta, in un'email inviata da support@imagitime.com (se non lo trovi nella posta in arrivo, controlla la cartella spam o promozioni).",
       "contact": "Per qualsiasi domanda, scrivici a"
     },
     "activeBook": {
       "heading": "Un libro alla volta",
-      "message": "Al momento puoi creare e ordinare un libro alla volta. Se vuoi ordinare più libri diversi, dovrai effettuare ordini separati. Tuttavia, dal secondo ordine in poi puoi usare il codice FREESHIP al pagamento per ottenere la spedizione gratuita. Per tornare al libro che stavi acquistando, clicca sul pulsante qui sotto.",
+      "message": "Al momento puoi creare e ordinare un libro alla volta. Se vuoi ordinare più libri diversi, dovrai effettuare ordini separati. Tuttavia, dal secondo ordine in poi puoi usare il codice FREESHIP in fase di pagamento per ottenere la spedizione gratuita. Per tornare al libro che stavi acquistando, clicca sul pulsante qui sotto.",
       "backButton": "Torna al mio libro"
     }
   }
