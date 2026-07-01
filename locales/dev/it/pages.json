@@ -51,12 +51,12 @@
     },
     "validation": {
       "tooLongForBook": "È troppo lungo per il libro.",
-      "selectRelationship": "Seleziona il tuo rapporto con il bambino/a.",
+      "selectRelationship": "Seleziona il tuo rapporto con il/la bambino/a.",
       "consentRequired": "Devi dare il consenso per continuare."
     },
     "consent": {
       "defaultConsentText": "[Seleziona qui sopra il tuo rapporto con il bambino/a per visualizzare il messaggio di consenso appropriato]",
-      "parentGuardianText": "Confermo di essere il genitore o il tutore legale di questo bambino/a, di avere più di 18 anni e di acconsentire a fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con la <a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
+      "parentGuardianText": "Confermo di essere il genitore o il tutore legale di questo/a bambino/a, di avere più di 18 anni e di acconsentire a fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con l'<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
       "otherRelationshipText": "Confermo di avere più di 18 anni e di avere il permesso del genitore o del tutore del bambino/a per fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con la <a href='/policies/privacy-policy'>Informativa sulla privacy</a>."
     },
     "months": {
@@ -339,12 +339,12 @@
     "thankYou": {
       "heading": "Grazie!",
       "message": "Abbiamo ricevuto la tua richiesta. Ti invieremo l'anteprima del libro non appena sarà pronta.",
-      "explore": "Nel frattempo, puoi <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>scoprire altri libri</b></a> che offriamo."
+      "explore": "Nel frattempo, puoi <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>scoprire altri libri</b></a> che trovi da noi."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Inviami il link dell'anteprima di {{name}} e mostra il prezzo del libro stampato"
+      "emailPreview": "Inviami il link dell'anteprima del libro di {{name}} e mostra il prezzo del volume stampato"
     },
     "labels": {
       "email": "Email",
@@ -365,7 +365,7 @@
   "InterestedPage": {
     "headings": {
       "pageTitle": "Il libro di fiabe personalizzato di {{name}}",
-      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 150.000+ famiglie felici"
+      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • oltre 150.000 famiglie felici"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% di sconto Ambasciatore sbloccato",
@@ -400,29 +400,29 @@
     },
     "badges": {
       "popularChoice": "⭐ Scelta popolare ⭐",
-      "popularChoiceVariation1": "★ Scelta popolare • Posti in esaurimento",
+      "popularChoiceVariation1": "★ Scelta popolare • In esaurimento",
       "soldOut": "Esaurito",
       "popularWithGrandparents": "⭐ Popolare tra i nonni ⭐",
-      "popularAddon": "⭐ Extra popolare ⭐"
+      "popularAddon": "⭐ Aggiunta popolare ⭐"
     },
     "upsell": {
       "heading": "Aggiungi una seconda copia",
       "subheading": "Una da regalare, una da conservare",
       "addSecondBook": "Aggiungi un'altra copia",
       "listTitle": "Copia extra",
-      "listSubtitle": "Una da regalare, una da tenere",
+      "listSubtitle": "Una da regalare, una per te",
       "description": "Perfetta come ricordo prezioso o per la casa dei nonni.",
       "subheadingByRelationship": {
         "grandparent": "Una per te, una per i genitori",
         "other": "Una da regalare, una da conservare per sempre"
       },
       "descriptionByRelationship": {
-        "grandparent": "Tieni una copia sul tablet per leggerla insieme quando vengono a trovarti. Un ricordo digitale sempre con te.",
-        "other": "Leggila insieme sul tablet durante i viaggi. Una copia digitale di questo ricordo prezioso."
+        "grandparent": "Tieni una copia sul tablet per leggerla insieme quando viene a trovarti. Un ricordo digitale sempre con te.",
+        "other": "Leggetela insieme sul tablet durante i viaggi. Una copia digitale di questo ricordo prezioso."
       },
       "descriptionControlAndExpA": "Perfetta come ricordo prezioso o per la casa dei nonni.",
       "descriptionExpB": {
-        "grandparent": "Così possono leggerlo in entrambe le case. Un ricordo prezioso per tutta la famiglia.",
+        "grandparent": "Così potrà leggerlo in entrambe le case. Un ricordo prezioso per tutta la famiglia.",
         "other": "Perfetta per la casa dei nonni o come copia di sicurezza di questo ricordo prezioso."
       }
     },
@@ -456,7 +456,7 @@
         "listDescription": "Scrivi il tuo messaggio personale nel libro.",
         "controlListDescription": "Potrai aggiungere un messaggio personale nel libro dopo il pagamento.",
         "descriptionByRelationship": {
-          "grandparent": "Scrivi un messaggio affettuoso che custodiranno per sempre. Le tue parole, conservate in un libro tutto loro.",
+          "grandparent": "Scrivi un messaggio affettuoso che custodirà per sempre. Le tue parole, conservate in un libro tutto suo.",
           "other": "Aggiungi un messaggio affettuoso sulla prima pagina. Le tue parole, conservate in un libro tutto loro."
         },
         "preview": {
