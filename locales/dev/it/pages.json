@@ -513,7 +513,7 @@
       "ideas": "Idee per la dedica"
     },
     "placeholder": {
-      "default": "Caro/a {{name}},\n\nChe i tuoi sogni siano vasti come il cielo e il tuo spirito voli sempre in alto. Ti auguriamo sempre il meglio.\n\nCon affetto, mamma e papà"
+      "default": "{{name}},\n\nti auguriamo di guardare lontano e di seguire sempre i tuoi sogni, ovunque ti portino. Ti vogliamo un mondo di bene.\n\nCon affetto, mamma e papà"
     },
     "thankYou": {
       "heading": "Grazie!",
@@ -570,7 +570,7 @@
     "thankYou": {
       "heading": "Grazie, sei davvero una meraviglia!",
       "message": "Hai appena creato una storia unica per {{name}}",
-      "tracking": "Una volta che il libro sarà stampato e spedito, ti invieremo le informazioni di tracciamento via email."
+      "tracking": "Quando il libro sarà stampato e spedito, ti invieremo le informazioni di tracciamento via email."
     }
   },
   "CartRedirect": {
