@@ -21,18 +21,18 @@
   },
   "orderStatus": {
     "pending": {
-      "will_be_given_for_printing_order_status_string": "A breve sarà inviato in stampa",
+      "will_be_given_for_printing_order_status_string": "Sara inviato in stampa a breve",
       "will_be_given_for_printing_info_note": "Poiché ogni libro è realizzato su misura per ogni ordine, la stampa e la rilegatura richiedono un po' di tempo.",
       "delayed_order_status_string": "In ritardo",
-      "delayed_info_note": "Si è verificato un problema nell'elaborazione del tuo ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "delayed_info_note": "Si è verificato un problema nell'elaborazione dell'ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
       "paused_order_status_string": "In pausa su richiesta del cliente",
-      "paused_info_note": "La stampa di questo libro è stata messa in pausa su richiesta del cliente. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com."
+      "paused_info_note": "La stampa del libro è stata messa in pausa su richiesta del cliente. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com."
     },
     "printing": {
       "currently_in_printing_and_binding_stage_order_status_string": "Attualmente in fase di stampa e rilegatura",
       "currently_in_printing_and_binding_stage_info_note": "Poiché ogni libro è realizzato su misura per ogni ordine, la stampa e la rilegatura richiedono un po' di tempo.",
       "delayed_order_status_string": "In ritardo",
-      "delayed_info_note": "Si è verificato un ritardo nell'elaborazione del tuo ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "delayed_info_note": "Si è verificato un ritardo nell'elaborazione dell'ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
       "book_was_given_for_printing_info_note": "Questo libro è stato inviato per la ristampa il {date}."
     },
     "printed": {
