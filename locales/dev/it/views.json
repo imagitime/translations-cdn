@@ -2,14 +2,14 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Buon compleanno, ${childName}!\n\nChe tu possa sempre trovare gioia nelle piccole cose e continuare a brillare di luce propria.\n\nCon affetto, mamma",
-        "Buon Natale, ${childName}!\n\nChe la gioia e il calore di questo periodo ti accompagnino per tutto l'anno.\n\nCon tutto il nostro affetto, mamma e papà",
-        "A ${childName},\n\nUn bambino/a straordinario/a che ha il coraggio di sognare. Che tu possa sempre trovare motivi per sorridere.\n\nCon tanto affetto, nonna e nonno",
-        "Caro/a ${childName},\n\nChe i tuoi sogni siano vasti come il cielo e il tuo spirito voli sempre in alto. Ti auguriamo sempre il meglio.\n\nCon affetto, mamma e papà",
+        "Buon compleanno, ${childName}!\n\nVederti crescere è la gioia più grande. Siamo tutti orgogliosi della persona speciale che sei.\n\nCon affetto, mamma",
+        "Buon Natale, ${childName}!\n\nTi auguriamo tanti sorrisi, abbracci, giochi e una giornata piena di magia.\n\nTi vogliamo tanto bene. Mamma e papà",
+        "${childName},\n\nsei davvero speciale, e noi ti auguriamo di non smettere mai di sognare. Continua a sorridere come fai adesso.\n\nCon tanto affetto, nonna e nonno",
+        "${childName},\n\nti auguriamo di guardare lontano e di seguire sempre i tuoi sogni, ovunque ti portino. Ti vogliamo un mondo di bene.\n\nCon affetto, mamma e papà",
         "Carissimo/a ${childName},\n\nNel vasto cielo della vita, sii sempre la stella più luminosa. Siamo così orgogliosi di averti.\n\nCon affetto, zio e zia",
-        "${childName}, ogni anno che passa brilli ancora di più.\n\nChe i tuoi giorni siano pieni di risate, amore e meraviglia senza fine.\n\n- Con tutto il nostro affetto, mamma e papà",
-        "Ogni momento con te, ${childName}, è un dono.\n\nChe la tua vita sia bella e magica quanto lo sei tu per noi.\n\nPer sempre, mamma e papà",
-        "In questo vasto mondo, ${childName}, ricorda sempre:\n\nsei unico/a, sei amato/a e porti gioia nei nostri cuori ogni singolo giorno.\n\nCon affetto, mamma e papà"
+        "${childName}, ogni anno che passa splendi sempre di più.\n\nTi auguriamo una vita piena di risate, amore e meraviglia.\n\nCon tutto il nostro affetto, mamma e papà",
+        "${childName}, ogni momento con te è un dono.\n\nTi auguriamo una vita piena di bellezza e di magia, proprio come meriti.\n\nPer sempre con te, mamma e papà",
+        "${childName},\n\nricordati sempre quanto sei speciale e quanto ti amiamo. Porti gioia nei nostri cuori ogni singolo giorno.\n\nCon affetto, mamma e papà"
       ],
       "adult": [
         "To my beloved ${childName},\n\nOn this Valentine's Day, I wanted to capture all the reasons why my heart beats for you. This book is a testament to the love that makes us unique.\n\nAlways yours, ${giver_name}",
