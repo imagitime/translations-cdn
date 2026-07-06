@@ -553,7 +553,7 @@
       "otpSent": "Codice inviato!",
       "otpFailed": "Invio del codice non riuscito",
       "error": "Si è verificato un errore",
-      "invalidOTP": "Codice non valido. Se non riesci a tracciare il tuo ordine qui, puoi scriverci a support@imagitime.com o rispondere a una qualsiasi delle email che hai ricevuto da noi.",
+      "invalidOTP": "Codice non valido. Se non riesci a tracciare il tuo ordine qui, puoi scriverci a support@imagitime.com o rispondere a una delle email che hai ricevuto da noi.",
       "verifyError": "Si è verificato un errore durante la verifica del codice",
       "noOrders": "Nessun ordine trovato."
     },
@@ -563,7 +563,7 @@
     "status": {
       "printed": "Stampato",
       "printing": "Stampa in corso",
-      "pending": "A breve sarà inviato in stampa"
+      "pending": "Sarà inviato in stampa a breve"
     }
   },
   "ThanksForApproving": {
