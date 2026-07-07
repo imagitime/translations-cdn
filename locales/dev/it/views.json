@@ -40,7 +40,7 @@
       "stuck_in_transit_delivery_status_string": "Bloccato in transito",
       "stuck_delayed_info_note": "A causa di un problema, il tuo pacco sembra bloccato in transito. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
       "delayed_delivery_status_string": "In ritardo",
-      "delayed_info_note": "Il tuo ordine è in viaggio ma sembra in ritardo. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
+      "delayed_info_note": "Il tuo ordine è in viaggio, ma sembra in ritardo. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
       "not_available_delivery_status_string": "Stato della consegna non disponibile",
       "not_available_delivery_status_info_note": "La consegna sarà effettuata da {carrier}. Usa il numero di tracciamento - {tracking_number} per tracciare il tuo ordine.",
       "out_for_delivery_today_status_string": "In consegna oggi",
@@ -50,11 +50,11 @@
       "delivery_attempted_order_status_string": "Tentativo di consegna effettuato",
       "delivery_attempted_info_note": "Il corriere ha tentato di consegnare il libro ma non ci è riuscito. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
       "tracking_info_not_present_info_note": "La data di consegna prevista è quella fornita da {carrier}. Usa il numero di tracciamento - {tracking_number} per tracciare il tuo ordine.",
-      "shipped_order_info_note": "La data di consegna prevista è quella fornita da {carrier}. La data effettiva di consegna può variare a causa di fattori esterni."
+      "shipped_order_info_note": "La data di consegna prevista è quella fornita da {carrier}. La data effettiva di consegna potrebbe variare a causa di fattori esterni."
     },
     "cancelled": {
       "cancelled_order_status_string": "Il tuo ordine è stato annullato.",
-      "cancelled_info_note": "La stampa di questo libro è stata annullata. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com."
+      "cancelled_info_note": "La stampa del libro è stata annullata. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com."
     }
   },
   "orderTracking": {
@@ -80,8 +80,8 @@
   "adminOrderStatus": {
     "salutation": "Ciao {name},",
     "genericSalutation": "Ciao,",
-    "pendingPrinting": "Il tuo libro sarà inviato in stampa a breve. Poiché ogni libro è realizzato su misura per ogni persona, in genere occorrono in totale circa {min_days}-{max_days} giorni tra revisione, stampa, rilegatura e spedizione. Ti invieremo i dettagli del tracciamento della spedizione non appena il libro lascerà la tipografia. Grazie per la pazienza e la comprensione.",
-    "shipped": "Il tuo libro è stato stampato e spedito tramite {carrier}. Ecco il link di tracciamento.",
-    "inPrinting": "Il tuo libro è attualmente in fase di stampa e rilegatura. Poiché ogni libro è realizzato su misura per ogni persona, in genere occorrono in totale circa {min_days}-{max_days} giorni dall'ordine alla consegna. Ti invieremo i dettagli del tracciamento della spedizione non appena il libro lascerà la tipografia. Grazie per la pazienza e la comprensione."
+    "pendingPrinting": "il tuo libro sarà mandato in stampa a breve. Poiché ogni libro è realizzato su misura, in genere occorrono in totale circa {min_days}-{max_days} giorni tra revisione, stampa, rilegatura e spedizione. Ti invieremo i dettagli del tracciamento della spedizione non appena il libro lascerà la tipografia. Grazie per la pazienza e la comprensione.",
+    "shipped": "il tuo libro è stato stampato e spedito tramite {carrier}. Ecco il link di tracciamento.",
+    "inPrinting": "il tuo libro è attualmente in fase di stampa e rilegatura. Poiché ogni libro è realizzato su misura, in genere occorrono in totale circa {min_days}-{max_days} giorni dall'ordine alla consegna. Ti invieremo i dettagli del tracciamento della spedizione non appena il libro lascerà la tipografia. Grazie per la pazienza e la comprensione."
   }
 }
