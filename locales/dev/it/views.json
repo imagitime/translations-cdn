@@ -21,7 +21,7 @@
   },
   "orderStatus": {
     "pending": {
-      "will_be_given_for_printing_order_status_string": "Sara inviato in stampa a breve",
+      "will_be_given_for_printing_order_status_string": "Sarà mandato in stampa a breve",
       "will_be_given_for_printing_info_note": "Poiché ogni libro è realizzato su misura per ogni ordine, la stampa e la rilegatura richiedono un po' di tempo.",
       "delayed_order_status_string": "In ritardo",
       "delayed_info_note": "Si è verificato un problema nell'elaborazione dell'ordine. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
@@ -44,7 +44,7 @@
       "not_available_delivery_status_string": "Stato della consegna non disponibile",
       "not_available_delivery_status_info_note": "La consegna sarà effettuata da {carrier}. Usa il numero di tracciamento - {tracking_number} per tracciare il tuo ordine.",
       "out_for_delivery_today_status_string": "In consegna oggi",
-      "delivered_status_string": "Consegnato il {date}",
+      "delivered_status_string": "Consegnato in data {date}",
       "delivery_failed_order_status_string": "Consegna non riuscita!",
       "delivery_failed_info_note": "A causa di un problema, il tuo ordine non è stato consegnato. Usa il link di tracciamento per maggiori dettagli. Per ulteriore assistenza, rispondi a una delle email relative all'ordine o scrivici a support@imagitime.com.",
       "delivery_attempted_order_status_string": "Tentativo di consegna effettuato",
