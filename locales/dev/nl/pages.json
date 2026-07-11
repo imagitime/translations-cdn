@@ -576,7 +576,7 @@
   "CartRedirect": {
     "noBook": {
       "heading": "Op zoek naar je gepersonaliseerde boek?",
-      "message": "Je vindt de link naar je boekpreview in je inbox, in een e-mail van support@imagitime.com (Kijk in je Reclame- of spammap als de e-mail er niet in staat).",
+      "message": "Je vindt de link naar je boekvoorbeeld in je inbox, in een e-mail van support@imagitime.com (kijk in je reclame- of spammap als je de e-mail niet in je inbox ziet staan).",
       "contact": "Voor vragen kun je mailen naar"
     },
     "activeBook": {
