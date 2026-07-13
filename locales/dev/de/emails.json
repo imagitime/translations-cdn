@@ -112,8 +112,8 @@
   "standard_email.footer": "Du hast diese E-Mail erhalten, weil du ein personalisiertes Buch bei uns gekauft hast.",
   "standard_email.unsubscribe": "Wenn du diese E-Mails nicht mehr erhalten möchtest, kannst du dich <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">hier abmelden</a>.",
   "stuck_in_production_email.subject": "Update zu Ihrer Bestellung #{order_number}",
-  "stuck_in_production_email.message_1": "We wanted to let you know that there has been an unexpected delay with your order for {kid_name}'s book due to an incident at our printing facility.",
-  "stuck_in_production_email.message_2": "Our team is working hard to have your book printed and shipped as quickly as possible.",
-  "stuck_in_production_email.message_3": "Once your book is dispatched, you will receive an email with your tracking information.",
-  "stuck_in_production_email.message_4": "We sincerely apologise for the inconvenience. If you have any questions or need further assistance, please don't hesitate to reply to this email."
+  "stuck_in_production_email.message_1": "Wir möchten Sie darüber informieren, dass es aufgrund eines Vorfalls in unserem Druckzentrum zu einer unerwarteten Verzögerung bei Ihrer Bestellung für das Buch von {kid_name} gekommen ist.",
+  "stuck_in_production_email.message_2": "Unser Team arbeitet intensiv daran, Ihr Buch so schnell wie möglich zu drucken und zu versenden.",
+  "stuck_in_production_email.message_3": "Sobald Ihr Buch versandt wurde, erhalten Sie eine E-Mail mit den Informationen zur Sendungsverfolgung.",
+  "stuck_in_production_email.message_4": "Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. Wenn Sie Fragen haben oder weitere Unterstützung benötigen, antworten Sie einfach auf diese E-Mail."
 }
