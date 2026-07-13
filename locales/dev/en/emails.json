@@ -39,7 +39,7 @@
   "any_issues_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>.",
   "delivered_email.subject": "{kid_name}'s book has been delivered (Order #{order_number})",
   "delivered_email.greeting": "Dear {requester_name},",
-  "delivered_email.delivery_info": "We're excited to inform you that {kid_name}'s personalized book from Imagitime has been delivered!",
+  "delivered_email.delivery_info": "We're excited to inform you that {kid_name}'s personalized book from Imagitime has been delivered!",  
   "delivered_email.help_text": "If you have not received the book or if you have any complaints, please reply to this email and let us know. We will try our best to ensure that any issues are resolved promptly.",
   "delivered_email.thank_you": "Thank you for choosing Imagitime to create magical memories for {kid_name}.",
   "delivered_email.closing": "Sincerely,<br>Imagitime Team",
@@ -107,7 +107,13 @@
   "digital_pdf_email.intro": "Your digital PDF of \"{book_title}\" is ready!",
   "digital_pdf_email.pdf_ready": "We've attached the high resolution PDF to this email so you can start enjoying the story right away.",
   "digital_pdf_email.questions_text": "If you have any questions or need further assistance, simply reply to this email.",
+  "standard_email.reprint_policy": "If it arrives damaged, we provide a free replacement.",
   "standard_email.closing": "Warmest regards,<br>The Imagitime Team",
   "standard_email.footer": "You received this email because you purchased a personalized book from us.",
-  "standard_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>."
+  "standard_email.unsubscribe": "If you do not wish to receive these emails, please <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">unsubscribe here</a>.",
+  "stuck_in_production_email.subject": "Update on your order #{order_number}",                                                                                         
+  "stuck_in_production_email.message_1": "We wanted to let you know that there has been an unexpected delay with your order for {kid_name}'s book due to an incident at our printing facility.",
+  "stuck_in_production_email.message_2": "Our team is working hard to have your book printed and shipped as quickly as possible.",
+  "stuck_in_production_email.message_3": "Once your book is dispatched, you will receive an email with your tracking information.",
+  "stuck_in_production_email.message_4": "We sincerely apologise for the inconvenience. If you have any questions or need further assistance, please don't hesitate to reply to this email."
 }
