@@ -107,7 +107,13 @@
   "digital_pdf_email.intro": "il tuo PDF digitale di «{book_title}» è pronto!",
   "digital_pdf_email.pdf_ready": "Abbiamo allegato il PDF ad alta risoluzione a questa email, così puoi iniziare subito a goderti la storia.",
   "digital_pdf_email.questions_text": "Se hai domande o hai bisogno di ulteriore assistenza, rispondi pure a questa email.",
+  "standard_email.reprint_policy": "Se il libro arriva danneggiato, te ne inviamo uno nuovo gratuitamente.",
   "standard_email.closing": "Un caro saluto,<br>Il team di Imagitime",
   "standard_email.footer": "Hai ricevuto questa email perché hai acquistato uno dei nostri libri personalizzati.",
-  "standard_email.unsubscribe": "Se non desideri più ricevere queste email, <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">cancella qui la tua iscrizione</a>."
+  "standard_email.unsubscribe": "Se non desideri più ricevere queste email, <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">cancella qui la tua iscrizione</a>.",
+  "stuck_in_production_email.subject": "Update on your order #{order_number}",
+  "stuck_in_production_email.message_1": "We wanted to let you know that there has been an unexpected delay with your order for {kid_name}'s book due to an incident at our printing facility.",
+  "stuck_in_production_email.message_2": "Our team is working hard to have your book printed and shipped as quickly as possible.",
+  "stuck_in_production_email.message_3": "Once your book is dispatched, you will receive an email with your tracking information.",
+  "stuck_in_production_email.message_4": "We sincerely apologise for the inconvenience. If you have any questions or need further assistance, please don't hesitate to reply to this email."
 }
