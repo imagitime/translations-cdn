@@ -107,7 +107,13 @@
   "digital_pdf_email.intro": "Dein digitales PDF von „{book_title}\" ist fertig!",
   "digital_pdf_email.pdf_ready": "Wir haben das hochauflösende PDF an diese E-Mail angehängt, damit du die Geschichte sofort genießen kannst.",
   "digital_pdf_email.questions_text": "Wenn du Fragen hast oder weitere Hilfe benötigst, antworte einfach auf diese E-Mail.",
+  "standard_email.reprint_policy": "Sollte das Buch beschädigt ankommen, senden wir Ihnen kostenlos ein Ersatzexemplar.",
   "standard_email.closing": "Herzliche Grüße,<br>Das Imagitime-Team",
   "standard_email.footer": "Du hast diese E-Mail erhalten, weil du ein personalisiertes Buch bei uns gekauft hast.",
-  "standard_email.unsubscribe": "Wenn du diese E-Mails nicht mehr erhalten möchtest, kannst du dich <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">hier abmelden</a>."
+  "standard_email.unsubscribe": "Wenn du diese E-Mails nicht mehr erhalten möchtest, kannst du dich <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">hier abmelden</a>.",
+  "stuck_in_production_email.subject": "Update zu Ihrer Bestellung #{order_number}",
+  "stuck_in_production_email.message_1": "Wir möchten Sie darüber informieren, dass es aufgrund eines Vorfalls in unserem Druckzentrum zu einer unerwarteten Verzögerung bei Ihrer Bestellung für das Buch von {kid_name} gekommen ist.",
+  "stuck_in_production_email.message_2": "Unser Team arbeitet intensiv daran, Ihr Buch so schnell wie möglich zu drucken und zu versenden.",
+  "stuck_in_production_email.message_3": "Sobald Ihr Buch versandt wurde, erhalten Sie eine E-Mail mit den Informationen zur Sendungsverfolgung.",
+  "stuck_in_production_email.message_4": "Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. Wenn Sie Fragen haben oder weitere Unterstützung benötigen, antworten Sie einfach auf diese E-Mail."
 }

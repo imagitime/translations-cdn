@@ -2,7 +2,7 @@
   "InitialForm": {
     "headings": {
       "whoToMakeBookFor": "Per chi vuoi creare il libro?",
-      "createYourChildsBookNow": "Crea ora il libro del tuo bambino/a"
+      "createYourChildsBookNow": "Crea il libro del tuo bambino o della tua bambina"
     },
     "labels": {
       "childName": "Nome del protagonista della storia",
@@ -170,7 +170,7 @@
     "editPagesQuestion": "Vuoi modificare la selezione delle pagine o aggiungere foto?",
     "buttons": {
       "editPageSelection": "Modifica selezione pagine",
-      "generateMoreOptions": "Genera altre opzioni",
+      "generateMoreOptions": "Genera più opzioni",
       "uploadMorePhotos": "Per migliorare: carica altre foto",
       "emailPreview": "Inviami l'anteprima via email",
       "savePreview": "Salva l'anteprima e mostra il prezzo",
@@ -202,7 +202,7 @@
       "number": "Pagina {{number}}",
       "loading": "Caricamento dell'immagine per la pagina {{number}}",
       "generating": "Generazione delle opzioni per la pagina {{number}}",
-      "generatingMoreOptions": "Generazione di altre opzioni",
+      "generatingMoreOptions": "Generazione di più opzioni",
       "generatingTime": "Richiede circa 60 secondi",
       "waiting": "In attesa del caricamento della pagina {{number}}"
     },
@@ -220,10 +220,10 @@
       "deleted": "Il libro generato e le foto caricate sono stati eliminati e non sono più disponibili.",
       "support": "Domande? Scrivi a support@imagitime.com",
       "cancelled": "Questo ordine è stato annullato.",
-      "printing": "Questo libro è già stato inviato in stampa.",
-      "shipped": "Questo libro è stato spedito il {{date}}<br>Corriere: {{carrier}}<br>Codice di tracciamento: {{tracking}}",
+      "printing": "Questo libro è già stato mandato in stampa.",
+      "shipped": "Questo libro è stato spedito in data {{date}}<br>Corriere: {{carrier}}<br>Codice di tracciamento: {{tracking}}",
       "reprintSupportInstruction": "Rispondi all'email che hai ricevuto da <strong>{{supportEmail}}</strong> per mandare questo libro in stampa.",
-      "pdfPendingNotice": "La tua copia digitale in PDF ti verrà inviata via email una volta che il libro sarà approvato e inviato in stampa."
+      "pdfPendingNotice": "La tua copia digitale in PDF ti verrà inviata via email quando il libro sarà approvato e mandato in stampa."
     },
     "timer": {
       "message": "Stiamo creando il libro di {{name}}..."
@@ -244,15 +244,15 @@
     "testimonials": {
       "child": [
         {
-          "text": "«Non avevo mai visto gli occhi di mia figlia illuminarsi così per nessun regalo che le abbia mai fatto.»",
+          "text": "«Non avevo mai visto gli occhi di mia figlia illuminarsi così per nessun regalo che le ho fatto.»",
           "author": "Ashley S"
         },
         {
-          "text": "«PAZZESCO! La qualità, le illustrazioni, la storia... tutto quanto!»",
+          "text": "«PAZZESCO! La qualità, le illustrazioni, la storia... tutto!»",
           "author": "Kristen"
         },
         {
-          "text": "«Mio figlio è rimasto affascinato dalla storia e dal fatto di esserne il protagonista.»",
+          "text": "«Mio figlio è stato conquistato dalla storia e dal fatto di esserne il protagonista.»",
           "author": "Teddy"
         },
         {
@@ -260,7 +260,7 @@
           "author": "Ellie"
         },
         {
-          "text": "«È un ricordo da custodire. È anche un fantastico regalo personalizzato per i figli dei miei amici.»",
+          "text": "«È un ricordo da custodire. Ed è anche un fantastico regalo personalizzato per i figli dei miei amici.»",
           "author": "Ritika"
         },
         {
@@ -268,7 +268,7 @@
           "author": "SNJ"
         },
         {
-          "text": "«Davvero semplice da creare. Il libro finito è di qualità eccellente.»",
+          "text": "«Crearlo è semplicissimo, e il libro finito è di grandissima qualità.»",
           "author": "Anna"
         },
         {
@@ -276,21 +276,21 @@
           "author": "Surbhi K."
         },
         {
-          "text": "«Un libro bellissimo e di qualità favolosa. Vale ogni centesimo ed è un regalo adorabile.»",
+          "text": "«Un libro bellissimo e di una qualità eccezionale. Vale ogni centesimo ed è un regalo fantastico.»",
           "author": "Gill"
         }
       ],
       "adult": [
         {
-          "text": "«La mia ragazza è stata travolta dalla felicità. È un ricordo per tutta la vita.»",
+          "text": "«La mia ragazza è stata felicissima. È un ricordo per tutta la vita.»",
           "author": "Liam D"
         },
         {
-          "text": "«Un libro bellissimo e di qualità favolosa. Vale ogni centesimo ed è un regalo adorabile.»",
+          "text": "«Un libro bellissimo e di una qualità eccezionale. Vale ogni centesimo ed è un regalo fantastico.»",
           "author": "Gill"
         },
         {
-          "text": "«Volevo regalargli qualcosa di unico, e questo libro ha racchiuso tutto ciò che lui significa per me.»",
+          "text": "«Volevo regalargli qualcosa di unico, e questo libro esprime tutto quello che lui significa per me.»",
           "author": "Olivia K"
         },
         {
@@ -298,23 +298,23 @@
           "author": "A Daly"
         },
         {
-          "text": "«Ho appena ricevuto il mio ordine. Adoro il libro!!! La qualità è squisita e il servizio clienti è fantastico.»",
+          "text": "«Ho appena ricevuto il mio ordine. Il libro è stupendo!!! La qualità è ottima e il servizio clienti è eccezionale.»",
           "author": "Victorina P"
         },
         {
-          "text": "«Il mio ragazzo non pensava che notassi tutti quei piccoli dettagli su di lui. Questo libro ha significato tantissimo per lui.»",
+          "text": "«Il mio ragazzo non pensava che notassi tutte quelle piccole cose su di lui. Questo libro lo ha davvero colpito.»",
           "author": "Amelia R"
         },
         {
-          "text": "«Il libro è realizzato magnificamente e l'esperienza come cliente è stata impeccabile.»",
+          "text": "«Il libro è meraviglioso e l'esperienza cliente è stata impeccabile.»",
           "author": "Janice"
         },
         {
-          "text": "«Continuava a sorridere e a dire: \"È proprio da me!\" Era il regalo perfetto.»",
+          "text": "«Continuava a sorridere e a dire: \"Sono proprio io!\" Era il regalo perfetto.»",
           "author": "Michael T"
         },
         {
-          "text": "«Questo libro è incredibile. Le immagini erano così realistiche che Amy è rimasta senza parole.»",
+          "text": "«Questo libro è incredibile. Le immagini sono così realistiche che Amy è rimasta senza parole.»",
           "author": "Jake C"
         }
       ]
@@ -513,7 +513,7 @@
       "ideas": "Idee per la dedica"
     },
     "placeholder": {
-      "default": "Caro/a {{name}},\n\nChe i tuoi sogni siano vasti come il cielo e il tuo spirito voli sempre in alto. Ti auguriamo sempre il meglio.\n\nCon affetto, mamma e papà"
+      "default": "{{name}},\n\nti auguriamo di guardare lontano e di seguire sempre i tuoi sogni, ovunque ti portino. Ti vogliamo un mondo di bene.\n\nCon affetto, mamma e papà"
     },
     "thankYou": {
       "heading": "Grazie!",
@@ -553,7 +553,7 @@
       "otpSent": "Codice inviato!",
       "otpFailed": "Invio del codice non riuscito",
       "error": "Si è verificato un errore",
-      "invalidOTP": "Codice non valido. Se non riesci a tracciare il tuo ordine qui, puoi scriverci a support@imagitime.com o rispondere a una qualsiasi delle email che hai ricevuto da noi.",
+      "invalidOTP": "Codice non valido. Se non riesci a tracciare il tuo ordine qui, puoi scriverci a support@imagitime.com o rispondere a una delle email che hai ricevuto da noi.",
       "verifyError": "Si è verificato un errore durante la verifica del codice",
       "noOrders": "Nessun ordine trovato."
     },
@@ -563,14 +563,14 @@
     "status": {
       "printed": "Stampato",
       "printing": "Stampa in corso",
-      "pending": "A breve sarà inviato in stampa"
+      "pending": "Sarà inviato in stampa a breve"
     }
   },
   "ThanksForApproving": {
     "thankYou": {
-      "heading": "Grazie, sei davvero una meraviglia!",
+      "heading": "Che regalo meraviglioso!",
       "message": "Hai appena creato una storia unica per {{name}}",
-      "tracking": "Una volta che il libro sarà stampato e spedito, ti invieremo le informazioni di tracciamento via email."
+      "tracking": "Quando il libro sarà stampato e spedito, ti invieremo le informazioni di tracciamento via email."
     }
   },
   "CartRedirect": {

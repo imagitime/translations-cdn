@@ -121,7 +121,7 @@
       "finishedUploading": "Klaar met uploaden",
       "uploadPhotos": "Foto's uploaden",
       "choosePhoto": "Foto kiezen",
-      "showPreview": "Bekijk de boekpreview van {{name}}",
+      "showPreview": "Bekijk het boekvoorbeeld van {{name}}",
       "lastStepPages": "Laatste stap: pagina's selecteren"
     },
     "uploadOptions": {
@@ -576,12 +576,12 @@
   "CartRedirect": {
     "noBook": {
       "heading": "Op zoek naar je gepersonaliseerde boek?",
-      "message": "Je vindt de link naar je boekpreview in je inbox, in een e-mail van support@imagitime.com (Kijk in je Reclame- of spammap als de e-mail er niet in staat).",
+      "message": "Je vindt de link naar je boekvoorbeeld in je inbox, in een e-mail van support@imagitime.com (kijk in je reclame- of spammap als je de e-mail niet in je inbox ziet staan).",
       "contact": "Voor vragen kun je mailen naar"
     },
     "activeBook": {
       "heading": "Eén boek tegelijk",
-      "message": "Op dit moment kun je één boek tegelijk maken en bestellen. Wil je meerdere verschillende boeken bestellen, dan moet je aparte bestellingen plaatsen. Vanaf je tweede bestelling kun je wel de code FREESHIP gebruiken bij het afrekenen om gratis verzending te krijgen. Klik op de knop hieronder om terug te gaan naar het boek dat je aan het kopen was.",
+      "message": "Op dit moment kun je één boek tegelijk aanmaken en bestellen. Wil je meerdere of verschillende boeken bestellen, dan moet je voor elk boek een aparte bestelling plaatsen. Vanaf je tweede bestelling kun je bij het afrekenen echter de code FREESHIP gebruiken, waarmee de verzending gratis wordt. Klik op de knop hieronder om terug te gaan naar het boek dat je wilde kopen.",
       "backButton": "Terug naar mijn boek"
     }
   }
