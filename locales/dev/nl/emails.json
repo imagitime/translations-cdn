@@ -107,7 +107,13 @@
   "digital_pdf_email.intro": "Je digitale PDF van &quot;{book_title}&quot; is klaar!",
   "digital_pdf_email.pdf_ready": "We hebben de PDF in hoge resolutie bij deze e-mail gevoegd, zodat je direct van het verhaal kunt genieten.",
   "digital_pdf_email.questions_text": "Heb je vragen of hulp nodig? Reageer gewoon op deze e-mail.",
+  "standard_email.reprint_policy": "Komt het boek beschadigd aan? Dan sturen we je gratis een nieuw exemplaar.",
   "standard_email.closing": "Hartelijke groet,<br>Het Imagitime-team",
   "standard_email.footer": "Je ontvangt deze e-mail omdat je een gepersonaliseerd boek bij ons hebt gekocht.",
-  "standard_email.unsubscribe": "Wil je deze e-mails niet meer ontvangen? <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">Meld je hier af</a>."
+  "standard_email.unsubscribe": "Wil je deze e-mails niet meer ontvangen? <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">Meld je hier af</a>.",
+  "stuck_in_production_email.subject": "Update over je bestelling #{order_number}",
+  "stuck_in_production_email.message_1": "We wanted to let you know that there has been an unexpected delay with your order for {kid_name}'s book due to an incident at our printing facility.",
+  "stuck_in_production_email.message_2": "Our team is working hard to have your book printed and shipped as quickly as possible.",
+  "stuck_in_production_email.message_3": "Once your book is dispatched, you will receive an email with your tracking information.",
+  "stuck_in_production_email.message_4": "We sincerely apologise for the inconvenience. If you have any questions or need further assistance, please don't hesitate to reply to this email."
 }
