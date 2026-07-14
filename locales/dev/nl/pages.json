@@ -56,7 +56,7 @@
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder dan 18 ben en dat ik toestemming geef om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
+      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder dan 18 ben en dat ik toestemming geef om de verstrekte gegevens te gebruiken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
       "otherRelationshipText": "Ik bevestig dat ik ouder dan 18 ben en toestemming heb van de ouder of voogd van het kind om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy'>Privacybeleid</a>."
     },
     "months": {
@@ -76,7 +76,7 @@
     "ageRecommendation": {
       "betterFitTitle": "Dit past beter",
       "recommendationText": "Voor {{genderPlural}} van {{age}} jaar raden we <b>{{bookName}}</b> aan.",
-      "switchButtonText": "Wissel naar dit boek",
+      "switchButtonText": "Kies dit boek",
       "makingBookText": "We maken {{bookName}}"
     }
   },
