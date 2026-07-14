@@ -82,7 +82,7 @@
   "review_collection_email.feedback_request": "Nos encantaría conocer tu opinión al respecto, ¿podrías dedicarnos unos minutos y <strong>compartir tu experiencia</strong>? Tu comentario ayudará a otras personas a disfrutar de nuestros libros personalizados.",
   "review_collection_email.photo_request": "Si pudiste inmortalizar un momento especial de {kid_name} a través del libro, nos encantaría que lo incluyeras en tu reseña. ¡Las fotos dan vida a las experiencias y muestran la verdadera alegría que pueden proporcionar nuestros libros!",
   "review_collection_email.button_text": "Dejar una reseña",
-  "review_collection_email.not_received": "¿No has recibido el libro? Responde a este correo electrónico y resolveremos el problema.",
+  "review_collection_email.not_received": "¿Aún no has recibido el libro o tienes alguna incidencia? Solo tienes que responder a este email y lo resolveremos.",
   "review_collection_email.family_thank_you": "Gracias por formar parte de nuestra familia. ¡Estamos deseando conocer tu historia!",
   "review_collection_email.closing": "Saludos cordiales,<br>El equipo de Imagitime",
   "review_collection_email.footer": "Has recibido este correo porque nos has comprado un libro personalizado.",
@@ -109,5 +109,10 @@
   "digital_pdf_email.questions_text": "Si tienes alguna pregunta o necesitas ayuda, simplemente responde a este correo electrónico.",
   "standard_email.closing": "Un cordial saludo,<br>El Equipo de Imagitime",
   "standard_email.footer": "Has recibido este correo electrónico porque compraste un libro personalizado con nosotros.",
-  "standard_email.unsubscribe": "Si no deseas recibir estos correos electrónicos, por favor <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">cancela tu suscripción aquí</a>."
+  "standard_email.unsubscribe": "Si no deseas recibir estos correos electrónicos, por favor <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">cancela tu suscripción aquí</a>.",
+  "stuck_in_production_email.subject": "Retraso en tu pedido #{order_number} del libro de {kid_name}",
+  "stuck_in_production_email.message_1": "Queremos informarte de que se ha producido un retraso inesperado en tu pedido del libro de {kid_name} debido a una incidencia en nuestra imprenta.",
+  "stuck_in_production_email.message_2": "Nuestro equipo está trabajando sin descanso para imprimir y enviar tu libro lo antes posible.",
+  "stuck_in_production_email.message_3": "En cuanto tu libro se haya enviado, recibirás un email con la información de seguimiento.",
+  "stuck_in_production_email.message_4": "Sentimos mucho las molestias. Si tienes alguna pregunta o necesitas ayuda, no dudes en responder a este email."
 }

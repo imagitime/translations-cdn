@@ -2,14 +2,14 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Happy Birthday, ${childName}!\n\nMay you always find joy in little things and continue to shine bright.\n\nLove always, Mom",
-        "Merry Christmas, ${childName}!\n\nMay the joy and warmth of the season be with you throughout the year.\n\nWith all our love, Mom & Dad",
-        "Dedicated to ${childName},\n\nAn amazing kid who dares to dream. May you always find reasons to smile.\n\nWith lots of love, Grandma & Grandpa",
-        "Dear ${childName},\n\nMay your dreams be as boundless as the sky and your spirit always soar high. Wishing you the best always.\n\nLove, Mom & Dad",
-        "Dearest ${childName},\n\nIn the vast sky of life, always be the brightest star. We're so proud to call you ours.\n\nLove, Uncle & Aunt",
-        "${childName}, with each year, you shine even brighter.\n\nMay your days be filled with laughter, love, and endless wonder.\n\n- With all our love, Mom & Dad",
-        "Every moment with you, ${childName}, is a gift.\n\nMay your life be as delightful and magical as you are to us.\n\nAlways and forever, Mom & Dad",
-        "In this vast world, ${childName}, always remember:\n\nYou're unique, you're loved, and you bring joy to our hearts every single day.\n\nLove always, Mom & Dad"
+        "Fijne verjaardag, ${childName}!\n\nMoge je altijd vreugde vinden in de kleine dingen en blijf altijd zo stralen.\n\nVoor altijd liefs, mama",
+        "Vrolijk kerstfeest, ${childName}!\n\nMoge de vreugde en warmte van de feestdagen je het hele jaar door vergezellen.\n\nMet heel veel liefs, mama en papa",
+        "Opgedragen aan ${childName},\n\nEen geweldig kind dat durft te dromen. Moge je altijd redenen vinden om te lachen.\n\nMet heel veel liefs, oma en opa",
+        "Lieve ${childName},\n\nMogen je dromen zo grenzeloos zijn als de hemel en je geest altijd hoog vliegen. We wensen je altijd het allerbeste.\n\nLiefs, mama en papa",
+        "Allerliefste ${childName},\n\nWees in de weidse hemel van het leven altijd de allerhelderste ster. We zijn zo trots dat je bij ons hoort.\n\nLiefs, oom en tante",
+        "${childName}, met elk jaar straal je nog helderder.\n\nMogen je dagen gevuld zijn met lachen, liefde en eindeloze verwondering.\n\n- Met heel veel liefs, mama en papa",
+        "Elk moment met jou, ${childName}, is een cadeau.\n\nMoge je leven net zo heerlijk en magisch zijn als jij voor ons bent.\n\nVoor altijd, mama en papa",
+        "In deze grote wereld, ${childName}, vergeet nooit:\n\nJij bent uniek, we houden van je, en jij brengt elke dag opnieuw vreugde in onze harten.\n\nVoor altijd liefs, mama en papa"
       ],
       "adult": [
         "To my beloved ${childName},\n\nOn this Valentine's Day, I wanted to capture all the reasons why my heart beats for you. This book is a testament to the love that makes us unique.\n\nAlways yours, ${giver_name}",
@@ -21,40 +21,40 @@
   },
   "orderStatus": {
     "pending": {
-      "will_be_given_for_printing_order_status_string": "Will be given for printing soon",
-      "will_be_given_for_printing_info_note": "As our book is custom-made for each order, the printing and binding takes some time.",
-      "delayed_order_status_string": "Delayed",
-      "delayed_info_note": "There has been some issue in processing your order. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "paused_order_status_string": "Paused On Customer Request",
-      "paused_info_note": "This book's printing has been paused on customer request. For further support, please reply to any of the order related emails or write to us at support@imagitime.com."
+      "will_be_given_for_printing_order_status_string": "Wordt binnenkort naar de drukker gestuurd",
+      "will_be_given_for_printing_info_note": "Omdat ons boek voor elke bestelling op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
+      "delayed_order_status_string": "Vertraagd",
+      "delayed_info_note": "Er is een probleem opgetreden bij het verwerken van je bestelling. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "paused_order_status_string": "Gepauzeerd op verzoek van de klant",
+      "paused_info_note": "Het drukken van dit boek is gepauzeerd op verzoek van de klant. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com."
     },
     "printing": {
-      "currently_in_printing_and_binding_stage_order_status_string": "Currently in printing & binding stage",
-      "currently_in_printing_and_binding_stage_info_note": "As our book is custom-made for each order, the printing and binding takes some time.",
-      "delayed_order_status_string": "Delayed",
-      "delayed_info_note": "There has been a delay in processing your order. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "book_was_given_for_printing_info_note": "This book was given for reprinting on {date}."
+      "currently_in_printing_and_binding_stage_order_status_string": "Wordt nu gedrukt en gebonden",
+      "currently_in_printing_and_binding_stage_info_note": "Omdat ons boek voor elke bestelling op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
+      "delayed_order_status_string": "Vertraagd",
+      "delayed_info_note": "Er is een vertraging opgetreden bij het verwerken van je bestelling. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "book_was_given_for_printing_info_note": "Dit boek is op {date} naar de drukker gestuurd voor herdruk."
     },
     "printed": {
-      "shipped_order_status_string": "Shipped",
-      "stuck_in_transit_delivery_status_string": "Stuck In Transit",
-      "stuck_delayed_info_note": "Due to some issue, your package seems stuck in transit. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "delayed_delivery_status_string": "Delayed",
-      "delayed_info_note": "Your order is on the way but seems to be delayed. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "not_available_delivery_status_string": "Delivery Status Not Available",
-      "not_available_delivery_status_info_note": "Delivery will be done by {carrier}. Please use tracking number - {tracking_number} to track your order.",
-      "out_for_delivery_today_status_string": "Out For Delivery Today",
-      "delivered_status_string": "Delivered on {date}",
-      "delivery_failed_order_status_string": "Delivery Failed!",
-      "delivery_failed_info_note": "Due to some issue, your order could not be delivered. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "delivery_attempted_order_status_string": "Delivery Attempted",
-      "delivery_attempted_info_note": "The shipping carrier attempted to deliver the book but could not. Please use the tracking link to see further details. For further support, please reply to any of the order related emails or write to us at support@imagitime.com.",
-      "tracking_info_not_present_info_note": "Delivery date estimate is as provided by {carrier}. Please use tracking number - {tracking_number} to track your order.",
-      "shipped_order_info_note": "Delivery date estimate is as provided by {carrier}. Actual delivery date may vary due to external factors."
+      "shipped_order_status_string": "Verzonden",
+      "stuck_in_transit_delivery_status_string": "Vastgelopen tijdens transport",
+      "stuck_delayed_info_note": "Door een probleem lijkt je pakket onderweg vast te zitten. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "delayed_delivery_status_string": "Vertraagd",
+      "delayed_info_note": "Je bestelling is onderweg, maar lijkt vertraging te hebben. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "not_available_delivery_status_string": "Bezorgstatus niet beschikbaar",
+      "not_available_delivery_status_info_note": "De bezorging wordt verzorgd door {carrier}. Gebruik trackingnummer {tracking_number} om je bestelling te volgen.",
+      "out_for_delivery_today_status_string": "Wordt vandaag bezorgd",
+      "delivered_status_string": "Bezorgd op {date}",
+      "delivery_failed_order_status_string": "Bezorging mislukt!",
+      "delivery_failed_info_note": "Door een probleem kon je bestelling niet worden bezorgd. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "delivery_attempted_order_status_string": "Bezorgpoging",
+      "delivery_attempted_info_note": "De vervoerder heeft geprobeerd het boek te bezorgen, maar dat is niet gelukt. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "tracking_info_not_present_info_note": "De geschatte bezorgdatum wordt aangegeven door {carrier}. Gebruik trackingnummer {tracking_number} om je bestelling te volgen.",
+      "shipped_order_info_note": "De geschatte bezorgdatum wordt aangegeven door {carrier}. De werkelijke bezorgdatum kan afwijken door externe factoren."
     },
     "cancelled": {
-      "cancelled_order_status_string": "Your order has been cancelled.",
-      "cancelled_info_note": "This book's printing has been cancelled. For further support, please reply to any of the order related emails or write to us at support@imagitime.com."
+      "cancelled_order_status_string": "Je bestelling is geannuleerd.",
+      "cancelled_info_note": "Het drukken van dit boek is geannuleerd. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com."
     }
   },
   "orderTracking": {
@@ -78,10 +78,10 @@
     }
   },
   "adminOrderStatus": {
-    "salutation": "Hi {name},",
-    "genericSalutation": "Hi,",
-    "pendingPrinting": "Your book will be given for printing shortly. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days for review, printing, binding, and shipping. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding.",
-    "shipped": "Your book has been printed and shipped via {carrier}. Here's the tracking link.",
-    "inPrinting": "Your book is currently in the printing and binding stage. As our book is custom-made for each individual, it usually takes a total of around {min_days} to {max_days} days from order to delivery. We will share the shipment tracking details once it is dispatched from the printing facility. Thanks for your patience and understanding."
+    "salutation": "Hoi {name},",
+    "genericSalutation": "Hoi,",
+    "pendingPrinting": "Je boek wordt binnenkort naar de drukker gestuurd. Omdat ons boek voor iedereen op maat wordt gemaakt, duurt het hele proces van controle, drukken, binden en verzenden meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de trackinggegevens zodra het boek de drukker verlaat. Bedankt voor je geduld en begrip.",
+    "shipped": "Je boek is gedrukt en verzonden via {carrier}. Hier is de trackinglink.",
+    "inPrinting": "Je boek wordt op dit moment gedrukt en gebonden. Omdat ons boek voor iedereen op maat wordt gemaakt, duurt het hele proces van bestelling tot levering meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de trackinggegevens zodra het boek de drukker verlaat. Bedankt voor je geduld en begrip."
   }
 }
