@@ -165,7 +165,7 @@
     "headings": {
       "pageTitle": "Boekvoorbeeld van {{name}}"
     },
-    "morePhotosQuestion": "Wil je de preview verbeteren?",
+    "morePhotosQuestion": "Wil je het voorbeeld verbeteren?",
     "differentPhotoQuestion": "Wil je een andere foto proberen?",
     "editPagesQuestion": "Wil je je paginaselectie aanpassen of foto's toevoegen?",
     "buttons": {
@@ -192,7 +192,7 @@
       "reasons": {
         "multiplePeople": "Er staan meerdere personen op de foto",
         "faceEdges": "Gezicht of haar raakt de randen",
-        "blurry": "Wazige fotokwaliteit",
+        "blurry": "De foto is wazig",
         "obstruction": "Iets bedekt het gezicht"
       },
       "uploadPrompt": "Gebruik de knop \"Meer foto's uploaden\" om geschikte foto's toe te voegen.",
@@ -202,28 +202,28 @@
       "number": "Pagina {{number}}",
       "loading": "Afbeelding voor pagina {{number}} wordt geladen",
       "generating": "Opties voor pagina {{number}} worden gegenereerd",
-      "generatingMoreOptions": "Meer opties worden gegenereerd",
+      "generatingMoreOptions": "Meer opties genereren",
       "generatingTime": "Duurt ongeveer 60 seconden",
       "waiting": "Wachten op het laden van pagina {{number}}"
     },
     "instructions": {
       "instruction1": "De pagina's worden onder elkaar getoond",
-      "instruction2": "Veeg en laat elke pagina op de optie staan die je het mooist vindt",
-      "postOrderInstructions1": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te vegen",
-      "postOrderInstructions2": "Als je tevreden bent met alle pagina's, druk je op de knop \"Goedkeuren voor het drukken\"",
-      "postOrderSwipeInstructions1": "Veeg door de pagina-opties en zet elke pagina op de optie die je het mooist vindt",
-      "postOrderSwipeInstructions2": "Als alle pagina's klaar zijn, druk je op de knop \"Goedkeuren voor het drukken\"",
+      "instruction2": "Swipe en laat elke pagina op de optie staan die je het mooist vindt",
+      "postOrderInstructions1": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te swipen",
+      "postOrderInstructions2": "Als je tevreden bent met alle pagina's, druk je op de knop \"Goedkeuring geven voor het drukproces\"",
+      "postOrderSwipeInstructions1": "Swipe door de pagina-opties en zet elke pagina op de optie die je het mooist vindt",
+      "postOrderSwipeInstructions2": "Als alle pagina's klaar zijn, druk je op de knop \"Goedkeuring geven voor het drukproces\"",
       "fixedInstructions1": "De pagina's worden onder elkaar getoond",
-      "fixedInstructions2": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te vegen"
+      "fixedInstructions2": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te swipen"
     },
     "status": {
       "deleted": "Het gegenereerde boek en de geüploade foto's zijn verwijderd en niet meer beschikbaar.",
       "support": "Vragen? Mail naar support@imagitime.com",
       "cancelled": "Deze bestelling is geannuleerd.",
       "printing": "Dit boek is al naar de drukker gestuurd.",
-      "shipped": "Dit boek is verzonden op {{date}}<br>Vervoerder: {{carrier}}<br>Trackingcode: {{tracking}}",
+      "shipped": "Dit boek is verzonden op {{date}}<br>Vervoerder: {{carrier}}<br>Track- en tracecode: {{tracking}}",
       "reprintSupportInstruction": "Beantwoord de e-mail die je hebt ontvangen van <strong>{{supportEmail}}</strong> om dit boek te laten drukken.",
-      "pdfPendingNotice": "Je digitale PDF-kopie wordt naar je gemaild zodra je boek is goedgekeurd en naar de drukker is gestuurd."
+      "pdfPendingNotice": "Je digitale kopie (pdf) wordt naar je gemaild zodra je boek is goedgekeurd en naar de drukker is gestuurd."
     },
     "timer": {
       "message": "Het boek van {{name}} wordt gemaakt..."
@@ -244,7 +244,7 @@
     "testimonials": {
       "child": [
         {
-          "text": "\"Nog nooit zag ik de ogen van mijn dochter zo stralen om een cadeau dat ik haar ooit heb gegeven.\"",
+          "text": "\"Nog nooit zag ik de ogen van mijn dochter zo stralen bij een cadeautje dat ze van me kreeg.\"",
           "author": "Ashley S"
         },
         {
@@ -252,15 +252,15 @@
           "author": "Kristen"
         },
         {
-          "text": "\"Mijn zoon was helemaal gefascineerd door het verhaal en doordat hij zelf de hoofdpersoon was.\"",
+          "text": "\"Mijn zoon ging helemaal op in het verhaal doordat hij zelf de hoofdpersoon was.\"",
           "author": "Teddy"
         },
         {
-          "text": "\"Geweldig, uniek product – klantenservice UITMUNTEND – wordt voortaan mijn vaste cadeau.\"",
+          "text": "\"Geweldig, uniek product – klantenservice UITMUNTEND – dit cadeautje ga ik voortaan altijd geven.\"",
           "author": "Ellie"
         },
         {
-          "text": "\"Het is een dierbaar aandenken. Het is ook een echt fantastisch gepersonaliseerd cadeau voor de kinderen van mijn vrienden.\"",
+          "text": "\"Het is een dierbaar bezit. Het is ook echt een heel leuk persoonlijk cadeautje voor de kinderen van mijn vrienden.\"",
           "author": "Ritika"
         },
         {
@@ -268,29 +268,29 @@
           "author": "SNJ"
         },
         {
-          "text": "\"Heel eenvoudig samen te stellen. Het afgewerkte boek is van uitstekende kwaliteit.\"",
+          "text": "\"Heel eenvoudig samen te stellen. Het uiteindelijke boek is van uitstekende kwaliteit.\"",
           "author": "Anna"
         },
         {
-          "text": "\"Ik heb 4 boeken besteld en de ervaring was uitstekend.\"",
+          "text": "\"Ik heb 4 boeken besteld en de ervaring was uitmuntend.\"",
           "author": "Surbhi K."
         },
         {
-          "text": "\"Dit is een prachtig boek van fantastische kwaliteit. Het is zijn geld waard en een heerlijk cadeau.\"",
+          "text": "\"Dit is een prachtig boek, van goede kwaliteit. Het is het geld zeker waard en een heel leuk cadeau.\"",
           "author": "Gill"
         }
       ],
       "adult": [
         {
-          "text": "\"Mijn vriendin was helemaal overweldigd van geluk. Dit is een aandenken voor het leven.\"",
+          "text": "\"Mijn vriendin was er helemaal stil van. Dit is een bezit dat ze haar hele leven zal koesteren.\"",
           "author": "Liam D"
         },
         {
-          "text": "\"Dit is een prachtig boek van fantastische kwaliteit. Het is zijn geld waard en een heerlijk cadeau.\"",
+          "text": "\"Dit is een prachtig boek, van goede kwaliteit. Het is het geld zeker waard en een heel leuk cadeau.\"",
           "author": "Gill"
         },
         {
-          "text": "\"Ik wilde hem iets unieks geven, en dit boek ving alles wat hij voor me betekent.\"",
+          "text": "\"Ik wilde hem iets unieks geven, en dit boek weerspiegelt precies hoeveel hij voor me betekent.\"",
           "author": "Olivia K"
         },
         {
@@ -298,11 +298,11 @@
           "author": "A Daly"
         },
         {
-          "text": "\"Ik heb mijn bestelling net ontvangen. Ik ben dol op het boek!!! De kwaliteit is verfijnd en de klantenservice is geweldig.\"",
+          "text": "\"Ik heb mijn bestelling net ontvangen. Ik vind het boek fantastisch!!! De kwaliteit is helemaal super en de klantenservice is geweldig.\"",
           "author": "Victorina P"
         },
         {
-          "text": "\"Mijn vriend zei dat hij niet dacht dat ik al die kleine dingen aan hem opmerkte. Dit boek betekende de wereld voor hem.\"",
+          "text": "\"Mijn vriend zei dat hij niet had gedacht dat ik al die kleine dingen aan hem opmerkte. Dit boek betekende echt heel veel voor hem.\"",
           "author": "Amelia R"
         },
         {
@@ -322,22 +322,22 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Waar sturen we de boekpreview van {{name}} naartoe?"
+      "whereToSend": "Waar kunnen we het boekvoorbeeld van {{name}} naartoe sturen?"
     },
     "labels": {
       "email": "E-mail",
       "yourName": "Je naam"
     },
     "subscription": {
-      "question": "Wil je 10% directe korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
+      "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
       "yes": "Ja, graag!",
       "no": "Nee, bedankt"
     },
     "buttons": {
-      "sendPreview": "Stuur mij de preview"
+      "sendPreview": "Stuur mij het boekvoorbeeld"
     },
     "thankYou": {
-      "heading": "Bedankt!",
+      "heading": "Dank je wel!",
       "message": "We hebben je aanvraag ontvangen. We sturen je de boekpreview zodra die klaar is.",
       "explore": "Ondertussen kun je <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>onze andere boeken ontdekken</b></a>."
     }
