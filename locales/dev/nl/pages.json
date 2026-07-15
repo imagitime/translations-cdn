@@ -163,7 +163,7 @@
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "Boekpreview van {{name}}"
+      "pageTitle": "Boekvoorbeeld van {{name}}"
     },
     "morePhotosQuestion": "Wil je de preview verbeteren?",
     "differentPhotoQuestion": "Wil je een andere foto proberen?",
@@ -172,23 +172,23 @@
       "editPageSelection": "Paginaselectie bewerken",
       "generateMoreOptions": "Meer opties genereren",
       "uploadMorePhotos": "Voor een beter resultaat: meer foto's uploaden",
-      "emailPreview": "Mail mij de preview",
-      "savePreview": "Preview opslaan en prijs tonen",
+      "emailPreview": "Mail mij het voorbeeld",
+      "savePreview": "Boekvoorbeeld opslaan en prijs tonen",
       "changePicture": "Afbeelding wijzigen",
       "change": "Wijzigen",
       "createSimilar": "Soortgelijke maken",
       "buyDedication": "Persoonlijke boodschap kopen",
       "editDedication": "Persoonlijke boodschap bewerken",
-      "approveForPrinting": "Goedkeuren voor het drukken",
-      "reapproveForPrinting": "Opnieuw goedkeuren voor het drukken",
+      "approveForPrinting": "Goedkeuring geven voor het drukproces",
+      "reapproveForPrinting": "Opnieuw goedkeuring geven voor het drukproces",
       "uploadAnother": "Nog een foto uploaden",
       "addMore": "Meer foto's toevoegen",
-      "generateFromOtherPhotos": "Met andere foto's genereren",
-      "downloadPdf": "PDF downloaden"
+      "generateFromOtherPhotos": "Op basis van andere foto's genereren",
+      "downloadPdf": "Pdf downloaden"
     },
     "noUsablePhotos": {
       "heading": "Geen bruikbare foto's",
-      "text": "We konden geen van je geüploade foto's gebruiken voor de preview van het verhaal, om een of meer van de volgende redenen:",
+      "text": "We konden geen van je geüploade foto's gebruiken voor het boekvoorbeeld, om een of meer van de volgende redenen:",
       "reasons": {
         "multiplePeople": "Er staan meerdere personen op de foto",
         "faceEdges": "Gezicht of haar raakt de randen",
