@@ -2,14 +2,14 @@
   "dedication": {
     "suggestions": {
       "child": [
-        "Fijne verjaardag, ${childName}!\n\nMoge je altijd vreugde vinden in de kleine dingen en blijf altijd zo stralen.\n\nVoor altijd liefs, mama",
-        "Vrolijk kerstfeest, ${childName}!\n\nMoge de vreugde en warmte van de feestdagen je het hele jaar door vergezellen.\n\nMet heel veel liefs, mama en papa",
-        "Opgedragen aan ${childName},\n\nEen geweldig kind dat durft te dromen. Moge je altijd redenen vinden om te lachen.\n\nMet heel veel liefs, oma en opa",
-        "Lieve ${childName},\n\nMogen je dromen zo grenzeloos zijn als de hemel en je geest altijd hoog vliegen. We wensen je altijd het allerbeste.\n\nLiefs, mama en papa",
-        "Allerliefste ${childName},\n\nWees in de weidse hemel van het leven altijd de allerhelderste ster. We zijn zo trots dat je bij ons hoort.\n\nLiefs, oom en tante",
-        "${childName}, met elk jaar straal je nog helderder.\n\nMogen je dagen gevuld zijn met lachen, liefde en eindeloze verwondering.\n\n- Met heel veel liefs, mama en papa",
-        "Elk moment met jou, ${childName}, is een cadeau.\n\nMoge je leven net zo heerlijk en magisch zijn als jij voor ons bent.\n\nVoor altijd, mama en papa",
-        "In deze grote wereld, ${childName}, vergeet nooit:\n\nJij bent uniek, we houden van je, en jij brengt elke dag opnieuw vreugde in onze harten.\n\nVoor altijd liefs, mama en papa"
+        "Fijne verjaardag, ${childName}!\n\nMoge je altijd vreugde vinden in de kleine dingen en ook in de toekomst blijven stralen.\n\nLiefs, mama",
+        "Vrolijk kerstfeest, ${childName}!\n\nMoge de vreugde en warmte van de feestdagen je het hele jaar door vergezellen.\n\nHeel veel liefs, mama en papa",
+        "Opgedragen aan ${childName},\n\nJe bent een geweldig kind dat groots durft te dromen. We hopen dat je altijd redenen zult vinden om te genieten van het leven.\n\nHeel veel liefs, oma en opa",
+        "Lieve ${childName},\n\nMogen je dromen zo weids zijn als de hemel en je geest tot grote hoogten stijgen. We wensen je het allerbeste.\n\nLiefs, mama en papa",
+        "Allerliefste ${childName},\n\nWees in de weidse hemel van het leven altijd de allerhelderste ster. We zijn zo trots dat je deel uitmaakt van de familie.\n\nLiefs, oom en tante",
+        "${childName}, elk jaar straal jij nog helderder.\n\nMogen je dagen gevuld zijn met vreugde, liefde en eindeloze verwondering.\n\n- Heel veel liefs, mama en papa",
+        "Elk moment met jou, ${childName}, is een cadeau.\n\nMoge je leven net zo prachtig en magisch zijn als jij voor ons bent.\n\nVoor altijd, mama en papa",
+        "Hoe groot de wereld ook is, ${childName}, vergeet nooit:\n\nJij bent uniek, we houden zielsveel van je, en elke dag opnieuw vervul je onze harten met vreugde.\n\nVoor altijd liefs, mama en papa"
       ],
       "adult": [
         "To my beloved ${childName},\n\nOn this Valentine's Day, I wanted to capture all the reasons why my heart beats for you. This book is a testament to the love that makes us unique.\n\nAlways yours, ${giver_name}",
@@ -78,10 +78,10 @@
     }
   },
   "adminOrderStatus": {
-    "salutation": "Hoi {name},",
-    "genericSalutation": "Hoi,",
-    "pendingPrinting": "Je boek wordt binnenkort naar de drukker gestuurd. Omdat ons boek voor iedereen op maat wordt gemaakt, duurt het hele proces van controle, drukken, binden en verzenden meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de trackinggegevens zodra het boek de drukker verlaat. Bedankt voor je geduld en begrip.",
-    "shipped": "Je boek is gedrukt en verzonden via {carrier}. Hier is de trackinglink.",
-    "inPrinting": "Je boek wordt op dit moment gedrukt en gebonden. Omdat ons boek voor iedereen op maat wordt gemaakt, duurt het hele proces van bestelling tot levering meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de trackinggegevens zodra het boek de drukker verlaat. Bedankt voor je geduld en begrip."
+    "salutation": "Beste {name},",
+    "genericSalutation": "Hallo,",
+    "pendingPrinting": "Je boek wordt binnenkort naar de drukker gestuurd. Omdat onze boeken voor iedereen op maat worden gemaakt, duurt het hele proces van controle, drukken, binden en verzenden meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de track- en-tracegegevens zodra het boek de drukkerij verlaat. Bedankt voor je geduld en begrip.",
+    "shipped": "Je boek is gedrukt en verzonden via {carrier}. Hier is de track- en tracelink.",
+    "inPrinting": "Je boek wordt op dit moment gedrukt en gebonden. Omdat onze boeken voor iedereen op maat worden gemaakt, duurt het hele proces van bestelling tot levering meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de track- en tracegegevens zodra het boek de drukkerij verlaat. Bedankt voor je geduld en begrip."
   }
 }
