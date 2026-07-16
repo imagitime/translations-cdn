@@ -347,16 +347,16 @@
       "emailPreview": "Mail de previewlink van {{name}} en toon de prijs van het gedrukte boek"
     },
     "labels": {
-      "email": "E-mail",
+      "email": "E-mailadres",
       "yourName": "Je naam"
     },
     "descriptions": {
       "email": "We mailen je de previewlink."
     },
     "subscription": {
-      "question": "Wil je 10% directe korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
+      "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
       "yes": "Ja, graag!",
-      "no": "Nee, ik betaal de volle prijs"
+      "no": "Nee, ik betaal liever de volle prijs"
     },
     "buttons": {
       "savePreview": "Preview opslaan en prijs tonen"
