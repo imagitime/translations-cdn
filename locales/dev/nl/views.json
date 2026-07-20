@@ -22,39 +22,39 @@
   "orderStatus": {
     "pending": {
       "will_be_given_for_printing_order_status_string": "Wordt binnenkort naar de drukker gestuurd",
-      "will_be_given_for_printing_info_note": "Omdat ons boek voor elke bestelling op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
+      "will_be_given_for_printing_info_note": "Omdat elk boek dat je bestelt op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
       "delayed_order_status_string": "Vertraagd",
       "delayed_info_note": "Er is een probleem opgetreden bij het verwerken van je bestelling. Voor meer informatie kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
       "paused_order_status_string": "Gepauzeerd op verzoek van de klant",
-      "paused_info_note": "Het drukken van dit boek is gepauzeerd op verzoek van de klant. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com."
+      "paused_info_note": "Het drukken van dit boek is gepauzeerd op verzoek van de klant. Voor meer informatie kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com."
     },
     "printing": {
       "currently_in_printing_and_binding_stage_order_status_string": "Wordt nu gedrukt en gebonden",
-      "currently_in_printing_and_binding_stage_info_note": "Omdat ons boek voor elke bestelling op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
+      "currently_in_printing_and_binding_stage_info_note": "Omdat elk boek op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
       "delayed_order_status_string": "Vertraagd",
-      "delayed_info_note": "Er is een vertraging opgetreden bij het verwerken van je bestelling. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "delayed_info_note": "Er is een vertraging opgetreden bij het verwerken van je bestelling. Voor meer informatie kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
       "book_was_given_for_printing_info_note": "Dit boek is op {date} naar de drukker gestuurd voor herdruk."
     },
     "printed": {
       "shipped_order_status_string": "Verzonden",
-      "stuck_in_transit_delivery_status_string": "Vastgelopen tijdens transport",
-      "stuck_delayed_info_note": "Door een probleem lijkt je pakket onderweg vast te zitten. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "stuck_in_transit_delivery_status_string": "Vertraagd tijdens transport",
+      "stuck_delayed_info_note": "Door een probleem lijkt je pakket vertraging te hebben opgelopen tijdens het transport. Gebruik de track- en tracelink voor meer informatie. Heb je meer hulp nodig, dan kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
       "delayed_delivery_status_string": "Vertraagd",
-      "delayed_info_note": "Je bestelling is onderweg, maar lijkt vertraging te hebben. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "delayed_info_note": "Je bestelling is onderweg, maar lijkt vertraging te hebben. Gebruik de track- en tracelink voor meer informatie. Heb je meer hulp nodig, dan kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
       "not_available_delivery_status_string": "Bezorgstatus niet beschikbaar",
-      "not_available_delivery_status_info_note": "De bezorging wordt verzorgd door {carrier}. Gebruik trackingnummer {tracking_number} om je bestelling te volgen.",
+      "not_available_delivery_status_info_note": "Je pakket wordt bezorgd door {carrier}. Gebruik track- en tracecode {tracking_number} om je bestelling te volgen.",
       "out_for_delivery_today_status_string": "Wordt vandaag bezorgd",
       "delivered_status_string": "Bezorgd op {date}",
       "delivery_failed_order_status_string": "Bezorging mislukt!",
-      "delivery_failed_info_note": "Door een probleem kon je bestelling niet worden bezorgd. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "delivery_failed_info_note": "Door een probleem kon je bestelling niet worden bezorgd. Gebruik de track- en tracelink voor meer informatie. Heb je meer hulp nodig, dan kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
       "delivery_attempted_order_status_string": "Bezorgpoging",
-      "delivery_attempted_info_note": "De vervoerder heeft geprobeerd het boek te bezorgen, maar dat is niet gelukt. Gebruik de trackinglink voor meer informatie. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
-      "tracking_info_not_present_info_note": "De geschatte bezorgdatum wordt aangegeven door {carrier}. Gebruik trackingnummer {tracking_number} om je bestelling te volgen.",
-      "shipped_order_info_note": "De geschatte bezorgdatum wordt aangegeven door {carrier}. De werkelijke bezorgdatum kan afwijken door externe factoren."
+      "delivery_attempted_info_note": "De vervoerder heeft geprobeerd het boek te bezorgen, maar dat is niet gelukt. Gebruik de track- en tracelink voor meer informatie. Heb je meer hulp nodig, dan kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
+      "tracking_info_not_present_info_note": "De geschatte bezorgdatum wordt aangegeven door {carrier}. Gebruik track- en tracecode {tracking_number} om je bestelling te volgen.",
+      "shipped_order_info_note": "De geschatte bezorgdatum wordt aangegeven door {carrier}. De werkelijke bezorgdatum kan daarvan afwijken door externe factoren."
     },
     "cancelled": {
       "cancelled_order_status_string": "Je bestelling is geannuleerd.",
-      "cancelled_info_note": "Het drukken van dit boek is geannuleerd. Voor verdere hulp kun je antwoorden op een van de e-mails over je bestelling of mailen naar support@imagitime.com."
+      "cancelled_info_note": "Het drukken van dit boek is geannuleerd. Voor meer informatie kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com."
     }
   },
   "orderTracking": {
