@@ -14,7 +14,7 @@
   "admin_review_completed_email.greeting": "Hallo {requester_name},",
   "admin_review_completed_email.intro": "Bedankt voor het maken van het boek van {kid_name} bij Imagitime. Hieronder vind je de digitale versie van het boek ter referentie.",
   "admin_review_completed_email.button_text": "Boek van {kid_name} bekijken",
-  "admin_review_completed_email.printing_info": "Het boek gaat binnenkort naar de drukker. Wil je bij het bekijken nog iets aanpassen, klik dan onderaan de pagina op &quot;Goedkeuren voor het drukken&quot;.",
+  "admin_review_completed_email.printing_info": "Het boek gaat binnenkort naar de drukker. Wil je bij het bekijken nog iets aanpassen, klik dan onderaan de pagina op \"Goedkeuren voor het drukken\".",
   "admin_review_completed_email.delivery_info": "Omdat ons boek voor elke bestelling op maat wordt gemaakt, duurt het drukken, verzenden en bezorgen nog {min_days} tot {max_days} dagen. Zodra het boek de drukker verlaat, sturen we je de trackinggegevens.",
   "admin_review_completed_email.questions_text": "Heb je vragen? Neem gerust contact met ons op via deze e-mail.",
   "admin_review_completed_email.closing": "Bedankt,<br>Het Imagitime-team",
