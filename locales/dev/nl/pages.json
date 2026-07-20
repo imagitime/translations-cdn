@@ -553,7 +553,7 @@
       "otpSent": "Code verzonden!",
       "otpFailed": "Code kon niet worden verzonden",
       "error": "Er is een fout opgetreden",
-      "invalidOTP": "Ongeldige code. Als je je bestelling hier niet kunt volgen, kun je ons mailen op support@imagitime.com of antwoorden op een van de e-mails die je van ons hebt ontvangen.",
+      "invalidOTP": "Ongeldige code. Als je je bestelling hier niet kunt volgen, kun je ons mailen op support@imagitime.com of reageren op een van de e-mails die je van ons hebt ontvangen.",
       "verifyError": "Er is een fout opgetreden bij het verifiëren van de code",
       "noOrders": "Geen bestellingen gevonden."
     },
