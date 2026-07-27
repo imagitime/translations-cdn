@@ -109,7 +109,7 @@
   "digital_pdf_email.questions_text": "Se hai domande o hai bisogno di ulteriore assistenza, rispondi pure a questa email.",
   "standard_email.closing": "Un caro saluto,<br>Il team di Imagitime",
   "standard_email.footer": "Hai ricevuto questa email perché hai acquistato uno dei nostri libri personalizzati.",
-  "standard_email.unsubscribe": "Se non desideri più ricevere queste email, <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">cancella qui la tua iscrizione</a>.",
+  "standard_email.unsubscribe": "Se non desideri più ricevere queste email, <a href=\"https://293404e7.sibforms.com/serve/MUIFAKevHvYqwJJDyzzUxkVNVAK7Yuw-CHznjHD-HH3U_ZCSikDiEcQgZDXTOcg39xwgAVVAt7JQAsJRG9FeGZrPCRLMYH3iL0Awk6_vu9bia5Tb44Bw0MtBHE7eT_1q44bXgHkYpiTesUen9uQsKJSz3S2UA5fgNyQbr29Ygy3AZU0-BJOetZYkK-cavHEVWytdsLJ6TpmwV1-V\">disiscriviti qui</a>.",
   "stuck_in_production_email.subject": "Ritardo nel tuo ordine #{order_number} per il libro di {kid_name}",
   "stuck_in_production_email.message_1": "Vogliamo informarti che si è verificato un ritardo imprevisto nell'ordine del libro di {kid_name}, a causa di un problema presso la nostra tipografia.",
   "stuck_in_production_email.message_2": "Il nostro team sta lavorando con il massimo impegno per stampare e spedire il tuo libro il prima possibile.",
