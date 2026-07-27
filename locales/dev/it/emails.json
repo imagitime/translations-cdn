@@ -10,7 +10,7 @@
   "preview_email.questions_text": "Se hai domande o hai bisogno di assistenza, rispondi a questa email. Siamo qui per aiutarti a creare un ricordo prezioso per {kid_name}.",
   "preview_email.closing": "Un caro saluto,<br>Il team di Imagitime",
   "admin_review_completed_email.subject": "Il libro di {kid_name} sarà mandato in stampa a breve (Ordine #{order_number})",
-  "admin_review_completed_email.title": "Il libro di {kid_name} sarà inviato in stampa a breve",
+  "admin_review_completed_email.title": "Il libro di {kid_name} sarà mandato in stampa a breve",
   "admin_review_completed_email.greeting": "Ciao {requester_name},",
   "admin_review_completed_email.intro": "grazie per aver creato il libro di {kid_name} con Imagitime. Qui sotto trovi la versione digitale del libro come riferimento.",
   "admin_review_completed_email.button_text": "Vedi il libro di {kid_name}",
