@@ -325,7 +325,7 @@
       "whereToSend": "Waar kunnen we het boekvoorbeeld van {{name}} naartoe sturen?"
     },
     "labels": {
-      "email": "E-mail",
+      "email": "E-mailadres",
       "yourName": "Je naam"
     },
     "subscription": {
@@ -359,7 +359,7 @@
       "no": "Nee, ik betaal liever de volle prijs"
     },
     "buttons": {
-      "savePreview": "Preview opslaan en prijs tonen"
+      "savePreview": "Boekvoorbeeld opslaan en prijs tonen"
     }
   },
   "InterestedPage": {
