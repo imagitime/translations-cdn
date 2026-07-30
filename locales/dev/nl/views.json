@@ -22,7 +22,7 @@
   "orderStatus": {
     "pending": {
       "will_be_given_for_printing_order_status_string": "Wordt binnenkort naar de drukker gestuurd",
-      "will_be_given_for_printing_info_note": "Omdat elk boek dat je bestelt op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
+      "will_be_given_for_printing_info_note": "Omdat elk boek op maat wordt gemaakt, duurt het drukken en binden enige tijd.",
       "delayed_order_status_string": "Vertraagd",
       "delayed_info_note": "Er is een probleem opgetreden bij het verwerken van je bestelling. Voor meer informatie kun je reageren op een van de e-mails over je bestelling of mailen naar support@imagitime.com.",
       "paused_order_status_string": "Gepauzeerd op verzoek van de klant",
