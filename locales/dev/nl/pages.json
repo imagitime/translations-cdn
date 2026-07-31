@@ -13,8 +13,8 @@
       "adultAge": "Selecteer de leeftijd",
       "giverName": "Naam van de gever (jouw naam)",
       "kidCallsYou": "Hoe noemt het kind je?",
-      "kidCallsMommy": "Hoe noemt je kind mama? (bijv. mama, mam, mams)",
-      "kidCallsDaddy": "Hoe noemt je kind papa? (bijv. papa, pap, paps)",
+      "kidCallsMommy": "Hoe noemt je kind zijn of haar moeder? (Bijv. mama, mam, mams)",
+      "kidCallsDaddy": "Hoe noemt je kind zijn of haar vader? (Bijv. papa, pap, paps)",
       "language": "Taal",
       "relationshipToChild": "Wat is je relatie tot het kind?",
       "consentSectionHeader": "We nemen de privacy van kinderen serieus"
@@ -56,7 +56,7 @@
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder dan 18 ben en dat ik toestemming geef om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
+      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder dan 18 ben en dat ik toestemming geef om de verstrekte gegevens te gebruiken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
       "otherRelationshipText": "Ik bevestig dat ik ouder dan 18 ben en toestemming heb van de ouder of voogd van het kind om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy'>Privacybeleid</a>."
     },
     "months": {
@@ -76,7 +76,7 @@
     "ageRecommendation": {
       "betterFitTitle": "Dit past beter",
       "recommendationText": "Voor {{genderPlural}} van {{age}} jaar raden we <b>{{bookName}}</b> aan.",
-      "switchButtonText": "Wissel naar dit boek",
+      "switchButtonText": "Kies dit boek",
       "makingBookText": "We maken {{bookName}}"
     }
   },
@@ -163,36 +163,36 @@
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "Boekpreview van {{name}}"
+      "pageTitle": "Boekvoorbeeld van {{name}}"
     },
-    "morePhotosQuestion": "Wil je de preview verbeteren?",
+    "morePhotosQuestion": "Wil je het voorbeeld verbeteren?",
     "differentPhotoQuestion": "Wil je een andere foto proberen?",
     "editPagesQuestion": "Wil je je paginaselectie aanpassen of foto's toevoegen?",
     "buttons": {
       "editPageSelection": "Paginaselectie bewerken",
       "generateMoreOptions": "Meer opties genereren",
       "uploadMorePhotos": "Voor een beter resultaat: meer foto's uploaden",
-      "emailPreview": "Mail mij de preview",
-      "savePreview": "Preview opslaan en prijs tonen",
+      "emailPreview": "Mail mij het voorbeeld",
+      "savePreview": "Boekvoorbeeld opslaan en prijs tonen",
       "changePicture": "Afbeelding wijzigen",
       "change": "Wijzigen",
       "createSimilar": "Soortgelijke maken",
       "buyDedication": "Persoonlijke boodschap kopen",
       "editDedication": "Persoonlijke boodschap bewerken",
-      "approveForPrinting": "Goedkeuren voor het drukken",
-      "reapproveForPrinting": "Opnieuw goedkeuren voor het drukken",
+      "approveForPrinting": "Goedkeuring geven voor het drukproces",
+      "reapproveForPrinting": "Opnieuw goedkeuring geven voor het drukproces",
       "uploadAnother": "Nog een foto uploaden",
       "addMore": "Meer foto's toevoegen",
-      "generateFromOtherPhotos": "Met andere foto's genereren",
-      "downloadPdf": "PDF downloaden"
+      "generateFromOtherPhotos": "Op basis van andere foto's genereren",
+      "downloadPdf": "Pdf downloaden"
     },
     "noUsablePhotos": {
       "heading": "Geen bruikbare foto's",
-      "text": "We konden geen van je geüploade foto's gebruiken voor de preview van het verhaal, om een of meer van de volgende redenen:",
+      "text": "We konden geen van je geüploade foto's gebruiken voor het boekvoorbeeld, om een of meer van de volgende redenen:",
       "reasons": {
         "multiplePeople": "Er staan meerdere personen op de foto",
         "faceEdges": "Gezicht of haar raakt de randen",
-        "blurry": "Wazige fotokwaliteit",
+        "blurry": "De foto is wazig",
         "obstruction": "Iets bedekt het gezicht"
       },
       "uploadPrompt": "Gebruik de knop \"Meer foto's uploaden\" om geschikte foto's toe te voegen.",
@@ -202,28 +202,28 @@
       "number": "Pagina {{number}}",
       "loading": "Afbeelding voor pagina {{number}} wordt geladen",
       "generating": "Opties voor pagina {{number}} worden gegenereerd",
-      "generatingMoreOptions": "Meer opties worden gegenereerd",
+      "generatingMoreOptions": "Meer opties genereren",
       "generatingTime": "Duurt ongeveer 60 seconden",
       "waiting": "Wachten op het laden van pagina {{number}}"
     },
     "instructions": {
       "instruction1": "De pagina's worden onder elkaar getoond",
-      "instruction2": "Veeg en laat elke pagina op de optie staan die je het mooist vindt",
-      "postOrderInstructions1": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te vegen",
-      "postOrderInstructions2": "Als je tevreden bent met alle pagina's, druk je op de knop \"Goedkeuren voor het drukken\"",
-      "postOrderSwipeInstructions1": "Veeg door de pagina-opties en zet elke pagina op de optie die je het mooist vindt",
-      "postOrderSwipeInstructions2": "Als alle pagina's klaar zijn, druk je op de knop \"Goedkeuren voor het drukken\"",
+      "instruction2": "Swipe en laat elke pagina op de optie staan die je het mooist vindt",
+      "postOrderInstructions1": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te swipen",
+      "postOrderInstructions2": "Als je tevreden bent met alle pagina's, druk je op de knop \"Goedkeuring geven voor het drukproces\"",
+      "postOrderSwipeInstructions1": "Swipe door de pagina-opties en zet elke pagina op de optie die je het mooist vindt",
+      "postOrderSwipeInstructions2": "Als alle pagina's klaar zijn, druk je op de knop \"Goedkeuring geven voor het drukproces\"",
       "fixedInstructions1": "De pagina's worden onder elkaar getoond",
-      "fixedInstructions2": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te vegen"
+      "fixedInstructions2": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te swipen"
     },
     "status": {
       "deleted": "Het gegenereerde boek en de geüploade foto's zijn verwijderd en niet meer beschikbaar.",
       "support": "Vragen? Mail naar support@imagitime.com",
       "cancelled": "Deze bestelling is geannuleerd.",
       "printing": "Dit boek is al naar de drukker gestuurd.",
-      "shipped": "Dit boek is verzonden op {{date}}<br>Vervoerder: {{carrier}}<br>Trackingcode: {{tracking}}",
+      "shipped": "Dit boek is verzonden op {{date}}<br>Vervoerder: {{carrier}}<br>Track- en tracecode: {{tracking}}",
       "reprintSupportInstruction": "Beantwoord de e-mail die je hebt ontvangen van <strong>{{supportEmail}}</strong> om dit boek te laten drukken.",
-      "pdfPendingNotice": "Je digitale PDF-kopie wordt naar je gemaild zodra je boek is goedgekeurd en naar de drukker is gestuurd."
+      "pdfPendingNotice": "Je digitale kopie (pdf) wordt naar je gemaild zodra je boek is goedgekeurd en naar de drukker is gestuurd."
     },
     "timer": {
       "message": "Het boek van {{name}} wordt gemaakt..."
@@ -244,7 +244,7 @@
     "testimonials": {
       "child": [
         {
-          "text": "\"Nog nooit zag ik de ogen van mijn dochter zo stralen om een cadeau dat ik haar ooit heb gegeven.\"",
+          "text": "\"Nog nooit zag ik de ogen van mijn dochter zo stralen bij een cadeautje dat ze van me kreeg.\"",
           "author": "Ashley S"
         },
         {
@@ -252,15 +252,15 @@
           "author": "Kristen"
         },
         {
-          "text": "\"Mijn zoon was helemaal gefascineerd door het verhaal en doordat hij zelf de hoofdpersoon was.\"",
+          "text": "\"Mijn zoon ging helemaal op in het verhaal doordat hij zelf de hoofdpersoon was.\"",
           "author": "Teddy"
         },
         {
-          "text": "\"Geweldig, uniek product – klantenservice UITMUNTEND – wordt voortaan mijn vaste cadeau.\"",
+          "text": "\"Geweldig, uniek product – klantenservice UITMUNTEND – dit cadeautje ga ik voortaan altijd geven.\"",
           "author": "Ellie"
         },
         {
-          "text": "\"Het is een dierbaar aandenken. Het is ook een echt fantastisch gepersonaliseerd cadeau voor de kinderen van mijn vrienden.\"",
+          "text": "\"Het is een dierbaar bezit. Het is ook echt een heel leuk persoonlijk cadeautje voor de kinderen van mijn vrienden.\"",
           "author": "Ritika"
         },
         {
@@ -268,29 +268,29 @@
           "author": "SNJ"
         },
         {
-          "text": "\"Heel eenvoudig samen te stellen. Het afgewerkte boek is van uitstekende kwaliteit.\"",
+          "text": "\"Heel eenvoudig samen te stellen. Het uiteindelijke boek is van uitstekende kwaliteit.\"",
           "author": "Anna"
         },
         {
-          "text": "\"Ik heb 4 boeken besteld en de ervaring was uitstekend.\"",
+          "text": "\"Ik heb 4 boeken besteld en de ervaring was uitmuntend.\"",
           "author": "Surbhi K."
         },
         {
-          "text": "\"Dit is een prachtig boek van fantastische kwaliteit. Het is zijn geld waard en een heerlijk cadeau.\"",
+          "text": "\"Dit is een prachtig boek, van goede kwaliteit. Het is het geld zeker waard en een heel leuk cadeau.\"",
           "author": "Gill"
         }
       ],
       "adult": [
         {
-          "text": "\"Mijn vriendin was helemaal overweldigd van geluk. Dit is een aandenken voor het leven.\"",
+          "text": "\"Mijn vriendin was er helemaal stil van. Dit is een bezit dat ze haar hele leven zal koesteren.\"",
           "author": "Liam D"
         },
         {
-          "text": "\"Dit is een prachtig boek van fantastische kwaliteit. Het is zijn geld waard en een heerlijk cadeau.\"",
+          "text": "\"Dit is een prachtig boek, van goede kwaliteit. Het is het geld zeker waard en een heel leuk cadeau.\"",
           "author": "Gill"
         },
         {
-          "text": "\"Ik wilde hem iets unieks geven, en dit boek ving alles wat hij voor me betekent.\"",
+          "text": "\"Ik wilde hem iets unieks geven, en dit boek weerspiegelt precies hoeveel hij voor me betekent.\"",
           "author": "Olivia K"
         },
         {
@@ -298,11 +298,11 @@
           "author": "A Daly"
         },
         {
-          "text": "\"Ik heb mijn bestelling net ontvangen. Ik ben dol op het boek!!! De kwaliteit is verfijnd en de klantenservice is geweldig.\"",
+          "text": "\"Ik heb mijn bestelling net ontvangen. Ik vind het boek fantastisch!!! De kwaliteit is helemaal super en de klantenservice is geweldig.\"",
           "author": "Victorina P"
         },
         {
-          "text": "\"Mijn vriend zei dat hij niet dacht dat ik al die kleine dingen aan hem opmerkte. Dit boek betekende de wereld voor hem.\"",
+          "text": "\"Mijn vriend zei dat hij niet had gedacht dat ik al die kleine dingen aan hem opmerkte. Dit boek betekende echt heel veel voor hem.\"",
           "author": "Amelia R"
         },
         {
@@ -322,22 +322,22 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Waar sturen we de boekpreview van {{name}} naartoe?"
+      "whereToSend": "Waar kunnen we het boekvoorbeeld van {{name}} naartoe sturen?"
     },
     "labels": {
-      "email": "E-mail",
+      "email": "E-mailadres",
       "yourName": "Je naam"
     },
     "subscription": {
-      "question": "Wil je 10% directe korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
+      "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
       "yes": "Ja, graag!",
       "no": "Nee, bedankt"
     },
     "buttons": {
-      "sendPreview": "Stuur mij de preview"
+      "sendPreview": "Stuur mij het boekvoorbeeld"
     },
     "thankYou": {
-      "heading": "Bedankt!",
+      "heading": "Dank je wel!",
       "message": "We hebben je aanvraag ontvangen. We sturen je de boekpreview zodra die klaar is.",
       "explore": "Ondertussen kun je <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>onze andere boeken ontdekken</b></a>."
     }
@@ -347,19 +347,19 @@
       "emailPreview": "Mail de previewlink van {{name}} en toon de prijs van het gedrukte boek"
     },
     "labels": {
-      "email": "E-mail",
+      "email": "E-mailadres",
       "yourName": "Je naam"
     },
     "descriptions": {
       "email": "We mailen je de previewlink."
     },
     "subscription": {
-      "question": "Wil je 10% directe korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
+      "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
       "yes": "Ja, graag!",
-      "no": "Nee, ik betaal de volle prijs"
+      "no": "Nee, ik betaal liever de volle prijs"
     },
     "buttons": {
-      "savePreview": "Preview opslaan en prijs tonen"
+      "savePreview": "Boekvoorbeeld opslaan en prijs tonen"
     }
   },
   "InterestedPage": {
@@ -368,22 +368,22 @@
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 150.000+ blije gezinnen"
     },
     "offer": {
-      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% ambassadeurskorting vrijgespeeld",
+      "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% ambassadeurskorting beschikbaar",
       "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Drukken en bezorgen duurt {{min}} tot {{max}} dagen, dus houd daar rekening mee bij je bestelling",
       "changesAllowed": "Na je bestelling kun je nog 12 uur lang wijzigingen aanbrengen."
     },
     "buttons": {
       "buyHardcover": "Hardcover kopen",
       "buyPaperback": "Paperback kopen",
-      "goBackToPreview": "Terug naar de preview",
+      "goBackToPreview": "Terug naar het boekvoorbeeld",
       "subscribeGetDiscount": "Meld je aan en krijg 10% korting",
       "continueCheckout": "Doorgaan naar afrekenen",
       "next": "Volgende",
       "back": "Terug"
     },
     "shipping": {
-      "info": "+ {{price}} verzendkosten overal in {{region}}",
-      "freeInfo": "Gratis verzending overal in {{region}}"
+      "info": "+ {{price}} verzendkosten in {{region}}",
+      "freeInfo": "Gratis verzending in {{region}}"
     },
     "delivery": {
       "info": "Bezorging in {{min}} tot {{max}} dagen",
@@ -392,15 +392,15 @@
     "discount": {
       "subscriber": "{{percentage}}% korting voor abonnees loopt bijna af",
       "limited": "{{percentage}}% tijdelijke korting toegepast",
-      "ambassador": "{{percentage}}% ambassadeurskorting vrijgespeeld"
+      "ambassador": "{{percentage}}% ambassadeurskorting beschikbaar"
     },
     "subscription": {
       "heading": "Wil je 10% korting?",
-      "description": "Meld je aan voor onze nieuwsbrief en krijg 10% directe korting en als eerste toegang tot nieuwe boeken."
+      "description": "Meld je aan voor onze nieuwsbrief en krijg direct 10% korting en als eerste toegang tot nieuwe boeken."
     },
     "badges": {
       "popularChoice": "⭐ Populaire keuze ⭐",
-      "popularChoiceVariation1": "★ Populaire keuze • Plekken raken snel vol",
+      "popularChoiceVariation1": "★ Populaire keuze • Nog maar enkele beschikbaar",
       "soldOut": "Uitverkocht",
       "popularWithGrandparents": "⭐ Populair bij grootouders ⭐",
       "popularAddon": "⭐ Populaire add-on ⭐"
@@ -411,18 +411,18 @@
       "addSecondBook": "Nog een exemplaar toevoegen",
       "listTitle": "Extra exemplaar",
       "listSubtitle": "Eén om cadeau te geven, één om te houden",
-      "description": "Perfect als dierbaar aandenken of voor bij oma en opa.",
+      "description": "Een dierbaar bezit voor jezelf of voor bij oma en opa.",
       "subheadingByRelationship": {
         "grandparent": "Eén voor jou, één voor de ouders",
         "other": "Eén om cadeau te geven, één om voor altijd te bewaren"
       },
       "descriptionByRelationship": {
-        "grandparent": "Bewaar een exemplaar op je tablet om samen te lezen als ze op bezoek komen. Een digitaal aandenken dat altijd bij je is.",
-        "other": "Lees samen op de tablet tijdens het reizen. Een digitale back-up van dit dierbare aandenken."
+        "grandparent": "Bewaar een exemplaar op je tablet om samen te lezen als ze op bezoek komen. Een digitaal aandenken dat je altijd bij je kunt hebben.",
+        "other": "Lees gezellig samen op de tablet wanneer je onderweg bent. Een digitale back-up van dit dierbaar bezit."
       },
-      "descriptionControlAndExpA": "Perfect als dierbaar aandenken of voor bij oma en opa.",
+      "descriptionControlAndExpA": "Een dierbaar bezit voor jezelf of voor bij oma en opa.",
       "descriptionExpB": {
-        "grandparent": "Zo kunnen ze het in beide huizen lezen. Een dierbaar aandenken voor de hele familie.",
+        "grandparent": "Zo kunnen ze het op twee plekken lezen. Een dierbaar bezit voor de hele familie.",
         "other": "Perfect voor bij oma en opa, of als back-up van dit dierbare aandenken."
       }
     },
@@ -431,21 +431,21 @@
     },
     "addons": {
       "heading": "Vaak gekochte add-ons",
-      "subheading": "Voeg er gerust toe of ga direct naar afrekenen",
+      "subheading": "Voeg gerust toe of ga direct naar afrekenen",
       "controlHeading": "Maak het extra bijzonder!",
       "controlSubheading": "Voeg deze exclusieve extra's toe aan je bestelling.",
       "almostDone": "Bijna klaar",
       "skipLink": "Nee bedankt, alleen het boek",
       "digitalPdf": {
-        "title": "Digitaal PDF-aandenken",
-        "listTitle": "Digitale PDF",
+        "title": "Digitaal aandenken (pdf)",
+        "listTitle": "Digitale pdf",
         "listSubtitle": "Wordt na 24 uur per e-mail verstuurd",
-        "description": "Direct te downloaden, geleverd via e-mail. Perfect om te delen met familie of om voor altijd als back-up te bewaren.",
+        "description": "Direct te downloaden, geleverd via e-mail. Perfect om te delen met familie of om als back-up te bewaren.",
         "listDescription": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat.",
-        "controlListDescription": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat.",
+        "controlListDescription": "Pdf met hoge resolutie, wordt binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat.",
         "descriptionExperiment": {
           "grandparent": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat. Perfect om samen te lezen en te delen met familie.",
-          "other": "PDF met hoge resolutie, binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat. Perfect voor onderweg en om te delen met familie."
+          "other": "Pdf met hoge resolutie, wordt binnen 24 tot 48 uur per e-mail verstuurd zodra het boek naar de drukker gaat. Perfect voor onderweg en om te delen met familie."
         }
       },
       "dedicationMessage": {
@@ -456,7 +456,7 @@
         "listDescription": "Schrijf je eigen persoonlijke boodschap in het boek.",
         "controlListDescription": "Je kunt na het afrekenen een persoonlijke boodschap in het boek toevoegen.",
         "descriptionByRelationship": {
-          "grandparent": "Schrijf een hartverwarmende boodschap die ze voor altijd koesteren. Jouw woorden, bewaard in hun eigen boek.",
+          "grandparent": "Schrijf een hartverwarmende boodschap die ze voor altijd kunnen koesteren. Jouw woorden, bewaard in hun eigen boek.",
           "other": "Voeg een hartverwarmende boodschap toe op de eerste pagina. Jouw woorden, bewaard in hun eigen boek."
         },
         "preview": {
@@ -471,7 +471,7 @@
       }
     },
     "freeShipping": {
-      "title": "Kom je in aanmerking voor gratis verzending?",
+      "title": "Gratis verzending beschikbaar",
       "text": "Als je na deze bestelling binnen 24 uur nog een boek bestelt, is de verzending automatisch gratis."
     }
   },
@@ -484,7 +484,7 @@
     },
     "descriptions": {
       "personalTouch": "Geef je cadeau een persoonlijk tintje.",
-      "heartfeltMessage": "Of het nu bemoedigende woorden zijn of een speciaal bericht, verras ze met een hartverwarmende persoonlijke boodschap.",
+      "heartfeltMessage": "Of het nu bemoedigende woorden zijn of een bijzonder bericht, verras ze met een hartverwarmende persoonlijke boodschap.",
       "customize": "Na je aankoop kun je de boodschap aanpassen."
     }
   },
@@ -494,12 +494,12 @@
       "writeMessageFor": "Schrijf je eigen boodschap voor {{name}}"
     },
     "descriptions": {
-      "charLimit": "Minder dan {{chars}} tekens en maximaal {{lines}} aparte regels."
+      "charLimit": "Minder dan {{chars}} tekens en maximaal {{lines}} regels."
     },
     "errors": {
-      "exceededChars": "{{count}} tekens overschreden",
+      "exceededChars": "{{count}} tekens te veel",
       "noEmojis": "Verwijder emoji's",
-      "linesExceeded": "{{count}} regels overschreden"
+      "linesExceeded": "{{count}} regels te veel"
     },
     "counter": {
       "remaining": "{{count}} tekens over"
@@ -507,17 +507,17 @@
     "buttons": {
       "addMessage": "Persoonlijke boodschap toevoegen",
       "useTemplate": "Sjabloon gebruiken",
-      "goToPreview": "Naar de boekpreview"
+      "goToPreview": "Naar het boekvoorbeeld"
     },
     "labels": {
       "ideas": "Ideeën voor je boodschap"
     },
     "placeholder": {
-      "default": "Lieve {{name}},\n\nMogen je dromen zo grenzeloos zijn als de hemel en je geest altijd hoog vliegen. We wensen je altijd het allerbeste.\n\nLiefs, mama en papa"
+      "default": "Lieve {{name}},\n\nMogen je dromen zo weids zijn als de hemel en je geest tot grote hoogten stijgen. We wensen je het allerbeste.\n\nLiefs, mama en papa"
     },
     "thankYou": {
-      "heading": "Bedankt!",
-      "message": "We hebben je persoonlijke boodschap toegevoegd. Bekijk de pagina met je boodschap (pagina 2) in de boekpreview en controleer goed op typefouten of grammaticale fouten."
+      "heading": "Dank je wel!",
+      "message": "We hebben je persoonlijke boodschap toegevoegd. Bekijk de pagina met je boodschap (pagina 2) in het boekvoorbeeld en controleer goed op typefouten en grammaticale fouten."
     },
     "printFreeze": {
       "heading": "Dit boek is al naar de drukker gestuurd",
@@ -553,7 +553,7 @@
       "otpSent": "Code verzonden!",
       "otpFailed": "Code kon niet worden verzonden",
       "error": "Er is een fout opgetreden",
-      "invalidOTP": "Ongeldige code. Als je je bestelling hier niet kunt volgen, kun je ons mailen op support@imagitime.com of antwoorden op een van de e-mails die je van ons hebt ontvangen.",
+      "invalidOTP": "Ongeldige code. Als je je bestelling hier niet kunt volgen, kun je ons mailen op support@imagitime.com of reageren op een van de e-mails die je van ons hebt ontvangen.",
       "verifyError": "Er is een fout opgetreden bij het verifiëren van de code",
       "noOrders": "Geen bestellingen gevonden."
     },
@@ -570,7 +570,7 @@
     "thankYou": {
       "heading": "Bedankt, je bent echt geweldig!",
       "message": "Je hebt zojuist een uniek verhaal voor {{name}} gecreëerd",
-      "tracking": "Zodra het boek gedrukt en verzonden is, mailen we je de trackinginformatie."
+      "tracking": "Zodra het boek gedrukt en verzonden is, mailen we je de track- en trace-informatie."
     }
   },
   "CartRedirect": {
