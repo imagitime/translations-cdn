@@ -5,27 +5,27 @@
       "createYourChildsBookNow": "Crea il libro del tuo bambino o della tua bambina"
     },
     "labels": {
-      "childName": "Nome del protagonista della storia",
+      "childName": "Nome del bambino per la storia",
       "childAge": "Seleziona l'età attuale",
       "birthMonth": "Seleziona il mese di nascita",
       "adultName": "Nome",
       "bodyType": "Seleziona la corporatura",
       "adultAge": "Seleziona l'età",
       "giverName": "Nome di chi regala il libro (il tuo nome)",
-      "kidCallsYou": "Come ti chiama il/la bambino/a?",
+      "kidCallsYou": "Come ti chiama il bambino?",
       "kidCallsMommy": "Come chiama la sua mamma? (es. Mamma, Mami, Mammina)",
       "kidCallsDaddy": "Come chiama il suo papà? (es. Papà, Papi, Babbo)",
       "language": "Lingua",
-      "relationshipToChild": "Qual è il tuo rapporto con il bambino/a?",
+      "relationshipToChild": "Qual è il tuo rapporto con il bambino?",
       "consentSectionHeader": "Prendiamo sul serio la privacy dei bambini"
     },
     "experiment": {
       "title": "Per chi è questo libro?",
       "bookIn": "Libro in",
-      "childNameExp": "Nome del/della bambino/a",
+      "childNameExp": "Nome del bambino",
       "genderExp": "Genere",
       "ageExp": "Età",
-      "relationshipLabel": "Rapporto/parentela",
+      "relationshipLabel": "Rapporto con il bambino",
       "birthMonthExp": "Mese di nascita",
       "childNamePlaceholder": "es. Emma",
       "adultNamePlaceholder": "es. Sara",
@@ -33,7 +33,7 @@
       "kidCallsYouPlaceholder": "es. Mamma"
     },
     "relationshipOptions": {
-      "default": "Seleziona il tuo rapporto/parentela",
+      "default": "Seleziona il tuo rapporto con il bambino",
       "parentGuardian": "Genitore/Tutore legale",
       "grandparent": "Nonno/Nonna",
       "auntUncle": "Zia/Zio",
@@ -47,17 +47,17 @@
       "feminine": "Femminile"
     },
     "buttons": {
-      "nextStep": "Passo successivo ➔ Carica le foto"
+      "nextStep": "Passaggio successivo ➔ Carica le foto"
     },
     "validation": {
       "tooLongForBook": "È troppo lungo per il libro.",
-      "selectRelationship": "Seleziona il tuo rapporto con il/la bambino/a.",
+      "selectRelationship": "Seleziona il tuo rapporto con il bambino.",
       "consentRequired": "Devi dare il consenso per continuare."
     },
     "consent": {
-      "defaultConsentText": "[Seleziona qui sopra il tuo rapporto con il bambino/a per visualizzare il messaggio di consenso appropriato]",
-      "parentGuardianText": "Confermo di essere il genitore o il tutore legale di questo/a bambino/a, di avere più di 18 anni e di acconsentire a fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con l'<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
-      "otherRelationshipText": "Confermo di avere più di 18 anni e di avere il permesso del genitore o del tutore del bambino/a per fornire questi dati per la creazione di un libro di fiabe personalizzato in conformità con la <a href='/policies/privacy-policy'>Informativa sulla privacy</a>."
+      "defaultConsentText": "[Seleziona qui sopra il tuo rapporto con il bambino per visualizzare il messaggio di consenso appropriato]",
+      "parentGuardianText": "Confermo di essere il genitore o il tutore legale di questo/a bambino/a, di avere più di 18 anni e di acconsentire a fornire questi dati per la creazione di un libro personalizzato in conformità con l'<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
+      "otherRelationshipText": "Confermo di avere più di 18 anni e di avere il permesso del genitore o del tutore del/della bambino/a per fornire questi dati per la creazione di un libro personalizzato in conformità con l'<a href='/policies/privacy-policy'>Informativa sulla privacy</a>."
     },
     "months": {
       "january": "Gennaio",
@@ -138,7 +138,7 @@
       "previewUnavailable": "Questa anteprima non è più disponibile. Creane una nuova."
     },
     "consent": {
-      "photosConsent": "Acconsento al trattamento sicuro di queste foto esclusivamente per la creazione del libro di fiabe personalizzato. Le foto verranno eliminate dopo 24 ore se non salvo l'anteprima fornendo la mia email e dopo 1 anno anche se salvo l'anteprima. Sono consapevole di poter revocare il consenso in qualsiasi momento contattando support@imagitime.com"
+      "photosConsent": "Acconsento al trattamento sicuro di queste foto esclusivamente per la creazione del libro personalizzato. Le foto verranno eliminate dopo 24 ore se non salvo l'anteprima fornendo la mia email e dopo 1 anno anche se salvo l'anteprima. Sono consapevole di poter revocare il consenso in qualsiasi momento contattando support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -364,7 +364,7 @@
   },
   "InterestedPage": {
     "headings": {
-      "pageTitle": "Il libro di fiabe personalizzato di {{name}}",
+      "pageTitle": "Il libro personalizzato di {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • oltre 150.000 famiglie felici"
     },
     "offer": {
@@ -457,7 +457,7 @@
         "controlListDescription": "Potrai aggiungere un messaggio personale nel libro dopo il pagamento.",
         "descriptionByRelationship": {
           "grandparent": "Scrivi un messaggio affettuoso che custodirà per sempre. Le tue parole, conservate in un libro tutto suo.",
-          "other": "Aggiungi un messaggio affettuoso sulla prima pagina. Le tue parole, conservate in un libro tutto loro."
+          "other": "Aggiungi un messaggio affettuoso sulla prima pagina. Le tue parole, conservate in un libro tutto suo."
         },
         "preview": {
           "header": "Buon compleanno, {{name}}!",
@@ -520,7 +520,7 @@
       "message": "Abbiamo aggiunto il tuo messaggio personalizzato. Vai all'anteprima del libro e controlla la pagina della dedica (pagina 2) verificando che non ci siano errori grammaticali o di battitura."
     },
     "printFreeze": {
-      "heading": "Questo libro è già stato inviato in stampa",
+      "heading": "Questo libro è già stato mandato in stampa",
       "message": "Non è più possibile personalizzare il messaggio della dedica. Per qualsiasi domanda, scrivi a support@imagitime.com"
     }
   },
@@ -563,7 +563,7 @@
     "status": {
       "printed": "Stampato",
       "printing": "Stampa in corso",
-      "pending": "Sarà inviato in stampa a breve"
+      "pending": "Sarà mandato in stampa a breve"
     }
   },
   "ThanksForApproving": {
