@@ -260,7 +260,7 @@
           "author": "Ellie"
         },
         {
-          "text": "\"Het is een dierbaar bezit. Het is ook echt een heel leuk persoonlijk cadeautje voor de kinderen van mijn vrienden.\"",
+          "text": "\"Het is een dierbaar aandenken. Het is ook echt een heel leuk persoonlijk cadeautje voor de kinderen van mijn vrienden.\"",
           "author": "Ritika"
         },
         {
@@ -282,7 +282,7 @@
       ],
       "adult": [
         {
-          "text": "\"Mijn vriendin was er helemaal stil van. Dit is een bezit dat ze haar hele leven zal koesteren.\"",
+          "text": "\"Mijn vriendin was er helemaal stil van. Dit is een aandenken dat ze haar hele leven zal koesteren.\"",
           "author": "Liam D"
         },
         {
@@ -411,18 +411,18 @@
       "addSecondBook": "Nog een exemplaar toevoegen",
       "listTitle": "Extra exemplaar",
       "listSubtitle": "Eén om cadeau te geven, één om te houden",
-      "description": "Een dierbaar bezit voor jezelf of voor bij oma en opa.",
+      "description": "Een dierbaar aandenken voor jezelf of voor bij oma en opa.",
       "subheadingByRelationship": {
         "grandparent": "Eén voor jou, één voor de ouders",
         "other": "Eén om cadeau te geven, één om voor altijd te bewaren"
       },
       "descriptionByRelationship": {
         "grandparent": "Bewaar een exemplaar op je tablet om samen te lezen als ze op bezoek komen. Een digitaal aandenken dat je altijd bij je kunt hebben.",
-        "other": "Lees gezellig samen op de tablet wanneer je onderweg bent. Een digitale back-up van dit dierbaar bezit."
+        "other": "Lees gezellig samen op de tablet wanneer je onderweg bent. Een digitale back-up van dit dierbare aandenken."
       },
-      "descriptionControlAndExpA": "Een dierbaar bezit voor jezelf of voor bij oma en opa.",
+      "descriptionControlAndExpA": "Een dierbaar aandenken voor jezelf of voor bij oma en opa.",
       "descriptionExpB": {
-        "grandparent": "Zo kunnen ze het op twee plekken lezen. Een dierbaar bezit voor de hele familie.",
+        "grandparent": "Zo kunnen ze het op twee plekken lezen. Een dierbaar aandenken voor de hele familie.",
         "other": "Perfect voor bij oma en opa, of als back-up van dit dierbare aandenken."
       }
     },
