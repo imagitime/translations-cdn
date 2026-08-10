@@ -101,8 +101,8 @@
     },
     "photoRequirements": {
       "minimum": {
-        "regular": "Minimaal 2 foto's nodig voor de preview",
-        "career": "Minimaal 5 foto's nodig voor de preview"
+        "regular": "Minimaal 2 foto's nodig voor het boekvoorbeeld",
+        "career": "Minimaal 5 foto's nodig voor het boekvoorbeeld"
       },
       "recommended": {
         "range": "2 tot 4 foto's",
@@ -135,10 +135,10 @@
       "dimensionsTooSmall": "Afbeelding is te klein. Het minimumformaat is 100x100 pixels.",
       "dimensionsTooLarge": "Afbeelding is te groot. Het maximumformaat is 5000x5000 pixels.",
       "invalidImage": "Ongeldig afbeeldingsbestand",
-      "previewUnavailable": "Deze preview is niet meer beschikbaar. Maak een nieuwe preview."
+      "previewUnavailable": "Dit boekvoorbeeld is niet meer beschikbaar. Maak een nieuw boekvoorbeeld."
     },
     "consent": {
-      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto's, uitsluitend voor het maken van het gepersonaliseerde verhalenboek. De foto's worden na 24 uur verwijderd als ik de preview niet opsla door mijn e-mailadres op te geven, en na 1 jaar ook als ik de preview wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
+      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto's, uitsluitend met het oog op het maken van het gepersonaliseerde verhalenboek. De foto's worden na 24 uur verwijderd als ik het boekvoorbeeld niet opsla door mijn e-mailadres op te geven, en na 1 jaar zelfs als ik het boekvoorbeeld wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -344,14 +344,14 @@
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Mail de previewlink van {{name}} en toon de prijs van het gedrukte boek"
+      "emailPreview": "Mail de voorbeeldlink van {{name}} en toon de prijs van het gedrukte boek"
     },
     "labels": {
       "email": "E-mailadres",
       "yourName": "Je naam"
     },
     "descriptions": {
-      "email": "We mailen je de previewlink."
+      "email": "We mailen je de voorbeeldlink."
     },
     "subscription": {
       "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
