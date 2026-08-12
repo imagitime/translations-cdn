@@ -80,7 +80,7 @@
   "adminOrderStatus": {
     "salutation": "Beste {name},",
     "genericSalutation": "Hallo,",
-    "pendingPrinting": "Je boek wordt binnenkort naar de drukker gestuurd. Omdat onze boeken voor iedereen op maat worden gemaakt, duurt het hele proces van controle, drukken, binden en verzenden meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de track- en-tracegegevens zodra het boek de drukkerij verlaat. Bedankt voor je geduld en begrip.",
+    "pendingPrinting": "Je boek wordt binnenkort naar de drukker gestuurd. Omdat onze boeken voor iedereen op maat worden gemaakt, duurt het hele proces van controle, drukken, binden en verzenden meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de track- en tracegegevens zodra het boek de drukkerij verlaat. Bedankt voor je geduld en begrip.",
     "shipped": "Je boek is gedrukt en verzonden via {carrier}. Hier is de track- en tracelink.",
     "inPrinting": "Je boek wordt op dit moment gedrukt en gebonden. Omdat onze boeken voor iedereen op maat worden gemaakt, duurt het hele proces van bestelling tot levering meestal in totaal zo'n {min_days} tot {max_days} dagen. We sturen je de track- en tracegegevens zodra het boek de drukkerij verlaat. Bedankt voor je geduld en begrip."
   }
