@@ -73,8 +73,8 @@
   },
   "generationDetailsFunctions": {
     "messages": {
-      "processingUploadPhoto": "Processing Uploaded Photo {processed_count} out of {total_count} ...",
-      "preparingForGeneration": "Preparing For Generation ..."
+      "processingUploadPhoto": "Geüploade foto {processed_count} van {total_count} wordt verwerkt ...",
+      "preparingForGeneration": "Het genereren wordt voorbereid ..."
     }
   },
   "adminOrderStatus": {
