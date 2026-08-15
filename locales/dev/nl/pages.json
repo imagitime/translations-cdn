@@ -172,7 +172,7 @@
       "editPageSelection": "Paginaselectie bewerken",
       "generateMoreOptions": "Meer opties genereren",
       "uploadMorePhotos": "Voor een beter resultaat: meer foto's uploaden",
-      "emailPreview": "Mail mij het voorbeeld",
+      "emailPreview": "Mail mij het boekvoorbeeld",
       "savePreview": "Boekvoorbeeld opslaan en prijs tonen",
       "changePicture": "Afbeelding wijzigen",
       "change": "Wijzigen",
@@ -339,7 +339,7 @@
     "thankYou": {
       "heading": "Dank je wel!",
       "message": "We hebben je aanvraag ontvangen. We sturen je het boekvoorbeeld zodra dat klaar is.",
-      "explore": "Ondertussen kun je <a href=\"https://imagitime.com/pages/personalized-books-for-children\"><b>onze andere boeken ontdekken</b></a>."
+      "explore": "Ondertussen kun je <a href=\"https://imagitime.com/nl/pages/personalized-books-for-children\"><b>onze andere boeken ontdekken</b></a>."
     }
   },
   "InterestedContact": {
@@ -382,7 +382,7 @@
       "back": "Terug"
     },
     "shipping": {
-      "info": "+ {{price}} verzendkosten in {{region}}",
+      "info": "+ {{price}} verzendkosten in de {{region}}",
       "freeInfo": "Gratis verzending in {{region}}"
     },
     "delivery": {
