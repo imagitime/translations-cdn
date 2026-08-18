@@ -177,7 +177,7 @@
       "changePicture": "Afbeelding wijzigen",
       "change": "Wijzigen",
       "createSimilar": "Soortgelijke maken",
-      "buyDedication": "Persoonlijke boodschap kopen",
+      "buyDedication": "Persoonlijke boodschap kopen ",
       "editDedication": "Persoonlijke boodschap bewerken",
       "approveForPrinting": "Goedkeuren voor het drukken",
       "reapproveForPrinting": "Opnieuw goedkeuren voor het drukken",
@@ -480,7 +480,7 @@
       "makeSpecial": "Maak het boek nog specialer"
     },
     "buttons": {
-      "buyCustomized": "Persoonlijke boodschap kopen"
+      "buyCustomized": "Persoonlijke boodschap kopen "
     },
     "descriptions": {
       "personalTouch": "Geef je cadeau een persoonlijk tintje.",
