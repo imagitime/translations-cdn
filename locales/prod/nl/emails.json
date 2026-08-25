@@ -113,6 +113,6 @@
   "stuck_in_production_email.subject": "Vertraging bij je bestelling #{order_number} voor het boek van {kid_name}",
   "stuck_in_production_email.message_1": "We willen je laten weten dat er een onverwachte vertraging is opgetreden bij je bestelling van het boek van {kid_name}, door een incident bij onze drukkerij.",
   "stuck_in_production_email.message_2": "Ons team werkt er hard aan om je boek zo snel mogelijk te drukken en te verzenden.",
-  "stuck_in_production_email.message_3": "Zodra je boek is verzonden, ontvang je een e-mail met de track & trace-informatie.",
+  "stuck_in_production_email.message_3": "Zodra je boek is verzonden, ontvang je een e-mail met de track- en trace-informatie.",
   "stuck_in_production_email.message_4": "Onze excuses voor het ongemak. Heb je vragen of kunnen we ergens mee helpen? Reageer dan gerust op deze e-mail."
 }
