@@ -526,7 +526,7 @@
   },
   "TrackOrders": {
     "headings": {
-      "pageTitle": "Traccia il tuo ordine",
+      "pageTitle": "Traccia i tuoi ordini",
       "enterVerification": "Inserisci il codice di verifica",
       "yourOrders": "I tuoi ordini"
     },
