@@ -44,7 +44,8 @@
       "boy": "Garçon",
       "girl": "Fille",
       "masculine": "Masculin",
-      "feminine": "Féminin"
+      "feminine": "Féminin",
+      "notAvailableForThisBook": "Non disponible pour ce livre"
     },
     "buttons": {
       "nextStep": "Étape suivante ➔ Télécharger les photos"

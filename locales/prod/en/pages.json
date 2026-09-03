@@ -44,7 +44,8 @@
       "boy": "Boy",
       "girl": "Girl",
       "masculine": "Masculine",
-      "feminine": "Feminine"
+      "feminine": "Feminine",
+      "notAvailableForThisBook": "Not available for this book"
     },
     "buttons": {
       "nextStep": "Next Step ➔ Upload Photos"
