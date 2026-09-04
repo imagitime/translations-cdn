@@ -114,5 +114,22 @@
   "stuck_in_production_email.message_1": "We willen je laten weten dat er een onverwachte vertraging is opgetreden bij je bestelling van het boek van {kid_name}, door een incident bij onze drukkerij.",
   "stuck_in_production_email.message_2": "Ons team werkt er hard aan om je boek zo snel mogelijk te drukken en te verzenden.",
   "stuck_in_production_email.message_3": "Zodra je boek is verzonden, ontvang je een e-mail met de track- en trace-informatie.",
-  "stuck_in_production_email.message_4": "Onze excuses voor het ongemak. Heb je vragen of kunnen we ergens mee helpen? Reageer dan gerust op deze e-mail."
+  "stuck_in_production_email.message_4": "Onze excuses voor het ongemak. Heb je vragen of kunnen we ergens mee helpen? Reageer dan gerust op deze e-mail.",
+  "review_request_v2.subject": "How did {kid_name} like their book?",
+  "review_request_v2.title": "How did {kid_name} like it?",
+  "review_request_v2.rate_prompt": "Tap a star to rate {kid_name}'s book. It takes a minute.",
+  "review_request_v2.star_hint": "1 = not great, 5 = loved it",
+  "review_request_v2.photo_offer": "Add a photo of {kid_name} with the book and get <strong>{reward_percent}% off</strong> your next book.",
+  "review_request_v2.unsubscribe": "If you'd rather not receive review emails, <a href=\"{unsubscribe_url}\">unsubscribe here</a>.",
+  "review_reminder.subject": "A quick word about {kid_name}'s book?",
+  "review_reminder.intro": "We'd still love to hear how {kid_name} liked their book. One tap on a star is all it takes to start.",
+  "review_media_reminder.subject": "Get {reward_percent}% off: add a photo to your review",
+  "review_media_reminder.intro": "Thank you for reviewing {kid_name}'s book! Add a photo of {kid_name} with the book and we'll send you <strong>{reward_percent}% off</strong> your next book.",
+  "review_media_reminder.button_text": "Add a photo",
+  "review_media_reminder.note": "Your photo appears next to your review and helps other families choose.",
+  "review_coupon.subject": "Your {reward_percent}% off code for {kid_name}'s next adventure",
+  "review_coupon.intro": "Thank you for the photo! Here is your reward.",
+  "review_coupon.code_label": "Your code",
+  "review_coupon.button_text": "Use my {reward_percent}% off",
+  "review_coupon.validity": "Valid for 60 days on your next book. One use per customer, not combinable with other codes."
 }
