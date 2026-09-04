@@ -344,7 +344,7 @@
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Inviami il link dell'anteprima del libro di {{name}} e mostra il prezzo del volume stampato"
+      "emailPreview": "Inviami il link dell'anteprima del libro di {{name}} e mostra il prezzo del libro stampato"
     },
     "labels": {
       "email": "Email",
@@ -369,7 +369,7 @@
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% di sconto Ambasciatore sbloccato",
-      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Stampa e consegna richiedono da {{min}} a {{max}} giorni, tienine conto al momento dell'ordine",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Stampa e consegna richiedono da {{min}} a {{max}} giorni: tienine conto al momento dell'ordine",
       "changesAllowed": "Dopo l'ordine, puoi ancora apportare modifiche per 12 ore."
     },
     "buttons": {
@@ -382,7 +382,7 @@
       "back": "Indietro"
     },
     "shipping": {
-      "info": "+ {{price}} di spedizione in {{region}}",
+      "info": "+ {{price}} di spedizione ({{region}})",
       "freeInfo": "Spedizione gratuita in {{region}}"
     },
     "delivery": {
