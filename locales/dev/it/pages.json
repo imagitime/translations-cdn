@@ -365,7 +365,7 @@
   "InterestedPage": {
     "headings": {
       "pageTitle": "Il libro personalizzato di {{name}}",
-      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • oltre 150.000 famiglie felici"
+      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4.9/5 • 300,000+ happy families"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% di sconto Ambasciatore sbloccato",
