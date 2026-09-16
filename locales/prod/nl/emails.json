@@ -114,5 +114,22 @@
   "stuck_in_production_email.message_1": "We willen je laten weten dat er een onverwachte vertraging is opgetreden bij je bestelling van het boek van {kid_name}, door een incident bij onze drukkerij.",
   "stuck_in_production_email.message_2": "Ons team werkt er hard aan om je boek zo snel mogelijk te drukken en te verzenden.",
   "stuck_in_production_email.message_3": "Zodra je boek is verzonden, ontvang je een e-mail met de track- en trace-informatie.",
-  "stuck_in_production_email.message_4": "Onze excuses voor het ongemak. Heb je vragen of kunnen we ergens mee helpen? Reageer dan gerust op deze e-mail."
+  "stuck_in_production_email.message_4": "Onze excuses voor het ongemak. Heb je vragen of kunnen we ergens mee helpen? Reageer dan gerust op deze e-mail.",
+  "review_request_v2.subject": "Hoe vond {kid_name} het boek?",
+  "review_request_v2.title": "Hoe vond {kid_name} het?",
+  "review_request_v2.rate_prompt": "Tik op een ster om het boek van {kid_name} te beoordelen. Het kost maar een minuut.",
+  "review_request_v2.star_hint": "1 = tegenvallend, 5 = geweldig",
+  "review_request_v2.photo_offer": "Voeg een foto van {kid_name} met het boek toe en ontvang <strong>{reward_percent}% korting</strong> op je volgende boek.",
+  "review_request_v2.unsubscribe": "Wil je liever geen beoordelingsmails ontvangen? <a href=\"{unsubscribe_url}\">Meld je hier af</a>.",
+  "review_reminder.subject": "Een korte reactie over het boek van {kid_name}?",
+  "review_reminder.intro": "We horen nog steeds graag hoe {kid_name} het boek vond. Eén tik op een ster is genoeg om te beginnen.",
+  "review_media_reminder.subject": "{reward_percent}% korting: voeg een foto toe aan je beoordeling",
+  "review_media_reminder.intro": "Bedankt voor je beoordeling van het boek van {kid_name}! Voeg een foto van {kid_name} met het boek toe en we sturen je <strong>{reward_percent}% korting</strong> op je volgende boek.",
+  "review_media_reminder.button_text": "Foto toevoegen",
+  "review_media_reminder.note": "Je foto verschijnt naast je beoordeling en helpt andere gezinnen bij het kiezen.",
+  "review_coupon.subject": "Je {reward_percent}%-code voor het volgende avontuur van {kid_name}",
+  "review_coupon.intro": "Bedankt voor de foto! Hier is je beloning.",
+  "review_coupon.code_label": "Je code",
+  "review_coupon.button_text": "Mijn {reward_percent}% gebruiken",
+  "review_coupon.validity": "60 dagen geldig op je volgende boek. Eén keer per klant, niet te combineren met andere codes."
 }

@@ -114,5 +114,22 @@
   "stuck_in_production_email.message_1": "Nous tenons à vous informer qu'un incident survenu dans notre imprimerie a entraîné un retard imprévu dans le traitement de votre commande du livre de {kid_name}.",
   "stuck_in_production_email.message_2": "Notre équipe met tout en œuvre pour que votre livre soit imprimé et expédié dans les plus brefs délais.",
   "stuck_in_production_email.message_3": "Dès que votre livre sera expédié, vous recevrez un e-mail avec les informations de suivi.",
-  "stuck_in_production_email.message_4": "Nous vous prions de nous excuser pour ce désagrément. Si vous avez des questions ou besoin d'aide, n'hésitez pas à répondre à cet e-mail."
+  "stuck_in_production_email.message_4": "Nous vous prions de nous excuser pour ce désagrément. Si vous avez des questions ou besoin d'aide, n'hésitez pas à répondre à cet e-mail.",
+  "review_request_v2.subject": "Le livre a-t-il plu à {kid_name} ?",
+  "review_request_v2.title": "Le livre a-t-il plu à {kid_name} ?",
+  "review_request_v2.rate_prompt": "Touchez une étoile pour noter le livre de {kid_name}. Cela prend une minute.",
+  "review_request_v2.star_hint": "1 = décevant, 5 = adoré",
+  "review_request_v2.photo_offer": "Ajoutez une photo de {kid_name} avec le livre et recevez <strong>{reward_percent} % de réduction</strong> sur votre prochain livre.",
+  "review_request_v2.unsubscribe": "Si vous ne souhaitez plus recevoir d'e-mails d'avis, <a href=\"{unsubscribe_url}\">désabonnez-vous ici</a>.",
+  "review_reminder.subject": "Un petit mot sur le livre de {kid_name} ?",
+  "review_reminder.intro": "Nous aimerions toujours savoir si le livre a plu à {kid_name}. Une étoile suffit pour commencer.",
+  "review_media_reminder.subject": "{reward_percent} % de réduction : ajoutez une photo à votre avis",
+  "review_media_reminder.intro": "Merci pour votre avis sur le livre de {kid_name} ! Ajoutez une photo de {kid_name} avec le livre et nous vous offrons <strong>{reward_percent} % de réduction</strong> sur votre prochain livre.",
+  "review_media_reminder.button_text": "Ajouter une photo",
+  "review_media_reminder.note": "Votre photo apparaît à côté de votre avis et aide d'autres familles à choisir.",
+  "review_coupon.subject": "Votre code de {reward_percent} % pour la prochaine aventure de {kid_name}",
+  "review_coupon.intro": "Merci pour la photo ! Voici votre récompense.",
+  "review_coupon.code_label": "Votre code",
+  "review_coupon.button_text": "Utiliser mes {reward_percent} %",
+  "review_coupon.validity": "Valable 60 jours sur votre prochain livre. Une utilisation par client, non cumulable avec d'autres codes."
 }
