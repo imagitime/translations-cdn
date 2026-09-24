@@ -364,6 +364,31 @@
     }
   },
   "InterestedPage": {
+    "redesign": {
+      "hardcoverName": "Copertina rigida",
+      "paperbackName": "Copertina flessibile",
+      "orderCta": "Ordina",
+      "discountTag": "Sconto {{percentage}}%",
+      "sizeIn": "{{w}} × {{h}} in",
+      "sizeCm": "{{w}} × {{h}} cm",
+      "tabGrandparent": "La più scelta dai nonni",
+      "tabParent": "La più scelta dai genitori",
+      "tabOther": "La più scelta",
+      "shippingLabel": "Spedizione",
+      "arrivesLabel": "Consegna",
+      "changesLabel": "Modifiche possibili",
+      "cancelLabel": "Annullamento gratuito",
+      "hoursValue": "{{n}} ore",
+      "freeValue": "Gratuita",
+      "differenceLink": "Copertina rigida o flessibile?",
+      "hideLink": "Nascondi",
+      "hardcoverDesc": "Un libro con copertina rigida premium e finitura lucida di qualità. Fatto per essere letto e riletto.",
+      "paperbackDesc": "Una copertina flessibile, stampata su carta spessa e resistente. Le stesse pagine premium all'interno.",
+      "backToPreview": "Torna all'anteprima di {{name}}",
+      "printedIn": {
+        "eu": "Stampato in Europa."
+      }
+    },
     "headings": {
       "pageTitle": "Il libro personalizzato di {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • oltre 300.000 famiglie felici"

@@ -364,6 +364,31 @@
     }
   },
   "InterestedPage": {
+    "redesign": {
+      "hardcoverName": "Hardcover",
+      "paperbackName": "Paperback",
+      "orderCta": "Bestellen",
+      "discountTag": "{{percentage}}% korting",
+      "sizeIn": "{{w}} × {{h}} inch",
+      "sizeCm": "{{w}} × {{h}} cm",
+      "tabGrandparent": "De keuze van de meeste grootouders",
+      "tabParent": "De keuze van de meeste ouders",
+      "tabOther": "Meest gekozen",
+      "shippingLabel": "Verzending",
+      "arrivesLabel": "Bezorging",
+      "changesLabel": "Wijzigingen mogelijk",
+      "cancelLabel": "Gratis annuleren",
+      "hoursValue": "{{n}} uur",
+      "freeValue": "Gratis",
+      "differenceLink": "Hardcover of paperback?",
+      "hideLink": "Verbergen",
+      "hardcoverDesc": "Een luxe hardcover met een hoogwaardige glansafwerking. Gemaakt om keer op keer te lezen.",
+      "paperbackDesc": "Een flexibele kaft, gedrukt op dik, stevig papier. Binnenin dezelfde luxe pagina's.",
+      "backToPreview": "Terug naar het boekvoorbeeld van {{name}}",
+      "printedIn": {
+        "eu": "Gedrukt in Europa."
+      }
+    },
     "headings": {
       "pageTitle": "Het gepersonaliseerde verhalenboek van {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 300.000+ blije gezinnen"

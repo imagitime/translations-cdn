@@ -310,6 +310,33 @@
     }
   },
   "InterestedPage": {
+    "redesign": {
+      "hardcoverName": "Hardcover",
+      "paperbackName": "Paperback",
+      "orderCta": "Order",
+      "discountTag": "{{percentage}}% off",
+      "sizeIn": "{{w}} × {{h}} in",
+      "sizeCm": "{{w}} × {{h}} cm",
+      "tabGrandparent": "Most grandparents choose this",
+      "tabParent": "Most parents choose this",
+      "tabOther": "Most people choose this",
+      "shippingLabel": "Shipping",
+      "arrivesLabel": "Arrives",
+      "changesLabel": "Changes allowed",
+      "cancelLabel": "Free cancellation",
+      "hoursValue": "{{n}} hours",
+      "freeValue": "Free",
+      "differenceLink": "Hardcover vs paperback?",
+      "hideLink": "Hide",
+      "hardcoverDesc": "A premium hardcover with a quality gloss finish. Made to be read again and again.",
+      "paperbackDesc": "A flexible cover printed on thick, durable paper. Same premium pages inside.",
+      "backToPreview": "Back to {{name}}'s preview",
+      "printedIn": {
+        "us": "Printed in the US.",
+        "uk": "Printed in the UK.",
+        "eu": "Printed in Europe."
+      }
+    },
     "headings": {
       "pageTitle": "{{name}}'s Personalized Storybook",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4.9/5 • 300,000+ happy families"
