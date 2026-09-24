@@ -201,6 +201,7 @@
     "page": {
       "number": "Page {{number}}",
       "loading": "Loading image for page {{number}}",
+      "loadFailed": "Page {{number}} did not load. Tap to try again.",
       "generating": "Generating options for page {{number}}",
       "generatingMoreOptions": "Generating More Options",
       "generatingTime": "Takes around 60 seconds",
