@@ -363,6 +363,30 @@
     }
   },
   "InterestedPage": {
+    "redesign": {
+      "hardcoverName": "Relié",
+      "paperbackName": "Broché",
+      "orderCta": "Commander",
+      "discountTag": "-{{percentage}} %",
+      "sizeIn": "{{w}} × {{h}} po",
+      "sizeCm": "{{w}} × {{h}} cm",
+      "tabGrandparent": "Le préféré des grands-parents",
+      "tabOther": "Le préféré des familles",
+      "shippingLabel": "Livraison",
+      "arrivesLabel": "Arrivée prévue",
+      "changesLabel": "Modifications possibles",
+      "cancelLabel": "Annulation gratuite",
+      "hoursValue": "{{n}} heures",
+      "freeValue": "Offerte",
+      "differenceLink": "Relié ou broché ?",
+      "hideLink": "Masquer",
+      "hardcoverDesc": "Un livre relié haut de gamme, à la finition brillante de qualité. Conçu pour être lu et relu.",
+      "paperbackDesc": "Une couverture souple, imprimée sur un papier épais et résistant. À l'intérieur, les mêmes pages haut de gamme.",
+      "backToPreview": "Retour à l'aperçu du livre pour {{name}}",
+      "printedIn": {
+        "eu": "Imprimé en Europe."
+      }
+    },
     "headings": {
       "pageTitle": "Livre personnalisé pour {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300 000+ familles heureuses"

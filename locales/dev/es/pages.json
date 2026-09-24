@@ -363,6 +363,30 @@
     }
   },
   "InterestedPage": {
+    "redesign": {
+      "hardcoverName": "Tapa dura",
+      "paperbackName": "Tapa blanda",
+      "orderCta": "Comprar",
+      "discountTag": "{{percentage}}% dto.",
+      "sizeIn": "{{w}} × {{h}} in",
+      "sizeCm": "{{w}} × {{h}} cm",
+      "tabGrandparent": "La más elegida por los abuelos",
+      "tabOther": "La más elegida por las familias",
+      "shippingLabel": "Envío",
+      "arrivesLabel": "Entrega",
+      "changesLabel": "Cambios permitidos",
+      "cancelLabel": "Cancelación gratuita",
+      "hoursValue": "{{n}} horas",
+      "freeValue": "Gratis",
+      "differenceLink": "¿Tapa dura o tapa blanda?",
+      "hideLink": "Ocultar",
+      "hardcoverDesc": "Un libro de tapa dura premium con acabado brillante de calidad. Hecho para leerlo una y otra vez.",
+      "paperbackDesc": "Una tapa blanda y flexible, impresa en papel grueso y resistente. Las mismas páginas premium por dentro.",
+      "backToPreview": "Volver a la vista previa de {{name}}",
+      "printedIn": {
+        "eu": "Impreso en Europa."
+      }
+    },
     "headings": {
       "pageTitle": "El cuento personalizado de {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300.000+ familias felices"
