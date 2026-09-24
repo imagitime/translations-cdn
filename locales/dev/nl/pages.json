@@ -201,6 +201,7 @@
     "page": {
       "number": "Pagina {{number}}",
       "loading": "Afbeelding voor pagina {{number}} wordt geladen",
+      "loadFailed": "Pagina {{number}} is niet geladen. Tik om het opnieuw te proberen.",
       "generating": "Opties voor pagina {{number}} worden gegenereerd",
       "generatingMoreOptions": "Meer opties genereren",
       "generatingTime": "Duurt ongeveer 60 seconden",
