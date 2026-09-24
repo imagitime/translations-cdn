@@ -364,6 +364,31 @@
     }
   },
   "InterestedPage": {
+    "redesign": {
+      "hardcoverName": "Gebundene Ausgabe",
+      "paperbackName": "Taschenbuch",
+      "orderCta": "Bestellen",
+      "discountTag": "{{percentage}} % Rabatt",
+      "sizeIn": "{{w}} × {{h}} Zoll",
+      "sizeCm": "{{w}} × {{h}} cm",
+      "tabGrandparent": "Die Wahl der meisten Großeltern",
+      "tabParent": "Die Wahl der meisten Eltern",
+      "tabOther": "Am häufigsten gewählt",
+      "shippingLabel": "Versand",
+      "arrivesLabel": "Lieferung",
+      "changesLabel": "Änderungen möglich",
+      "cancelLabel": "Kostenlose Stornierung",
+      "hoursValue": "{{n}} Stunden",
+      "freeValue": "Kostenlos",
+      "differenceLink": "Gebundene Ausgabe oder Taschenbuch?",
+      "hideLink": "Ausblenden",
+      "hardcoverDesc": "Ein hochwertiger fester Einband mit edler Glanzoberfläche – gemacht für unzählige Vorlesestunden.",
+      "paperbackDesc": "Ein flexibler Einband aus dickem, robustem Papier. Innen dieselben hochwertigen Seiten.",
+      "backToPreview": "Zurück zur Vorschau von {{name}}",
+      "printedIn": {
+        "eu": "Gedruckt in Europa."
+      }
+    },
     "headings": {
       "pageTitle": "Individuelles Geschichtenbuch von {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300.000+ glückliche Familien"
