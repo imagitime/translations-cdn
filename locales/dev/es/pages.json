@@ -390,7 +390,7 @@
       }
     },
     "headings": {
-      "pageTitle": "El cuento personalizado de {{name}}",
+      "pageTitle": "El cuento de {{name}}",
       "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300.000+ familias felices"
     },
     "offer": {
@@ -413,7 +413,7 @@
     },
     "delivery": {
       "info": "El envío tarda entre {{min}} y {{max}} días",
-      "timeline": "La impresión y el envío tarda de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido"
+      "timeline": "La impresión y el envío tardan de {{min}} a {{max}} días, tenlo en cuenta al hacer el pedido"
     },
     "discount": {
       "subscriber": "El descuento del {{percentage}}% para suscriptores termina pronto ",
