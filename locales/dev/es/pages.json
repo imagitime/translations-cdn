@@ -384,6 +384,11 @@
       "hideLink": "Ocultar",
       "hardcoverDesc": "Un libro de tapa dura premium con acabado brillante de calidad. Hecho para leerlo una y otra vez.",
       "paperbackDesc": "Una tapa blanda y flexible, impresa en papel grueso y resistente. Las mismas páginas premium por dentro.",
+      "hardcoverXlName": "Tapa dura XL",
+      "hardcoverXlDesc": "El mismo libro de tapa dura, más grande: un 38 % más de página para las ilustraciones.",
+      "differenceLinkXl": "¿Tapa dura, tapa blanda o XL?",
+      "sideIn": "{{n}} in",
+      "sideCm": "{{n}} cm",
       "backToPreview": "Volver a la vista previa de {{name}}",
       "printedIn": {
         "eu": "Impreso en Europa."

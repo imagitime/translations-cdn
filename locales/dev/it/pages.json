@@ -384,6 +384,11 @@
       "hideLink": "Nascondi",
       "hardcoverDesc": "Un libro con copertina rigida premium e finitura lucida di qualità. Fatto per essere letto e riletto.",
       "paperbackDesc": "Una copertina flessibile, stampata su carta spessa e resistente. Le stesse pagine premium all'interno.",
+      "hardcoverXlName": "Copertina rigida XL",
+      "hardcoverXlDesc": "La stessa copertina rigida, più grande: il 38% di pagina in più per le immagini.",
+      "differenceLinkXl": "Copertina rigida, flessibile o XL?",
+      "sideIn": "{{n}} in",
+      "sideCm": "{{n}} cm",
       "backToPreview": "Torna all'anteprima di {{name}}",
       "printedIn": {
         "eu": "Stampato in Europa."

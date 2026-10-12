@@ -384,6 +384,11 @@
       "hideLink": "Ausblenden",
       "hardcoverDesc": "Ein hochwertiger fester Einband mit edler Glanzoberfläche – gemacht für unzählige Vorlesestunden.",
       "paperbackDesc": "Ein flexibler Einband aus dickem, robustem Papier. Innen dieselben hochwertigen Seiten.",
+      "hardcoverXlName": "Gebundene Ausgabe XL",
+      "hardcoverXlDesc": "Dieselbe gebundene Ausgabe, nur größer: 38 % mehr Seitenfläche für die Bilder.",
+      "differenceLinkXl": "Gebundene Ausgabe, Taschenbuch oder XL?",
+      "sideIn": "{{n}} Zoll",
+      "sideCm": "{{n}} cm",
       "backToPreview": "Zurück zur Vorschau von {{name}}",
       "printedIn": {
         "eu": "Gedruckt in Europa."
