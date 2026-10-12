@@ -131,5 +131,5 @@
   "review_coupon.intro": "Merci pour la photo/vidéo ! Voici votre récompense.",
   "review_coupon.code_label": "Votre code",
   "review_coupon.button_text": "Utiliser mes {reward_percent} %",
-  "review_coupon.validity": "Valable 60 jours sur votre prochain livre. Une utilisation par client, non cumulable avec d'autres codes."
+  "review_coupon.validity": "Valable 60 jours sur votre prochain livre."
 }

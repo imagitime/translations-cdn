@@ -131,5 +131,5 @@
   "review_coupon.intro": "Bedankt voor de foto/video! Hier is je beloning.",
   "review_coupon.code_label": "Je code",
   "review_coupon.button_text": "Mijn {reward_percent}% gebruiken",
-  "review_coupon.validity": "60 dagen geldig op je volgende boek. Eén keer per klant, niet te combineren met andere codes."
+  "review_coupon.validity": "60 dagen geldig op je volgende boek."
 }
