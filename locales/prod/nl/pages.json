@@ -384,6 +384,11 @@
       "hideLink": "Verbergen",
       "hardcoverDesc": "Een luxe hardcover met een hoogwaardige glansafwerking. Gemaakt om keer op keer te lezen.",
       "paperbackDesc": "Een flexibele kaft, gedrukt op dik, stevig papier. Binnenin dezelfde luxe pagina's.",
+      "hardcoverXlName": "Hardcover XL",
+      "hardcoverXlDesc": "Dezelfde hardcover, maar groter: 38% meer ruimte voor de illustraties.",
+      "differenceLinkXl": "Hardcover, paperback of XL?",
+      "sideIn": "{{n}} inch",
+      "sideCm": "{{n}} cm",
       "backToPreview": "Terug naar het boekvoorbeeld van {{name}}",
       "printedIn": {
         "eu": "Gedrukt in Europa."

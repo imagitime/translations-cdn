@@ -384,6 +384,11 @@
       "hideLink": "Masquer",
       "hardcoverDesc": "Un livre relié haut de gamme, à la finition brillante de qualité. Conçu pour être lu et relu.",
       "paperbackDesc": "Une couverture souple, imprimée sur un papier épais et résistant. À l'intérieur, les mêmes pages haut de gamme.",
+      "hardcoverXlName": "Relié XL",
+      "hardcoverXlDesc": "Le même livre relié, en plus grand : 38 % de surface supplémentaire pour les illustrations.",
+      "differenceLinkXl": "Relié, broché ou XL ?",
+      "sideIn": "{{n}} po",
+      "sideCm": "{{n}} cm",
       "backToPreview": "Retour à l'aperçu du livre pour {{name}}",
       "printedIn": {
         "eu": "Imprimé en Europe."
