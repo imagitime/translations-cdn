@@ -384,6 +384,11 @@
       "hideLink": "Hide",
       "hardcoverDesc": "A premium hardcover with a quality gloss finish. Made to be read again and again.",
       "paperbackDesc": "A flexible cover printed on thick, durable paper. Same premium pages inside.",
+      "hardcoverXlName": "Hardcover XL",
+      "hardcoverXlDesc": "The same hardcover, just bigger: 38% more room for the pictures.",
+      "differenceLinkXl": "Hardcover, paperback or XL?",
+      "sideIn": "{{n}} in",
+      "sideCm": "{{n}} cm",
       "backToPreview": "Back to {{name}}'s preview",
       "printedIn": {
         "us": "Printed in the US.",
