@@ -128,7 +128,7 @@
   "review_media_reminder.button_text": "Carica una foto/video",
   "review_media_reminder.note": "La tua foto/video appare accanto alla recensione e aiuta altre famiglie a scegliere.",
   "review_coupon.subject": "Il tuo codice del {reward_percent}% per la prossima avventura di {kid_name}",
-  "review_coupon.intro": "Grazie per la foto/video! Ecco la tua ricompensa.",
+  "review_coupon.intro": "Grazie per la foto/video! Ecco il tuo codice sconto.",
   "review_coupon.code_label": "Il tuo codice",
   "review_coupon.button_text": "Usa il mio {reward_percent}%",
   "review_coupon.validity": "Valido per 60 giorni sul tuo prossimo libro."
