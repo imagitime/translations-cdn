@@ -616,5 +616,167 @@
       "message": "Actuellement, vous ne pouvez créer et commander qu'un seul livre à la fois. Si vous souhaitez commander plusieurs livres différents, vous devrez passer des commandes séparées. Cependant, à partir de votre deuxième commande, vous pouvez utiliser le code FREESHIP lors du paiement pour bénéficier de la livraison gratuite. Pour revenir au livre que vous étiez en train d'acheter, cliquez sur le bouton ci-dessous.",
       "backButton": "Retour à Mon Livre"
     }
+  },
+  "WriteReview": {
+    "common": {
+      "pageTitle": "Écrire un avis",
+      "back": "Retour",
+      "sending": "Envoi en cours…",
+      "genericError": "Une erreur s'est produite. Veuillez réessayer.",
+      "edit": "Modifier",
+      "cancel": "Annuler",
+      "readMore": "Lire la suite",
+      "consent": "En ajoutant une photo/vidéo, vous nous autorisez à l'afficher avec votre avis sur imagitime.com et à la publier sur nos réseaux sociaux.",
+      "bookFallback": "le livre de {kid}"
+    },
+    "rating": {
+      "rateTitle": "Quelle note donnez-vous à « {title} » ?",
+      "rateLow": "Pas terrible",
+      "rateHigh": "Adoré !",
+      "ratingLabels": [
+        "",
+        "Pas bien",
+        "Peut mieux faire",
+        "Correct",
+        "Bien",
+        "Adoré !"
+      ],
+      "needRating": "Sélectionnez d'abord une étoile."
+    },
+    "photo": {
+      "skipShort": "Passer",
+      "notNow": "Plus tard",
+      "showTitle": "Montrez-le-nous !",
+      "showSub": "Une photo/vidéo du livre : avec {kid}, avec vous, ou le livre seul.",
+      "offerBadge": "{percent} % de réduction sur votre prochain livre",
+      "addPhotos": "Ajouter des photos",
+      "addVideo": "Ajouter une vidéo",
+      "mediaLimit": "Jusqu'à 5 photos et 1 vidéo",
+      "mediaDrag": "Jusqu'à 5 photos et 1 vidéo. Vous pouvez aussi glisser vos fichiers ici."
+    },
+    "lowRating": {
+      "lowTitle": "Merci pour votre franchise",
+      "lowBody": "Dites-nous ce qui n'a pas été. Nous lisons chaque avis et ferons de notre mieux pour arranger les choses.",
+      "continueReview": "Continuer vers votre avis",
+      "orWord": "ou",
+      "lowOfferLine": "Ajoutez une photo/vidéo du livre. La réduction est valable quelle que soit votre note.",
+      "lowOfferWide": "pour une photo/vidéo du livre, quelle que soit votre note"
+    },
+    "write": {
+      "textTitle": "Dites-nous en plus !",
+      "reviewTitle": "Votre avis",
+      "placeholderKid": "Qu'est-ce que {kid} a le plus aimé ?",
+      "nameLabel": "Votre nom",
+      "submitReview": "Envoyer l'avis",
+      "reviewNote": "Votre avis et vos photos pourront être affichés sur notre site.",
+      "needText": "Écrivez quelques mots.",
+      "tooShort": "Écrivez au moins {min} caractères."
+    },
+    "uploads": {
+      "uploading": "Envoi en cours…",
+      "uploadingCount": "Envoi {done} sur {total}…",
+      "uploaded": "Ajout réussi",
+      "uploadFailed": "Échec",
+      "tooLarge": "Ce fichier est trop volumineux (500 Mo max).",
+      "unsupported": "Seules les photos (JPG, PNG, WebP, HEIC) et les vidéos (MP4, MOV) peuvent être ajoutées.",
+      "addMore": "Ajouter d'autres photos/vidéos",
+      "addMediaBtn": "Ajouter une photo/vidéo",
+      "mediaProcessing": "Traitement…"
+    },
+    "thanks": {
+      "thanksTitle": "Merci !",
+      "thanksBody": "Votre avis apparaîtra bientôt sur notre site.",
+      "thanksBodyLow": "Merci pour votre avis sincère. Si quelque chose n'allait pas avec votre livre, écrivez-nous à support@imagitime.com et nous trouverons une solution.",
+      "thanksBodyPhoto": "Votre avis apparaîtra bientôt sur notre site.",
+      "couponLabelPct": "Voici votre code de réduction de {percent} %",
+      "copy": "Copier le code",
+      "copied": "Copié !",
+      "couponEmailed": "Nous vous avons aussi envoyé le code par e-mail.",
+      "shareAsk": "Aidez d'autres familles à nous trouver : partagez votre avis sur Trustpilot ou Google",
+      "shareCopied": "Avis copié ! Collez-le sur la page suivante.",
+      "nudgeTitle": "Toujours envie de {percent} % de réduction sur votre prochain livre ?",
+      "nudgeBody": "Ajoutez dès maintenant une photo/vidéo du livre (avec {kid}, avec vous, ou le livre seul), ou plus tard grâce au lien reçu par e-mail."
+    },
+    "yourReview": {
+      "statusPending": "En attente de validation par notre équipe",
+      "statusPublished": "En ligne sur notre site",
+      "statusHidden": "Non affiché sur imagitime.com",
+      "statusRemoved": "Notre équipe a retiré cet avis. Pour toute question, écrivez-nous.",
+      "replyLabel": "Réponse d'Imagitime",
+      "yourMedia": "Vos photos/vidéos",
+      "offerBoxTitle": "Ajoutez une photo/vidéo, profitez de {percent} % de réduction",
+      "offerBoxSub": "Avec {kid}, avec vous, ou le livre seul.",
+      "roomBoth": "Vous pouvez encore ajouter {photos} photos et 1 vidéo.",
+      "roomBothOne": "Vous pouvez encore ajouter 1 photo et 1 vidéo.",
+      "roomPhotos": "Vous pouvez encore ajouter {photos} photos.",
+      "roomPhotoOne": "Vous pouvez encore ajouter 1 photo.",
+      "roomVideo": "Vous pouvez encore ajouter 1 vidéo."
+    },
+    "editReview": {
+      "editTitle": "Modifier votre avis",
+      "tapToChange": "Touchez une étoile pour changer votre note",
+      "clickToChange": "Cliquez sur une étoile pour modifier votre note",
+      "editAddMedia": "Ajouter photo/vidéo",
+      "editSave": "Enregistrer",
+      "editSaved": "Vos modifications sont enregistrées"
+    },
+    "expired": {
+      "expiredTitle": "Ce lien a expiré",
+      "expiredBody": "Les liens d'avis sont valables un an. Si vous souhaitez toujours partager votre expérience, écrivez-nous et nous vous enverrons un nouveau lien.",
+      "support": "Contacter l'assistance"
+    }
+  },
+  "ReviewsWall": {
+    "header": {
+      "heading": "Ce qu'en disent les familles",
+      "reviews": "avis",
+      "review": "avis",
+      "sortLabel": "Trier par",
+      "sortFeatured": "À la une",
+      "sortNewest": "Plus récents",
+      "sortPhotosOnly": "Photos uniquement",
+      "thisBook": "Ce livre uniquement",
+      "breakdown": "Détail des notes",
+      "loadMore": "Voir plus d'avis",
+      "previous": "Précédent",
+      "next": "Suivant"
+    },
+    "card": {
+      "verified": "Vérifié",
+      "readMore": "Lire la suite",
+      "close": "Fermer",
+      "showOriginal": "Voir l'original",
+      "showTranslation": "Voir la traduction",
+      "replyLabel": "Réponse d'Imagitime",
+      "translatedFrom": "Traduit · original en {language}",
+      "edited": "Modifié le {date}",
+      "viewProduct": "Voir le livre",
+      "play": "Lire",
+      "unmute": "Activer le son",
+      "mute": "Couper le son",
+      "pause": "Pause"
+    },
+    "groups": {
+      "tierHomeCountry": "Avis des familles : {country}",
+      "tierHomeLanguage": "Avis en {language}",
+      "tierLanguage": "Plus d'avis en {language}",
+      "tierOther": "Avis d'autres pays"
+    },
+    "about": {
+      "aboutReview": "À propos de cet avis",
+      "verifiedInfo": "Cet avis a été recueilli auprès d'un client vérifié qui a acheté ce livre.",
+      "learnMore": "En savoir plus",
+      "learnTitle": "Comment nous recueillons et vérifions les avis",
+      "learnIntro": "Après l'achat d'un livre, nous vous envoyons par e-mail un lien personnel pour le noter. Les avis écrits via ce lien portent la mention « {verified} ».",
+      "learnPhotosTitle": "Photos et vidéos",
+      "learnPhotos": "Lorsqu'un client ajoute une photo ou une vidéo du livre à son avis, nous lui offrons une réduction sur une prochaine commande. Cette réduction est proposée quelle que soit la note, de 1 à 5 étoiles, et ne dépend pas du contenu de l'avis.",
+      "learnStarsTitle": "Note",
+      "learnStars": "Les clients notent de 1 à 5 étoiles. Notre moyenne est une simple moyenne de tous les avis publiés, y compris ceux dont les auteurs ont reçu la réduction photo/vidéo.",
+      "learnEarlierTitle": "Avis plus anciens",
+      "learnEarlier": "Les avis écrits avant octobre 2026 ont été recueillis par notre précédent prestataire d'avis et transférés ici.",
+      "learnTranslationsTitle": "Traductions",
+      "learnTranslations": "Les avis écrits dans une autre langue sont traduits automatiquement ; vous pouvez afficher le texte original.",
+      "backLabel": "Retour"
+    }
   }
 }
