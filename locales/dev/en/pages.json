@@ -564,5 +564,168 @@
       "message": "Currently you can create and order one book at a time. If you are looking to order multiple different books, you will need to place separate orders. However, from your second order onwards you can use code FREESHIP at checkout to make shipping free. To continue back to the book you were purchasing, click the button below.",
       "backButton": "Back to My Book"
     }
+  },
+  "WriteReview": {
+    "common": {
+      "pageTitle": "Write a review",
+      "back": "Back",
+      "sending": "Sending…",
+      "genericError": "Something went wrong. Please try again.",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "readMore": "Read more",
+      "consent": "By adding a photo/video you allow us to show it with your review on imagitime.com and post it on our social media pages.",
+      "bookFallback": "{kid}'s book"
+    },
+    "rating": {
+      "rateTitle": "How would you rate {title}?",
+      "rateLow": "Not great",
+      "rateHigh": "Loved it!",
+      "ratingLabels": [
+        "",
+        "Not good",
+        "Could be better",
+        "Okay",
+        "Good",
+        "Loved it!"
+      ],
+      "needRating": "Please tap a star first."
+    },
+    "photo": {
+      "skipShort": "Skip",
+      "notNow": "Not now",
+      "showTitle": "Show it off!",
+      "showSub": "A photo/video of the book: with {kid}, with you, or on its own.",
+      "offerBadge": "Get {percent}% off your next book",
+      "addPhotos": "Add photos",
+      "addVideo": "Add a video",
+      "mediaLimit": "Up to 5 photos and 1 video",
+      "mediaDrag": "Up to 5 photos and 1 video. You can also drag files here."
+    },
+    "lowRating": {
+      "lowTitle": "Thank you for being honest",
+      "lowBody": "Tell us what went wrong. We read every review and we'll do our best to make it right.",
+      "continueReview": "Continue to your review",
+      "orWord": "or",
+      "lowOfferLine": "Add a photo/video of the book. The discount is for every rating.",
+      "lowOfferWide": "for a photo/video of the book, whatever your rating"
+    },
+    "write": {
+      "textTitle": "Tell us more!",
+      "reviewTitle": "Your review",
+      "placeholderKid": "What did {kid} love about it?",
+      "nameLabel": "Your name",
+      "submitReview": "Submit review",
+      "reviewNote": "Your review and photos may be shown on our website.",
+      "needText": "Please write a few words.",
+      "tooShort": "Please write at least {min} characters."
+    },
+    "uploads": {
+      "uploading": "Uploading…",
+      "uploadingCount": "Uploading {done} of {total}…",
+      "uploaded": "Added",
+      "uploadFailed": "Failed",
+      "tooLarge": "That file is too large (max 500 MB).",
+      "unsupported": "Only photos (JPG, PNG, WebP, HEIC) and videos (MP4, MOV) can be added.",
+      "addMore": "Add more photos/videos",
+      "addMediaBtn": "Add a photo/video",
+      "mediaProcessing": "Processing…"
+    },
+    "thanks": {
+      "thanksTitle": "Thank you!",
+      "thanksBody": "Your review will appear on our site shortly.",
+      "thanksBodyLow": "Thank you for your honest feedback. If anything was not right with your book, write to us at support@imagitime.com and we will make it right.",
+      "thanksBodyPhoto": "Your review will appear on our site shortly.",
+      "couponLabelPct": "Here is your {percent}% discount code",
+      "copy": "Copy code",
+      "copied": "Copied!",
+      "couponEmailed": "We have also emailed you the code.",
+      "shareAsk": "Help other families find us: share your review on Trustpilot or Google",
+      "shareCopied": "Your review is copied. Paste it on the next page.",
+      "nudgeTitle": "Still want {percent}% off your next book?",
+      "nudgeBody": "Add a photo/video of the book (with {kid}, with you, or on its own) now, or later from the link in your email."
+    },
+    "yourReview": {
+      "statusPending": "Waiting for our team to approve it",
+      "statusPublished": "Live on our site",
+      "statusHidden": "Not shown on imagitime.com",
+      "statusRemoved": "Our team removed this review. If you have a question, write to us.",
+      "replyLabel": "Reply from Imagitime",
+      "yourMedia": "Your photos/videos",
+      "offerBoxTitle": "Add a photo/video, get {percent}% off",
+      "offerBoxSub": "With {kid}, with you, or the book on its own.",
+      "roomBoth": "You can add {photos} more photos and 1 video.",
+      "roomBothOne": "You can add 1 more photo and 1 video.",
+      "roomPhotos": "You can add {photos} more photos.",
+      "roomPhotoOne": "You can add 1 more photo.",
+      "roomVideo": "You can add 1 video."
+    },
+    "editReview": {
+      "editTitle": "Edit your review",
+      "tapToChange": "Tap a star to change your rating",
+      "clickToChange": "Click a star to change your rating",
+      "editAddMedia": "Add photo/video",
+      "editSave": "Save changes",
+      "editSaved": "Your changes are saved"
+    },
+    "expired": {
+      "expiredTitle": "This link has expired",
+      "expiredBody": "Review links work for a year. If you would still like to share your thoughts, write to us and we will send a fresh link.",
+      "support": "Email support"
+    }
+  },
+  "ReviewsWall": {
+    "header": {
+      "heading": "What families say",
+      "reviews": "reviews",
+      "review": "review",
+      "sortLabel": "Sort by",
+      "sortFeatured": "Featured",
+      "sortNewest": "Newest",
+      "sortPhotosOnly": "Photos only",
+      "thisBook": "This book only",
+      "breakdown": "Rating breakdown",
+      "loadMore": "Show more reviews",
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "card": {
+      "verified": "Verified",
+      "readMore": "Read more",
+      "close": "Close",
+      "showOriginal": "Show original",
+      "showTranslation": "Show translation",
+      "replyLabel": "Reply from Imagitime",
+      "translatedFrom": "Translated from {language}",
+      "edited": "Edited {date}",
+      "viewProduct": "View book",
+      "photo": "Photo",
+      "play": "Play",
+      "unmute": "Unmute",
+      "mute": "Mute",
+      "pause": "Pause"
+    },
+    "groups": {
+      "tierHomeCountry": "Reviews from families in {country}",
+      "tierHomeLanguage": "Reviews in {language}",
+      "tierLanguage": "More reviews in {language}",
+      "tierOther": "Reviews from other countries"
+    },
+    "about": {
+      "aboutReview": "About this review",
+      "verifiedInfo": "This review was collected from a verified customer who bought this book.",
+      "learnMore": "Learn more",
+      "learnTitle": "How we collect and check reviews",
+      "learnIntro": "After you buy a book, we email you a personal link to review it. Reviews written through that link are marked “{verified}”.",
+      "learnPhotosTitle": "Photos and videos",
+      "learnPhotos": "When a customer adds a photo or video of the book to their review, we give them a discount on a future order. The discount is offered for every rating, from 1 to 5 stars, and does not depend on what the review says.",
+      "learnStarsTitle": "Star rating",
+      "learnStars": "Customers rate from 1 to 5 stars. Our average is a simple average of all published reviews, including those whose writers received the photo/video discount.",
+      "learnEarlierTitle": "Earlier reviews",
+      "learnEarlier": "Reviews written before October 2026 were collected through our previous review provider and moved here.",
+      "learnTranslationsTitle": "Translations",
+      "learnTranslations": "Reviews written in another language are translated automatically; you can switch to the original text.",
+      "backLabel": "Back"
+    }
   }
 }

@@ -616,5 +616,168 @@
       "message": "Op dit moment kun je één boek tegelijk aanmaken en bestellen. Wil je meerdere of verschillende boeken bestellen, dan moet je voor elk boek een aparte bestelling plaatsen. Vanaf je tweede bestelling kun je bij het afrekenen echter de code FREESHIP gebruiken, waarmee de verzending gratis wordt. Klik op de knop hieronder om terug te gaan naar het boek dat je wilde kopen.",
       "backButton": "Terug naar mijn boek"
     }
+  },
+  "WriteReview": {
+    "common": {
+      "pageTitle": "Beoordeling schrijven",
+      "back": "Terug",
+      "sending": "Versturen…",
+      "genericError": "Er ging iets mis. Probeer het opnieuw.",
+      "edit": "Bewerken",
+      "cancel": "Annuleren",
+      "readMore": "Lees meer",
+      "consent": "Door een foto/video toe te voegen geef je ons toestemming om die bij je beoordeling op imagitime.com te tonen en op onze socialemediapagina's te plaatsen.",
+      "bookFallback": "het boek van {kid}"
+    },
+    "rating": {
+      "rateTitle": "Hoe beoordeel je ‘{title}’?",
+      "rateLow": "Niet goed",
+      "rateHigh": "Geweldig!",
+      "ratingLabels": [
+        "",
+        "Niet goed",
+        "Kan beter",
+        "Oké",
+        "Goed",
+        "Geweldig!"
+      ],
+      "needRating": "Tik eerst op een ster."
+    },
+    "photo": {
+      "skipShort": "Overslaan",
+      "notNow": "Niet nu",
+      "showTitle": "Laat het zien!",
+      "showSub": "Een foto/video van het boek: met {kid}, met jou of alleen het boek.",
+      "offerBadge": "{percent}% korting op je volgende boek",
+      "addPhotos": "Foto's toevoegen",
+      "addVideo": "Video toevoegen",
+      "mediaLimit": "Tot 5 foto's en 1 video",
+      "mediaDrag": "Tot 5 foto's en 1 video. Je kunt bestanden ook hierheen slepen."
+    },
+    "lowRating": {
+      "lowTitle": "Bedankt voor je eerlijkheid",
+      "lowBody": "Vertel ons wat er misging. We lezen elke beoordeling en doen ons best om het goed te maken.",
+      "continueReview": "Verder naar je beoordeling",
+      "orWord": "of",
+      "lowOfferLine": "Voeg een foto/video van het boek toe. De korting geldt voor elke beoordeling.",
+      "lowOfferWide": "voor een foto/video van het boek, ongeacht je beoordeling"
+    },
+    "write": {
+      "textTitle": "Vertel ons meer!",
+      "reviewTitle": "Jouw beoordeling",
+      "placeholderKid": "Wat vond {kid} er het leukst aan?",
+      "nameLabel": "Je naam",
+      "submitReview": "Beoordeling versturen",
+      "reviewNote": "Je beoordeling en foto's kunnen op onze website worden getoond.",
+      "needText": "Schrijf een paar woorden.",
+      "tooShort": "Schrijf minstens {min} tekens."
+    },
+    "uploads": {
+      "uploading": "Uploaden…",
+      "uploadingCount": "{done} van {total} uploaden…",
+      "uploaded": "Toegevoegd",
+      "uploadFailed": "Mislukt",
+      "tooLarge": "Dat bestand is te groot (max. 500 MB).",
+      "unsupported": "Alleen foto's (JPG, PNG, WebP, HEIC) en video's (MP4, MOV) kunnen worden toegevoegd.",
+      "addMore": "Meer foto's/video's toevoegen",
+      "addMediaBtn": "Foto/video toevoegen",
+      "mediaProcessing": "Wordt verwerkt…"
+    },
+    "thanks": {
+      "thanksTitle": "Bedankt!",
+      "thanksBody": "Je beoordeling verschijnt binnenkort op onze site.",
+      "thanksBodyLow": "Bedankt voor je eerlijke beoordeling. Was er iets niet goed met je boek? Schrijf ons op support@imagitime.com en we lossen het op.",
+      "thanksBodyPhoto": "Je beoordeling verschijnt binnenkort op onze site.",
+      "couponLabelPct": "Hier is je kortingscode van {percent}%",
+      "copy": "Code kopiëren",
+      "copied": "Gekopieerd!",
+      "couponEmailed": "We hebben je de code ook gemaild.",
+      "shareAsk": "Help andere gezinnen ons te vinden: deel je beoordeling op Trustpilot of Google",
+      "shareCopied": "Je beoordeling is gekopieerd. Plak haar op de volgende pagina.",
+      "nudgeTitle": "Wil je nog steeds {percent}% korting op je volgende boek?",
+      "nudgeBody": "Voeg nu een foto/video van het boek toe (met {kid}, met jou of alleen het boek), of doe het later via de link in je e-mail."
+    },
+    "yourReview": {
+      "statusPending": "Wacht op goedkeuring door ons team",
+      "statusPublished": "Staat op onze website",
+      "statusHidden": "Niet zichtbaar op imagitime.com",
+      "statusRemoved": "Ons team heeft deze beoordeling verwijderd. Heb je een vraag? Stuur ons een bericht.",
+      "replyLabel": "Reactie van Imagitime",
+      "yourMedia": "Je foto's/video's",
+      "offerBoxTitle": "Voeg een foto/video toe en krijg {percent}% korting",
+      "offerBoxSub": "Met {kid}, met jou of alleen het boek.",
+      "roomBoth": "Je kunt nog {photos} foto's en 1 video toevoegen.",
+      "roomBothOne": "Je kunt nog 1 foto en 1 video toevoegen.",
+      "roomPhotos": "Je kunt nog {photos} foto's toevoegen.",
+      "roomPhotoOne": "Je kunt nog 1 foto toevoegen.",
+      "roomVideo": "Je kunt nog 1 video toevoegen."
+    },
+    "editReview": {
+      "editTitle": "Beoordeling bewerken",
+      "tapToChange": "Tik op een ster om je beoordeling te wijzigen",
+      "clickToChange": "Klik op een ster om je beoordeling te wijzigen",
+      "editAddMedia": "Foto/video toevoegen",
+      "editSave": "Wijzigingen opslaan",
+      "editSaved": "Je wijzigingen zijn opgeslagen"
+    },
+    "expired": {
+      "expiredTitle": "Deze link is verlopen",
+      "expiredBody": "Beoordelingslinks zijn een jaar geldig. Wil je je ervaring toch delen? Stuur ons een bericht en we sturen een nieuwe link.",
+      "support": "Mail de klantenservice"
+    }
+  },
+  "ReviewsWall": {
+    "header": {
+      "heading": "Wat gezinnen zeggen",
+      "reviews": "beoordelingen",
+      "review": "beoordeling",
+      "sortLabel": "Sorteren op",
+      "sortFeatured": "Uitgelicht",
+      "sortNewest": "Nieuwste",
+      "sortPhotosOnly": "Alleen met foto's",
+      "thisBook": "Alleen dit boek",
+      "breakdown": "Verdeling van de scores",
+      "loadMore": "Meer beoordelingen",
+      "previous": "Vorige",
+      "next": "Volgende"
+    },
+    "card": {
+      "verified": "Geverifieerd",
+      "readMore": "Lees meer",
+      "close": "Sluiten",
+      "showOriginal": "Origineel tonen",
+      "showTranslation": "Vertaling tonen",
+      "replyLabel": "Reactie van Imagitime",
+      "translatedFrom": "Vertaald uit het {language}",
+      "edited": "Bewerkt op {date}",
+      "viewProduct": "Bekijk het boek",
+      "photo": "Foto",
+      "play": "Afspelen",
+      "unmute": "Geluid aan",
+      "mute": "Geluid uit",
+      "pause": "Pauzeren"
+    },
+    "groups": {
+      "tierHomeCountry": "Beoordelingen van gezinnen: {country}",
+      "tierHomeLanguage": "Beoordelingen in het {language}",
+      "tierLanguage": "Meer beoordelingen in het {language}",
+      "tierOther": "Beoordelingen uit andere landen"
+    },
+    "about": {
+      "aboutReview": "Over deze beoordeling",
+      "verifiedInfo": "Deze beoordeling komt van een geverifieerde klant die dit boek heeft gekocht.",
+      "learnMore": "Meer informatie",
+      "learnTitle": "Hoe we beoordelingen verzamelen en controleren",
+      "learnIntro": "Na de aankoop van een boek sturen we per e-mail een persoonlijke link om het te beoordelen. Beoordelingen via die link zijn gemarkeerd als ‘{verified}’.",
+      "learnPhotosTitle": "Foto's en video's",
+      "learnPhotos": "Als een klant een foto of video van het boek aan zijn beoordeling toevoegt, krijgt hij korting op een volgende bestelling. De korting geldt voor elke beoordeling, van 1 tot 5 sterren, en hangt niet af van wat er in de beoordeling staat.",
+      "learnStarsTitle": "Sterrenbeoordeling",
+      "learnStars": "Klanten geven 1 tot 5 sterren. Ons gemiddelde is een eenvoudig gemiddelde van alle gepubliceerde beoordelingen, ook van klanten die de foto-/videokorting kregen.",
+      "learnEarlierTitle": "Eerdere beoordelingen",
+      "learnEarlier": "Beoordelingen van vóór oktober 2026 zijn verzameld via onze vorige beoordelingsdienst en hierheen overgezet.",
+      "learnTranslationsTitle": "Vertalingen",
+      "learnTranslations": "Beoordelingen in een andere taal worden automatisch vertaald; je kunt de originele tekst bekijken.",
+      "backLabel": "Terug"
+    }
   }
 }
