@@ -17,7 +17,7 @@
       "kidCallsDaddy": "Comment appelle-t-il/elle son papa ? (ex. Papa, Papounet)",
       "language": "Langue",
       "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
-      "consentSectionHeader": "Nous prenons la vie privée des enfants très au sérieux"
+      "consentSectionHeader": "Nous protégeons la vie privée des enfants"
     },
     "experiment": {
       "title": "À qui est destiné ce livre ?",
@@ -34,10 +34,10 @@
     },
     "relationshipOptions": {
       "default": "Veuillez sélectionner votre relation",
-      "parentGuardian": "Parent/Tuteur·rice",
+      "parentGuardian": "Parent/Tuteur légal",
       "grandparent": "Grand-parent",
       "auntUncle": "Tante/Oncle",
-      "familyFriend": "Ami·e de la famille",
+      "familyFriend": "Proche de la famille",
       "other": "Autre"
     },
     "genderOptions": {
@@ -47,17 +47,17 @@
       "feminine": "Féminin"
     },
     "buttons": {
-      "nextStep": "Étape suivante ➔ Télécharger les photos"
+      "nextStep": "Suivant : ajouter les photos ➔"
     },
     "validation": {
-      "tooLongForBook": "C'est un peu trop long pour le livre.",
-      "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
-      "consentRequired": "Vous devez donner votre consentement pour pouvoir continuer."
+      "tooLongForBook": "12 caractères maximum. Un surnom convient aussi.",
+      "selectRelationship": "Veuillez indiquer votre lien avec l'enfant.",
+      "consentRequired": "Veuillez cocher la case ci-dessus pour continuer."
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je confirme que je suis le parent ou le·la tuteur·rice légal·e de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
-      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé·e par le parent ou le·la tuteur·rice de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
+      "parentGuardianText": "Je suis le parent ou le tuteur légal de cet enfant, j'ai plus de 18 ans et j'accepte que ces informations soient utilisées pour créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
+      "otherRelationshipText": "J'ai plus de 18 ans et j'ai l'autorisation du parent ou du tuteur de l'enfant pour fournir ces informations afin de créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy'>Politique de confidentialité</a>."
     },
     "months": {
       "january": "Janvier",

@@ -47,17 +47,17 @@
       "feminine": "Femminile"
     },
     "buttons": {
-      "nextStep": "Passaggio successivo ➔ Carica le foto"
+      "nextStep": "Avanti: aggiungi le foto ➔"
     },
     "validation": {
-      "tooLongForBook": "È troppo lungo per il libro.",
+      "tooLongForBook": "Massimo 12 caratteri. Va bene anche un soprannome.",
       "selectRelationship": "Seleziona il tuo rapporto con il bambino.",
-      "consentRequired": "Devi dare il consenso per continuare."
+      "consentRequired": "Spunta la casella qui sopra per continuare."
     },
     "consent": {
       "defaultConsentText": "[Seleziona qui sopra il tuo rapporto con il bambino per visualizzare il messaggio di consenso appropriato]",
-      "parentGuardianText": "Confermo di essere il genitore o il tutore legale di questo/a bambino/a, di avere più di 18 anni e di acconsentire a fornire questi dati per la creazione di un libro personalizzato in conformità con l'<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
-      "otherRelationshipText": "Confermo di avere più di 18 anni e di avere il permesso del genitore o del tutore del/della bambino/a per fornire questi dati per la creazione di un libro personalizzato in conformità con l'<a href='/policies/privacy-policy'>Informativa sulla privacy</a>."
+      "parentGuardianText": "Sono il genitore o il tutore legale di questo bambino, ho più di 18 anni e accetto che questi dati vengano usati per creare un libro personalizzato, come descritto nell'<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>.",
+      "otherRelationshipText": "Ho più di 18 anni e ho il permesso del genitore o del tutore del bambino di fornire questi dati e creare un libro personalizzato, come descritto nell'<a href='/policies/privacy-policy'>Informativa sulla privacy</a>."
     },
     "months": {
       "january": "Gennaio",

@@ -35,10 +35,10 @@
     "relationshipOptions": {
       "default": "Bitte wählen Sie Ihre Beziehung",
       "parentGuardian": "Elternteil/Vormund",
-      "grandparent": "Großelternteil",
+      "grandparent": "Oma/Opa",
       "auntUncle": "Tante/Onkel",
       "familyFriend": "Freund der Familie",
-      "other": "Andere"
+      "other": "Sonstiges"
     },
     "genderOptions": {
       "boy": "Junge",
@@ -47,17 +47,17 @@
       "feminine": "Weiblich"
     },
     "buttons": {
-      "nextStep": "Nächster Schritt ➔ Fotos hochladen"
+      "nextStep": "Weiter: Fotos hinzufügen ➔"
     },
     "validation": {
-      "tooLongForBook": "Das ist zu lang für das Buch.",
+      "tooLongForBook": "Höchstens 12 Zeichen. Ein Spitzname geht auch.",
       "selectRelationship": "Bitte wählen Sie Ihre Beziehung zu dem Kind aus.",
-      "consentRequired": "Sie müssen zustimmen, um fortzufahren."
+      "consentRequired": "Bitte setzen Sie oben das Häkchen, um fortzufahren."
     },
     "consent": {
       "defaultConsentText": "[Bitte wählen Sie oben Ihre Beziehung zum Kind aus, um die entsprechende Einverständniserklärung zu sehen]",
-      "parentGuardianText": "Ich bestätige, dass ich über 18 Jahre alt bin, der Elternteil oder gesetzlicher Vormund dieses Kindes bin und ich stimme zu, diese Details zur Erstellung eines personalisierten Märchenbuchs gemäß der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> bereitzustellen.",
-      "otherRelationshipText": "Ich bestätige, dass ich über 18 Jahre alt bin und die Erlaubnis des Elternteils oder Vormunds des Kindes habe, diese Angaben zur Erstellung eines personalisierten Geschichtenbuchs gemäß der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> bereitzustellen."
+      "parentGuardianText": "Ich bin Elternteil oder gesetzlicher Vormund dieses Kindes, über 18 Jahre alt und stimme zu, dass diese Angaben zur Erstellung eines personalisierten Geschichtenbuchs verwendet werden, wie in der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> beschrieben.",
+      "otherRelationshipText": "Ich bin über 18 Jahre alt und habe die Erlaubnis eines Elternteils oder des Vormunds des Kindes, diese Angaben zur Erstellung eines personalisierten Geschichtenbuchs bereitzustellen, wie in der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> beschrieben."
     },
     "months": {
       "january": "Januar",

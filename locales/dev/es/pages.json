@@ -17,7 +17,7 @@
       "kidCallsDaddy": "¿Cómo llaman a su papá? (ej. Papá, Papi)",
       "language": "Idioma",
       "relationshipToChild": "¿Cuál es tu parentesco con la niña o el niño?",
-      "consentSectionHeader": "Nos tomamos muy en serio la privacidad"
+      "consentSectionHeader": "Nos tomamos muy en serio la privacidad de los niños"
     },
     "experiment": {
       "title": "¿Para quién es este libro?",
@@ -47,17 +47,17 @@
       "feminine": "Femenina"
     },
     "buttons": {
-      "nextStep": "Siguiente paso ➔ Subir fotos"
+      "nextStep": "Siguiente: añadir las fotos ➔"
     },
     "validation": {
-      "tooLongForBook": "Es demasiado largo.",
-      "selectRelationship": "Por favor, selecciona el parentesco con el niño.",
-      "consentRequired": "Debes dar tu consentimiento para continuar."
+      "tooLongForBook": "Máximo 12 caracteres. Un apodo también vale.",
+      "selectRelationship": "Selecciona tu relación con el niño.",
+      "consentRequired": "Marca la casilla de arriba para continuar."
     },
     "consent": {
       "defaultConsentText": "[Selecciona arriba tu parentesco con el niño para visualizar el mensaje de consentimiento adecuado]",
-      "parentGuardianText": "Confirmo que soy el padre, la madre o el tutor legal de este niño, que tengo más de 18 años y que doy mi consentimiento para que la información proporcionada sirva para la creación de un libro de cuentos personalizado de acuerdo con la <a href='/policies/privacy-policy' target='_blank'>Política de privacidad</a>.",
-      "otherRelationshipText": "Confirmo que soy mayor de 18 años y que tengo la autorización de los padres o tutores del niño para facilitar esta información con el fin de crear un libro de cuentos personalizado conforme a la <a href='/policies/privacy-policy'>Política de privacidad</a>."
+      "parentGuardianText": "Soy el padre, la madre o el tutor legal de este niño o niña, tengo más de 18 años y acepto que estos datos se usen para crear un libro de cuentos personalizado, como se describe en la <a href='/policies/privacy-policy' target='_blank'>Política de privacidad</a>.",
+      "otherRelationshipText": "Tengo más de 18 años y cuento con la autorización de los padres o tutores del niño para facilitar estos datos y crear un libro de cuentos personalizado, como se describe en la <a href='/policies/privacy-policy'>Política de privacidad</a>."
     },
     "months": {
       "january": "Enero",
