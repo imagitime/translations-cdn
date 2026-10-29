@@ -17,7 +17,7 @@
       "kidCallsDaddy": "Comment appelle-t-il/elle son papa ? (ex. Papa, Papounet)",
       "language": "Langue",
       "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
-      "consentSectionHeader": "Nous prenons la vie privée des enfants très au sérieux"
+      "consentSectionHeader": "We take children's privacy seriously"
     },
     "experiment": {
       "title": "À qui est destiné ce livre ?",
@@ -47,17 +47,17 @@
       "feminine": "Féminin"
     },
     "buttons": {
-      "nextStep": "Étape suivante ➔ Télécharger les photos"
+      "nextStep": "Next: add the photos ➔"
     },
     "validation": {
-      "tooLongForBook": "C'est un peu trop long pour le livre.",
+      "tooLongForBook": "Up to 12 characters. A nickname works too.",
       "selectRelationship": "Veuillez sélectionner votre relation avec l'enfant.",
-      "consentRequired": "Vous devez donner votre consentement pour pouvoir continuer."
+      "consentRequired": "Please tick the box above to continue."
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je confirme que je suis le parent ou le·la tuteur·rice légal·e de cet enfant, que j'ai plus de 18 ans et que je consens à fournir ces informations pour créer un livre personnalisé conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
-      "otherRelationshipText": "Je confirme que j'ai plus de 18 ans et suis autorisé·e par le parent ou le·la tuteur·rice de l'enfant à fournir ces informations pour créer un livre d'histoire personnalisé conformément à la <a href='/policies/privacy-policy'>politique de confidentialité</a>."
+      "parentGuardianText": "I'm this child's parent or legal guardian, I'm over 18, and I agree to these details being used to create a personalized storybook, as described in the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
+      "otherRelationshipText": "I'm over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook, as described in the <a href='/policies/privacy-policy'>Privacy Policy</a>."
     },
     "months": {
       "january": "Janvier",
