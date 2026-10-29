@@ -17,7 +17,7 @@
       "kidCallsDaddy": "Hoe noemt je kind zijn of haar vader? (Bijv. papa, pap, paps)",
       "language": "Taal",
       "relationshipToChild": "Wat is je relatie tot het kind?",
-      "consentSectionHeader": "We nemen de privacy van kinderen serieus"
+      "consentSectionHeader": "We take children's privacy seriously"
     },
     "experiment": {
       "title": "Voor wie is dit boek?",
@@ -47,17 +47,17 @@
       "feminine": "Vrouwelijk"
     },
     "buttons": {
-      "nextStep": "Volgende stap ➔ Foto's uploaden"
+      "nextStep": "Next: add the photos ➔"
     },
     "validation": {
-      "tooLongForBook": "Dat is te lang voor het boek.",
+      "tooLongForBook": "Up to 12 characters. A nickname works too.",
       "selectRelationship": "Selecteer je relatie tot het kind.",
-      "consentRequired": "Je moet toestemming geven om door te gaan."
+      "consentRequired": "Please tick the box above to continue."
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "Ik bevestig dat ik de ouder of wettelijke voogd van dit kind ben, dat ik ouder dan 18 ben en dat ik toestemming geef om de verstrekte gegevens te gebruiken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
-      "otherRelationshipText": "Ik bevestig dat ik ouder dan 18 ben en toestemming heb van de ouder of voogd van het kind om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek in overeenstemming met het <a href='/policies/privacy-policy'>Privacybeleid</a>."
+      "parentGuardianText": "I'm this child's parent or legal guardian, I'm over 18, and I agree to these details being used to create a personalized storybook, as described in the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
+      "otherRelationshipText": "I'm over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook, as described in the <a href='/policies/privacy-policy'>Privacy Policy</a>."
     },
     "months": {
       "january": "Januari",
