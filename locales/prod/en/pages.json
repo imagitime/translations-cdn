@@ -17,7 +17,7 @@
       "kidCallsDaddy": "What do they call their Dad? (e.g. Dad, Daddy, Papa)",
       "language": "Language",
       "relationshipToChild": "What is your relationship to the child?",
-      "consentSectionHeader": "We take child privacy seriously"
+      "consentSectionHeader": "We take children's privacy seriously"
     },
     "experiment": {
       "title": "Who is this book for?",
@@ -47,17 +47,17 @@
       "feminine": "Feminine"
     },
     "buttons": {
-      "nextStep": "Next Step ➔ Upload Photos"
+      "nextStep": "Next: add the photos ➔"
     },
     "validation": {
-      "tooLongForBook": "That's too long for the book.",
+      "tooLongForBook": "Up to 12 characters. A nickname works too.",
       "selectRelationship": "Please select your relationship to the child.",
-      "consentRequired": "You must provide consent to proceed."
+      "consentRequired": "Please tick the box above to continue."
     },
     "consent": {
       "defaultConsentText": "[Please select your relationship to the child above to see the appropriate consent message]",
-      "parentGuardianText": "I confirm I am the parent or legal guardian of this child, I am over 18, and I consent to providing these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
-      "otherRelationshipText": "I confirm I am over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook in accordance with the <a href='/policies/privacy-policy'>Privacy Policy</a>."
+      "parentGuardianText": "I'm this child's parent or legal guardian, I'm over 18, and I agree to these details being used to create a personalized storybook, as described in the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
+      "otherRelationshipText": "I'm over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook, as described in the <a href='/policies/privacy-policy'>Privacy Policy</a>."
     },
     "months": {
       "january": "January",
