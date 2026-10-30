@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je suis le parent ou le tuteur légal de cet enfant, j'ai plus de 18 ans et j'accepte que ces informations soient utilisées pour créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>.",
-      "otherRelationshipText": "J'ai plus de 18 ans et j'ai l'autorisation du parent ou du tuteur de l'enfant pour fournir ces informations afin de créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy'>Politique de confidentialité</a>."
+      "parentGuardianText": "Je suis le parent ou le tuteur légal de cet enfant, j'ai plus de 18 ans et j'accepte que ces informations et les photos que j'ajoute soient utilisées pour créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>. Je peux retirer mon accord à tout moment.",
+      "otherRelationshipText": "J'ai plus de 18 ans et j'ai l'autorisation du parent ou du tuteur de l'enfant pour fournir ces informations et ces photos afin de créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy'>Politique de confidentialité</a>. Je peux retirer mon accord à tout moment."
     },
     "months": {
       "january": "Janvier",
