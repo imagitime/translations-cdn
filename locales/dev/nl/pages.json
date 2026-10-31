@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "I'm this child's parent or legal guardian, I'm over 18, and I agree to these details being used to create a personalized storybook, as described in the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>.",
-      "otherRelationshipText": "I'm over 18 and have permission from the child's parent or guardian to provide these details for creating a personalized storybook, as described in the <a href='/policies/privacy-policy'>Privacy Policy</a>."
+      "parentGuardianText": "I'm this child's parent or legal guardian, I'm over 18, and I agree to these details and the photos I add being used to create a personalized storybook, as described in the <a href='/policies/privacy-policy' target='_blank'>Privacy Policy</a>. I can withdraw this at any time.",
+      "otherRelationshipText": "I'm over 18 and have permission from the child's parent or guardian to provide these details and photos for creating a personalized storybook, as described in the <a href='/policies/privacy-policy'>Privacy Policy</a>. I can withdraw this at any time."
     },
     "months": {
       "january": "Januari",
