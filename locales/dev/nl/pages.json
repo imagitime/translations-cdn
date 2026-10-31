@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "Ik ben de ouder of wettelijke voogd van dit kind, ik ben ouder dan 18 en ik ga ermee akkoord dat deze gegevens worden gebruikt om een gepersonaliseerd verhalenboek te maken, zoals beschreven in het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>.",
-      "otherRelationshipText": "Ik ben ouder dan 18 en heb toestemming van de ouder of voogd van het kind om deze gegevens te verstrekken voor het maken van een gepersonaliseerd verhalenboek, zoals beschreven in het <a href='/policies/privacy-policy'>Privacybeleid</a>."
+      "parentGuardianText": "Ik ben de ouder of wettelijke voogd van dit kind, ik ben ouder dan 18 en ik ga ermee akkoord dat deze gegevens en de foto's die ik toevoeg worden gebruikt om een gepersonaliseerd verhalenboek te maken, zoals beschreven in het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>. Ik kan dit op elk moment intrekken.",
+      "otherRelationshipText": "Ik ben ouder dan 18 en heb toestemming van de ouder of voogd van het kind om deze gegevens en foto's te verstrekken voor het maken van een gepersonaliseerd verhalenboek, zoals beschreven in het <a href='/policies/privacy-policy'>Privacybeleid</a>. Ik kan dit op elk moment intrekken."
     },
     "months": {
       "january": "Januari",

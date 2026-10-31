@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Bitte wählen Sie oben Ihre Beziehung zum Kind aus, um die entsprechende Einverständniserklärung zu sehen]",
-      "parentGuardianText": "Ich bin Elternteil oder gesetzlicher Vormund dieses Kindes, über 18 Jahre alt und stimme zu, dass diese Angaben zur Erstellung eines personalisierten Geschichtenbuchs verwendet werden, wie in der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> beschrieben.",
-      "otherRelationshipText": "Ich bin über 18 Jahre alt und habe die Erlaubnis eines Elternteils oder des Vormunds des Kindes, diese Angaben zur Erstellung eines personalisierten Geschichtenbuchs bereitzustellen, wie in der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> beschrieben."
+      "parentGuardianText": "Ich bin Elternteil oder gesetzlicher Vormund dieses Kindes, über 18 Jahre alt und stimme zu, dass diese Angaben und die Fotos, die ich hinzufüge, zur Erstellung eines personalisierten Geschichtenbuchs verwendet werden, wie in der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> beschrieben. Ich kann das jederzeit widerrufen.",
+      "otherRelationshipText": "Ich bin über 18 Jahre alt und habe die Erlaubnis eines Elternteils oder des Vormunds des Kindes, diese Angaben und Fotos zur Erstellung eines personalisierten Geschichtenbuchs bereitzustellen, wie in der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> beschrieben. Ich kann das jederzeit widerrufen."
     },
     "months": {
       "january": "Januar",
