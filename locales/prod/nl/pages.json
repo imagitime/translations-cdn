@@ -651,8 +651,8 @@
       "offerBadge": "{percent}% korting op je volgende boek",
       "addPhotos": "Foto's toevoegen",
       "addVideo": "Video toevoegen",
-      "mediaLimit": "Tot 5 foto's en 1 video",
-      "mediaDrag": "Tot 5 foto's en 1 video. Je kunt bestanden ook hierheen slepen."
+      "mediaLimit": "Max. 5 foto's en 1 video",
+      "mediaDrag": "Max. 5 foto's en 1 video. Je kunt bestanden ook hierheen slepen."
     },
     "lowRating": {
       "lowTitle": "Bedankt voor je eerlijkheid",

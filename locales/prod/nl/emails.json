@@ -145,11 +145,11 @@
   "review_action.button_media": "Foto/video toevoegen",
   "review_action.your_review": "Je beoordeling",
   "review_action.subject": "Wat vond {kid_name} van het boek? Krijg {reward_percent}% korting",
-  "review_action.footnote": "Hoi {requester_name}, bedankt dat je voor Imagitime hebt gekozen. We hopen dat {kid_name} dol is op het boek.",
+  "review_action.footnote": "Hallo {requester_name}, bedankt dat je voor Imagitime hebt gekozen. We hopen dat {kid_name} dol is op het boek.",
   "review_action.not_received": "Boek nog niet ontvangen of klopt er iets niet? Beantwoord deze e-mail en we lossen het op.",
   "review_action.closing": "Hartelijke groet,<br>Het Imagitime-team",
   "review_action.footer": "Je ontvangt deze e-mail omdat je bij ons een gepersonaliseerd boek hebt gekocht.",
-  "review_action.footer_media": "Je ontvangt deze e-mail omdat je een boek dat je bij ons kocht hebt beoordeeld.",
+  "review_action.footer_media": "Je ontvangt deze e-mail omdat je een boek hebt beoordeeld dat je bij ons hebt gekocht.",
   "review_action.unsubscribe": "Afmelden voor beoordelingsmails",
   "review_action.subject_media": "{reward_percent}% korting: voeg een foto/video toe aan je beoordeling",
   "review_action.note_media": "Je foto/video verschijnt naast je beoordeling en helpt andere gezinnen kiezen.",
@@ -157,6 +157,6 @@
   "review_action.subject_backlog": "Geniet {kid_name} nog van het boek? Krijg {reward_percent}% korting",
   "review_action.question_backlog": "Geniet {kid_name} nog steeds van het boek?",
   "review_action.prompt_backlog": "Tik op een ster om het te beoordelen. Het kost maar een minuut.",
-  "review_action.footnote_backlog": "Hoi {requester_name}, je hebt {book} een tijdje geleden bij ons gemaakt. We zien graag waar het nu is: in de boekenkast, bij het slapengaan, in de handen van {kid_name}.",
+  "review_action.footnote_backlog": "Hallo {requester_name}, je hebt {book} een tijdje geleden bij ons gemaakt. We zien graag waar het nu is: in de boekenkast, naast het bed, in de handen van {kid_name}.",
   "review_action.book_fallback": "het boek van {kid_name}"
 }

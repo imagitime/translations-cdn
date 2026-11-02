@@ -652,7 +652,7 @@
       "addPhotos": "Fotos hinzufügen",
       "addVideo": "Video hinzufügen",
       "mediaLimit": "Bis zu 5 Fotos und 1 Video",
-      "mediaDrag": "Bis zu 5 Fotos und 1 Video. Du kannst Dateien auch hierher ziehen."
+      "mediaDrag": "Bis zu 5 Fotos und 1 Video. Du kannst die Dateien auch hierher ziehen."
     },
     "lowRating": {
       "lowTitle": "Danke für deine Ehrlichkeit",
@@ -665,7 +665,7 @@
     "write": {
       "textTitle": "Erzähl uns mehr!",
       "reviewTitle": "Deine Bewertung",
-      "placeholderKid": "Was hat {kid} besonders gefallen?",
+      "placeholderKid": "Was hat {kid} besonders gut gefallen?",
       "nameLabel": "Dein Name",
       "submitReview": "Bewertung absenden",
       "reviewNote": "Deine Bewertung und Fotos können auf unserer Website gezeigt werden.",
@@ -718,7 +718,7 @@
       "clickToChange": "Klicke auf einen Stern, um deine Bewertung zu ändern",
       "editAddMedia": "Foto/Video hinzufügen",
       "editSave": "Änderungen speichern",
-      "editSaved": "Deine Änderungen sind gespeichert"
+      "editSaved": "Deine Änderungen wurden gespeichert"
     },
     "expired": {
       "expiredTitle": "Dieser Link ist abgelaufen",
