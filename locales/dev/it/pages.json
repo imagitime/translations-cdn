@@ -630,9 +630,9 @@
       "bookFallback": "il libro di {kid}"
     },
     "rating": {
-      "rateTitle": "Quante stelle dai a «{title}»?",
-      "rateLow": "Non un granché",
-      "rateHigh": "Adorato!",
+      "rateTitle": "Quante stelle merita «{title}»?",
+      "rateLow": "Deludente",
+      "rateHigh": "Fantastico!",
       "ratingLabels": [
         "",
         "Non bene",
@@ -692,7 +692,7 @@
       "copy": "Copia il codice",
       "copied": "Copiato!",
       "couponEmailed": "Ti abbiamo inviato il codice anche per e-mail.",
-      "shareAsk": "Aiuta altre famiglie a trovarci: condividi la tua recensione su Trustpilot o Google",
+      "shareAsk": "Aiuta altre famiglie a scoprirci: condividi la tua recensione su Trustpilot o Google",
       "shareCopied": "La tua recensione è stata copiata. Incollala nella pagina successiva.",
       "nudgeTitle": "Vuoi ancora il {percent}% di sconto sul prossimo acquisto?",
       "nudgeBody": "Aggiungi ora una foto o un video del libro (con {kid}, con te o il libro da solo), oppure più tardi dal link nella tua e-mail."
@@ -716,9 +716,9 @@
       "editTitle": "Modifica la tua recensione",
       "tapToChange": "Tocca una stella per cambiare la valutazione",
       "clickToChange": "Clicca su una stella per cambiare il tuo voto",
-      "editAddMedia": "Aggiungi foto/video",
+      "editAddMedia": "Aggiungi foto o video",
       "editSave": "Salva le modifiche",
-      "editSaved": "Le tue modifiche sono salvate"
+      "editSaved": "Le tue modifiche sono state salvate"
     },
     "expired": {
       "expiredTitle": "Questo link è scaduto",

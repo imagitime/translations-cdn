@@ -665,7 +665,7 @@
     "write": {
       "textTitle": "Dites-nous en plus !",
       "reviewTitle": "Votre avis",
-      "placeholderKid": "Qu'est-ce que {kid} a le plus aimé ?",
+      "placeholderKid": "Qu’est-ce qui a le plus plu à {kid} ?",
       "nameLabel": "Votre nom",
       "submitReview": "Envoyer l'avis",
       "reviewNote": "Votre avis et vos photos pourront être affichés sur notre site.",
@@ -692,7 +692,7 @@
       "copy": "Copier le code",
       "copied": "Copié !",
       "couponEmailed": "Nous vous avons aussi envoyé le code par e-mail.",
-      "shareAsk": "Aidez d'autres familles à nous trouver : partagez votre avis sur Trustpilot ou Google",
+      "shareAsk": "Aidez d'autres familles à nous découvrir : partagez votre avis sur Trustpilot ou Google",
       "shareCopied": "Avis copié ! Collez-le sur la page suivante.",
       "nudgeTitle": "Toujours envie de {percent} % de réduction sur votre prochain livre ?",
       "nudgeBody": "Ajoutez dès maintenant une photo/vidéo du livre (avec {kid}, avec vous, ou le livre seul), ou plus tard grâce au lien reçu par e-mail."
@@ -716,7 +716,7 @@
       "editTitle": "Modifier votre avis",
       "tapToChange": "Touchez une étoile pour changer votre note",
       "clickToChange": "Cliquez sur une étoile pour modifier votre note",
-      "editAddMedia": "Ajouter photo/vidéo",
+      "editAddMedia": "Ajouter une photo/vidéo",
       "editSave": "Enregistrer",
       "editSaved": "Vos modifications sont enregistrées"
     },

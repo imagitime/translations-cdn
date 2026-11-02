@@ -688,7 +688,7 @@
       "thanksBody": "Tu reseña aparecerá en nuestra web en breve.",
       "thanksBodyLow": "Gracias por tu opinión sincera. Si algo no estaba bien con tu libro, escríbenos a support@imagitime.com y lo solucionaremos.",
       "thanksBodyPhoto": "Tu reseña aparecerá en nuestra web en breve.",
-      "couponLabelPct": "Aquí tienes tu código de descuento del {percent} %",
+      "couponLabelPct": "Aquí tienes tu código de descuento del {percent}%",
       "copy": "Copiar código",
       "copied": "¡Copiado!",
       "couponEmailed": "También te hemos enviado el código por correo.",
@@ -718,7 +718,7 @@
       "clickToChange": "Haz clic en una estrella para cambiar tu valoración",
       "editAddMedia": "Añadir foto/vídeo",
       "editSave": "Guardar cambios",
-      "editSaved": "Tus cambios se han guardado"
+      "editSaved": "Cambios guardados"
     },
     "expired": {
       "expiredTitle": "Este enlace ha caducado",
