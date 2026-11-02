@@ -647,7 +647,7 @@
       "skipShort": "Salta",
       "notNow": "Non ora",
       "showTitle": "Mostraci il libro!",
-      "showSub": "Una foto o un video di {kid} con il libro: in mano, mentre legge o mentre indica la sua pagina. Il libro deve vedersi nella foto.",
+      "showSub": "Una foto o un video di {kid} con il libro: in mano, mentre legge o mentre indica la sua pagina. Il libro deve essere nella foto.",
       "offerBadge": "{percent}% di sconto con una foto del libro",
       "addPhotos": "Scegli le foto",
       "addVideo": "Aggiungi un video",

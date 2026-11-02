@@ -135,7 +135,7 @@
   "review_action.tag": "UN MERCI DE NOTRE PART",
   "review_action.tag_media": "MERCI POUR VOTRE AVIS",
   "review_action.offer_title": "{reward_percent} % de réduction sur votre prochain livre",
-  "review_action.offer_body": "Ajoutez une photo/vidéo de {kid_name} avec le livre : en le tenant, en le lisant ou en montrant sa page préférée.",
+  "review_action.offer_body": "Ajoutez une photo/vidéo de {kid_name} avec le livre : en train de le tenir, de le lire ou de montrer sa page préférée.",
   "review_action.honest": "Tous les avis sincères sont les bienvenus : la réduction récompense une photo/vidéo où l'on voit le livre, quelle que soit votre note.",
   "review_action.question": "Qu'a pensé {kid_name} de son livre ?",
   "review_action.prompt": "Touchez une étoile pour commencer. Cela prend une minute.",

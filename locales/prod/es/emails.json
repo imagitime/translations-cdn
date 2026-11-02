@@ -160,5 +160,5 @@
   "review_action.footnote_backlog": "Hola, {requester_name}, creaste con nosotros {book} hace un tiempo. Nos encantaría saber dónde está ahora: en la estantería, en la mesita de noche o en las manos de {kid_name}.",
   "review_action.book_fallback": "el libro de {kid_name}",
   "review_action.example_caption": "Como estas familias:",
-  "review_action.offer_body_backlog": "Enséñanos dónde vive ahora el libro: una foto de {kid_name} con el libro, a la hora de dormir o en la estantería."
+  "review_action.offer_body_backlog": "Enséñanos dónde está ahora el libro: una foto de {kid_name} con el libro, a la hora de dormir o en la estantería."
 }
