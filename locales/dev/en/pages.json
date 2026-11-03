@@ -265,6 +265,12 @@
         {"text": "\"She kept smiling and saying, 'This is so me!' It was the perfect gift.\"", "author": "Michael T"},
         {"text": "\"This book is incredible. The pictures were so realistic looking that Amy was left speechless.\"", "author": "Jake C"}
       ]
+    },
+    "xlUpgrade": {
+      "title": "Upgrade to Hardcover XL",
+      "button": "Upgrade for +{{price}}",
+      "note": "Paid separately in a short checkout. Possible until your book goes to print.",
+      "done": "Upgraded: your book will be printed as Hardcover XL."
     }
   },
   "ContactDetails": {

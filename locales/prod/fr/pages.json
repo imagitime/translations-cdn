@@ -319,6 +319,12 @@
           "author": "Jake C"
         }
       ]
+    },
+    "xlUpgrade": {
+      "title": "Passez au Relié XL",
+      "button": "Passer au XL pour +{{price}}",
+      "note": "Paiement séparé, en quelques clics. Possible jusqu'à ce que votre livre parte à l'impression.",
+      "done": "C'est fait : votre livre sera imprimé en Relié XL."
     }
   },
   "ContactDetails": {

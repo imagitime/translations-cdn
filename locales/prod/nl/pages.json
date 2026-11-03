@@ -319,6 +319,12 @@
           "author": "Jake C"
         }
       ]
+    },
+    "xlUpgrade": {
+      "title": "Upgrade naar Hardcover XL",
+      "button": "Upgraden voor +{{price}}",
+      "note": "Je betaalt dit apart, in een korte checkout. Dit kan tot je boek naar de drukker gaat.",
+      "done": "Gelukt: je boek wordt gedrukt als Hardcover XL."
     }
   },
   "ContactDetails": {

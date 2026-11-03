@@ -319,6 +319,12 @@
           "author": "Javier C"
         }
       ]
+    },
+    "xlUpgrade": {
+      "title": "Pásate a la Tapa dura XL",
+      "button": "Cambiar a XL por +{{price}}",
+      "note": "Se paga aparte, en un pago rápido. Puedes hacerlo hasta que tu libro se envíe a imprimir.",
+      "done": "Listo: tu libro se imprimirá en Tapa dura XL."
     }
   },
   "ContactDetails": {

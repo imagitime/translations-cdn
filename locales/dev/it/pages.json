@@ -319,6 +319,12 @@
           "author": "Jake C"
         }
       ]
+    },
+    "xlUpgrade": {
+      "title": "Passa alla Copertina rigida XL",
+      "button": "Passa all'XL per +{{price}}",
+      "note": "Si paga a parte, con un pagamento veloce. Puoi farlo finché il libro non va in stampa.",
+      "done": "Fatto: il tuo libro sarà stampato in Copertina rigida XL."
     }
   },
   "ContactDetails": {
