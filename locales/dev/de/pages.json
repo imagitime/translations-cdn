@@ -319,6 +319,12 @@
           "author": "Jake C"
         }
       ]
+    },
+    "xlUpgrade": {
+      "title": "Upgrade auf Gebundene Ausgabe XL",
+      "button": "Upgrade für +{{price}}",
+      "note": "Wird separat in einem kurzen Checkout bezahlt. Möglich, bis Ihr Buch in den Druck geht.",
+      "done": "Upgrade erledigt: Ihr Buch wird als Gebundene Ausgabe XL gedruckt."
     }
   },
   "ContactDetails": {
