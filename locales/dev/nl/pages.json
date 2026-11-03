@@ -646,21 +646,23 @@
     "photo": {
       "skipShort": "Overslaan",
       "notNow": "Niet nu",
-      "showTitle": "Laat het zien!",
-      "showSub": "Een foto/video van het boek: met {kid}, met jou of alleen het boek.",
-      "offerBadge": "{percent}% korting op je volgende boek",
-      "addPhotos": "Foto's toevoegen",
+      "showTitle": "Laat ons het boek zien!",
+      "showSub": "Een foto/video van {kid} met het boek: in de hand, aan het lezen of wijzend naar de eigen pagina. Het boek moet op de foto staan.",
+      "offerBadge": "{percent}% korting met een foto van het boek",
+      "addPhotos": "Foto's kiezen",
       "addVideo": "Video toevoegen",
       "mediaLimit": "Max. 5 foto's en 1 video",
-      "mediaDrag": "Max. 5 foto's en 1 video. Je kunt bestanden ook hierheen slepen."
+      "mediaDrag": "Max. 5 foto's en 1 video. Je kunt bestanden ook hierheen slepen.",
+      "takePhoto": "Maak nu een foto",
+      "exampleCaption": "Zo deden deze gezinnen het"
     },
     "lowRating": {
       "lowTitle": "Bedankt voor je eerlijkheid",
       "lowBody": "Vertel ons wat er misging. We lezen elke beoordeling en doen ons best om het goed te maken.",
       "continueReview": "Verder naar je beoordeling",
       "orWord": "of",
-      "lowOfferLine": "Voeg een foto/video van het boek toe. De korting geldt voor elke beoordeling.",
-      "lowOfferWide": "voor een foto/video van het boek, ongeacht je beoordeling"
+      "lowOfferLine": "Voeg een foto/video toe waarop het boek te zien is. De korting geldt voor elke beoordeling.",
+      "lowOfferWide": "voor een foto/video waarop het boek te zien is, ongeacht je beoordeling"
     },
     "write": {
       "textTitle": "Vertel ons meer!",
@@ -695,7 +697,7 @@
       "shareAsk": "Help andere gezinnen ons te vinden: deel je beoordeling op Trustpilot of Google",
       "shareCopied": "Je beoordeling is gekopieerd. Plak haar op de volgende pagina.",
       "nudgeTitle": "Wil je nog steeds {percent}% korting op je volgende boek?",
-      "nudgeBody": "Voeg nu een foto/video van het boek toe (met {kid}, met jou of alleen het boek), of doe het later via de link in je e-mail."
+      "nudgeBody": "Voeg nu een foto/video van {kid} met het boek toe, of doe het later via de link in je e-mail."
     },
     "yourReview": {
       "statusPending": "Wacht op goedkeuring door ons team",
@@ -704,8 +706,8 @@
       "statusRemoved": "Ons team heeft deze beoordeling verwijderd. Heb je een vraag? Stuur ons een bericht.",
       "replyLabel": "Reactie van Imagitime",
       "yourMedia": "Je foto's/video's",
-      "offerBoxTitle": "Voeg een foto/video toe en krijg {percent}% korting",
-      "offerBoxSub": "Met {kid}, met jou of alleen het boek.",
+      "offerBoxTitle": "Voeg een foto/video van het boek toe en krijg {percent}% korting",
+      "offerBoxSub": "{kid} met het boek: in de hand, aan het lezen of met een pagina open.",
       "roomBoth": "Je kunt nog {photos} foto's en 1 video toevoegen.",
       "roomBothOne": "Je kunt nog 1 foto en 1 video toevoegen.",
       "roomPhotos": "Je kunt nog {photos} foto's toevoegen.",

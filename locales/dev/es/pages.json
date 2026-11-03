@@ -646,21 +646,23 @@
     "photo": {
       "skipShort": "Omitir",
       "notNow": "Ahora no",
-      "showTitle": "¡Enséñanoslo!",
-      "showSub": "Una foto/vídeo del libro: con {kid}, contigo o el libro solo.",
-      "offerBadge": "{percent}% de descuento en tu próximo libro",
-      "addPhotos": "Añadir fotos",
+      "showTitle": "¡Enséñanos el libro!",
+      "showSub": "Una foto/vídeo de {kid} con el libro: sujetándolo, leyéndolo o señalando su página. El libro tiene que salir en la foto.",
+      "offerBadge": "{percent}% de descuento con una foto del libro",
+      "addPhotos": "Elegir fotos",
       "addVideo": "Añadir un vídeo",
       "mediaLimit": "Hasta 5 fotos y 1 vídeo",
-      "mediaDrag": "Hasta 5 fotos y 1 vídeo. También puedes arrastrar los archivos aquí."
+      "mediaDrag": "Hasta 5 fotos y 1 vídeo. También puedes arrastrar los archivos aquí.",
+      "takePhoto": "Hacer una foto ahora",
+      "exampleCaption": "Como hicieron estas familias"
     },
     "lowRating": {
       "lowTitle": "Gracias por tu sinceridad",
       "lowBody": "Cuéntanos qué salió mal. Leemos todas las reseñas y haremos lo posible por solucionarlo.",
       "continueReview": "Continuar con tu reseña",
       "orWord": "o",
-      "lowOfferLine": "Añade una foto/vídeo del libro. El descuento es para cualquier valoración.",
-      "lowOfferWide": "por una foto/vídeo del libro, sea cual sea tu valoración"
+      "lowOfferLine": "Añade una foto/vídeo en la que se vea el libro. El descuento es para cualquier valoración.",
+      "lowOfferWide": "por una foto/vídeo en la que se vea el libro, sea cual sea tu valoración"
     },
     "write": {
       "textTitle": "¡Cuéntanos más!",
@@ -695,7 +697,7 @@
       "shareAsk": "Ayuda a otras familias a encontrarnos: comparte tu reseña en Trustpilot o Google",
       "shareCopied": "Tu reseña se ha copiado. Pégala en la página siguiente.",
       "nudgeTitle": "¿Y si te llevas un {percent}% de descuento para tu próximo libro?",
-      "nudgeBody": "Añade ahora una foto/vídeo del libro (con {kid}, contigo o el libro solo). También puedes hacerlo más tarde desde el enlace de tu correo."
+      "nudgeBody": "Añade ahora una foto/vídeo de {kid} con el libro. También puedes hacerlo más tarde desde el enlace de tu correo."
     },
     "yourReview": {
       "statusPending": "Pendiente de aprobación por nuestro equipo",
@@ -704,8 +706,8 @@
       "statusRemoved": "Nuestro equipo ha retirado esta reseña. Si tienes alguna pregunta, escríbenos.",
       "replyLabel": "Respuesta de Imagitime",
       "yourMedia": "Tus fotos/vídeos",
-      "offerBoxTitle": "Añade una foto/vídeo y obtén un {percent}% de descuento",
-      "offerBoxSub": "Con {kid}, contigo o el libro solo.",
+      "offerBoxTitle": "Añade una foto/vídeo del libro y obtén un {percent}% de descuento",
+      "offerBoxSub": "{kid} con el libro: sujetándolo, leyéndolo o enseñando una página.",
       "roomBoth": "Puedes añadir {photos} fotos más y 1 vídeo.",
       "roomBothOne": "Puedes añadir 1 foto más y 1 vídeo.",
       "roomPhotos": "Puedes añadir {photos} fotos más.",
