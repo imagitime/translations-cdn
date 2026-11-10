@@ -106,6 +106,8 @@
   "digital_pdf_email.greeting": "Ciao {requester_name},",
   "digital_pdf_email.intro": "il tuo PDF digitale di «{book_title}» è pronto!",
   "digital_pdf_email.pdf_ready": "Abbiamo allegato il PDF ad alta risoluzione a questa email, così puoi iniziare subito a goderti la storia.",
+  "digital_pdf_email.pdf_link": "Il tuo PDF ad alta risoluzione è troppo grande per essere allegato a un'email, quindi lo abbiamo messo online per te. Scaricalo con il pulsante qui sotto e conservane una copia sul tuo dispositivo.",
+  "digital_pdf_email.download_button": "Scarica il tuo PDF",
   "digital_pdf_email.questions_text": "Se hai domande o hai bisogno di ulteriore assistenza, rispondi pure a questa email.",
   "standard_email.closing": "Un caro saluto,<br>Il team di Imagitime",
   "standard_email.footer": "Hai ricevuto questa email perché hai acquistato uno dei nostri libri personalizzati.",
