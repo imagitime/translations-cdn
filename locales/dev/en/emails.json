@@ -135,14 +135,14 @@
   "review_action.tag": "A THANK-YOU FROM US",
   "review_action.tag_media": "THANK YOU FOR YOUR REVIEW",
   "review_action.offer_title": "{reward_percent}% off your next book",
-  "review_action.offer_body": "Add a photo/video of {kid_name} with the book: holding it, reading it or showing a favourite page.",
-  "review_action.honest": "Honest reviews welcome: the discount is for a photo/video that shows the book, whatever your rating.",
+  "review_action.offer_body": "Add a photo/video of {kid_name} enjoying {possessive} book. Prefer not to show {kid_name}? That's completely fine: a photo of just the book gets the same {reward_percent}% off.",
+  "review_action.honest": "Photos appear with your review. Honest reviews welcome: the discount is for any photo of the book, whatever your rating.",
   "review_action.question": "How did {kid_name} like {possessive} book?",
   "review_action.prompt": "Tap a star to start. It takes a minute.",
   "review_action.star_low": "Not great",
   "review_action.star_high": "Loved it",
   "review_action.button_rate": "Rate &amp; share a book photo",
-  "review_action.button_media": "Add a photo with the book",
+  "review_action.button_media": "Add a book photo",
   "review_action.your_review": "Your review",
   "review_action.subject": "How did {kid_name} like {possessive} book? Get {reward_percent}% off",
   "review_action.footnote": "Hi {requester_name}, thank you for choosing Imagitime. We hope {kid_name} loves {possessive} book.",
@@ -151,7 +151,7 @@
   "review_action.footer": "You received this email because you bought a personalised book from us.",
   "review_action.footer_media": "You received this email because you reviewed a book you bought from us.",
   "review_action.unsubscribe": "Unsubscribe from review emails",
-  "review_action.subject_media": "Get {reward_percent}% off: add a photo of {kid_name} with the book",
+  "review_action.subject_media": "Get {reward_percent}% off: add a photo of the book",
   "review_action.note_media": "Your photo/video of the book appears next to your review and helps other families choose.",
   "review_action.tag_backlog": "A CHRISTMAS THANK-YOU FOR YOU",
   "review_action.subject_backlog": "Still reading {kid_name}'s book? Get {reward_percent}% off",
@@ -160,5 +160,5 @@
   "review_action.footnote_backlog": "Hi {requester_name}, you made {book} with us a while ago. We'd love to see where it lives now: on the shelf, at bedtime, in {kid_name}'s hands.",
   "review_action.book_fallback": "{kid_name}'s book",
   "review_action.example_caption": "Like these families:",
-  "review_action.offer_body_backlog": "Show us where the book lives now: a photo of {kid_name} with it, at bedtime or on the shelf."
+  "review_action.offer_body_backlog": "Show us {kid_name} enjoying {possessive} book, at bedtime or any time. Prefer not to show {kid_name}? A photo of just the book is perfect too."
 }
