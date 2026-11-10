@@ -106,7 +106,7 @@
   "digital_pdf_email.greeting": "Hallo {requester_name},",
   "digital_pdf_email.intro": "Dein digitales PDF von „{book_title}\" ist fertig!",
   "digital_pdf_email.pdf_ready": "Wir haben das hochauflösende PDF an diese E-Mail angehängt, damit du die Geschichte sofort genießen kannst.",
-  "digital_pdf_email.pdf_link": "Dein hochauflösendes PDF ist zu groß für einen E-Mail-Anhang, deshalb haben wir es online für dich bereitgestellt. Lade es über den Button unten herunter. Der Link bleibt aktiv, du kannst das PDF also jederzeit erneut herunterladen.",
+  "digital_pdf_email.pdf_link": "Dein hochauflösendes PDF ist zu groß für einen E-Mail-Anhang, deshalb haben wir es online für dich bereitgestellt. Lade es über den Button unten herunter und speichere dir eine Kopie auf deinem Gerät.",
   "digital_pdf_email.download_button": "PDF herunterladen",
   "digital_pdf_email.questions_text": "Wenn du Fragen hast oder weitere Hilfe benötigst, antworte einfach auf diese E-Mail.",
   "standard_email.closing": "Herzliche Grüße,<br>Das Imagitime-Team",

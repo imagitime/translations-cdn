@@ -106,7 +106,7 @@
   "digital_pdf_email.greeting": "Beste {requester_name},",
   "digital_pdf_email.intro": "Je digitale pdf van \"{book_title}\" is klaar!",
   "digital_pdf_email.pdf_ready": "We hebben de pdf met hoge resolutie als bijlage bij deze e-mail gevoegd, zodat je direct van het verhaal kunt genieten.",
-  "digital_pdf_email.pdf_link": "Je pdf met hoge resolutie is te groot om als bijlage mee te sturen, dus we hebben hem online voor je klaargezet. Download hem met de knop hieronder. De link blijft werken, dus je kunt de pdf altijd opnieuw downloaden.",
+  "digital_pdf_email.pdf_link": "Je pdf met hoge resolutie is te groot om als bijlage mee te sturen, dus we hebben hem online voor je klaargezet. Download hem met de knop hieronder en bewaar een kopie op je apparaat.",
   "digital_pdf_email.download_button": "Download je pdf",
   "digital_pdf_email.questions_text": "Heb je nog vragen of heb je hulp nodig? Reageer dan gewoon op deze e-mail.",
   "standard_email.closing": "Hartelijke groet,<br>Het Imagitime-team",
