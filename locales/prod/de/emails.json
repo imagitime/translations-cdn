@@ -135,8 +135,8 @@
   "review_action.tag": "EIN DANKESCHÖN VON UNS",
   "review_action.tag_media": "DANKE FÜR IHRE BEWERTUNG",
   "review_action.offer_title": "{reward_percent} % Rabatt auf Ihr nächstes Buch",
-  "review_action.offer_body": "Fügen Sie ein Foto/Video hinzu, auf dem {kid_name} das Buch genießt. Sie möchten {kid_name} lieber nicht zeigen? Kein Problem: Ein Foto nur vom Buch erhält denselben Rabatt von {reward_percent} %.",
-  "review_action.honest": "Fotos erscheinen mit Ihrer Bewertung. Ehrliche Bewertungen sind willkommen: Der Rabatt gilt für jedes Foto vom Buch, egal wie Sie bewerten.",
+  "review_action.offer_body": "Fügen Sie ein Foto/Video hinzu, auf dem {kid_name} Spaß mit dem Buch hat. Sie möchten {kid_name} lieber nicht zeigen? Kein Problem: Für ein Foto nur vom Buch gibt es denselben Rabatt von {reward_percent} %.",
+  "review_action.honest": "Fotos erscheinen zusammen mit Ihrer Bewertung. Ehrliche Bewertungen sind willkommen: Der Rabatt gilt für jedes Foto vom Buch, egal, wie Sie bewerten.",
   "review_action.question": "Wie hat {kid_name} das Buch gefallen?",
   "review_action.prompt": "Tippen Sie auf einen Stern, um zu beginnen. Es dauert nur eine Minute.",
   "review_action.star_low": "Nicht gut",
@@ -160,5 +160,5 @@
   "review_action.footnote_backlog": "Hallo {requester_name}, Sie haben vor einiger Zeit {book} bei uns gestaltet. Wir würden gern sehen, wo es heute zu Hause ist: im Regal, beim Zubettgehen, in den Händen von {kid_name}.",
   "review_action.book_fallback": "das Buch für {kid_name}",
   "review_action.example_caption": "So wie diese Familien:",
-  "review_action.offer_body_backlog": "Zeigen Sie uns, wie {kid_name} das Buch genießt, beim Zubettgehen oder wann immer Sie möchten. Sie möchten {kid_name} lieber nicht zeigen? Ein Foto nur vom Buch ist genauso schön."
+  "review_action.offer_body_backlog": "Zeigen Sie uns, wie viel Spaß {kid_name} mit dem Buch hat, beim Zubettgehen oder wann immer Sie möchten. Sie möchten {kid_name} lieber nicht zeigen? Ein Foto nur vom Buch ist genauso schön."
 }
