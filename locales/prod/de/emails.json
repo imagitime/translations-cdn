@@ -135,14 +135,14 @@
   "review_action.tag": "EIN DANKESCHÖN VON UNS",
   "review_action.tag_media": "DANKE FÜR IHRE BEWERTUNG",
   "review_action.offer_title": "{reward_percent} % Rabatt auf Ihr nächstes Buch",
-  "review_action.offer_body": "Fügen Sie ein Foto/Video von {kid_name} mit dem Buch hinzu: in der Hand, beim Lesen oder mit der Lieblingsseite aufgeschlagen.",
-  "review_action.honest": "Ehrliche Bewertungen sind willkommen: Der Rabatt gilt für ein Foto/Video, auf dem das Buch zu sehen ist, egal wie Sie bewerten.",
+  "review_action.offer_body": "Fügen Sie ein Foto/Video hinzu, auf dem {kid_name} Spaß mit dem Buch hat. Sie möchten {kid_name} lieber nicht zeigen? Kein Problem: Für ein Foto nur vom Buch gibt es denselben Rabatt von {reward_percent} %.",
+  "review_action.honest": "Fotos erscheinen zusammen mit Ihrer Bewertung. Ehrliche Bewertungen sind willkommen: Der Rabatt gilt für jedes Foto vom Buch, egal, wie Sie bewerten.",
   "review_action.question": "Wie hat {kid_name} das Buch gefallen?",
   "review_action.prompt": "Tippen Sie auf einen Stern, um zu beginnen. Es dauert nur eine Minute.",
   "review_action.star_low": "Nicht gut",
   "review_action.star_high": "Begeistert",
   "review_action.button_rate": "Bewerten und Foto vom Buch teilen",
-  "review_action.button_media": "Foto mit dem Buch hinzufügen",
+  "review_action.button_media": "Foto vom Buch hinzufügen",
   "review_action.your_review": "Ihre Bewertung",
   "review_action.subject": "Wie hat {kid_name} das Buch gefallen? {reward_percent} % Rabatt für Sie",
   "review_action.footnote": "Hallo {requester_name}, vielen Dank, dass Sie sich für Imagitime entschieden haben. Wir hoffen, dass {kid_name} das Buch liebt.",
@@ -151,7 +151,7 @@
   "review_action.footer": "Sie erhalten diese E-Mail, weil Sie bei uns ein personalisiertes Buch gekauft haben.",
   "review_action.footer_media": "Sie erhalten diese E-Mail, weil Sie ein Buch bewertet haben, das Sie bei uns gekauft haben.",
   "review_action.unsubscribe": "Von Bewertungs-E-Mails abmelden",
-  "review_action.subject_media": "{reward_percent} % Rabatt: Fügen Sie ein Foto von {kid_name} mit dem Buch hinzu",
+  "review_action.subject_media": "{reward_percent} % Rabatt: Fügen Sie ein Foto vom Buch hinzu",
   "review_action.note_media": "Ihr Foto/Video vom Buch erscheint neben Ihrer Bewertung und hilft anderen Familien bei ihrer Entscheidung.",
   "review_action.tag_backlog": "EIN WEIHNACHTLICHES DANKESCHÖN FÜR SIE",
   "review_action.subject_backlog": "Hat {kid_name} noch Freude an dem Buch? {reward_percent} % Rabatt für Sie",
@@ -160,5 +160,5 @@
   "review_action.footnote_backlog": "Hallo {requester_name}, Sie haben vor einiger Zeit {book} bei uns gestaltet. Wir würden gern sehen, wo es heute zu Hause ist: im Regal, beim Zubettgehen, in den Händen von {kid_name}.",
   "review_action.book_fallback": "das Buch für {kid_name}",
   "review_action.example_caption": "So wie diese Familien:",
-  "review_action.offer_body_backlog": "Zeigen Sie uns, wo das Buch jetzt zu Hause ist: ein Foto von {kid_name} mit dem Buch, beim Zubettgehen oder im Regal."
+  "review_action.offer_body_backlog": "Zeigen Sie uns, wie viel Spaß {kid_name} mit dem Buch hat, beim Zubettgehen oder wann immer Sie möchten. Sie möchten {kid_name} lieber nicht zeigen? Ein Foto nur vom Buch ist genauso schön."
 }
