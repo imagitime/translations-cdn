@@ -135,14 +135,14 @@
   "review_action.tag": "EEN BEDANKJE VAN ONS",
   "review_action.tag_media": "BEDANKT VOOR JE BEOORDELING",
   "review_action.offer_title": "{reward_percent}% korting op je volgende boek",
-  "review_action.offer_body": "Voeg een foto/video toe van {kid_name} met het boek: in de hand, aan het lezen of met een favoriete pagina open.",
-  "review_action.honest": "Eerlijke beoordelingen zijn welkom: de korting is voor een foto/video waarop het boek te zien is, welke beoordeling je ook geeft.",
+  "review_action.offer_body": "Voeg een foto/video toe van {kid_name} die geniet van het boek. Liever {kid_name} niet laten zien? Geen probleem: een foto van alleen het boek levert dezelfde {reward_percent}% korting op.",
+  "review_action.honest": "Foto's verschijnen bij je beoordeling. Eerlijke beoordelingen zijn welkom: de korting is voor elke foto van het boek, welke beoordeling je ook geeft.",
   "review_action.question": "Wat vond {kid_name} van het boek?",
   "review_action.prompt": "Tik op een ster om te beginnen. Het kost maar een minuut.",
   "review_action.star_low": "Niet goed",
   "review_action.star_high": "Geweldig",
   "review_action.button_rate": "Beoordelen en een foto van het boek delen",
-  "review_action.button_media": "Foto met het boek toevoegen",
+  "review_action.button_media": "Foto van het boek toevoegen",
   "review_action.your_review": "Je beoordeling",
   "review_action.subject": "Wat vond {kid_name} van het boek? Krijg {reward_percent}% korting",
   "review_action.footnote": "Hallo {requester_name}, bedankt dat je voor Imagitime hebt gekozen. We hopen dat {kid_name} dol is op het boek.",
@@ -151,7 +151,7 @@
   "review_action.footer": "Je ontvangt deze e-mail omdat je bij ons een gepersonaliseerd boek hebt gekocht.",
   "review_action.footer_media": "Je ontvangt deze e-mail omdat je een boek hebt beoordeeld dat je bij ons hebt gekocht.",
   "review_action.unsubscribe": "Afmelden voor beoordelingsmails",
-  "review_action.subject_media": "{reward_percent}% korting: voeg een foto toe van {kid_name} met het boek",
+  "review_action.subject_media": "{reward_percent}% korting: voeg een foto van het boek toe",
   "review_action.note_media": "Je foto/video van het boek verschijnt naast je beoordeling en helpt andere gezinnen kiezen.",
   "review_action.tag_backlog": "EEN KERSTCADEAUTJE VOOR JOU",
   "review_action.subject_backlog": "Geniet {kid_name} nog van het boek? Krijg {reward_percent}% korting",
@@ -160,5 +160,5 @@
   "review_action.footnote_backlog": "Hallo {requester_name}, je hebt {book} een tijdje geleden bij ons gemaakt. We zien graag waar het nu is: in de boekenkast, naast het bed, in de handen van {kid_name}.",
   "review_action.book_fallback": "het boek van {kid_name}",
   "review_action.example_caption": "Zoals deze gezinnen:",
-  "review_action.offer_body_backlog": "Laat ons zien waar het boek nu een plekje heeft: een foto van {kid_name} met het boek, bij het slapengaan of op de boekenplank."
+  "review_action.offer_body_backlog": "Laat ons zien hoe {kid_name} geniet van het boek, bij het slapengaan of wanneer dan ook. Liever {kid_name} niet laten zien? Een foto van alleen het boek is ook perfect."
 }

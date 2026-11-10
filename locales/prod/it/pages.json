@@ -647,7 +647,7 @@
       "skipShort": "Salta",
       "notNow": "Non ora",
       "showTitle": "Mostraci il libro!",
-      "showSub": "Una foto o un video di {kid} con il libro: in mano, mentre legge o mentre indica la sua pagina. Il libro deve essere nella foto.",
+      "showSub": "Una foto o un video di {kid} mentre si gode il libro. Preferisci non mostrare {kid}? Nessun problema: una foto del solo libro dà diritto allo stesso sconto. Le foto appaiono con la tua recensione.",
       "offerBadge": "{percent}% di sconto con una foto del libro",
       "addPhotos": "Scegli le foto",
       "addVideo": "Aggiungi un video",
@@ -697,7 +697,7 @@
       "shareAsk": "Aiuta altre famiglie a scoprirci: condividi la tua recensione su Trustpilot o Google",
       "shareCopied": "La tua recensione è stata copiata. Incollala nella pagina successiva.",
       "nudgeTitle": "Vuoi ancora il {percent}% di sconto sul prossimo acquisto?",
-      "nudgeBody": "Aggiungi ora una foto o un video di {kid} con il libro, oppure più tardi dal link nella tua e-mail."
+      "nudgeBody": "Aggiungi ora una foto o un video di {kid} mentre si gode il libro (o del solo libro), oppure più tardi dal link nella tua e-mail."
     },
     "yourReview": {
       "statusPending": "In attesa dell'approvazione del nostro team",
@@ -707,7 +707,7 @@
       "replyLabel": "Risposta di Imagitime",
       "yourMedia": "Le tue foto e i tuoi video",
       "offerBoxTitle": "Aggiungi una foto o un video del libro e ottieni il {percent}% di sconto",
-      "offerBoxSub": "{kid} con il libro: in mano, mentre legge o mentre mostra una pagina.",
+      "offerBoxSub": "{kid} mentre si gode il libro, o il solo libro: valgono entrambi.",
       "roomBoth": "Puoi aggiungere ancora {photos} foto e 1 video.",
       "roomBothOne": "Puoi aggiungere ancora 1 foto e 1 video.",
       "roomPhotos": "Puoi aggiungere ancora {photos} foto.",
