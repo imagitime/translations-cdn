@@ -47,7 +47,7 @@
       "feminine": "Vrouwelijk"
     },
     "buttons": {
-      "nextStep": "Volgende: foto's toevoegen ➔"
+      "nextStep": "Volgende: foto’s toevoegen ➔"
     },
     "validation": {
       "tooLongForBook": "Maximaal 12 tekens. Een bijnaam kan ook.",
@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "Ik ben de ouder of wettelijke voogd van dit kind, ik ben ouder dan 18 en ik ga ermee akkoord dat deze gegevens en de foto's die ik toevoeg worden gebruikt om een gepersonaliseerd verhalenboek te maken, zoals beschreven in het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>. Ik kan mijn toestemming op elk moment intrekken.",
-      "otherRelationshipText": "Ik ben ouder dan 18 en heb toestemming van de ouder of voogd van het kind om deze gegevens en foto's te verstrekken voor het maken van een gepersonaliseerd verhalenboek, zoals beschreven in het <a href='/policies/privacy-policy'>Privacybeleid</a>. Ik kan deze toestemming op elk moment intrekken."
+      "parentGuardianText": "Ik ben de ouder of wettelijke voogd van dit kind, ik ben ouder dan 18 en ik ga ermee akkoord dat deze gegevens en de foto’s die ik toevoeg worden gebruikt om een gepersonaliseerd verhalenboek te maken, zoals beschreven in het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>. Ik kan mijn toestemming op elk moment intrekken.",
+      "otherRelationshipText": "Ik ben ouder dan 18 en heb toestemming van de ouder of voogd van het kind om deze gegevens en foto’s te verstrekken voor het maken van een gepersonaliseerd verhalenboek, zoals beschreven in het <a href='/policies/privacy-policy'>Privacybeleid</a>. Ik kan deze toestemming op elk moment intrekken."
     },
     "months": {
       "january": "Januari",
@@ -83,11 +83,11 @@
   "UploadCommon": {
     "headings": {
       "lastStep": "Laatste stap",
-      "uploadMore": "Upload meer foto's van {{name}}",
+      "uploadMore": "Upload meer foto’s van {{name}}",
       "uploadAnother": "Upload nog een foto van {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Alleen foto's van één persoon",
+      "soloPhotos": "Alleen foto’s van één persoon",
       "facingCamera": {
         "child": "Je kind moet <strong>recht in de lens kijken</strong>",
         "person": "De persoon moet <strong>recht in de camera kijken</strong>"
@@ -101,28 +101,28 @@
     },
     "photoRequirements": {
       "minimum": {
-        "regular": "Minimaal 2 foto's nodig voor het boekvoorbeeld",
-        "career": "Minimaal 5 foto's nodig voor het boekvoorbeeld"
+        "regular": "Minimaal 2 foto’s nodig voor het boekvoorbeeld",
+        "career": "Minimaal 5 foto’s nodig voor het boekvoorbeeld"
       },
       "recommended": {
-        "range": "2 tot 4 foto's",
+        "range": "2 tot 4 foto’s",
         "careerBook": "Minimaal 5, aanbevolen 15"
       }
     },
     "qualityGuidelines": {
       "highQuality": "Hoge kwaliteit, niet wazig",
-      "soloOnly": "Alleen foto's van één persoon"
+      "soloOnly": "Alleen foto’s van één persoon"
     },
     "privacy": {
       "standard": "We hanteren strenge normen voor gegevensbescherming.",
-      "confidential": "De foto's blijven vertrouwelijk en worden alleen gebruikt om het gepersonaliseerde boek te maken."
+      "confidential": "De foto’s blijven vertrouwelijk en worden alleen gebruikt om het gepersonaliseerde boek te maken."
     },
     "buttons": {
       "finishedUploading": "Klaar met uploaden",
-      "uploadPhotos": "Foto's uploaden",
+      "uploadPhotos": "Foto’s uploaden",
       "choosePhoto": "Foto kiezen",
       "showPreview": "Bekijk het boekvoorbeeld van {{name}}",
-      "lastStepPages": "Laatste stap: pagina's selecteren"
+      "lastStepPages": "Laatste stap: pagina’s selecteren"
     },
     "uploadOptions": {
       "gallery": "Kies uit galerij",
@@ -138,7 +138,7 @@
       "previewUnavailable": "Dit boekvoorbeeld is niet meer beschikbaar. Maak een nieuw boekvoorbeeld."
     },
     "consent": {
-      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto's, uitsluitend met het oog op het maken van het gepersonaliseerde verhalenboek. De foto's worden na 24 uur verwijderd als ik het boekvoorbeeld niet opsla door mijn e-mailadres op te geven, en na 1 jaar als ik het boekvoorbeeld wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
+      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto’s, uitsluitend met het oog op het maken van het gepersonaliseerde verhalenboek. De foto’s worden na 24 uur verwijderd als ik het boekvoorbeeld niet opsla door mijn e-mailadres op te geven, en na 1 jaar als ik het boekvoorbeeld wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -148,7 +148,7 @@
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Upload {{minCount}} tot {{maxCount}} foto's van {{name}}"
+      "uploadPhotos": "Upload {{minCount}} tot {{maxCount}} foto’s van {{name}}"
     }
   },
   "UploadMorePhotos": {
@@ -167,11 +167,11 @@
     },
     "morePhotosQuestion": "Wil je het voorbeeld verbeteren?",
     "differentPhotoQuestion": "Wil je een andere foto proberen?",
-    "editPagesQuestion": "Wil je je paginaselectie aanpassen of foto's toevoegen?",
+    "editPagesQuestion": "Wil je je paginaselectie aanpassen of foto’s toevoegen?",
     "buttons": {
       "editPageSelection": "Paginaselectie bewerken",
       "generateMoreOptions": "Meer opties genereren",
-      "uploadMorePhotos": "Voor een beter resultaat: meer foto's uploaden",
+      "uploadMorePhotos": "Voor een beter resultaat: meer foto’s uploaden",
       "emailPreview": "Mail mij het boekvoorbeeld",
       "savePreview": "Boekvoorbeeld opslaan en prijs tonen",
       "changePicture": "Afbeelding wijzigen",
@@ -182,13 +182,13 @@
       "approveForPrinting": "Goedkeuren voor het drukken",
       "reapproveForPrinting": "Opnieuw goedkeuren voor het drukken",
       "uploadAnother": "Nog een foto uploaden",
-      "addMore": "Meer foto's toevoegen",
-      "generateFromOtherPhotos": "Op basis van andere foto's genereren",
+      "addMore": "Meer foto’s toevoegen",
+      "generateFromOtherPhotos": "Op basis van andere foto’s genereren",
       "downloadPdf": "Pdf downloaden"
     },
     "noUsablePhotos": {
-      "heading": "Geen bruikbare foto's",
-      "text": "We konden geen van je geüploade foto's gebruiken voor het boekvoorbeeld, om een of meer van de volgende redenen:",
+      "heading": "Geen bruikbare foto’s",
+      "text": "We konden geen van je geüploade foto’s gebruiken voor het boekvoorbeeld, om een of meer van de volgende redenen:",
       "reasons": {
         "multiplePeople": "Er staan meerdere personen op de foto",
         "faceEdges": "Gezicht of haar raakt de randen",
@@ -196,7 +196,7 @@
         "obstruction": "Iets bedekt het gezicht"
       },
       "uploadPrompt": "Gebruik de knop “Meer foto’s uploaden” om geschikte foto’s toe te voegen.",
-      "uploadMorePhotos": "Meer foto's uploaden"
+      "uploadMorePhotos": "Meer foto’s uploaden"
     },
     "page": {
       "number": "Pagina {{number}}",
@@ -208,17 +208,17 @@
       "waiting": "Wachten op het laden van pagina {{number}}"
     },
     "instructions": {
-      "instruction1": "De pagina's worden onder elkaar getoond",
+      "instruction1": "De pagina’s worden onder elkaar getoond",
       "instruction2": "Swipe en laat elke pagina op de optie staan die je het mooist vindt",
       "postOrderInstructions1": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te swipen",
-      "postOrderInstructions2": "Als je tevreden bent met alle pagina's, druk je op de knop \"Goedkeuren voor het drukken\"",
+      "postOrderInstructions2": "Als je tevreden bent met alle pagina’s, druk je op de knop \"Goedkeuren voor het drukken\"",
       "postOrderSwipeInstructions1": "Swipe door de pagina-opties en zet elke pagina op de optie die je het mooist vindt",
-      "postOrderSwipeInstructions2": "Als alle pagina's klaar zijn, druk je op de knop \"Goedkeuren voor het drukken\"",
-      "fixedInstructions1": "De pagina's worden onder elkaar getoond",
+      "postOrderSwipeInstructions2": "Als alle pagina’s klaar zijn, druk je op de knop \"Goedkeuren voor het drukken\"",
+      "fixedInstructions1": "De pagina’s worden onder elkaar getoond",
       "fixedInstructions2": "Druk op de knop 'Afbeelding wijzigen' om door alternatieve opties voor een pagina te swipen"
     },
     "status": {
-      "deleted": "Het gegenereerde boek en de geüploade foto's zijn verwijderd en niet meer beschikbaar.",
+      "deleted": "Het gegenereerde boek en de geüploade foto’s zijn verwijderd en niet meer beschikbaar.",
       "support": "Vragen? Mail naar support@imagitime.com",
       "cancelled": "Deze bestelling is geannuleerd.",
       "printing": "Dit boek is al naar de drukker gestuurd.",
@@ -232,7 +232,7 @@
     "notification": {
       "heading": "Geen tijd om te wachten?"
     },
-    "scrollIndicator": "Scroll naar beneden om alle pagina's te zien",
+    "scrollIndicator": "Scroll naar beneden om alle pagina’s te zien",
     "timeRemaining": {
       "lessThan": "Nog minder dan <strong>{{time}}</strong> om het boek van {{name}} te laden"
     },
@@ -374,7 +374,7 @@
       "tabGrandparent": "De keuze van de meeste grootouders",
       "tabParent": "De keuze van de meeste ouders",
       "tabOther": "Meest gekozen",
-      "tabXl": "38% grotere pagina's",
+      "tabXl": "38% grotere pagina’s",
       "shippingLabel": "Verzending",
       "arrivesLabel": "Bezorging",
       "changesLabel": "Wijzigingen mogelijk",
@@ -384,7 +384,7 @@
       "differenceLink": "Hardcover of paperback?",
       "hideLink": "Verbergen",
       "hardcoverDesc": "Een luxe hardcover met een hoogwaardige glansafwerking. Gemaakt om keer op keer te lezen.",
-      "paperbackDesc": "Een flexibele kaft, gedrukt op dik, stevig papier. Binnenin dezelfde luxe pagina's.",
+      "paperbackDesc": "Een flexibele kaft, gedrukt op dik, stevig papier. Binnenin dezelfde luxe pagina’s.",
       "hardcoverXlName": "Hardcover XL",
       "hardcoverXlDesc": "Dezelfde hardcover, maar groter: 38% meer ruimte voor de illustraties.",
       "differenceLinkXl": "Hardcover, paperback of XL?",
@@ -465,7 +465,7 @@
       "heading": "Vaak gekochte add-ons",
       "subheading": "Voeg gerust toe of ga direct naar afrekenen",
       "controlHeading": "Maak het extra bijzonder!",
-      "controlSubheading": "Voeg deze exclusieve extra's toe aan je bestelling.",
+      "controlSubheading": "Voeg deze exclusieve extra’s toe aan je bestelling.",
       "almostDone": "Bijna klaar",
       "skipLink": "Nee bedankt, alleen het boek",
       "digitalPdf": {
