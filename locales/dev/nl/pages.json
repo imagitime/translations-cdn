@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Selecteer hierboven je relatie tot het kind om de juiste toestemmingsverklaring te zien]",
-      "parentGuardianText": "Ik ben de ouder of wettelijke voogd van dit kind, ik ben ouder dan 18 en ik ga ermee akkoord dat deze gegevens en de foto's die ik toevoeg worden gebruikt om een gepersonaliseerd verhalenboek te maken, zoals beschreven in het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>. Ik kan dit op elk moment intrekken.",
-      "otherRelationshipText": "Ik ben ouder dan 18 en heb toestemming van de ouder of voogd van het kind om deze gegevens en foto's te verstrekken voor het maken van een gepersonaliseerd verhalenboek, zoals beschreven in het <a href='/policies/privacy-policy'>Privacybeleid</a>. Ik kan dit op elk moment intrekken."
+      "parentGuardianText": "Ik ben de ouder of wettelijke voogd van dit kind, ik ben ouder dan 18 en ik ga ermee akkoord dat deze gegevens en de foto's die ik toevoeg worden gebruikt om een gepersonaliseerd verhalenboek te maken, zoals beschreven in het <a href='/policies/privacy-policy' target='_blank'>Privacybeleid</a>. Ik kan mijn toestemming op elk moment intrekken.",
+      "otherRelationshipText": "Ik ben ouder dan 18 en heb toestemming van de ouder of voogd van het kind om deze gegevens en foto's te verstrekken voor het maken van een gepersonaliseerd verhalenboek, zoals beschreven in het <a href='/policies/privacy-policy'>Privacybeleid</a>. Ik kan deze toestemming op elk moment intrekken."
     },
     "months": {
       "january": "Januari",
@@ -89,10 +89,10 @@
     "instructions": {
       "soloPhotos": "Alleen foto's van één persoon",
       "facingCamera": {
-        "child": "Je kind moet <strong>recht in de camera kijken</strong>",
+        "child": "Je kind moet <strong>recht in de lens kijken</strong>",
         "person": "De persoon moet <strong>recht in de camera kijken</strong>"
       },
-      "frontFacingSmiling": "Naar voren kijkend en lachend",
+      "frontFacingSmiling": "In de lens kijkend en lachend",
       "noSunglassesCap": "Geen zonnebril, geen pet",
       "noPacifierCap": "Geen fopspeen, geen pet",
       "noOneElse": "<strong>Niemand anders</strong> mag op de foto staan",
@@ -138,7 +138,7 @@
       "previewUnavailable": "Dit boekvoorbeeld is niet meer beschikbaar. Maak een nieuw boekvoorbeeld."
     },
     "consent": {
-      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto's, uitsluitend met het oog op het maken van het gepersonaliseerde verhalenboek. De foto's worden na 24 uur verwijderd als ik het boekvoorbeeld niet opsla door mijn e-mailadres op te geven, en na 1 jaar zelfs als ik het boekvoorbeeld wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
+      "photosConsent": "Ik geef toestemming voor de veilige verwerking van deze foto's, uitsluitend met het oog op het maken van het gepersonaliseerde verhalenboek. De foto's worden na 24 uur verwijderd als ik het boekvoorbeeld niet opsla door mijn e-mailadres op te geven, en na 1 jaar als ik het boekvoorbeeld wél opsla. Ik begrijp dat ik mijn toestemming op elk moment kan intrekken door contact op te nemen met support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -195,7 +195,7 @@
         "blurry": "De foto is wazig",
         "obstruction": "Iets bedekt het gezicht"
       },
-      "uploadPrompt": "Gebruik de knop \"Meer foto's uploaden\" om geschikte foto's toe te voegen.",
+      "uploadPrompt": "Gebruik de knop “Meer foto’s uploaden” om geschikte foto’s toe te voegen.",
       "uploadMorePhotos": "Meer foto's uploaden"
     },
     "page": {
@@ -332,7 +332,7 @@
     "subscription": {
       "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
       "yes": "Ja, graag!",
-      "no": "Nee, bedankt"
+      "no": "Nee, bedankt."
     },
     "buttons": {
       "sendPreview": "Stuur mij het boekvoorbeeld"
@@ -345,19 +345,19 @@
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Mail de voorbeeldlink van {{name}} en toon de prijs van het gedrukte boek"
+      "emailPreview": "Mail de previewlink van {{name}} en toon de prijs van het gedrukte boek"
     },
     "labels": {
       "email": "E-mailadres",
       "yourName": "Je naam"
     },
     "descriptions": {
-      "email": "We mailen je de voorbeeldlink."
+      "email": "We mailen je de previewlink."
     },
     "subscription": {
       "question": "Wil je direct 10% korting en als eerste toegang tot nieuwe boeken door je aan te melden voor onze nieuwsbrief?",
       "yes": "Ja, graag!",
-      "no": "Nee, ik betaal liever de volle prijs"
+      "no": "Nee, ik betaal liever de volle prijs."
     },
     "buttons": {
       "savePreview": "Boekvoorbeeld opslaan en prijs tonen"

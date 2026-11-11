@@ -34,9 +34,9 @@
     },
     "relationshipOptions": {
       "default": "Veuillez sélectionner votre relation",
-      "parentGuardian": "Parent/Tuteur légal",
+      "parentGuardian": "Parent / responsable légal",
       "grandparent": "Grand-parent",
-      "auntUncle": "Tante/Oncle",
+      "auntUncle": "Tante / oncle",
       "familyFriend": "Proche de la famille",
       "other": "Autre"
     },
@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
-      "parentGuardianText": "Je suis le parent ou le tuteur légal de cet enfant, j'ai plus de 18 ans et j'accepte que ces informations et les photos que j'ajoute soient utilisées pour créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>. Je peux retirer mon accord à tout moment.",
-      "otherRelationshipText": "J'ai plus de 18 ans et j'ai l'autorisation du parent ou du tuteur de l'enfant pour fournir ces informations et ces photos afin de créer un livre personnalisé, comme décrit dans la <a href='/policies/privacy-policy'>Politique de confidentialité</a>. Je peux retirer mon accord à tout moment."
+      "parentGuardianText": "Je suis le parent ou le responsable légal de cet enfant, j’ai plus de 18 ans et j’accepte que ces informations et les photos que j’ajoute soient utilisées pour créer un livre personnalisé, conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>. Je peux retirer mon consentement à tout moment.",
+      "otherRelationshipText": "J’ai plus de 18 ans et j’ai l’autorisation du parent ou du responsable légal de l’enfant pour fournir ces informations et ces photos afin de créer un livre personnalisé, conformément à la <a href='/policies/privacy-policy'>Politique de confidentialité</a>. Je peux retirer mon consentement à tout moment."
     },
     "months": {
       "january": "Janvier",
@@ -84,20 +84,20 @@
     "headings": {
       "lastStep": "Dernière étape",
       "uploadMore": "Télécharger plus de photos pour {{name}}",
-      "uploadAnother": "Télécharger une autre photo pour {{name}}"
+      "uploadAnother": "Télécharger une autre photo montrant {{name}}"
     },
     "instructions": {
-      "soloPhotos": "Uniquement des photos où l'enfant est seul",
+      "soloPhotos": "Enfant seul sur la photo",
       "facingCamera": {
-        "child": "L'enfant doit <strong>être face à la caméra</strong>",
+        "child": "<strong>Face à la caméra</strong>",
         "person": "La personne doit <strong>être face à la caméra</strong>"
       },
-      "frontFacingSmiling": "Face à la caméra et souriant",
-      "noSunglassesCap": "Pas de lunettes de soleil ni de casquette",
+      "frontFacingSmiling": "De face, avec le sourire",
+      "noSunglassesCap": "Sans lunettes de soleil ni casquette",
       "noPacifierCap": "Pas de tétine ni de casquette",
-      "noOneElse": "<strong>Personne d'autre</strong> ne doit être présent sur la photo",
-      "faceEdges": "Le visage et les cheveux ne doivent <strong>pas toucher les bords</strong>",
-      "noObstructions": "Les mains ou objets ne doivent <strong>pas obstruer le visage</strong>"
+      "noOneElse": "<strong>Aucune autre personne</strong> sur la photo",
+      "faceEdges": "Visage et cheveux <strong>dans le cadre</strong>",
+      "noObstructions": "Visage dégagé, <strong>sans mains ni objets</strong>"
     },
     "photoRequirements": {
       "minimum": {
@@ -115,13 +115,13 @@
     },
     "privacy": {
       "standard": "Nous suivons des normes strictes de confidentialité des données.",
-      "confidential": "Les photos sont gardées confidentielles et servent uniquement à créer le livre personnalisé."
+      "confidential": "Les photos restent confidentielles et servent uniquement à créer le livre personnalisé."
     },
     "buttons": {
       "finishedUploading": "Téléchargement terminé",
       "uploadPhotos": "Télécharger les photos",
       "choosePhoto": "Choisir une photo",
-      "showPreview": "Afficher l'aperçu du livre pour {{name}}",
+      "showPreview": "Voir l'aperçu du livre pour {{name}}",
       "lastStepPages": "Dernière étape : Sélectionner les pages"
     },
     "uploadOptions": {
@@ -138,7 +138,7 @@
       "previewUnavailable": "Cet aperçu n’est plus disponible. Veuillez créer un nouvel aperçu."
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement dans le but de créer le livre d'histoire personnalisé. Les photos seront supprimées après 24 heures si je ne sauvegarde pas l'aperçu en fournissant mon e-mail et au bout d'un an même si je sauvegarde l'aperçu. Je comprends que je peux retirer mon consentement à tout moment en contactant support@imagitime.com"
+      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement afin de créer le livre personnalisé. Les photos seront supprimées après 24 heures si je n'enregistre pas l'aperçu en fournissant mon adresse e-mail, et au bout d'un an même si je l'enregistre. Je peux retirer mon consentement à tout moment en contactant support@imagitime.com."
     }
   },
   "UploadPhotosRealtime": {
@@ -148,7 +148,7 @@
   },
   "UploadPhotosUniversal": {
     "headings": {
-      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos pour {{name}}"
+      "uploadPhotos": "Téléchargez de {{minCount}} à {{maxCount}} photos montrant {{name}}"
     }
   },
   "UploadMorePhotos": {
@@ -158,12 +158,12 @@
   },
   "UploadAnotherPhoto": {
     "headings": {
-      "uploadAnother": "Télécharger une autre photo pour {{name}}"
+      "uploadAnother": "Télécharger une autre photo montrant {{name}}"
     }
   },
   "BookPreview": {
     "headings": {
-      "pageTitle": "Afficher l'aperçu du livre pour {{name}}"
+      "pageTitle": "Aperçu du livre pour {{name}}"
     },
     "morePhotosQuestion": "Voulez-vous améliorer l'aperçu ?",
     "differentPhotoQuestion": "Envie d'essayer une autre photo ?",
@@ -173,7 +173,7 @@
       "generateMoreOptions": "Générer plus d'options",
       "uploadMorePhotos": "Pour améliorer : Télécharger plus de photos",
       "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
-      "savePreview": "Enregistrer l'aperçu et afficher le prix",
+      "savePreview": "Enregistrer et voir le prix",
       "changePicture": "Changer d'image",
       "change": "Changer",
       "createSimilar": "Créer similaire",
@@ -188,14 +188,14 @@
     },
     "noUsablePhotos": {
       "heading": "Aucune photo utilisable",
-      "text": "Nous n'avons pas pu utiliser vos photos téléchargées dans l'aperçu de l'histoire pour une ou plusieurs des raisons suivantes :",
+      "text": "Vos photos téléchargées n’ont pas pu être utilisées dans l’aperçu pour une ou plusieurs des raisons suivantes :",
       "reasons": {
-        "multiplePeople": "Plusieurs personnes sont présentes sur la photo",
-        "faceEdges": "Le visage ou les cheveux touchent les bords",
-        "blurry": "La qualité de la photo est floue",
-        "obstruction": "Un élément obstrue le visage"
+        "multiplePeople": "Plusieurs personnes sur la photo",
+        "faceEdges": "Visage ou cheveux touchant les bords",
+        "blurry": "Photo floue",
+        "obstruction": "Visage masqué par un élément"
       },
-      "uploadPrompt": "Veuillez utiliser le bouton \"Télécharger plus de photos\" pour ajouter des photos appropriées.",
+      "uploadPrompt": "Utilisez le bouton « Télécharger plus de photos » pour choisir des photos adaptées.",
       "uploadMorePhotos": "Télécharger plus de photos"
     },
     "page": {
@@ -208,13 +208,13 @@
       "waiting": "En attente de chargement de la page {{number}}"
     },
     "instructions": {
-      "instruction1": "Les pages s'affichent l'une en dessous de l'autre",
-      "instruction2": "Balayez et laissez chaque page sur l'option que vous préférez.",
+      "instruction1": "Les pages s'affichent les unes sous les autres",
+      "instruction2": "Balayez et gardez votre option préférée sur chaque page.",
       "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
       "postOrderSwipeInstructions1": "Balayez et laissez chaque page sur l'option que vous préférez",
       "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l'impression\"",
-      "fixedInstructions1": "Les pages s'affichent l'une en dessous de l'autre",
+      "fixedInstructions1": "Les pages s'affichent les unes sous les autres",
       "fixedInstructions2": "Appuyez sur le bouton 'Changer l'image' pour faire défiler les choix alternatifs"
     },
     "status": {
@@ -323,16 +323,16 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Où devons-nous envoyer l'aperçu du livre pour {{name}} ?"
+      "whereToSend": "Où envoyer l’aperçu du livre pour {{name}} ?"
     },
     "labels": {
       "email": "E-mail",
       "yourName": "Votre prénom"
     },
     "subscription": {
-      "question": "Une remise immédiate de 10 % et un accès anticipé aux lancements des nouveaux livres vous tentent ? Si oui, inscrivez-vous à notre newsletter.",
-      "yes": "Oui, j'adorerais",
-      "no": "Non, pas cette fois"
+      "question": "Envie de 10 % de remise immédiate et de découvrir nos nouveaux livres en avant-première en vous inscrivant à notre newsletter ?",
+      "yes": "Oui, avec plaisir",
+      "no": "Non, merci"
     },
     "buttons": {
       "sendPreview": "Envoyez-moi l'aperçu"
@@ -340,27 +340,27 @@
     "thankYou": {
       "heading": "Merci !",
       "message": "Nous avons reçu votre demande. Nous vous enverrons l'aperçu du livre dès qu'il sera prêt.",
-      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/fr/pages/personalized-books-for-children\"><b> découvrir nos autres livres</b></a>."
+      "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/fr/pages/personalized-books-for-children\"><b>découvrir nos autres livres</b></a>."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Envoyer le lien d'aperçu pour {{name}} et montrer le prix du livre imprimé"
+      "emailPreview": "Recevoir le lien d’aperçu du livre pour {{name}} et voir le prix du livre imprimé"
     },
     "labels": {
       "email": "E-mail",
       "yourName": "Votre prénom"
     },
     "descriptions": {
-      "email": "Nous vous enverrons par courriel le lien d'aperçu."
+      "email": "Nous vous enverrons le lien d’aperçu par e-mail."
     },
     "subscription": {
-      "question": "Vous aimeriez bénéficier d'une remise immédiate de 10 % et d'un accès anticipé aux lancements des nouveaux livres en rejoignant notre liste de diffusion ?",
-      "yes": "Oui, j'adorerais",
-      "no": "Non, je paierai le prix intégral"
+      "question": "Envie de 10 % de remise immédiate et de découvrir nos nouveaux livres en avant-première en vous inscrivant à notre newsletter ?",
+      "yes": "Oui, avec plaisir",
+      "no": "Non, je paierai le prix normal"
     },
     "buttons": {
-      "savePreview": "Enregistrer l'aperçu et afficher le prix"
+      "savePreview": "Enregistrer et voir le prix"
     }
   },
   "InterestedPage": {
@@ -369,7 +369,7 @@
       "paperbackName": "Broché",
       "orderCta": "Commander",
       "discountTag": "-{{percentage}} %",
-      "sizeIn": "{{w}} × {{h}} po",
+      "sizeIn": "{{w}} × {{h}} pouces",
       "sizeCm": "{{w}} × {{h}} cm",
       "tabGrandparent": "Le préféré des grands-parents",
       "tabParent": "Le préféré des parents",
@@ -390,14 +390,14 @@
       "differenceLinkXl": "Relié, broché ou XL ?",
       "sideIn": "{{n}} po",
       "sideCm": "{{n}} cm",
-      "backToPreview": "Retour à l'aperçu du livre pour {{name}}",
+      "backToPreview": "Retour à l’aperçu pour {{name}}",
       "printedIn": {
         "eu": "Imprimé en Europe."
       }
     },
     "headings": {
       "pageTitle": "Le livre pour {{name}}",
-      "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300 000+ familles heureuses"
+      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 300 000+ familles heureuses"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Remise ambassadeur de 20% déverrouillée",
@@ -407,8 +407,8 @@
     "buttons": {
       "buyHardcover": "Acheter la version reliée",
       "buyPaperback": "Acheter la version brochée",
-      "goBackToPreview": "Retourner à l'aperçu",
-      "subscribeGetDiscount": "Abonnez-vous et obtenez 10% de remise",
+      "goBackToPreview": "Retour à l’aperçu",
+      "subscribeGetDiscount": "S'abonner et obtenir -10 %",
       "continueCheckout": "Aller au paiement",
       "next": "Suivant",
       "back": "Retour"
@@ -427,8 +427,8 @@
       "ambassador": "{{percentage}}% de remise Ambassadeur déverrouillée"
     },
     "subscription": {
-      "heading": "10% de remise, ça vous dit ?",
-      "description": "Abonnez-vous à notre newsletter pour bénéficier d'une réduction immédiate de 10% et d'un accès anticipé aux nouvelles sorties de livres."
+      "heading": "10 % de remise, ça vous dit ?",
+      "description": "Abonnez-vous à notre newsletter pour profiter immédiatement de 10 % de remise et découvrir nos nouveaux livres en avant-première."
     },
     "badges": {
       "popularChoice": "⭐ Choix Populaire ⭐",
