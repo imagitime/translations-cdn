@@ -5,24 +5,24 @@
       "createYourChildsBookNow": "Créez le livre de votre enfant dès maintenant"
     },
     "labels": {
-      "childName": "Prénom de l'enfant",
-      "childAge": "Sélectionner l'âge actuel",
+      "childName": "Prénom de l’enfant",
+      "childAge": "Sélectionner l’âge actuel",
       "birthMonth": "Sélectionner le mois de naissance",
       "adultName": "Prénom",
       "bodyType": "Sélectionner sa corpulence",
       "adultAge": "Sélectionner son âge",
       "giverName": "Votre prénom",
-      "kidCallsYou": "Comment est-ce que l'enfant t'appelle ?",
+      "kidCallsYou": "Comment est-ce que l’enfant t’appelle ?",
       "kidCallsMommy": "Comment appelle-t-il/elle sa maman ? (ex. Maman, Mamounette)",
       "kidCallsDaddy": "Comment appelle-t-il/elle son papa ? (ex. Papa, Papounet)",
       "language": "Langue",
-      "relationshipToChild": "Quelle est votre relation avec l'enfant ?",
+      "relationshipToChild": "Quelle est votre relation avec l’enfant ?",
       "consentSectionHeader": "Nous protégeons la vie privée des enfants"
     },
     "experiment": {
       "title": "À qui est destiné ce livre ?",
       "bookIn": "Livre en",
-      "childNameExp": "Prénom de l'enfant",
+      "childNameExp": "Prénom de l’enfant",
       "genderExp": "Genre",
       "ageExp": "Âge",
       "relationshipLabel": "Relation",
@@ -51,11 +51,11 @@
     },
     "validation": {
       "tooLongForBook": "12 caractères maximum. Un surnom convient aussi.",
-      "selectRelationship": "Veuillez indiquer votre lien avec l'enfant.",
+      "selectRelationship": "Veuillez indiquer votre lien avec l’enfant.",
       "consentRequired": "Veuillez cocher la case ci-dessus pour continuer."
     },
     "consent": {
-      "defaultConsentText": "[Veuillez sélectionner votre relation avec l'enfant ci-dessus pour voir le message de consentement approprié]",
+      "defaultConsentText": "[Veuillez sélectionner votre relation avec l’enfant ci-dessus pour voir le message de consentement approprié]",
       "parentGuardianText": "Je suis le parent ou le responsable légal de cet enfant, j’ai plus de 18 ans et j’accepte que ces informations et les photos que j’ajoute soient utilisées pour créer un livre personnalisé, conformément à la <a href='/policies/privacy-policy' target='_blank'>Politique de confidentialité</a>. Je peux retirer mon consentement à tout moment.",
       "otherRelationshipText": "J’ai plus de 18 ans et j’ai l’autorisation du parent ou du responsable légal de l’enfant pour fournir ces informations et ces photos afin de créer un livre personnalisé, conformément à la <a href='/policies/privacy-policy'>Politique de confidentialité</a>. Je peux retirer mon consentement à tout moment."
     },
@@ -101,8 +101,8 @@
     },
     "photoRequirements": {
       "minimum": {
-        "regular": "Minimum de 2 photos requis pour l'aperçu",
-        "career": "Minimum de 5 photos requis pour l'aperçu"
+        "regular": "Minimum de 2 photos requis pour l’aperçu",
+        "career": "Minimum de 5 photos requis pour l’aperçu"
       },
       "recommended": {
         "range": "2 à 4 photos",
@@ -111,7 +111,7 @@
     },
     "qualityGuidelines": {
       "highQuality": "Haute qualité, non floue",
-      "soloOnly": "Uniquement les photos où l'enfant est seul"
+      "soloOnly": "Uniquement les photos où l’enfant est seul"
     },
     "privacy": {
       "standard": "Nous suivons des normes strictes de confidentialité des données.",
@@ -121,7 +121,7 @@
       "finishedUploading": "Téléchargement terminé",
       "uploadPhotos": "Télécharger les photos",
       "choosePhoto": "Choisir une photo",
-      "showPreview": "Voir l'aperçu du livre pour {{name}}",
+      "showPreview": "Voir l’aperçu du livre pour {{name}}",
       "lastStepPages": "Dernière étape : Sélectionner les pages"
     },
     "uploadOptions": {
@@ -132,13 +132,13 @@
     "errors": {
       "invalidType": "Type de fichier invalide. Les types autorisés sont : PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
       "fileTooLarge": "La taille du fichier dépasse la limite de 20MB. Taille actuelle : {{size}}MB",
-      "dimensionsTooSmall": "Dimensions de l'image trop petites. La taille minimale est de 100x100 pixels.",
-      "dimensionsTooLarge": "Dimensions de l'image trop grandes. La taille maximale est de 5000x5000 pixels.",
+      "dimensionsTooSmall": "Dimensions de l’image trop petites. La taille minimale est de 100x100 pixels.",
+      "dimensionsTooLarge": "Dimensions de l’image trop grandes. La taille maximale est de 5000x5000 pixels.",
       "invalidImage": "Fichier image invalide",
       "previewUnavailable": "Cet aperçu n’est plus disponible. Veuillez créer un nouvel aperçu."
     },
     "consent": {
-      "photosConsent": "J'accepte le traitement sécurisé de ces photos uniquement afin de créer le livre personnalisé. Les photos seront supprimées après 24 heures si je n'enregistre pas l'aperçu en fournissant mon adresse e-mail, et au bout d'un an même si je l'enregistre. Je peux retirer mon consentement à tout moment en contactant support@imagitime.com."
+      "photosConsent": "J’accepte le traitement sécurisé de ces photos uniquement afin de créer le livre personnalisé. Les photos seront supprimées après 24 heures si je n’enregistre pas l’aperçu en fournissant mon adresse e-mail, et au bout d’un an même si je l’enregistre. Je peux retirer mon consentement à tout moment en contactant support@imagitime.com."
     }
   },
   "UploadPhotosRealtime": {
@@ -165,16 +165,16 @@
     "headings": {
       "pageTitle": "Aperçu du livre pour {{name}}"
     },
-    "morePhotosQuestion": "Voulez-vous améliorer l'aperçu ?",
-    "differentPhotoQuestion": "Envie d'essayer une autre photo ?",
+    "morePhotosQuestion": "Voulez-vous améliorer l’aperçu ?",
+    "differentPhotoQuestion": "Envie d’essayer une autre photo ?",
     "editPagesQuestion": "Voulez-vous modifier la sélection de pages ou ajouter des photos ?",
     "buttons": {
       "editPageSelection": "Modifier la sélection des pages",
-      "generateMoreOptions": "Générer plus d'options",
+      "generateMoreOptions": "Générer plus d’options",
       "uploadMorePhotos": "Pour améliorer : Télécharger plus de photos",
-      "emailPreview": "Envoyez-moi plutôt l'aperçu par e-mail",
+      "emailPreview": "Envoyez-moi plutôt l’aperçu par e-mail",
       "savePreview": "Enregistrer et voir le prix",
-      "changePicture": "Changer d'image",
+      "changePicture": "Changer d’image",
       "change": "Changer",
       "createSimilar": "Créer similaire",
       "buyDedication": "Acheter une dédicace personnalisée",
@@ -183,7 +183,7 @@
       "reapproveForPrinting": "Ré-approuver pour impression",
       "uploadAnother": "Télécharger une autre photo",
       "addMore": "Ajouter plus de photos",
-      "generateFromOtherPhotos": "Générer à partir d'autres photos",
+      "generateFromOtherPhotos": "Générer à partir d’autres photos",
       "downloadPdf": "Télécharger le PDF"
     },
     "noUsablePhotos": {
@@ -200,22 +200,22 @@
     },
     "page": {
       "number": "Page {{number}}",
-      "loading": "Chargement de l'image pour la page {{number}}",
-      "loadFailed": "La page {{number}} ne s'est pas chargée. Appuyez pour réessayer.",
-      "generating": "Génération d'options pour la page {{number}}",
-      "generatingMoreOptions": "En cours de génération de plus d'options",
+      "loading": "Chargement de l’image pour la page {{number}}",
+      "loadFailed": "La page {{number}} ne s’est pas chargée. Appuyez pour réessayer.",
+      "generating": "Génération d’options pour la page {{number}}",
+      "generatingMoreOptions": "En cours de génération de plus d’options",
       "generatingTime": "Durée estimée : environ 60 secondes",
       "waiting": "En attente de chargement de la page {{number}}"
     },
     "instructions": {
-      "instruction1": "Les pages s'affichent les unes sous les autres",
+      "instruction1": "Les pages s’affichent les unes sous les autres",
       "instruction2": "Balayez et gardez votre option préférée sur chaque page.",
-      "postOrderInstructions1": "Appuyez sur le bouton 'Changer d'image' pour faire défiler les choix alternatifs pour une page",
+      "postOrderInstructions1": "Appuyez sur le bouton 'Changer d’image' pour faire défiler les choix alternatifs pour une page",
       "postOrderInstructions2": "Une fois que toutes les pages sont prêtes, appuyez sur le bouton \"Approuver pour impression\"",
-      "postOrderSwipeInstructions1": "Balayez et laissez chaque page sur l'option que vous préférez",
-      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l'impression\"",
-      "fixedInstructions1": "Les pages s'affichent les unes sous les autres",
-      "fixedInstructions2": "Appuyez sur le bouton 'Changer l'image' pour faire défiler les choix alternatifs"
+      "postOrderSwipeInstructions1": "Balayez et laissez chaque page sur l’option que vous préférez",
+      "postOrderSwipeInstructions2": "Une fois toutes les pages finalisées, appuyez sur le bouton \"Approuver pour l’impression\"",
+      "fixedInstructions1": "Les pages s’affichent les unes sous les autres",
+      "fixedInstructions2": "Appuyez sur le bouton 'Changer l’image' pour faire défiler les choix alternatifs"
     },
     "status": {
       "deleted": "Le livre généré ainsi que les photos téléchargées ont été supprimés et ne sont plus disponibles.",
@@ -224,13 +224,13 @@
       "printing": "Ce livre a déjà été envoyé pour impression.",
       "shipped": "Ce livre a été expédié le {{date}}<br>Transporteur : {{carrier}}<br>Numéro de suivi : {{tracking}}",
       "reprintSupportInstruction": "Merci de répondre à l’e-mail que vous avez reçu de <strong>{{supportEmail}}</strong> afin que nous puissions lancer l’impression de ce livre.",
-      "pdfPendingNotice": "Votre copie numérique en PDF vous sera envoyée par e-mail une fois votre livre approuvé et envoyé à l'impression."
+      "pdfPendingNotice": "Votre copie numérique en PDF vous sera envoyée par e-mail une fois votre livre approuvé et envoyé à l’impression."
     },
     "timer": {
       "message": "Création du livre pour {{name}} en cours..."
     },
     "notification": {
-      "heading": "Pas le temps d'attendre ?"
+      "heading": "Pas le temps d’attendre ?"
     },
     "scrollIndicator": "Faites défiler vers le bas pour voir toutes les pages",
     "timeRemaining": {
@@ -335,11 +335,11 @@
       "no": "Non, merci"
     },
     "buttons": {
-      "sendPreview": "Envoyez-moi l'aperçu"
+      "sendPreview": "Envoyez-moi l’aperçu"
     },
     "thankYou": {
       "heading": "Merci !",
-      "message": "Nous avons reçu votre demande. Nous vous enverrons l'aperçu du livre dès qu'il sera prêt.",
+      "message": "Nous avons reçu votre demande. Nous vous enverrons l’aperçu du livre dès qu’il sera prêt.",
       "explore": "En attendant, vous pouvez <a href=\"https://imagitime.com/fr/pages/personalized-books-for-children\"><b>découvrir nos autres livres</b></a>."
     }
   },
@@ -384,7 +384,7 @@
       "differenceLink": "Relié ou broché ?",
       "hideLink": "Masquer",
       "hardcoverDesc": "Un livre relié haut de gamme, à la finition brillante de qualité. Conçu pour être lu et relu.",
-      "paperbackDesc": "Une couverture souple, imprimée sur un papier épais et résistant. À l'intérieur, les mêmes pages haut de gamme.",
+      "paperbackDesc": "Une couverture souple, imprimée sur un papier épais et résistant. À l’intérieur, les mêmes pages haut de gamme.",
       "hardcoverXlName": "Relié XL",
       "hardcoverXlDesc": "Le même livre relié, en plus grand : 38 % de surface supplémentaire pour les illustrations.",
       "differenceLinkXl": "Relié, broché ou XL ?",
@@ -401,14 +401,14 @@
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> Remise ambassadeur de 20% déverrouillée",
-      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence",
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> L’impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence",
       "changesAllowed": "Une fois votre commande passée, vous pouvez encore apporter des modifications pendant 12 heures."
     },
     "buttons": {
       "buyHardcover": "Acheter la version reliée",
       "buyPaperback": "Acheter la version brochée",
       "goBackToPreview": "Retour à l’aperçu",
-      "subscribeGetDiscount": "S'abonner et obtenir -10 %",
+      "subscribeGetDiscount": "S’abonner et obtenir -10 %",
       "continueCheckout": "Aller au paiement",
       "next": "Suivant",
       "back": "Retour"
@@ -419,7 +419,7 @@
     },
     "delivery": {
       "info": "Livraison en {{min}} à {{max}} jours",
-      "timeline": "L'impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
+      "timeline": "L’impression et la livraison prennent de {{min}} à {{max}} jours, veuillez commander en conséquence"
     },
     "discount": {
       "subscriber": "La remise de {{percentage}}% pour les abonnés se termine bientôt",
@@ -454,7 +454,7 @@
       },
       "descriptionControlAndExpA": "Parfait comme souvenir précieux ou pour la maison des grands-parents.",
       "descriptionExpB": {
-        "grandparent": "Pour qu'ils puissent le lire dans les deux maisons. Un précieux souvenir pour toute la famille.",
+        "grandparent": "Pour qu’ils puissent le lire dans les deux maisons. Un précieux souvenir pour toute la famille.",
         "other": "Parfait pour la maison des grands-parents ou comme copie de sauvegarde de ce précieux souvenir."
       }
     },
@@ -473,11 +473,11 @@
         "listTitle": "PDF numérique",
         "listSubtitle": "Envoyé par e-mail après 24 heures",
         "description": "Téléchargement instantané envoyé par e-mail. Parfait pour partager en famille ou conserver comme copie pour toujours.",
-        "listDescription": "Un PDF haute résolution vous sera envoyé par e-mail sous 24 à 48 heures dès que le livre sera envoyé à l'impression.",
-        "controlListDescription": "Un PDF haute résolution vous sera envoyé par e-mail sous 24 à 48 heures dès que le livre sera envoyé à l'impression.",
+        "listDescription": "Un PDF haute résolution vous sera envoyé par e-mail sous 24 à 48 heures dès que le livre sera envoyé à l’impression.",
+        "controlListDescription": "Un PDF haute résolution vous sera envoyé par e-mail sous 24 à 48 heures dès que le livre sera envoyé à l’impression.",
         "descriptionExperiment": {
-          "grandparent": "PDF haute résolution envoyé par e-mail sous 24 à 48 heures lorsque le livre est envoyé à l'impression. Parfait pour lire ensemble et partager avec la famille.",
-          "other": "PDF haute résolution envoyé par e-mail sous 24 à 48 heures lorsque le livre est envoyé à l'impression. Parfait pour les voyages et pour partager avec la famille."
+          "grandparent": "PDF haute résolution envoyé par e-mail sous 24 à 48 heures lorsque le livre est envoyé à l’impression. Parfait pour lire ensemble et partager avec la famille.",
+          "other": "PDF haute résolution envoyé par e-mail sous 24 à 48 heures lorsque le livre est envoyé à l’impression. Parfait pour les voyages et pour partager avec la famille."
         }
       },
       "dedicationMessage": {
@@ -488,7 +488,7 @@
         "listDescription": "Rédigez votre propre message personnel dans le livre.",
         "controlListDescription": "Vous pourrez ajouter un message personnel dans le livre après la validation de votre commande.",
         "descriptionByRelationship": {
-          "grandparent": "Écrivez un message plein de tendresse qu'ils garderont pour toujours. Vos mots, préservés dans leur propre livre.",
+          "grandparent": "Écrivez un message plein de tendresse qu’ils garderont pour toujours. Vos mots, préservés dans leur propre livre.",
           "other": "Ajoutez un message plein de tendresse sur la première page. Vos mots, préservés dans leur propre livre."
         },
         "preview": {
