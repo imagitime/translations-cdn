@@ -6,11 +6,11 @@
     },
     "labels": {
       "childName": "Nome del bambino per la storia",
-      "childAge": "Seleziona l'età attuale",
+      "childAge": "Seleziona l’età attuale",
       "birthMonth": "Seleziona il mese di nascita",
       "adultName": "Nome",
       "bodyType": "Seleziona la corporatura",
-      "adultAge": "Seleziona l'età",
+      "adultAge": "Seleziona l’età",
       "giverName": "Nome di chi regala il libro (il tuo nome)",
       "kidCallsYou": "Come ti chiama il bambino?",
       "kidCallsMommy": "Come chiama la sua mamma? (es. Mamma, Mami, Mammina)",
@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Seleziona qui sopra il tuo rapporto con il bambino per visualizzare il messaggio di consenso appropriato]",
-      "parentGuardianText": "Sono il genitore o il tutore legale di questo bambino, ho più di 18 anni e accetto che questi dati e le foto che aggiungo vengano usati per creare un libro personalizzato, come descritto nell'<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>. Posso revocare il consenso in qualsiasi momento.",
-      "otherRelationshipText": "Ho più di 18 anni e ho il permesso del genitore o del tutore del bambino di fornire questi dati e foto per creare un libro personalizzato, come descritto nell'<a href='/policies/privacy-policy'>Informativa sulla privacy</a>. Posso revocare il consenso in qualsiasi momento."
+      "parentGuardianText": "Sono il genitore o il tutore legale di questo bambino, ho più di 18 anni e accetto che questi dati e le foto che aggiungo vengano usati per creare un libro personalizzato, come descritto nell’<a href='/policies/privacy-policy' target='_blank'>Informativa sulla privacy</a>. Posso revocare il consenso in qualsiasi momento.",
+      "otherRelationshipText": "Ho più di 18 anni e ho il permesso del genitore o del tutore del bambino di fornire questi dati e foto per creare un libro personalizzato, come descritto nell’<a href='/policies/privacy-policy'>Informativa sulla privacy</a>. Posso revocare il consenso in qualsiasi momento."
     },
     "months": {
       "january": "Gennaio",
@@ -84,7 +84,7 @@
     "headings": {
       "lastStep": "Ultimo passaggio",
       "uploadMore": "Carica altre foto di {{name}}",
-      "uploadAnother": "Carica un'altra foto di {{name}}"
+      "uploadAnother": "Carica un’altra foto di {{name}}"
     },
     "instructions": {
       "soloPhotos": "Solo foto singole",
@@ -101,8 +101,8 @@
     },
     "photoRequirements": {
       "minimum": {
-        "regular": "Servono almeno 2 foto per l'anteprima",
-        "career": "Servono almeno 5 foto per l'anteprima"
+        "regular": "Servono almeno 2 foto per l’anteprima",
+        "career": "Servono almeno 5 foto per l’anteprima"
       },
       "recommended": {
         "range": "Da 2 a 4 foto",
@@ -121,7 +121,7 @@
       "finishedUploading": "Continua",
       "uploadPhotos": "Carica le foto",
       "choosePhoto": "Scegli foto",
-      "showPreview": "Mostra l'anteprima del libro di {{name}}",
+      "showPreview": "Mostra l’anteprima del libro di {{name}}",
       "lastStepPages": "Ultimo passaggio: seleziona le pagine"
     },
     "uploadOptions": {
@@ -132,13 +132,13 @@
     "errors": {
       "invalidType": "Tipo di file non valido. I formati consentiti sono: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
       "fileTooLarge": "Il file supera il limite di 20MB. Dimensione attuale: {{size}}MB",
-      "dimensionsTooSmall": "Dimensioni dell'immagine troppo piccole. La dimensione minima è 100x100 pixel.",
-      "dimensionsTooLarge": "Dimensioni dell'immagine troppo grandi. La dimensione massima è 5000x5000 pixel.",
+      "dimensionsTooSmall": "Dimensioni dell’immagine troppo piccole. La dimensione minima è 100x100 pixel.",
+      "dimensionsTooLarge": "Dimensioni dell’immagine troppo grandi. La dimensione massima è 5000x5000 pixel.",
       "invalidImage": "File immagine non valido",
       "previewUnavailable": "Questa anteprima non è più disponibile. Creane una nuova."
     },
     "consent": {
-      "photosConsent": "Acconsento al trattamento sicuro di queste foto esclusivamente per la creazione del libro personalizzato. Le foto verranno eliminate dopo 24 ore se non salvo l'anteprima fornendo la mia email e dopo 1 anno anche se salvo l'anteprima. Sono consapevole di poter revocare il consenso in qualsiasi momento contattando support@imagitime.com"
+      "photosConsent": "Acconsento al trattamento sicuro di queste foto esclusivamente per la creazione del libro personalizzato. Le foto verranno eliminate dopo 24 ore se non salvo l’anteprima fornendo la mia email e dopo 1 anno anche se salvo l’anteprima. Sono consapevole di poter revocare il consenso in qualsiasi momento contattando support@imagitime.com"
     }
   },
   "UploadPhotosRealtime": {
@@ -158,22 +158,22 @@
   },
   "UploadAnotherPhoto": {
     "headings": {
-      "uploadAnother": "Carica un'altra foto di {{name}}"
+      "uploadAnother": "Carica un’altra foto di {{name}}"
     }
   },
   "BookPreview": {
     "headings": {
       "pageTitle": "Anteprima del libro di {{name}}"
     },
-    "morePhotosQuestion": "Vuoi migliorare l'anteprima?",
-    "differentPhotoQuestion": "Vuoi provare con un'altra foto?",
+    "morePhotosQuestion": "Vuoi migliorare l’anteprima?",
+    "differentPhotoQuestion": "Vuoi provare con un’altra foto?",
     "editPagesQuestion": "Vuoi modificare la selezione delle pagine o aggiungere foto?",
     "buttons": {
       "editPageSelection": "Modifica selezione pagine",
       "generateMoreOptions": "Genera più opzioni",
       "uploadMorePhotos": "Per migliorare: carica altre foto",
-      "emailPreview": "Inviami l'anteprima via email",
-      "savePreview": "Salva l'anteprima e mostra il prezzo",
+      "emailPreview": "Inviami l’anteprima via email",
+      "savePreview": "Salva l’anteprima e mostra il prezzo",
       "changePicture": "Cambia immagine",
       "change": "Cambia",
       "createSimilar": "Crea simile",
@@ -181,14 +181,14 @@
       "editDedication": "Modifica il messaggio della dedica",
       "approveForPrinting": "Approva per la stampa",
       "reapproveForPrinting": "Approva di nuovo per la stampa",
-      "uploadAnother": "Carica un'altra foto",
+      "uploadAnother": "Carica un’altra foto",
       "addMore": "Aggiungi altre foto",
       "generateFromOtherPhotos": "Genera da altre foto",
       "downloadPdf": "Scarica PDF"
     },
     "noUsablePhotos": {
       "heading": "Nessuna foto utilizzabile",
-      "text": "Non siamo riusciti a usare nessuna delle foto che hai caricato per l'anteprima della storia per uno o più dei seguenti motivi:",
+      "text": "Non siamo riusciti a usare nessuna delle foto che hai caricato per l’anteprima della storia per uno o più dei seguenti motivi:",
       "reasons": {
         "multiplePeople": "Nella foto sono presenti più persone",
         "faceEdges": "Viso o capelli che toccano i bordi",
@@ -200,7 +200,7 @@
     },
     "page": {
       "number": "Pagina {{number}}",
-      "loading": "Caricamento dell'immagine per la pagina {{number}}",
+      "loading": "Caricamento dell’immagine per la pagina {{number}}",
       "loadFailed": "La pagina {{number}} non si è caricata. Tocca per riprovare.",
       "generating": "Generazione delle opzioni per la pagina {{number}}",
       "generatingMoreOptions": "Generazione di più opzioni",
@@ -208,13 +208,13 @@
       "waiting": "In attesa del caricamento della pagina {{number}}"
     },
     "instructions": {
-      "instruction1": "Le pagine vengono mostrate una sotto l'altra",
-      "instruction2": "Scorri e lascia ogni pagina sull'opzione che preferisci",
+      "instruction1": "Le pagine vengono mostrate una sotto l’altra",
+      "instruction2": "Scorri e lascia ogni pagina sull’opzione che preferisci",
       "postOrderInstructions1": "Premi il pulsante «Cambia immagine» per scorrere le alternative di una pagina",
       "postOrderInstructions2": "Quando tutte le pagine ti soddisfano, premi il pulsante «Approva per la stampa»",
       "postOrderSwipeInstructions1": "Scorri tra le opzioni e porta ogni pagina su quella che preferisci",
       "postOrderSwipeInstructions2": "Quando tutte le pagine sono definitive, premi il pulsante «Approva per la stampa»",
-      "fixedInstructions1": "Le pagine verranno mostrate una sotto l'altra",
+      "fixedInstructions1": "Le pagine verranno mostrate una sotto l’altra",
       "fixedInstructions2": "Premi il pulsante «Cambia immagine» per scorrere le alternative di una pagina"
     },
     "status": {
@@ -223,7 +223,7 @@
       "cancelled": "Questo ordine è stato annullato.",
       "printing": "Questo libro è già stato mandato in stampa.",
       "shipped": "Questo libro è stato spedito in data {{date}}<br>Corriere: {{carrier}}<br>Codice di tracciamento: {{tracking}}",
-      "reprintSupportInstruction": "Rispondi all'email che hai ricevuto da <strong>{{supportEmail}}</strong> per mandare questo libro in stampa.",
+      "reprintSupportInstruction": "Rispondi all’email che hai ricevuto da <strong>{{supportEmail}}</strong> per mandare questo libro in stampa.",
       "pdfPendingNotice": "La tua copia digitale in PDF ti verrà inviata via email quando il libro sarà approvato e mandato in stampa."
     },
     "timer": {
@@ -323,44 +323,44 @@
   },
   "ContactDetails": {
     "headings": {
-      "whereToSend": "Dove inviamo l'anteprima del libro di {{name}}?"
+      "whereToSend": "Dove inviamo l’anteprima del libro di {{name}}?"
     },
     "labels": {
       "email": "Email",
       "yourName": "Il tuo nome"
     },
     "subscription": {
-      "question": "Vuoi un 10% di sconto immediato e l'accesso anticipato alle nuove uscite iscrivendoti alla nostra newsletter?",
+      "question": "Vuoi un 10% di sconto immediato e l’accesso anticipato alle nuove uscite iscrivendoti alla nostra newsletter?",
       "yes": "Sì, volentieri!",
       "no": "No, grazie"
     },
     "buttons": {
-      "sendPreview": "Inviami l'anteprima"
+      "sendPreview": "Inviami l’anteprima"
     },
     "thankYou": {
       "heading": "Grazie!",
-      "message": "Abbiamo ricevuto la tua richiesta. Ti invieremo l'anteprima del libro non appena sarà pronta.",
+      "message": "Abbiamo ricevuto la tua richiesta. Ti invieremo l’anteprima del libro non appena sarà pronta.",
       "explore": "Nel frattempo, puoi <a href=\"https://imagitime.com/it/pages/personalized-books-for-children\"><b>scoprire altri libri</b></a> nel nostro catalogo."
     }
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Inviami il link dell'anteprima del libro di {{name}} e mostra il prezzo del libro stampato"
+      "emailPreview": "Inviami il link dell’anteprima del libro di {{name}} e mostra il prezzo del libro stampato"
     },
     "labels": {
       "email": "Email",
       "yourName": "Il tuo nome"
     },
     "descriptions": {
-      "email": "Ti invieremo il link dell'anteprima via email."
+      "email": "Ti invieremo il link dell’anteprima via email."
     },
     "subscription": {
-      "question": "Vuoi un 10% di sconto immediato e l'accesso anticipato alle nuove uscite iscrivendoti alla nostra newsletter?",
+      "question": "Vuoi un 10% di sconto immediato e l’accesso anticipato alle nuove uscite iscrivendoti alla nostra newsletter?",
       "yes": "Sì, volentieri!",
       "no": "No, pagherò il prezzo intero"
     },
     "buttons": {
-      "savePreview": "Salva l'anteprima e mostra il prezzo"
+      "savePreview": "Salva l’anteprima e mostra il prezzo"
     }
   },
   "InterestedPage": {
@@ -384,13 +384,13 @@
       "differenceLink": "Copertina rigida o flessibile?",
       "hideLink": "Nascondi",
       "hardcoverDesc": "Un libro con copertina rigida premium e finitura lucida di qualità. Fatto per essere letto e riletto.",
-      "paperbackDesc": "Una copertina flessibile, stampata su carta spessa e resistente. Le stesse pagine premium all'interno.",
+      "paperbackDesc": "Una copertina flessibile, stampata su carta spessa e resistente. Le stesse pagine premium all’interno.",
       "hardcoverXlName": "Copertina rigida XL",
       "hardcoverXlDesc": "Lo stesso libro con copertina rigida, ma più grande: il 38% di spazio in più per le illustrazioni.",
       "differenceLinkXl": "Copertina rigida, flessibile o XL?",
       "sideIn": "{{n}} in",
       "sideCm": "{{n}} cm",
-      "backToPreview": "Torna all'anteprima di {{name}}",
+      "backToPreview": "Torna all’anteprima di {{name}}",
       "printedIn": {
         "eu": "Stampato in Europa."
       }
@@ -401,13 +401,13 @@
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% di sconto Ambasciatore sbloccato",
-      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Stampa e consegna richiedono da {{min}} a {{max}} giorni: tienine conto al momento dell'ordine",
-      "changesAllowed": "Dopo l'ordine, puoi ancora apportare modifiche per 12 ore."
+      "timelineWithIcon": "<i class=\"fa fa-clock\" aria-hidden=\"true\"></i> Stampa e consegna richiedono da {{min}} a {{max}} giorni: tienine conto al momento dell’ordine",
+      "changesAllowed": "Dopo l’ordine, puoi ancora apportare modifiche per 12 ore."
     },
     "buttons": {
       "buyHardcover": "Acquista copertina rigida",
       "buyPaperback": "Acquista copertina flessibile",
-      "goBackToPreview": "Torna all'anteprima",
+      "goBackToPreview": "Torna all’anteprima",
       "subscribeGetDiscount": "Iscriviti e ottieni il 10% di sconto",
       "continueCheckout": "Procedi al pagamento",
       "next": "Avanti",
@@ -419,7 +419,7 @@
     },
     "delivery": {
       "info": "Consegna in {{min}}-{{max}} giorni",
-      "timeline": "Stampa e consegna richiedono da {{min}} a {{max}} giorni, tienine conto al momento dell'ordine"
+      "timeline": "Stampa e consegna richiedono da {{min}} a {{max}} giorni, tienine conto al momento dell’ordine"
     },
     "discount": {
       "subscriber": "Lo sconto del {{percentage}}% per gli iscritti sta per scadere",
@@ -428,7 +428,7 @@
     },
     "subscription": {
       "heading": "Vuoi il 10% di sconto?",
-      "description": "Iscriviti alla nostra newsletter per ottenere il 10% di sconto immediato e l'accesso anticipato alle nuove uscite."
+      "description": "Iscriviti alla nostra newsletter per ottenere il 10% di sconto immediato e l’accesso anticipato alle nuove uscite."
     },
     "badges": {
       "popularChoice": "⭐ Scelta popolare ⭐",
@@ -440,7 +440,7 @@
     "upsell": {
       "heading": "Aggiungi una seconda copia",
       "subheading": "Una da regalare, una da conservare",
-      "addSecondBook": "Aggiungi un'altra copia",
+      "addSecondBook": "Aggiungi un’altra copia",
       "listTitle": "Copia extra",
       "listSubtitle": "Una da regalare, una per te",
       "description": "Perfetta come ricordo prezioso o per la casa dei nonni.",
