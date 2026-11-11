@@ -36,7 +36,7 @@
       "default": "Seleziona il tuo rapporto con il bambino",
       "parentGuardian": "Genitore/Tutore legale",
       "grandparent": "Nonno/Nonna",
-      "auntUncle": "Zia/Zio",
+      "auntUncle": "Zio/Zia",
       "familyFriend": "Amico/a di famiglia",
       "other": "Altro"
     },
@@ -118,7 +118,7 @@
       "confidential": "Le foto restano riservate e vengono usate solo per creare il libro personalizzato."
     },
     "buttons": {
-      "finishedUploading": "Caricamento completato",
+      "finishedUploading": "Continua",
       "uploadPhotos": "Carica le foto",
       "choosePhoto": "Scegli foto",
       "showPreview": "Mostra l'anteprima del libro di {{name}}",
@@ -369,7 +369,7 @@
       "paperbackName": "Copertina flessibile",
       "orderCta": "Ordina",
       "discountTag": "Sconto {{percentage}}%",
-      "sizeIn": "{{w}} × {{h}} in",
+      "sizeIn": "{{w}} × {{h}} pollici",
       "sizeCm": "{{w}} × {{h}} cm",
       "tabGrandparent": "La più scelta dai nonni",
       "tabParent": "La più scelta dai genitori",

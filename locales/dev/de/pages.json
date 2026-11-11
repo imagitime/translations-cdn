@@ -34,7 +34,7 @@
     },
     "relationshipOptions": {
       "default": "Bitte wählen Sie Ihre Beziehung",
-      "parentGuardian": "Elternteil/Vormund",
+      "parentGuardian": "Elternteil/Erziehungsberechtigter",
       "grandparent": "Oma/Opa",
       "auntUncle": "Tante/Onkel",
       "familyFriend": "Freund der Familie",
@@ -56,8 +56,8 @@
     },
     "consent": {
       "defaultConsentText": "[Bitte wählen Sie oben Ihre Beziehung zum Kind aus, um die entsprechende Einverständniserklärung zu sehen]",
-      "parentGuardianText": "Ich bin Elternteil oder gesetzlicher Vormund dieses Kindes, über 18 Jahre alt und stimme zu, dass diese Angaben und die Fotos, die ich hinzufüge, zur Erstellung eines personalisierten Geschichtenbuchs verwendet werden, wie in der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> beschrieben. Ich kann das jederzeit widerrufen.",
-      "otherRelationshipText": "Ich bin über 18 Jahre alt und habe die Erlaubnis eines Elternteils oder des Vormunds des Kindes, diese Angaben und Fotos zur Erstellung eines personalisierten Geschichtenbuchs bereitzustellen, wie in der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> beschrieben. Ich kann das jederzeit widerrufen."
+      "parentGuardianText": "Ich bin Elternteil oder gesetzlicher Erziehungsberechtigter dieses Kindes, über 18 Jahre alt und stimme zu, dass diese Angaben und die Fotos, die ich hinzufüge, zur Erstellung eines personalisierten Geschichtenbuchs verwendet werden, wie in der <a href='/policies/privacy-policy' target='_blank'>Datenschutzrichtlinie</a> beschrieben. Ich kann das jederzeit widerrufen.",
+      "otherRelationshipText": "Ich bin über 18 Jahre alt und habe die Erlaubnis eines Elternteils oder des Erziehungsberechtigten des Kindes, diese Angaben und Fotos zur Erstellung eines personalisierten Geschichtenbuchs bereitzustellen, wie in der <a href='/de/policies/privacy-policy'>Datenschutzrichtlinie</a> beschrieben. Ich kann das jederzeit widerrufen."
     },
     "months": {
       "january": "Januar",
@@ -115,7 +115,7 @@
     },
     "privacy": {
       "standard": "Wir folgen strengen Datenschutzrichtlinien.",
-      "confidential": "Die Fotos bleiben vertraulich und dienen nur zur Erstellung des persönlichen Buches."
+      "confidential": "Die Fotos bleiben vertraulich und dienen nur zur Erstellung des personalisierten Buches."
     },
     "buttons": {
       "finishedUploading": "Upload abgeschlossen",
@@ -130,7 +130,7 @@
       "cancel": "Abbrechen"
     },
     "errors": {
-      "invalidType": "Ungültiger Dateityp. Erlaubte Typen sind: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
+      "invalidType": "Ungültiger Dateityp. Zulässige Dateitypen sind: PNG, JPG, JPEG, JFIF, GIF, WEBP, HEIC, HEIF, TIFF, BMP, SVG, ICO, AVIF",
       "fileTooLarge": "Dateigröße überschreitet das Limit von 20 MB. Aktuelle Größe: {{size}} MB",
       "dimensionsTooSmall": "Bildabmessungen zu klein. Die Mindestgröße beträgt 100x100 Pixel.",
       "dimensionsTooLarge": "Bildabmessungen zu groß. Die Höchstgröße beträgt 5000x5000 Pixel.",
@@ -195,7 +195,7 @@
         "blurry": "Unscharfe Fotoqualität",
         "obstruction": "Etwas verdeckt das Gesicht"
       },
-      "uploadPrompt": "Bitte verwenden Sie die Schaltfläche \"Weitere Fotos hochladen\", um geeignete Bilder hinzuzufügen.",
+      "uploadPrompt": "Bitte verwenden Sie die Schaltfläche „Weitere Fotos hochladen“, um geeignete Bilder hinzuzufügen.",
       "uploadMorePhotos": "Weitere Fotos hochladen"
     },
     "page": {
@@ -330,7 +330,7 @@
       "yourName": "Ihr Name"
     },
     "subscription": {
-      "question": "Möchten Sie 10% Sofortrabatt und frühen Zugang zu neuen Buchveröffentlichungen, indem Sie unserer Mailingliste beitreten?",
+      "question": "Möchten Sie 10 % Sofortrabatt und frühzeitigen Zugang zu neuen Buchveröffentlichungen, indem Sie unserer Mailingliste beitreten?",
       "yes": "Ja, das würde mich freuen",
       "no": "Nein, danke"
     },
@@ -340,7 +340,7 @@
     "thankYou": {
       "heading": "Danke!",
       "message": "Wir haben Ihre Anfrage erhalten. Wir senden Ihnen die Buchvorschau, sobald sie bereit ist.",
-      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/de/pages/personalized-books-for-children\"><b> andere Bücher erkunden</b></a>, die wir haben."
+      "explore": "In der Zwischenzeit können Sie <a href=\"https://imagitime.com/de/pages/personalized-books-for-children\"><b>andere Bücher erkunden</b></a>, die wir haben."
     }
   },
   "InterestedContact": {
@@ -355,7 +355,7 @@
       "email": "Wir schicken Ihnen den Vorschau-Link per E-Mail."
     },
     "subscription": {
-      "question": "Möchten Sie 10% Sofortrabatt und einen frühen Zugang zu neuen Buchveröffentlichungen, indem Sie unserer Mailingliste beitreten?",
+      "question": "Möchten Sie 10 % Sofortrabatt und frühzeitigen Zugang zu neuen Buchveröffentlichungen, indem Sie unserer Mailingliste beitreten?",
       "yes": "Ja, das würde mich freuen",
       "no": "Nein, ich zahle den vollen Preis"
     },
@@ -396,8 +396,8 @@
       }
     },
     "headings": {
-      "pageTitle": "{{name}}'s Geschichtenbuch",
-      "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300.000+ glückliche Familien"
+      "pageTitle": "{{name}}s Geschichtenbuch",
+      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 300.000+ glückliche Familien"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i> 20% Ambassador-Rabatt freigeschaltet",
@@ -427,8 +427,8 @@
       "ambassador": "{{percentage}}% Ambassador-Rabatt freigeschaltet"
     },
     "subscription": {
-      "heading": "Möchten Sie 10% Rabatt?",
-      "description": "Abonnieren Sie unsere E-Mails, um 10% Sofortrabatt und Vorabzugang zu neuen Buchveröffentlichungen zu erhalten."
+      "heading": "Möchten Sie 10 % Rabatt?",
+      "description": "Abonnieren Sie unsere E-Mails, um 10 % Sofortrabatt und frühzeitigen Zugang zu neuen Buchveröffentlichungen zu erhalten."
     },
     "badges": {
       "popularChoice": "⭐ Beliebte Wahl ⭐",

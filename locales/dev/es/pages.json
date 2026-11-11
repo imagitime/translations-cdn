@@ -89,7 +89,7 @@
     "instructions": {
       "soloPhotos": "Únicamente fotos individuales",
       "facingCamera": {
-        "child": "El niño debe estar <strong>mirando de frente a la cámara</strong>",
+        "child": "Tu peque debe estar <strong>mirando de frente a la cámara</strong>",
         "person": "La persona debe estar <strong>mirando de frente a la cámara</strong>"
       },
       "frontFacingSmiling": "De frente y sonriendo",
@@ -115,7 +115,7 @@
     },
     "privacy": {
       "standard": "Cumplimos unas normas estrictas en privacidad de datos.",
-      "confidential": "Las fotos son confidenciales y sólo se usan para crear el libro personalizado."
+      "confidential": "Las fotos son confidenciales y solo se usan para crear el libro personalizado."
     },
     "buttons": {
       "finishedUploading": "Subida finalizada",
@@ -173,7 +173,7 @@
       "generateMoreOptions": "Generar más opciones",
       "uploadMorePhotos": "Para mejorarlo: Sube más fotos",
       "emailPreview": "Envíame la vista previa por email",
-      "savePreview": "Guardar la vista previa y mostrar el precio",
+      "savePreview": "Guardar vista previa y mostrar precio",
       "changePicture": "Cambiar la imagen",
       "change": "Cambiar",
       "createSimilar": "Crear uno similar",
@@ -191,7 +191,7 @@
       "text": "No podemos usar ninguna de las fotos que has subido en la vista previa del cuento por uno o varios de los siguientes motivos:",
       "reasons": {
         "multiplePeople": "En la foto aparecen varias personas",
-        "faceEdges": "El rostro o el pelo cruzan los bordes",
+        "faceEdges": "La cara o el pelo sobrepasan los bordes",
         "blurry": "Foto borrosa",
         "obstruction": "Algo oculta parte de la cara"
       },
@@ -209,7 +209,7 @@
     },
     "instructions": {
       "instruction1": "Las páginas se muestran una debajo de otra",
-      "instruction2": "Desplázate y deja cada página en la opción que más te guste",
+      "instruction2": "Desliza hacia los lados y deja cada página en la opción que más te guste",
       "postOrderInstructions1": "Toca el botón «Cambiar imagen» para desplazarte por las opciones alternativas de la página",
       "postOrderInstructions2": "Una vez que las páginas estén a tu gusto, toca el botón «Aprobar la impresión»",
       "postOrderSwipeInstructions1": "Desplázate entre las opciones de página y dirige cada página a la opción que más te guste",
@@ -345,7 +345,7 @@
   },
   "InterestedContact": {
     "headings": {
-      "emailPreview": "Envíame por email la vista previa del libro de {{name}} y dime su precio impreso"
+      "emailPreview": "Recibe en tu email la vista previa del cuento de {{name}} y el precio del libro impreso"
     },
     "labels": {
       "email": "Email",
@@ -369,7 +369,7 @@
       "paperbackName": "Tapa blanda",
       "orderCta": "Comprar",
       "discountTag": "{{percentage}}% dto.",
-      "sizeIn": "{{w}} × {{h}} in",
+      "sizeIn": "{{w}} × {{h}} pulg.",
       "sizeCm": "{{w}} × {{h}} cm",
       "tabGrandparent": "La más elegida por los abuelos",
       "tabParent": "La más elegida por los padres",
@@ -397,7 +397,7 @@
     },
     "headings": {
       "pageTitle": "El cuento de {{name}}",
-      "pageSubtitle": "<span class='gold-stars'>★★★★★</span>  4,9/5 • 300.000+ familias felices"
+      "pageSubtitle": "<span class='gold-stars'>★★★★★</span> 4,9/5 • 300.000+ familias felices"
     },
     "offer": {
       "discountWithIcon": "<i class=\"fa fa-bolt\" aria-hidden=\"true\"></i>Desbloqueado el 20% de descuento de embajador",
@@ -408,7 +408,7 @@
       "buyHardcover": "Comprar edición tapa dura",
       "buyPaperback": "Comprar edición tapa blanda",
       "goBackToPreview": "Volver a la vista previa",
-      "subscribeGetDiscount": "Suscríbete y consigue un 10% DTO",
+      "subscribeGetDiscount": "Suscríbete y consigue un 10% dto.",
       "continueCheckout": "Proceder al pago",
       "next": "Siguiente",
       "back": "Atrás"
