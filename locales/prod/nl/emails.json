@@ -163,5 +163,18 @@
   "review_action.footnote_backlog": "Hallo {requester_name}, je hebt {book} een tijdje geleden bij ons gemaakt. We zien graag waar het nu is: in de boekenkast, naast het bed, in de handen van {kid_name}.",
   "review_action.book_fallback": "het boek van {kid_name}",
   "review_action.example_caption": "Zoals deze gezinnen:",
-  "review_action.offer_body_backlog": "Laat ons zien hoe {kid_name} geniet van het boek, bij het slapengaan of wanneer dan ook. Liever {kid_name} niet laten zien? Een foto van alleen het boek is ook perfect."
+  "review_action.offer_body_backlog": "Laat ons zien hoe {kid_name} geniet van het boek, bij het slapengaan of wanneer dan ook. Liever {kid_name} niet laten zien? Een foto van alleen het boek is ook perfect.",
+  "book_film_email.ready_subject": "De film van {kid_name} is klaar",
+  "book_film_email.updated_subject": "De film van {kid_name} is bijgewerkt",
+  "book_film_email.greeting": "Beste {requester_name},",
+  "book_film_email.greeting_no_name": "Hallo,",
+  "book_film_email.ready_intro": "De film van het boek van {kid_name} is klaar: elke bladzijde van het boek, voorgelezen, om samen te bekijken.",
+  "book_film_email.updated_intro": "We hebben de film van {kid_name} opnieuw gemaakt met je wijzigingen. De nieuwe film is klaar.",
+  "book_film_email.button": "Bekijk de film",
+  "book_film_email.where": "Je vindt hem op de pagina van je boek, waar je hem zo vaak als je wilt kunt bekijken en downloaden.",
+  "book_film_email.changes": "Klinkt de naam niet helemaal goed? Laat ons op dezelfde pagina weten hoe je hem uitspreekt, dan maken we de film opnieuw.",
+  "book_film_email.apology_subject": "Een cadeau voor {kid_name} terwijl het boek onderweg is",
+  "book_film_email.apology_intro": "Het boek van {kid_name} komt helaas niet meer voor Kerstmis aan, en dat spijt ons. Om het goed te maken, krijg je de film van het boek cadeau: elke bladzijde, voorgelezen, om samen te bekijken met Kerstmis. Het gedrukte boek volgt zo snel mogelijk.",
+  "book_film_email.closing": "Veel kijkplezier samen!<br>Het Imagitime-team",
+  "book_film_email.review_note": "De film van {kid_name} wordt nu gemaakt en is binnen 1 werkdag klaar. We mailen je zodra hij klaar is."
 }

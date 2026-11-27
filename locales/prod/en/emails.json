@@ -163,5 +163,18 @@
   "review_action.footnote_backlog": "Hi {requester_name}, you made {book} with us a while ago. We'd love to see where it lives now: on the shelf, at bedtime, in {kid_name}'s hands.",
   "review_action.book_fallback": "{kid_name}'s book",
   "review_action.example_caption": "Like these families:",
-  "review_action.offer_body_backlog": "Show us {kid_name} enjoying {possessive} book, at bedtime or any time. Prefer not to show {kid_name}? A photo of just the book is perfect too."
+  "review_action.offer_body_backlog": "Show us {kid_name} enjoying {possessive} book, at bedtime or any time. Prefer not to show {kid_name}? A photo of just the book is perfect too.",
+  "book_film_email.ready_subject": "{kid_name}’s film is ready",
+  "book_film_email.updated_subject": "{kid_name}’s film has been updated",
+  "book_film_email.greeting": "Hi {requester_name},",
+  "book_film_email.greeting_no_name": "Hi,",
+  "book_film_email.ready_intro": "The film of {kid_name}’s book is ready: every page of the book, read aloud, to watch together.",
+  "book_film_email.updated_intro": "We’ve made {kid_name}’s film again with your changes. The new film is ready.",
+  "book_film_email.button": "Watch the film",
+  "book_film_email.where": "It’s on your book’s page, where you can watch it and download it as often as you like.",
+  "book_film_email.changes": "If the name doesn’t sound quite right, you can tell us how to say it on the same page, and we’ll make the film again.",
+  "book_film_email.apology_subject": "A gift for {kid_name} while the book is on its way",
+  "book_film_email.apology_intro": "{kid_name}’s book won’t reach you before Christmas, and we’re sorry. To make up for it, we’ve made a film of the book for you, as a gift: every page, read aloud, ready to watch together on Christmas Day. The printed book follows as soon as it can.",
+  "book_film_email.closing": "Enjoy watching it together!<br>The Imagitime Team",
+  "book_film_email.review_note": "{kid_name}’s film is being made now and will be ready within 1 business day. We’ll email you as soon as it is."
 }
