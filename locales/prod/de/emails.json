@@ -163,5 +163,18 @@
   "review_action.footnote_backlog": "Hallo {requester_name}, Sie haben vor einiger Zeit {book} bei uns gestaltet. Wir würden gern sehen, wo es heute zu Hause ist: im Regal, beim Zubettgehen, in den Händen von {kid_name}.",
   "review_action.book_fallback": "das Buch für {kid_name}",
   "review_action.example_caption": "So wie diese Familien:",
-  "review_action.offer_body_backlog": "Zeigen Sie uns, wie viel Spaß {kid_name} mit dem Buch hat, beim Zubettgehen oder wann immer Sie möchten. Sie möchten {kid_name} lieber nicht zeigen? Ein Foto nur vom Buch ist genauso schön."
+  "review_action.offer_body_backlog": "Zeigen Sie uns, wie viel Spaß {kid_name} mit dem Buch hat, beim Zubettgehen oder wann immer Sie möchten. Sie möchten {kid_name} lieber nicht zeigen? Ein Foto nur vom Buch ist genauso schön.",
+  "book_film_email.ready_subject": "Der Film von {kid_name} ist fertig",
+  "book_film_email.updated_subject": "Der Film von {kid_name} wurde aktualisiert",
+  "book_film_email.greeting": "Hallo {requester_name},",
+  "book_film_email.greeting_no_name": "Hallo,",
+  "book_film_email.ready_intro": "der Film zum Buch von {kid_name} ist fertig: jede Seite des Buches, vorgelesen, zum gemeinsamen Anschauen.",
+  "book_film_email.updated_intro": "wir haben den Film von {kid_name} mit Ihren Änderungen neu erstellt. Der neue Film ist fertig.",
+  "book_film_email.button": "Film ansehen",
+  "book_film_email.where": "Sie finden ihn auf der Seite Ihres Buches. Dort können Sie ihn so oft ansehen und herunterladen, wie Sie möchten.",
+  "book_film_email.changes": "Klingt der Name nicht ganz richtig? Dann sagen Sie uns auf derselben Seite, wie er ausgesprochen wird, und wir erstellen den Film neu.",
+  "book_film_email.apology_subject": "Ein Geschenk für {kid_name}, solange das Buch unterwegs ist",
+  "book_film_email.apology_intro": "das Buch von {kid_name} kommt leider nicht mehr vor Weihnachten bei Ihnen an. Das tut uns leid. Als kleine Entschädigung schenken wir Ihnen den Film zum Buch: jede Seite, vorgelesen, zum gemeinsamen Anschauen an Weihnachten. Das gedruckte Buch folgt so bald wie möglich.",
+  "book_film_email.closing": "Viel Freude beim gemeinsamen Anschauen!<br>Ihr Imagitime-Team",
+  "book_film_email.review_note": "Der Film von {kid_name} wird gerade erstellt und ist innerhalb von 1 Werktag fertig. Wir schicken Ihnen eine E-Mail, sobald er fertig ist."
 }

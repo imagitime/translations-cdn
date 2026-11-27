@@ -163,5 +163,18 @@
   "review_action.footnote_backlog": "Ciao {requester_name}, un po’ di tempo fa hai creato con noi {book}. Ci piacerebbe sapere che posto occupa adesso nella vita di {kid_name}: è nella libreria, vi accompagna prima della nanna o è uno di quei libri che vuole sempre avere tra le mani?",
   "review_action.book_fallback": "il libro di {kid_name}",
   "review_action.example_caption": "Come queste famiglie:",
-  "review_action.offer_body_backlog": "Mostraci {kid_name} mentre si gode il suo libro, prima della nanna o in qualsiasi momento. Preferisci non mostrare {kid_name}? Va benissimo anche una foto del solo libro."
+  "review_action.offer_body_backlog": "Mostraci {kid_name} mentre si gode il suo libro, prima della nanna o in qualsiasi momento. Preferisci non mostrare {kid_name}? Va benissimo anche una foto del solo libro.",
+  "book_film_email.ready_subject": "Il film di {kid_name} è pronto",
+  "book_film_email.updated_subject": "Il film di {kid_name} è stato aggiornato",
+  "book_film_email.greeting": "Ciao {requester_name},",
+  "book_film_email.greeting_no_name": "Ciao,",
+  "book_film_email.ready_intro": "il film del libro di {kid_name} è pronto: ogni pagina del libro, letta ad alta voce, da guardare insieme.",
+  "book_film_email.updated_intro": "abbiamo rifatto il film di {kid_name} con le tue modifiche. Il nuovo film è pronto.",
+  "book_film_email.button": "Guarda il film",
+  "book_film_email.where": "Lo trovi nella pagina del tuo libro, dove puoi guardarlo e scaricarlo tutte le volte che vuoi.",
+  "book_film_email.changes": "Se il nome non suona proprio giusto, dicci nella stessa pagina come si pronuncia e rifaremo il film.",
+  "book_film_email.apology_subject": "Un regalo per {kid_name} mentre il libro è in viaggio",
+  "book_film_email.apology_intro": "il libro di {kid_name} non arriverà prima di Natale, e ci dispiace. Per farci perdonare, ti regaliamo il film del libro: ogni pagina, letta ad alta voce, da guardare insieme a Natale. Il libro stampato arriverà il prima possibile.",
+  "book_film_email.closing": "Buona visione insieme!<br>Il team di Imagitime",
+  "book_film_email.review_note": "Il film di {kid_name} è in preparazione e sarà pronto entro 1 giorno lavorativo. Ti scriveremo appena sarà pronto."
 }
